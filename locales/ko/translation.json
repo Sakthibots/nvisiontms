@@ -1,0 +1,3487 @@
+{
+  "default": {
+    "navMenu": {
+      "home": "집",
+      "dashboard": "계기반",
+      "contractManagement": "계약 관리",
+      "shipmentsModule": "배송 모듈",
+      "shipmentTracking": "배송 추적",
+      "activities": "활동",
+      "reports": "보고서",
+      "pricing": "가격",
+      "procurement": "획득",
+      "purchaseOrderView": "구매 주문 보기",
+      "routingGuide": "라우팅가이드",
+      "settings": "설정",
+      "companySettings": "회사 설정",
+      "tmsSettings": "TMS 설정",
+      "clientNameGoesHere": "클라이언트 이름이 여기에 표시됩니다.",
+      "shipment": "선적",
+      "visibility": "시계",
+      "claims": "청구",
+      "freightBill": "운임표",
+      "adminSettings": "관리자 설정"
+    },
+    "loading": "로드 중...",
+    "date": "날짜",
+    "captcha": {
+      "placeholder": "보안 문자 코드를 입력하세요.",
+      "message": "보안문자를 입력해주세요",
+      "invalid": "잘못된 보안 문자."
+    },
+    "buttons": {
+      "save": "구하다",
+      "cancel": "취소",
+      "rateShop": "요금매장",
+      "delete": "삭제",
+      "export": "내보내다",
+      "clear": "분명한",
+      "search": "찾다",
+      "mileageCalculator": "마일리지 계산기",
+      "addProduct": "제품 추가",
+      "deleteProduct": "제품 삭제",
+      "edit": "편집하다",
+      "viewMoreStatus": "더 많은 상태 보기",
+      "track": "길",
+      "add": "추가하다",
+      "update": "업데이트",
+      "sendEmail": "메일을 보내다",
+      "restoreToDefault": "기본값으로 복원",
+      "clearSelection": "명확한 선택",
+      "newStatus": "새로운 상태",
+      "select": "선택하다",
+      "close": "닫다",
+      "exportToExcel": "엑셀로 내보내기",
+      "addPO": "PO 추가",
+      "addShipper": "배송업체 추가",
+      "copy": "복사",
+      "closed": "닫은",
+      "updateSelectedRecords": "선택한 레코드 업데이트",
+      "viewMoreDetails": "자세한 내용 보기",
+      "viewStatus": "상태 보기",
+      "download": "다운로드",
+      "addNewLocation": "주소록",
+      "addNewZone": "새 영역 추가",
+      "sendRFI": "RFI 보내기",
+      "sendRFQ": "RFQ 보내기",
+      "sendRFIRFQ": "RFI 보내기",
+      "stops": "정류장",
+      "hide": "숨다",
+      "view": "보다",
+      "viewOrderInformation": "주문 정보 보기"
+    },
+    "documentManager": {
+      "fileUpdatingIssuccess": "파일 업데이트가 성공했습니다.",
+      "title": "문서 관리자",
+      "noFoundText": "기록 없음",
+      "addNewFile": "새 파일 추가",
+      "addNewLane": "새 차선 추가",
+      "addNewParameter": "새 매개변수 추가",
+      "chooseFile": "파일을 선택",
+      "fileName": "파일 이름 : ",
+      "chooseFileMessage": "파일을 선택하세요",
+      "docDescMessage": " 이미 사용되었습니다.",
+      "supportingDocumentNumber": "지원 문서 번호",
+      "only": "오직",
+      "filesAreAllowed": "파일이 허용됩니다",
+      "documentTypeMessage": "문서 유형을 선택하세요.",
+      "notificationUploadingFailed": "파일 업로드에 실패했습니다.",
+      "documentManager": {
+        "label": "문서 유형",
+        "placeholder": "문서 유형 선택",
+        "message": "유형을 선택하세요."
+      },
+      "docType": {
+        "label": "문서 유형",
+        "placeholder": "문서 유형 선택",
+        "message": "유형을 선택하세요."
+      },
+      "fileComments": {
+        "label": "파일 댓글",
+        "placeholder": "파일 설명 입력"
+      },
+      "referenceNo": {
+        "label": "지원 문서 참조 번호",
+        "placeholder": "지원 문서 참조 번호 입력",
+        "title": "참조번호"
+      },
+      "notificationUploadingError": "파일 업로드 성공입니다. ",
+      "notificationUploadingSuccess": "파일 업로드 성공",
+      "notificationUpdatingSuccess": "파일 업데이트 성공",
+      "notificationDeleteSuccess": "파일삭제가 성공했습니다.",
+      "notificationDeleteError": "파일 삭제에 실패했습니다."
+    },
+    "popConfirm": {
+      "title": "확실합니까?"
+    },
+    "weekDays": {
+      "sun": "일요일",
+      "mon": "월요일",
+      "tue": "화요일",
+      "wed": "수요일",
+      "thu": "목요일",
+      "fri": "금요일",
+      "sat": "토요일"
+    },
+    "options": {
+      "and": "그리고",
+      "all": "모두",
+      "enable": "할 수 있게 하다",
+      "disable": "장애를 입히다",
+      "yes": "예",
+      "no": "아니요",
+      "cargo": "뱃짐",
+      "passenger": "승객",
+      "new": "새로운",
+      "spotBidEnd": "현물입찰종료",
+      "spotBid": "현물입찰",
+      "blind": "눈이 먼",
+      "reverseBlind": "리버스 블라인드",
+      "purchaseOrder": "구매 주문",
+      "na": "해당 없음",
+      "routingGuide": "라우팅 가이드",
+      "draftShipment": "초안 배송",
+      "finalShipment": "최종 배송",
+      "сurrent": "현재의",
+      "historical": "역사적(빨간색)"
+    },
+    "language": {
+      "en": "영어",
+      "es": "스페인의",
+      "es-cr": "스페인어(카스티야)",
+      "es-mx": "스페인어(멕시코)",
+      "it": "이탈리아 사람",
+      "ch": "중국인",
+      "zh-tw": "중국인",
+      "fr": "프랑스 국민",
+      "nl": "네덜란드 사람",
+      "pt": "포르투갈 인",
+      "pt-br": "포르투갈어(브라질)",
+      "de": "독일 사람",
+      "pl": "광택",
+      "fi": "핀란드어",
+      "ko": "한국인",
+      "ja": "일본어"
+    },
+    "fields": {
+      "shipmentAdditionalInformation": "배송 추가 정보",
+      "shipmentInformation": "배송정보",
+      "rateDetails": "요금 세부정보",
+      "selectState": {
+        "label": "상태 선택",
+        "placeholder": "상태 선택"
+      },
+      "productDetails": "제품 세부 정보",
+      "distributor": "유통 업체",
+      "costName": "비용 이름",
+      "tender": "부드러운",
+      "pending": "보류 중",
+      "selectTime": "시간 선택",
+      "enter": "입력하다",
+      "profile": "프로필",
+      "addressBook": "주소록",
+      "productCode": {
+        "label": "제품 코드",
+        "message": "제품 코드를 입력하세요",
+        "placeholder": "제품 코드를 입력하세요",
+        "tooltip": "제품 세부 정보 아코디언에 기본 제품 코드 설정"
+      },
+      "addNewProduct": " 새 제품 추가",
+      "number": "숫자",
+      "code": "암호",
+      "contactNumber": "연락번호",
+      "carrier": "담체",
+      "vendor": "공급업체",
+      "popconfirmFreightClass": "화물 등급을 계산하시겠습니까?",
+      "quoteNo": "견적 번호",
+      "approvalNo": "승인번호",
+      "claimType": "청구 유형",
+      "closedDate": "휴관일",
+      "claimStatus": "청구 상태",
+      "amendmentDate": "개정일",
+      "submittedDate": "제출 날짜",
+      "submittedBy": "에 의해 제출 된",
+      "preparedBy": "의해서 준비되었다",
+      "auditedBy": "감사 대상",
+      "recoveryAmount": "회수금액",
+      "overchargeAmount": "과충전 금액",
+      "packageNumber": "패키지 번호",
+      "claimNumber": "청구 번호",
+      "updateDraft": "업데이트 초안",
+      "saveAsDraft": "임시 보관함에 저장",
+      "deleteVendorSuccessfully": "공급업체를 성공적으로 삭제했습니다.",
+      "portSearch": "항구 검색",
+      "transportationProviderSearch": "운송업체 검색",
+      "viewCI": "CI 보기",
+      "viewPL": "PL 보기",
+      "viewBOL": "BOL 보기",
+      "viewCOO": "COO 보기",
+      "viewShipping": "배송 보기",
+      "signature": "서명",
+      "statusType": "상태 유형",
+      "updateReceivedEST": "EST에서 업데이트 수신됨",
+      "plannedDeliveryDate": "배송 예정일",
+      "plannedShipDate": "계획된 배송 날짜",
+      "shipperReqDeliveryDate": "배송업체가 요청한 배송 날짜",
+      "shipperReqShipDate": "배송업체 요청 배송 날짜",
+      "conReferenceNo": "수취인 참조 번호",
+      "eventOccurrenceLocalTime": "이벤트 발생 현지 시간",
+      "unitMeasure": "수량 측정 단위",
+      "displayAllTrackingStatus": "모든 추적 상태 표시",
+      "itemQuantity": "품목 수량",
+      "billQtyUOM": "패키지/청구 수량 UOM",
+      "quantityUOM": "수량 UOM",
+      "orderQuantity": "주문 수량",
+      "mode": "방법",
+      "businessSegment": "사업 부문",
+      "poNumber": "PO 번호",
+      "lineNo": "라인 번호",
+      "itnNumber": "ITN 번호",
+      "distributorName": "대리점 이름",
+      "rateStatus": "요금현황",
+      "showAllSpotBidCarrier": "모든 SpotBid 운송업체 표시",
+      "costCurrency": "비용 통화",
+      "cost": "비용",
+      "rateSubmittedOn": "제출된 요율",
+      "partNumberDescription": "부품 번호 설명",
+      "salesOrderNumber": "판매 주문 번호",
+      "purchaseOrderNumber": "구매 주문 번호",
+      "displayStopOffs": "디스플레이 중지 끄기",
+      "freightBillNumber": "운임 청구서 번호",
+      "transportationProviderAppointmentNumber": "운송 제공자 예약 번호",
+      "masterShipmentNo": "마스터 배송 번호",
+      "houseBOLNo": "하우스 BOL 아니요",
+      "masterBOLNo": "마스터 BOL 아니요",
+      "modifiedBy": "수정한 사람",
+      "modifiedOn": "수정 날짜",
+      "printedBillOfLading": "인쇄된 선하증권",
+      "billOfLanding": "선하 증권",
+      "billOfLandingContent": "선하 증권",
+      "countryOdOrigin": "원산지",
+      "dataFetchingError": "데이터 가져오기 오류",
+      "shipFrom": "에서 배송하다",
+      "shipTo": "배송지",
+      "totalMileage": "총 마일리지",
+      "shipmentCost": "배송 비용",
+      "shipmentCounts": "배송 건수",
+      "shipmentTransportationProvider": "배송 운송 제공업체",
+      "shipmentCargoType": "선적 화물 유형",
+      "packageBilledQuantityunitOfMeasure": "패키지/청구 수량 측정 단위",
+      "chargebleWeight": "충전 가능 무게",
+      "consigneePortType": "수취인 포트 유형",
+      "shipmentStatus": "배송 상태",
+      "shipmentNotes": "배송 메모",
+      "shipmentDetails": "배송 세부정보",
+      "shipmentNo": "배송번호",
+      "shipmentDate": "배송 날짜",
+      "consignee": "수취인",
+      "carrierName": "운송업체 이름",
+      "billQ": "청구 수량",
+      "trailerNumber": "예고편 번호:",
+      "sealNumber": "인감 번호:",
+      "shipperReferenceNo": "발송인 참조 번호",
+      "email": "이메일",
+      "phoneExt": "전화 내선",
+      "phone": "핸드폰",
+      "contact": "연락하다",
+      "zip": "지퍼",
+      "name": "이름",
+      "drop": "떨어지다",
+      "terminal": "단말기",
+      "pickUp": "찾다",
+      "fileName": "파일 이름",
+      "specialInstructions": "특별 지시",
+      "specialInstructionsSecondary": "특별 지시:",
+      "customerOrderInformation": "고객 주문 정보",
+      "customerOrderNumber": "고객 주문 번호",
+      "additionalShipperInfo": "추가 배송업체 정보",
+      "carrierInfo": "운송업체 정보",
+      "additionalUnit": "추가 유닛",
+      "handlingUnit": "처리 장치",
+      "commodityDescription": "상품 설명",
+      "commodityText": "취급 또는 보관 시 특별한 또는 추가적인 주의나 주의가 필요한 상품은 일반적인 주의를 통해 안전한 운송이 보장되도록 표시하고 포장해야 합니다. ",
+      "package": "패키지",
+      "weightTable": "무게",
+      "palletSlip": "팔레트/슬립",
+      "grandTotal": "총계",
+      "commercialInvoice": "상업송장",
+      "commercialInvoiceContents": "상업 송장",
+      "identificationNumber": "식별 번호:",
+      "noteLiability": "참고 이 배송의 손실 또는 손상에 대한 책임 제한이 적용될 수 있습니다. ",
+      "received": "운송인과 발송인 사이에 서면으로 합의된 개별적으로 결정된 운임 또는 계약에 따라, 그렇지 않은 경우 운송인이 설정하고 요청 시 발송인이 이용할 수 있는 운임, 분류 및 규칙에 따라 수신됩니다. ",
+      "carrierShall": "운송업체는 운임 및 기타 모든 합법적 비용을 지불하지 않고는 이 배송물을 배송할 수 없습니다.",
+      "certify": "이는 위에 언급된 물질이 DOT의 해당 규정에 따라 적절하게 분류, 포장, 표시 및 라벨링되었으며 운송에 적합한 상태에 있음을 인증합니다.",
+      "classTable": "수업",
+      "type": "유형",
+      "shipperSignatureDate": "발송인 서명/날짜",
+      "trailerLoaded": "예고편 로드됨:",
+      "freightCounted": "계산된 화물:",
+      "freight": "화물:",
+      "byShipper": "발송인별",
+      "byDriver": "드라이버로",
+      "byDriverPallets": "드라이버/팔레트에 포함된 것으로 알려짐",
+      "byDriverPieces": "드라이버/피스별",
+      "carrierPickupDate": "운송업체 서명/픽업 날짜",
+      "carrierAcknowledges": "운송업체는 패키지 및 필수 플래카드 수령을 확인합니다. ",
+      "hazmat": "유해 물질",
+      "ltlOnly": "LTL만 해당",
+      "invoiceNumber": "송장 번호",
+      "shipperSignature": "발송인 서명",
+      "houseBillOfLandingNumber": "주택 착륙장 번호",
+      "billQty": "패키지/청구 수량",
+      "packageWeight": "패키지 무게",
+      "unitOfMeasure": "측정 단위",
+      "height": "키",
+      "width": "너비",
+      "length": "길이",
+      "currencyCode": "통화 코드",
+      "eccnNumber": "ECCN 번호",
+      "htcCode": "HTC 코드",
+      "unitPrice": "단가",
+      "totalQuantity": "총량",
+      "consigneePortName": "수취인 포트 이름",
+      "consigneeHoursOfOperations": "수취인 운영 시간",
+      "consigneeDaysTo": "수취인 요일",
+      "consigneeDaysFrom": "수취인 요일: 부터",
+      "consigneeAppointmentType": "수취인 지정 유형",
+      "consigneeWarehouseEmail": "수취인 창고 이메일",
+      "consigneeWarehouseTelephone": "수취인 창고 전화",
+      "consigneeWarehouseContact": "수취인 창고 연락처",
+      "shipperPortName": "발송인 포트 이름",
+      "hoursOfOperations": "운영 시간",
+      "warehouseEmail": "창고 이메일",
+      "warehouseTelephone": "창고전화",
+      "warehouseContact": "창고 연락처",
+      "shipperPortType": "발송인 포트 유형",
+      "countryOfOrigin": "원산지",
+      "hts": "HTS",
+      "eccn": "ECCN",
+      "coo": "정답게 소곤 거리다",
+      "ciNo": "CI 번호 :",
+      "description": "설명",
+      "newShipDate": "새로운 배송 날짜",
+      "quantityLeft": "남은 수량",
+      "consigneePostal": "수취인 우편",
+      "shipperPostal": "배송업체 우편",
+      "percentageLeft": "남은 비율",
+      "weight": "무게",
+      "expectedDeliveryDate": "예상 배달 날짜",
+      "destination": "목적지",
+      "origin": "기원",
+      "bolNumber": "BOL 번호",
+      "comparativeRate": "비교율",
+      "actualCarrierRate": "실제 운송업체 요금",
+      "bidStatus": "입찰 현황",
+      "spotBidHistory": "현물 입찰 내역",
+      "allSpotBids": "모든 현물 입찰",
+      "openSpotBids": "공개 현물 입찰",
+      "paymentTerms": "지불 조건",
+      "partNumber": "부품 번호",
+      "povStatus": "POV 상태",
+      "orderDeliveryDate": "주문 배송일",
+      "orderShipDate": "주문 배송 날짜",
+      "conStateState": "수취인 상태",
+      "consigneeZip": "수취인 우편번호",
+      "shipperState": "배송업체 주",
+      "shipperZip": "발송인 우편번호",
+      "orderNumber": "주문 번호",
+      "transitDays": "운송일",
+      "transitDaysAreRequired": "운송일이 필요합니다.",
+      "emailAddress": "이메일 주소",
+      "currencyName": "통화 이름",
+      "price": "가격",
+      "packageQuantity": "패키지 수량",
+      "packageUOMQuantity": "패키지 UOM 수량",
+      "weightUOM": "중량 UOM",
+      "selectWeightUOM": "중량 UOM 선택",
+      "totalWeight": "총 무게",
+      "totalItemQty": "총 품목 수량",
+      "packageDimensions": "패키지 크기",
+      "consigneeAddress": "수취인 주소",
+      "shipperAddress": "발송인 주소",
+      "shipperPostalCode": "발송인 우편번호",
+      "pickupDate": "픽업 날짜",
+      "effectiveDueDate": "유효 기한",
+      "totalCube": "총 큐브",
+      "total": "총",
+      "bid": "매기다",
+      "open": "열려 있는",
+      "multiStop": "멀티스톱",
+      "notes": "노트",
+      "shipmentCount": "배송 건수",
+      "quantityShipped": "배송된 수량",
+      "daysOfWeek": "요일",
+      "tenderEmailAddress": "입찰 이메일 주소",
+      "selectAll": "모두 선택",
+      "spotBid": "현물 입찰",
+      "mapView": "지도 보기",
+      "changesWillBeLost": "변경사항이 손실됩니다.",
+      "quoteNumber": "견적 번호",
+      "failedToExportShipmentDetails": "배송 세부정보를 내보내지 못했습니다.",
+      "createdByFullName": "작성자(전체 이름)",
+      "createByEmailAddress": "생성자(이메일 주소)",
+      "purchaseOrderNo": "구매 주문 번호",
+      "milageCalculator": "마일리지 계산기",
+      "create": "만들다",
+      "reset": "초기화",
+      "shipper": "하주",
+      "totalDistance": "총 거리",
+      "attachedDocuments": "첨부서류",
+      "print": "인쇄",
+      "unsavedChanges": "저장되지 않은 변경사항은 손실됩니다. ",
+      "alert": "알리다",
+      "logout": "로그 아웃",
+      "approvalRejectionMessage": "승인/거부 메시지",
+      "validatingPleaseWait": "확인 중입니다. 잠시 기다려 주세요...",
+      "redirectURL": "리디렉션된 URL이 현재 유효하지 않습니다. URL을 확인하시기 바랍니다.",
+      "filter": "필터",
+      "manageCompany": "회사 관리",
+      "thePageYouVisitedDoesNotExist": "죄송합니다. 방문한 페이지가 존재하지 않습니다.",
+      "backHome": "집으로 돌아가",
+      "page": "페이지",
+      "kindlyTryAgain": "다시 시도해 주세요.",
+      "hasBeenCreated": " 생성 된. ",
+      "toCopyError": "프로젝트 오류를 ​​복사하려면",
+      "shipmentConsolidationFailed": "배송 통합에 실패했습니다.",
+      "failedToCopyShipmentNo": "배송 번호를 복사하지 못했습니다.",
+      "shipmentDeletedSuccessfully": "배송이 성공적으로 삭제되었습니다.",
+      "shipmentCreatedSuccessfully": "배송이 성공적으로 생성되었습니다.",
+      "shipmentCreationSuccessfully": "배송 생성에 실패했습니다.",
+      "shipmentSend": "현물 입찰에 대한 배송 전송이 성공했습니다.",
+      "shipmentSendFailed": "현물 입찰에 대한 배송 전송이 실패했습니다.",
+      "bidderAddedSuccessfully": "입찰자가 성공적으로 추가되었습니다.",
+      "failedToAddBidder": "입찰자를 추가하지 못했습니다.",
+      "failedToLoadRate": "요금매장 목록을 불러오지 못했습니다.",
+      "yourSpotBidHasEnded": "성공! ",
+      "failedYourSpotBid": "실패한! ",
+      "failedToDeleteShipments": "배송을 삭제하지 못했습니다.",
+      "shipmentTenderProcessSuccess": "배송 입찰 프로세스가 성공했습니다.",
+      "shipmentTenderProcessError": "배송 입찰 프로세스 오류입니다.",
+      "successfullyCalculated": "새로운 마일리지가 성공적으로 계산되었습니다",
+      "failedToCalculateTheMileage": "마일리지 계산에 실패했습니다.",
+      "successfullySavedRateShopResults": "요금 상점 결과가 성공적으로 저장되었습니다.",
+      "failedToSaveRateShopResults": "요금점 결과 저장 실패!",
+      "failedToGetAuditLogs": "감사 로그를 가져오지 못했습니다.",
+      "tmsSettingsSuccessfullySaved": "TMS 설정이 성공적으로 저장되었습니다.",
+      "copyProjectSuccessfully": "프로젝트를 성공적으로 복사했습니다.",
+      "failedToSave": "TMS 설정을 저장하지 못했습니다. ",
+      "currentlyRatingResults": "현재 결과를 평가하거나 사용할 수 없습니다.",
+      "failedToGetShipment": "배송 세부정보를 가져오지 못했습니다. 나중에 다시 시도해 주세요.",
+      "successfullySavedAddressBook": "주소록이 저장되었습니다!",
+      "failedToSaveAddressBook": "주소록 저장에 실패했습니다!",
+      "successfullyDeletedAddressBook": "주소록을 삭제했습니다!",
+      "failedToDeleteAddressBook": "주소록 삭제에 실패했습니다!",
+      "successfullySavedProduct": "제품이 성공적으로 저장되었습니다!",
+      "failedToSaveProduct": "제품을 저장하지 못했습니다!",
+      "failedToGetTracking": "추적을 가져오지 못했습니다.",
+      "failedToGetExcelData": "엑셀 데이터를 가져오지 못했습니다.",
+      "failedToGetExcelDataDetails": "엑셀 데이터 세부 정보를 가져오지 못했습니다.",
+      "documentEmailsSuccessfullySent": "문서 이메일이 성공적으로 전송되었습니다.",
+      "failedToSendDocumentEmail": "문서 이메일을 보내지 못했습니다!",
+      "documentDownloadedSuccessfully": "문서가 성공적으로 다운로드되었습니다.",
+      "failedDocumentRequest": "문서 요청 실패",
+      "updateTheReferenceAndDockNumberSuccess": "참조 및 도크 번호 업데이트 성공",
+      "failedToUpdateTheReferenceAndDockNumber": "참조 및 도크 번호를 업데이트하지 못했습니다.",
+      "successfullySavedITrackDetails": "iTrack 세부정보를 성공적으로 저장했습니다.",
+      "failedToSaveITrackDetails": "iTrack 세부정보를 저장하지 못했습니다!",
+      "updateShipmentNoteSuccess": "배송 메모 업데이트 성공",
+      "failedToUpdateShipmentNote": "배송 메모를 업데이트하지 못했습니다.",
+      "failedToUpdateShipmentDetails": "배송 세부정보를 업데이트하지 못했습니다.",
+      "updatedShipmentDetailsSuccessfully": "배송 세부정보가 성공적으로 업데이트되었습니다.",
+      "successfullyDeletedDistributorDetails": "배포자 세부정보를 삭제했습니다.",
+      "failedToDeleteDistributorDetails": "배포자 세부정보를 삭제하지 못했습니다.",
+      "successfullyDeletedRoutingDetails": "라우팅 세부정보를 삭제했습니다.",
+      "failedToDeleteRoutingDetails": "라우팅 세부정보를 삭제하지 못했습니다.",
+      "currentlyNotAbleToGet": "현재 주소록 데이터를 가져올 수 없습니다. 나중에 다시 시도해 주세요.",
+      "successfullySavedTheQuoted": "배송 번호:와 함께 견적 배송 세부정보를 성공적으로 저장했습니다.",
+      "failedSaveTheQuoteShipmentDetails": "견적 배송 세부정보를 저장하지 못했습니다.",
+      "theUpdatingDataAreInvalid": "업데이트 데이터가 잘못되었습니다.",
+      "successfullyUpdatedTheAccounting": "회계를 성공적으로 업데이트했습니다.",
+      "successfullyUpdatedTheAccountingDetails": "회계 세부정보를 성공적으로 업데이트했습니다.",
+      "failedToSaveAccounting": "회계를 저장하지 못했습니다.",
+      "failedToSaveAccountingDetails": "회계 세부정보를 저장하지 못했습니다.",
+      "shipmentHasBeenCreatedSuccessfullyWith": "배송 번호가 다음과 같은 배송이 성공적으로 생성되었습니다.",
+      "failedCreateShipment": "배송을 생성하지 못했습니다.",
+      "failedToGetMilageDetails": "마일리지 정보를 가져오지 못했습니다!",
+      "failedToGetRatesData": "요금 데이터를 가져오지 못했습니다!",
+      "failedToValidateApproval": "승인을 확인하지 못했습니다.",
+      "failedToGetApproversList": "승인자 목록을 가져오지 못했습니다.",
+      "somethingWentWrong": "문제가 발생했습니다.",
+      "shippingLabelHasBeenCreatedSuccessfully": "배송 번호가 포함된 배송 라벨이 성공적으로 생성되었습니다.",
+      "failedToCreateShippingLabel": "배송 라벨을 생성하지 못했습니다. 정보를 확인하고 다시 시도하세요!",
+      "newChildShipmentIsCreated": "승인 번호를 사용하여 새 하위 발송물이 생성됩니다.",
+      "successfullySentTheApprovalRequestToTheCustomers": "고객에게 승인 요청을 성공적으로 보냈습니다.",
+      "failedToSendTheApprovalRequest": "승인 요청을 보내지 못했습니다!",
+      "successfullyAssignedTheTransportationProvider": "운송 제공업체를 성공적으로 할당했습니다.",
+      "failedToAssignTheTransportationProvider": "운송업체를 할당하지 못했습니다.",
+      "successfullyAddedRateEntry": "요금 항목을 성공적으로 추가했습니다.",
+      "failedToAddRateEntry": "요금 항목을 추가하지 못했습니다.",
+      "failedToValidateRateEntry": "요율 항목을 검증하지 못했습니다.",
+      "successfullyDeletedRateEntry": "요율 항목을 삭제했습니다.",
+      "failedToRemoveRateEntry": "요율 항목을 제거하지 못했습니다.",
+      "failedToGetMasterChilde": "마스터/하위 배송 세부정보를 가져오지 못했습니다!",
+      "successfullyUpdatedRateEntry": "요율 항목이 성공적으로 업데이트되었습니다.",
+      "failedToUpdateRateEntry": "요율 항목을 업데이트하지 못했습니다.",
+      "successfullySavedAsShipment": "배송으로 저장되었습니다.",
+      "failedToSaveAsShipment": "배송으로 저장하지 못했습니다!",
+      "failedToGetBranchAddress": "지점 주소를 가져오지 못했습니다.",
+      "failedToGetShipmentsStopsDetails": "배송 중지 세부정보를 가져오지 못했습니다!",
+      "packingList": "포장 목록",
+      "packingListContents": "포장 목록",
+      "billTo": "청구 대상",
+      "vendorAdress": "공급업체 주소",
+      "supplierAddress": "공급업체 주소",
+      "packageQty": "패키지 수량",
+      "customRelease": "세관 릴리스 참조:",
+      "referenceDate": "참조 날짜:",
+      "releaseDate": "출시일:",
+      "soldTo": "판매 대상",
+      "legalText": "법적 텍스트.",
+      "totalInvoice": "총 송장 금액:",
+      "insurance": "보험:",
+      "invoiceLine": "송장 라인 합계:",
+      "totalAmount": "총액",
+      "license": "특허",
+      "htsCode": "HTS 코드",
+      "totals": "총계",
+      "generatedPackingList": "포장 목록 파일이 성공적으로 생성되었습니다.",
+      "generateAllSupporting": "모든 지원 문서 생성",
+      "sendCopyTo": "사본 보내기:",
+      "myEmailAddress": "내 이메일 주소",
+      "otherEmailAddress": "기타 이메일 주소",
+      "typeEmailComma": "이메일 주소를 쉼표로 구분하여 입력하세요.",
+      "successfullyLadingPDF": "선하증권 PDF 파일이 성공적으로 생성되었습니다.",
+      "failedBillLadingPDFFile": "선하 증권 PDF 파일을 생성하지 못했습니다.",
+      "commoditiesRequiring": "취급 또는 보관 시 특별한 또는 추가적인 주의가 필요한 상품은 일반적인 주의를 통해 안전한 운송이 가능하도록 표시하고 포장해야 합니다.",
+      "whereTheRate": "요율이 가치에 따라 달라지는 경우, 발송인은 다음과 같이 합의 또는 신고된 재산 가치를 서면으로 구체적으로 명시해야 합니다.",
+      "agreedOrDeclared": "합의되거나 신고된 재산 가치가 다음을 초과하지 않는다고 발송인이 구체적으로 명시한 경우",
+      "cid": "CID",
+      "emailID": "이메일 주소",
+      "modal": {
+        "label": "변경사항이 손실됩니다.",
+        "labelTwo": "삭제하시겠습니까?",
+        "okText": "좋아요"
+      },
+      "shipmentsByServiceType": "서비스 유형별 배송",
+      "startDateAndTime": "시작 날짜 및 시간",
+      "updateShipmentSummary": "배송 요약 업데이트",
+      "pleaseSelectAnyItem": "항목을 선택해 주세요.",
+      "pleaseEnterPackageWeight": "패키지 중량을 입력하세요.",
+      "location": {
+        "label": "위치",
+        "message": "위치를 입력하세요",
+        "messageMax": "위치는 13자를 초과할 수 없습니다."
+      },
+      "contactEmailAddress": {
+        "label": "담당자 이메일 주소"
+      },
+      "portCode": {
+        "label": "항구 코드",
+        "placeholderSelect": "포트 코드 선택",
+        "placeholderEnter": "포트 코드 입력"
+      },
+      "customer": {
+        "label": "고객",
+        "message": "고객을 선택하세요"
+      },
+      "scac": {
+        "label": "SCAC",
+        "placeholder": "SCAC를 입력하세요"
+      },
+      "shipDate": {
+        "label": "선박 날짜",
+        "message": "배송 날짜를 선택하세요."
+      },
+      "deleteConfirm": {
+        "title": "삭제하시겠습니까?"
+      },
+      "internalNotes": {
+        "label": "내부 메모",
+        "placeholder": "내부 메모 입력"
+      },
+      "pickUpReference": {
+        "label": "픽업 참조",
+        "message": "픽업 참조를 입력하세요."
+      },
+      "dimUnitOfMeasure": {
+        "label": "DIM 측정 단위",
+        "message": "측정 단위를 선택하세요."
+      },
+      "packageType": {
+        "label": "포장 종류",
+        "message": "패키지 유형을 선택하세요."
+      },
+      "packageID": {
+        "label": "패키지 ID",
+        "placeholder": "패키지 ID 입력"
+      },
+      "quantity": {
+        "label": "수량",
+        "placeholder": "수량 입력",
+        "message": "수량을 입력해주세요",
+        "error": "수량은 최소 1개 이상이어야 합니다.",
+        "number": "수량은 숫자여야 합니다."
+      },
+      "receiptNumber": {
+        "label": "영수증 번호 선택",
+        "placeholder": "영수증 번호"
+      },
+      "cube": {
+        "label": "입방체",
+        "placeholder": "큐브 입력",
+        "message": "큐브를 입력해주세요",
+        "errorNegative": "큐브는 음수 값을 가질 수 없습니다"
+      },
+      "expectedShipDate": {
+        "label": "예상 배송 날짜"
+      },
+      "productDesc": {
+        "label": "제품 설명",
+        "placeholder": "제품 코드 선택",
+        "message": "제품 코드를 선택하십시오",
+        "enter": "제품 설명을 입력하세요",
+        "tooltip": "제품 세부 정보 아코디언에서 기본 제품 설명을 설정합니다."
+      },
+      "lineNumber": {
+        "label": "줄 번호"
+      },
+      "incoTerm": {
+        "label": "인코텀",
+        "placeholder": "IncoTerm을 선택하세요",
+        "tooltip": "배송 모듈에서 IncoTerm을 미리 설정합니다. "
+      },
+      "consigneeCity": {
+        "label": "수취인 도시",
+        "placeholder": "수취인 도시를 선택하세요"
+      },
+      "consigneeState": {
+        "label": "수취인 주/도",
+        "placeholder": "수취인 주/도 선택"
+      },
+      "consigneePostalCode": {
+        "label": "수취인 우편번호"
+      },
+      "consigneeCountry": {
+        "label": "수취인 국가",
+        "placeholder": "수취인 국가 선택"
+      },
+      "consigneeName": {
+        "label": "수취인 이름",
+        "placeholder": "수취인 이름 선택",
+        "message": "수취인 이름을 선택하세요."
+      },
+      "shipperCity": {
+        "label": "배송 도시",
+        "placeholder": "배송지 도시 선택",
+        "message": "배송지 도시를 입력하세요."
+      },
+      "shipperStateProvince": {
+        "label": "배송업체 시/도",
+        "placeholder": "배송업체 시/도 선택"
+      },
+      "shipperCountry": {
+        "label": "배송 국가",
+        "placeholder": "배송 국가 선택",
+        "message": "배송 국가를 선택하세요."
+      },
+      "deliveryDate": {
+        "label": "배송 날짜",
+        "message": "배송 날짜를 선택하세요."
+      },
+      "freightClass": {
+        "label": "화물 등급",
+        "placeholder": "화물 등급을 선택하세요.",
+        "tooltip": "제품 세부 정보 아코디언에 기본 화물 등급 설정"
+      },
+      "shipmentNumber": {
+        "label": "운송 번호",
+        "placeholder": "배송 번호 입력"
+      },
+      "shipmentTerms": {
+        "label": "배송 조건",
+        "message": "배송 조건 을 선택하십시오",
+        "option_c": "모으다",
+        "option_p": "선불",
+        "option_t": "제3자",
+        "placeholder": "배송 조건 선택",
+        "tooltip": "배송에 기본 배송 조건을 설정합니다."
+      },
+      "transportationProvider": {
+        "label": "운송업체",
+        "selectPlaceholder": "운송업체 선택",
+        "message": "운송업체가 필요합니다.",
+        "select": "운송업체를 선택하세요.",
+        "email": "운송업체에 이메일이 성공적으로 전송되었습니다.",
+        "emailError": "운송업체에 이메일 전송 실패"
+      },
+      "vendorName": {
+        "label": "공급업체 이름",
+        "placeholder": "공급업체 이름 선택",
+        "message": "공급업체를 선택하세요."
+      },
+      "companyName": {
+        "label": "회사 이름",
+        "placeholder": "회사명을 입력하세요",
+        "selectPlaceholder": "회사명을 선택하세요",
+        "message": "회사명을 입력하세요."
+      },
+      "companyAddress": {
+        "label": "회사 주소",
+        "placeholder": "회사 주소 입력",
+        "message": "회사 주소를 입력하세요"
+      },
+      "country": {
+        "label": "국가",
+        "placeholder": "국가 선택",
+        "message": "국가를 선택하세요"
+      },
+      "address": {
+        "label": "주소",
+        "message": "주소를 입력해주세요"
+      },
+      "postalCode": {
+        "label": "우편 번호",
+        "placeholder": "우편번호를 입력하세요",
+        "selectPlaceholder": "우편번호를 선택하세요",
+        "message": "우편번호를 입력해주세요",
+        "selectMessage": "우편번호를 선택해주세요",
+        "error": "입력한 우편물이 유효하지 않거나 선택한 국가에서 찾을 수 없습니다!",
+        "invalid": "우편번호가 잘못되었습니다!",
+        "zip": "우편번호를 입력해주세요",
+        "zipPostal": "우편번호",
+        "enter": "우편번호를 입력하세요."
+      },
+      "stateProvince": {
+        "label": "주/도",
+        "placeholder": "주/도 선택",
+        "message": "주/도를 선택하세요."
+      },
+      "from": {
+        "label": "에서",
+        "placeholder": "요일 선택"
+      },
+      "to": {
+        "label": "에게",
+        "placeholder": "요일 선택"
+      },
+      "city": {
+        "label": "도시",
+        "placeholder": "도시 선택",
+        "message": "도시를 입력하세요",
+        "enter": "도시 입력",
+        "select": "도시를 선택하세요."
+      },
+      "state": {
+        "label": "상태",
+        "message": "주를 선택해 주세요",
+        "placeholder": "주를 선택하세요",
+        "city": "도시"
+      },
+      "contactName": {
+        "label": "담당자 이름",
+        "message": "담당자 이름을 입력하세요."
+      },
+      "contactEmail": {
+        "label": "이메일 연락처",
+        "required": "연락처 이메일을 입력해주세요",
+        "message": "입력한 값이 이메일 형식이 아닙니다!"
+      },
+      "containerNumber": {
+        "label": "컨테이너 번호"
+      },
+      "trackingNumber": {
+        "label": "추적 번호",
+        "placeholder": "추적 번호 입력"
+      },
+      "createdOn": {
+        "title": "에 만든",
+        "placeholder": "날짜 선택",
+        "shipmentCreatedOn": "배송 생성 날짜"
+      },
+      "branch": {
+        "label": "나뭇가지",
+        "message": "지점을 선택해주세요",
+        "placeholder": "지점 선택"
+      },
+      "sortBy": {
+        "label": "정렬 기준",
+        "select": "정렬 기준 선택"
+      },
+      "reason": {
+        "label": "이유",
+        "placeholder": "이유 선택",
+        "message": "이유를 선택해 주세요"
+      },
+      "shipmentType": {
+        "placeholder": "배송 유형 선택",
+        "label": "배송 유형",
+        "message": "배송 유형을 선택하세요."
+      },
+      "accessorial": {
+        "label": "액세서리",
+        "placeholder": "액세서리 선택"
+      },
+      "product": {
+        "label": "제품",
+        "placeholder": "제품 선택"
+      },
+      "locationID": {
+        "label": "위치 ID",
+        "placeholder": "위치 ID 선택"
+      },
+      "serviceLevel": {
+        "label": "서비스 수준",
+        "placeholder": "서비스 수준 선택"
+      },
+      "appointmentType": {
+        "label": "약속 유형",
+        "placeholder": "약속 유형 선택",
+        "message": "약속 유형을 입력하세요.",
+        "choose": "예약 유형을 선택해주세요."
+      },
+      "cargoType": {
+        "label": "화물 종류",
+        "placeholder": "화물 유형 선택",
+        "message": "화물 유형 을 선택해 주세요",
+        "required": "화물 유형은 필수 항목입니다."
+      },
+      "accountNumber": {
+        "label": "계좌 번호",
+        "placeholder": "계좌번호 선택",
+        "message": "계좌번호를 입력해주세요",
+        "select": "계좌번호를 선택해주세요"
+      },
+      "shipmentBranch": {
+        "label": "배송지점",
+        "placeholder": "배송 지점 선택",
+        "message": "배송 지점을 선택하십시오."
+      },
+      "portName": {
+        "label": "포트 이름",
+        "placeholder": "포트 이름 검색",
+        "select": "포트 이름 선택",
+        "message": "포트 이름을 선택하세요.",
+        "enter": "포트 이름을 입력하세요"
+      },
+      "currency": {
+        "label": "통화",
+        "placeholder": "통화 선택",
+        "message": "통화는 필수입니다"
+      },
+      "customerName": {
+        "label": "고객 이름",
+        "placeholder": "고객 이름 선택",
+        "placeholderEnter": "고객 이름을 선택하세요."
+      },
+      "equipmentType": {
+        "label": "장비 유형",
+        "placeholder": "장비 유형 선택",
+        "message": "장비 유형은 필수입니다"
+      },
+      "linerType": {
+        "label": "라이너 유형",
+        "placeholder": "라이너 유형 선택"
+      },
+      "measurementUit": {
+        "label": "측정 단위",
+        "placeholder": "측정 단위 선택"
+      },
+      "packageLoadType": {
+        "label": "패키지 로드 유형",
+        "placeholder": "패키지 로드 유형 선택",
+        "message": "패키지 로드 유형을 선택하세요."
+      },
+      "palletLoadType": {
+        "label": "팔레트 적재 유형",
+        "placeholder": "팔레트 적재 유형 선택",
+        "option": "쌓을 수 있음",
+        "optionNon": "쌓을 수 없음"
+      },
+      "paymentType": {
+        "label": "결제 유형",
+        "placeholder": "결제 유형 선택"
+      },
+      "portType": {
+        "label": "포트 유형",
+        "placeholder": "포트 유형 선택",
+        "search": "검색 포트 유형",
+        "message": "포트 유형을 선택하세요."
+      },
+      "pricingBasis": {
+        "label": "가격 기준",
+        "placeholder": "가격 기준 선택"
+      },
+      "pricingType": {
+        "label": "가격 유형",
+        "placeholder": "가격 유형 선택",
+        "message": "가격 유형을 선택하세요."
+      },
+      "unitOfMeasurement": {
+        "label": "측정 단위",
+        "placeholder": "측정 단위 선택"
+      },
+      "projectName": {
+        "label": "프로젝트 이름",
+        "placeholder": "프로젝트 이름 선택",
+        "messageError": "프로젝트 이름을 입력하세요.",
+        "messageExist": "프로젝트 이름이 이미 존재합니다!"
+      },
+      "poStatus": {
+        "label": "PO 상태",
+        "placeholder": "PO 상태 선택",
+        "option_o": "열려 있는",
+        "option_c": "완전한",
+        "option_d": "삭제됨"
+      },
+      "ratingPreferences": {
+        "label": "평가 환경 설정",
+        "placeholder": "평가 기본 설정 선택"
+      },
+      "category": {
+        "label": "범주",
+        "placeholder": "카테고리 선택"
+      },
+      "categoryType": {
+        "label": "카테고리 유형",
+        "placeholder": "카테고리 유형 선택",
+        "message": "카테고리 유형을 선택하세요."
+      },
+      "userName": {
+        "label": "사용자 이름",
+        "placeholder": "사용자 이름 선택",
+        "message": "사용자 이름을 선택하십시오"
+      },
+      "shipmentCreatedBy": {
+        "email": "이메일 선택"
+      },
+      "shipperName": {
+        "label": "배송업체 이름",
+        "placeholder": "배송업체 이름 선택",
+        "message": "배송업체 이름을 선택하세요."
+      },
+      "exceptionType": {
+        "label": "예외 유형",
+        "placeholder": "예외 유형 선택"
+      },
+      "status": {
+        "label": "상태",
+        "placeholder": "상태 선택",
+        "message": "상태를 선택해 주세요"
+      },
+      "locationType": {
+        "label": "위치 유형",
+        "placeholder": "위치 유형 선택"
+      },
+      "class": {
+        "label": "수업",
+        "placeholder": "수업 선택"
+      },
+      "hazmatClass": {
+        "label": "위험물 등급",
+        "placeholder": "HAZMAT 등급 선택"
+      },
+      "routingType": {
+        "label": "라우팅 유형",
+        "placeholder": "라우팅 유형 선택"
+      },
+      "hours": {
+        "label": "시간",
+        "placeholder": "영업시간 선택",
+        "message": "영업시간 선택"
+      },
+      "supplier": {
+        "label": "공급자",
+        "placeholder": "공급업체 선택"
+      },
+      "taxType": {
+        "label": "세금 유형",
+        "placeholder": "세금 유형 선택"
+      },
+      "tenderName": {
+        "label": "입찰명",
+        "placeholder": "입찰명 선택"
+      },
+      "timeZone": {
+        "label": "시간대",
+        "placeholder": "시간대 선택",
+        "message": "영업시간을 선택하세요"
+      },
+      "userType": {
+        "label": "사용자 유형",
+        "placeholder": "사용자 유형 선택",
+        "enter": "사용자 유형을 입력하세요."
+      },
+      "weightMeasurement": {
+        "label": "체중 측정",
+        "placeholder": "체중 측정 선택"
+      },
+      "authorisedSignature": "승인된 서명",
+      "company": "회사",
+      "title": "제목",
+      "telephoneNumber": "전화 번호"
+    },
+    "notification": {
+      "messages": "메시지",
+      "recentActivities": "최근 활동",
+      "errorMessages": "오류 메시지",
+      "failedUpdateClaimsDetails": "소유권 주장 세부정보를 업데이트하지 못했습니다.",
+      "sessionExpired": "세션이 만료되었습니다. 다시 로그인해 주세요.",
+      "failedTrackingDetails": "추적 세부 정보를 가져오지 못했습니다.",
+      "failedCarrierDetails": "운송업체 세부정보를 가져오지 못했습니다.",
+      "shipmentCancelled": "배송이 성공적으로 취소되었습니다",
+      "timeoutIssue": "시간 초과 문제",
+      "parcelExpressSaga": "소포 특급 사가",
+      "failedToGetData": "데이터를 가져오지 못했습니다!",
+      "routingDetails": "라우팅 세부정보",
+      "failedTo": "실패",
+      "distributorDetails": "유통업체 세부정보",
+      "updated": "업데이트됨",
+      "created": "만들어진",
+      "successfully": "성공적으로",
+      "successfullyUpdated": "성공적으로 업데이트되었습니다",
+      "errorWithCode0": "코드 0 오류",
+      "shipmentsFollowing": "배송은 다음 배송 번호로 통합됩니다.",
+      "successfullyCopied": "성공적으로 복사되었습니다",
+      "failed": "실패한",
+      "success": "성공",
+      "copyTender": "복사 입찰이 성공적으로 완료되었습니다.",
+      "copyTenderError": "입찰 오류를 복사하려면",
+      "purchaseOrderCreated": "구매 주문이 성공적으로 생성되었는지 확인하세요.",
+      "claimsDetailsFailed": "청구 세부정보를 가져오지 못했습니다.",
+      "claimsDeletedFailed": "소유권 주장을 삭제하지 못했습니다.",
+      "claimsDeleted": "소유권 주장이 삭제되었습니다.",
+      "failedShippingLabelPDF": "배송 라벨 PDF 파일을 생성하지 못했습니다.",
+      "failedGgeneratePDF": "PDF를 생성하지 못했습니다.",
+      "shippingLabelPDF": "배송 라벨 PDF 파일이 성공적으로 생성되었습니다.",
+      "carrierDataFailed": "캐리어 데이터에 실패했습니다.",
+      "portDataFailed": "데이터를 포팅하지 못했습니다.",
+      "postalDataFailed": "데이터를 우편에 실패했습니다.",
+      "userProfileImage": "사용자 프로필 이미지가 업데이트되었습니다.",
+      "shipmentStatusFailed": "배송상태 확인 실패!",
+      "userPreferenceFailed": "사용자 기본 설정을 가져오지 못했습니다.",
+      "preferenceUpdatedFailed": "환경설정을 업데이트하지 못했습니다.",
+      "preferenceUpdated": "환경설정이 성공적으로 업데이트되었습니다.",
+      "passwordUpdatedFailed": "비밀번호를 업데이트하지 못했습니다.",
+      "passwordUpdated": "비밀번호가 성공적으로 업데이트되었습니다.",
+      "userProfileUpdated": "사용자 프로필이 업데이트되었습니다.",
+      "bidSubmitted": "입찰이 성공적으로 제출되었습니다.",
+      "bidNotSubmitted.": "입찰이 제출되지 않았습니다.",
+      "email": "유효한 이메일을 입력하세요.",
+      "numeric": "숫자만 입력하세요",
+      "problemWithDownloading": "다운로드에 문제가 있습니다!",
+      "emptyList": "빈 목록",
+      "leastOneItem": "계속 진행하려면 항목을 하나 이상 입력하세요.",
+      "emptySelect": "데이터를 얻기 위해 무언가를 검색하세요...",
+      "noRecondfound": "기록을 찾을 수 없습니다.",
+      "itSeems": "것 같다",
+      "trackingNumber": " 유효한 추적 번호가 아닙니다.",
+      "successfulyGeneratedCommercial": "상업송장 파일을 성공적으로 생성했습니다.",
+      "failedToGenerateCommercialInvoiceFile.": "상업송장 파일을 생성하지 못했습니다.",
+      "COOPDF": "COO PDF 파일을 성공적으로 생성했습니다.",
+      "failedCOOPDF": "COO PDF 파일을 생성하지 못했습니다."
+    },
+    "emptyRecords": {
+      "title": "필터를 조정해 보세요. ",
+      "descriptionOne": "입력하신 내용에 따른 데이터가 없습니다.",
+      "descriptionTwo": "필터를 조정해 보세요."
+    }
+  },
+  "parcelExpress": {
+    "serviceType": "서비스 종류",
+    "transitTime": "운송시간(일)",
+    "billingWeight": "청구 중량",
+    "charges": "요금",
+    "action": "행동",
+    "baseCharges": "기본요금",
+    "totalSurcharges": "총 추가요금",
+    "totalDiscount": "총 할인",
+    "netCharges": "순요금",
+    "savePrintLabel": "구하다",
+    "note": "메모",
+    "severity": "심각성",
+    "alertMessage": "경고 메시지",
+    "triggerNotification": {
+      "default": "요금을 확인하려면 운송업체를 선택하세요.",
+      "packages": "패키지가 비어 있습니다. 최소 1개의 패키지로 다시 시도해 주세요!",
+      "reject": "이동통신사가 선택되지 않았습니다.",
+      "packagesReject": "패키지가 비어 있습니다!"
+    },
+    "titles": {
+      "parcelExpress": "소포 익스프레스",
+      "shipmentInformation": "배송정보",
+      "shipmentsByService": "서비스 유형별 배송",
+      "originDestinationInformation": "출발지/목적지 정보",
+      "packageDetails": "패키지 세부정보",
+      "additionalServices": "추가적인 서비스",
+      "total": "올해 총 지출",
+      "service": "서비스 실패"
+    },
+    "buttons": {
+      "addPackage": "패키지 추가",
+      "deletePackage": "패키지 삭제"
+    },
+    "locationForm": {
+      "datePickerMessage": "배송일을 선택해주세요",
+      "countryCallingCode": {
+        "label": "국가별 전화번호"
+      },
+      "number": {
+        "required": "연락 가능한 전화번호를 입력해주세요",
+        "number_error": "연락처는 반드시 숫자로만 이루어져야 합니다!",
+        "digits_error": "연락처는 10자리 숫자만 가능합니다!"
+      },
+      "ext": "내선"
+    },
+    "packageForm": {
+      "itemNo": "제품 번호",
+      "noOfPackages": {
+        "label": "패키지 수",
+        "message": "패키지 수를 입력하십시오."
+      },
+      "chargeableWeight": {
+        "label": "청구 가능 중량",
+        "message": "청구 중량을 입력해 주세요"
+      },
+      "unit": {
+        "label": "단위",
+        "message": "단위 UOM을 선택하십시오.",
+        "dimension_message": "차원 UOM을 선택하십시오."
+      },
+      "length": {
+        "message": "길이를 입력하세요"
+      },
+      "width": {
+        "message": "너비를 입력하세요"
+      },
+      "height": {
+        "message": "높이를 입력하세요"
+      }
+    },
+    "additionalForm": {
+      "residentialDelivery": "주거지 배달",
+      "insurance": "보험",
+      "declaredValue": {
+        "label": "신고 가격",
+        "placeholder": "신고된 값을 입력하세요."
+      }
+    },
+    "serviceBarChart": "서비스",
+    "totalSpend": " 교통 제공업체별 올해 총 지출"
+  },
+  "visibility": {
+    "filters": {
+      "titles": {
+        "shipmentSearch": "배송조회",
+        "byOrigin": "출발지 및 도착지로 배송 검색",
+        "byOrder": "주문 세부정보로 배송 검색"
+      },
+      "shipmentSearch": {
+        "shipmentType": {
+          "label": "배송 유형",
+          "optionOpen": "열려 있는",
+          "optionClosed": "닫은"
+        },
+        "pickupDate": {
+          "title": "수령 날짜",
+          "placeholder": "날짜 선택"
+        },
+        "itnNumber": {
+          "label": "ITN/ISF/AES 번호"
+        }
+      }
+    },
+    "header": {
+      "title": "시계",
+      "errorNotification": "문서 이메일을 보내지 못했습니다!",
+      "downloadLabel": "PDF 다운로드",
+      "printLabel": "PDF 인쇄",
+      "emailLabel": "PDF로 이메일 보내기",
+      "sendEmailTitle": "운송업체에 이메일 보내기",
+      "sendEmailSubtitle": "추적 세부 정보 ",
+      "documents": "서류",
+      "sendEmailSubject": {
+        "label": "주제"
+      },
+      "sendEmailAddress": {
+        "placeholder": "이메일 주소*",
+        "errorMessage": "이메일 주소를 입력해주세요."
+      },
+      "sendEmailComments": {
+        "label": "코멘트",
+        "placeholder": "코멘트"
+      },
+      "notificationSendEmailError": "문서 이메일을 보내지 못했습니다!",
+      "exportForm": {
+        "title": "가시성 정보",
+        "createOn": "생성 날짜",
+        "exportExcel": "가시성 내보내기 Excel"
+      },
+      "exportPDF": {
+        "shipment": {
+          "title": "배송 세부정보",
+          "transitServiceStandard": "대중교통 서비스 표준: ",
+          "actualTransitDays": " 실제 운송 일수: ",
+          "shipmentIdentifier": "배송 식별자: ",
+          "billOfLadingNumber": "선하 증권 번호: ",
+          "flightVoyageNumber": "항공편/항해 번호: ",
+          "expShipDate": "특급 배송 날짜: ",
+          "vessel": "선박: ",
+          "xpDeliveryDate": "특급 배송 날짜: ",
+          "sealNumber": "인감 번호: ",
+          "vendorName": "공급업체 이름: ",
+          "itNisFaeSNo": "ITN/ISF/AES 번호: ",
+          "carrierName": "이동통신사 이름: ",
+          "shipmentNote": "배송 참고 사항: ",
+          "po": "포 "
+        },
+        "product": {
+          "title": "제품정보",
+          "productDescription": " 제품 설명",
+          "billedQty": "청구 수량",
+          "l": "엘",
+          "w": "여",
+          "h": "시간",
+          "dimUOM": "희미한 UOM",
+          "soNumber": "SO 번호"
+        },
+        "shipper": {
+          "title": "배송업체 정보",
+          "address1": "주소 1",
+          "address2": "주소 2",
+          "postal": "우편 엽서",
+          "contact": "담당자 이름/전화번호",
+          "appointmentNumber": "약속 번호",
+          "dockNumber": "도크 번호"
+        },
+        "consignee": {
+          "title": "수취인 정보",
+          "address1": "주소 1",
+          "address2": "주소 2",
+          "postal": "우편 엽서",
+          "contact": " 담당자 이름 / 전화번호",
+          "appointmentNumber": " 약속 번호",
+          "dockNumber": "도크 번호",
+          "totalPalletCount": "총 팔레트 수"
+        },
+        "tracking": {
+          "title": "추적 상태 세부정보",
+          "date": "상태의 날짜/시간",
+          "location": "위치",
+          "etaDate": "예상 날짜"
+        }
+      },
+      "visibilityExport": "가시성 내보내기"
+    },
+    "minCard": {
+      "trackingStatusType": "추적 상태 유형",
+      "shipDate": "배송업체가 배송 날짜를 요청함"
+    },
+    "detailCard": {
+      "tabs": {
+        "general": "일반적인",
+        "tracking": "추적 상태 세부정보",
+        "details": "세부",
+        "productInfo": "제품정보"
+      },
+      "generalTab": {
+        "title": "일반적인",
+        "shipmentDetail": "배송 세부정보",
+        "shipmentMode": "배송 모드",
+        "multiShop": "멀티숍",
+        "shipperDetails": "배송업체 세부정보",
+        "shipperContact": "배송업체 연락처 정보",
+        "appointmentNo": "약속 번호",
+        "dockNo": "도킹 번호 / 확인 번호",
+        "consigneeDetails": "수취인 세부정보",
+        "consigneeContact": "수취인 연락처 세부정보",
+        "shipmentLocation": "배송 위치",
+        "trackingDetails": "추적 세부정보",
+        "trackingStatus": "추적 상태",
+        "trackingStatusType": "추적 상태 유형",
+        "transporterPlannedShipDate": "운송업체 계획 배송 날짜",
+        "transporterPlannedDeliveryDate": "운송업체의 배송 예정일",
+        "eventOccurrence": "이벤트 발생 날짜 및 시간",
+        "shipperRequestedShipDate": "배송업체가 배송 날짜를 요청함",
+        "shipmentDetails": "배송 세부정보",
+        "shipperRequstedShipDate": "배송업체가 배송 날짜를 요청함",
+        "shipperRequstedDeliveryDate": "배송업체가 요청한 배송 날짜",
+        "eventOccurrenceDate": " 이벤트 발생 날짜 및 시간"
+      },
+      "notesTab": {
+        "createdBy": "작성자:",
+        "createdOn": "에 만든 :",
+        "editedBy": "편집자:",
+        "editedOn": "편집 날짜:"
+      },
+      "detailsTab": {
+        "title": "세부",
+        "portOfOrigin": "원산지",
+        "portOfDischarge": "하역항",
+        "houseBill": "하우스 착륙장 번호",
+        "actualTransitDays": "실제 운송 일수",
+        "interlineRoutingSequence": "인터라인 라우팅 순서",
+        "interlineSCAC": "인터라인 SCAC",
+        "vessel": "선박",
+        "flightVoyageNumber": "항공편/항해 번호",
+        "sealNumber": "인감번호",
+        "itNisFaeSNumber": "ITN/ISF/AES 번호"
+      },
+      "productInfoTab": {
+        "title": "제품정보",
+        "productCode": "제품 코드:",
+        "productDescription": "제품 설명",
+        "grossWeight": "총 중량"
+      },
+      "fileDetailsTab": {
+        "fileComments": {
+          "label": "파일 댓글",
+          "placeholder": "파일 댓글"
+        },
+        "referenceNo": {
+          "label": "지원 문서 참조 번호",
+          "placeholder": "지원 문서 참조 번호"
+        }
+      }
+    },
+    "footer": {
+      "totalShipments": "총 출하량",
+      "openShipments": "배송 개시",
+      "closedShipments": "마감된 배송",
+      "exceptions": "예외"
+    },
+    "trackingStatusInfo": {
+      "trackingStatus": {
+        "label": "추적 상태",
+        "placeholder": "추적 상태 선택",
+        "message": "추적 상태를 선택하세요."
+      },
+      "trackingStatusType": {
+        "label": "추적 상태 유형",
+        "placeholder": "추적 상태 유형 선택"
+      }
+    },
+    "containerNumbershouldbe": " 컨테이너 번호가 아닙니다. XXXU1234567과 같아야 합니다.",
+    "youOnlyhave": "당신은 단지",
+    "charactersRequired": " 단, 5자 이상이 필요합니다.",
+    "invalidProvider": "잘못된 제공자"
+  },
+  "shipmentAdd": {
+    "totalPieces": "총 개수",
+    "consolidate": "통합하다",
+    "shipmentToDisplayOnMap": "지도에 표시할 배송",
+    "productRepository": {
+      "title": "제품 저장소에 추가",
+      "description": "이 제품을 제품 저장소에 저장하시겠습니까?"
+    },
+    "titles": {
+      "details": "배송 세부정보",
+      "transportation": "교통 세부사항",
+      "vendor": "공급업체 세부정보",
+      "bill": "청구지 주소",
+      "category": "카테고리 세부정보",
+      "accounting": "액세서리 및 세금"
+    },
+    "notifications": {
+      "barcodeElementNotfound": "바코드 요소를 찾을 수 없음",
+      "generatedBarcodeOnly": "생성된 바코드만",
+      "costIsRequired": "비용은 필수입니다",
+      "standardTransitDaysIsRequired": "표준 운송일이 필요합니다.",
+      "pickupDeliveryLocations": "배송 운송에는 픽업 및 배송 위치가 하나 이상 있어야 합니다.",
+      "pickupLocation": "배송 운송에는 픽업 위치가 하나 이상 있어야 합니다.",
+      "minimumDeliveryLocation": "배송 운송에는 배송 위치가 하나 이상 있어야 합니다.",
+      "productRequired": "제품 세부정보에는 최소 1개의 제품이 필요합니다.",
+      "fixAccountingSection": "회계 섹션의 유효성 검사 문제를 해결하세요."
+    },
+    "shipmentScreen": {
+      "checkingApproval": "배송 승인 프로세스를 확인하는 중...",
+      "approvalNumber": "승인번호",
+      "masterShipment": "마스터 배송"
+    },
+    "shipmentDetails": {
+      "rateShopResults": "평가 상점 결과",
+      "iTrack": "iTrack",
+      "trackingDetails": "추적 세부정보",
+      "warningModalInternalTracking": "현재 이 기록에 대한 추적 데이터가 없습니다. ",
+      "emptyRecords": "이동통신사로부터 업데이트를 받으려면 잠시 기다려 주십시오.",
+      "checking": "PO, SO 및 PaidBy 가시성을 확인하는 중...",
+      "freightBillProNumber": {
+        "label": "운임 청구서/Pro 번호"
+      },
+      "masterBillOfLandingNumber": {
+        "label": "마스터 착륙장 번호"
+      },
+      "purchaseOrders": {
+        "label": "구매 주문",
+        "message": "구매주문서를 입력해주세요!"
+      },
+      "salesOrders": {
+        "label": "판매 주문"
+      },
+      "paidBy": {
+        "label": "를 통한 결제",
+        "placeholder": "A 지불자를 선택하세요"
+      },
+      "amount": {
+        "label": "양",
+        "placeholder": "양"
+      },
+      "paidPercentage": {
+        "label": "유료 비율:",
+        "placeholder": "백분율"
+      },
+      "of": {
+        "placeholder": "% 의"
+      },
+      "freeOnBoard": {
+        "label": "무료 탑승",
+        "placeholder": "무료 기내 선택"
+      },
+      "customerAccountNumber": {
+        "label": "고객 계좌번호"
+      },
+      "incotermNamedPlace": {
+        "label": "인코텀 지정 장소"
+      }
+    },
+    "transportationDetails": {
+      "addingNewStopIs": "새로운 정류장을 추가하는 것은",
+      "modifyingStopIs": "정류장 수정은",
+      "deletingStopIs": "정류장 삭제는 다음과 같습니다.",
+      "trackContainer": "트랙 컨테이너",
+      "shipmentCity": "배송 도시",
+      "shipmentStateProvince": "배송 시/도",
+      "shipmentCountry": "배송 국가",
+      "receivedDateEST": "받은 날짜",
+      "selectDate": "날짜를 선택하세요",
+      "eventOccurrenceDateLocal": "로컬 이벤트 발생 날짜 및 시간",
+      "transporterRequestedDeliveryDate": "운송업체가 요청한 배송 날짜",
+      "transporterRequestedShipDate": "운송업체가 요청한 배송 날짜",
+      "shipperRequestedDeliveryDate": "배송업체가 요청한 배송 날짜",
+      "shipperRequestedShipDate": "배송업체가 배송 날짜를 요청함",
+      "transportationProviderReferenceNo": "운송업체 참조번호",
+      "actual": "실제",
+      "dateTime": "날짜",
+      "requestedDateTime": "요청 날짜",
+      "appointmentDateTime": "약속 날짜",
+      "delivery": "배달",
+      "totalMiles": "총 마일리지",
+      "addStops": "정류장 추가",
+      "addressBookDescription": "이 주소를 주소록에 저장하시겠습니까?",
+      "addToAddressBook": "주소록에 추가하다",
+      "number": {
+        "placeholder": "숫자"
+      },
+      "ext": {
+        "placeholder": "내선"
+      },
+      "stopType": {
+        "label": "정지 유형",
+        "placeholder": "중지 유형 선택",
+        "message": "중지 유형을 선택하세요."
+      },
+      "stopNo": {
+        "label": "중지 안 함",
+        "placeholder": "중지 선택",
+        "message": "정류장 위치를 ​​선택하세요."
+      },
+      "appointmentNumber": {
+        "label": "약속 번호",
+        "placeholder": "예약번호를 입력하세요."
+      },
+      "dockConfirmationNumber": {
+        "label": "도킹/확인 번호"
+      },
+      "taxIdVat": {
+        "label": "세금 ID/VAT"
+      }
+    },
+    "productDetails": {
+      "freightClassCalculator": "화물 등급 계산기",
+      "copyLastProduct": "마지막 제품 세부 정보 항목 복사",
+      "createNewProduct": "새 제품 만들기",
+      "chargeableWeight": {
+        "label": "청구 가능 중량",
+        "message": "청구 중량을 입력해 주세요",
+        "error": "청구 중량은 숫자여야 합니다.",
+        "minError": "청구 가능 중량은 최소 1이어야 합니다."
+      },
+      "packageBilledQuantity": {
+        "message": "패키지/청구 수량을 입력하세요.",
+        "error": "패키지/청구 수량은 숫자여야 합니다.",
+        "minError": "패키지/청구 수량은 최소 1이어야 합니다."
+      },
+      "length": {
+        "message": "길이를 입력하세요",
+        "error": "길이는 숫자여야 합니다.",
+        "minError": "길이는 1 이상이어야 합니다."
+      },
+      "width": {
+        "message": "너비를 입력하세요",
+        "error": "너비는 숫자여야 합니다.",
+        "minError": "너비는 1 이상이어야 합니다."
+      },
+      "height": {
+        "message": "신장을 입력해주세요",
+        "error": "높이는 숫자여야 합니다.",
+        "minError": "높이는 1 이상이어야 합니다."
+      },
+      "hazmatUnNumber": {
+        "label": "HAZMAT UN 번호"
+      },
+      "saidToContain": {
+        "label": "포함한다고 하더군요"
+      },
+      "purchaseOrders": {
+        "label": "구매 주문",
+        "message": "구매주문서를 입력해주세요!"
+      },
+      "salesOrders": {
+        "label": "판매 주문"
+      },
+      "lineItemNumber": {
+        "label": "품목 번호"
+      },
+      "htsCode": {
+        "label": "HTS 코드"
+      },
+      "nmfcNumber": {
+        "label": "NMFC 번호"
+      }
+    },
+    "rateShopDetails": {
+      "assignTransportationProvider": "운송업체 지정",
+      "preferredTransportationProvider": {
+        "label": "선호하는 교통 제공업체",
+        "placeholder": "선호하는 운송업체를 선택하세요",
+        "message": "선호하는 운송업체를 선택하세요."
+      },
+      "warningModalFilter": "제품 수량, 청구 수량 및 청구 중량은 비워두거나 0일 수 없습니다.",
+      "standrardTransitDays": "표준 운송 일수",
+      "rateEntry": "요금 입력",
+      "rateShopResults": "평가 상점 결과",
+      "tenderEmail": "계속하려면 입찰 이메일을 하나 이상 선택하세요.",
+      "adminEmail": "관리자 이메일 주소",
+      "doNotSendTenderEmail": "입찰 이메일을 보내지 마십시오",
+      "doNotSendBillOfLading": "선하 증권을 보내지 마십시오",
+      "tenderList": "입찰 목록",
+      "shipperInformation": "배송업체 정보",
+      "shipperEmailAddress": "배송업체 이메일 주소",
+      "sendEmailToShipper": "배송업체에 이메일 보내기",
+      "assignTansportationProvider": "입찰 전 친절하게 운송업체를 지정하세요",
+      "ratesCantBe": "요금은 다음보다 오래될 수 없습니다.",
+      "rateShipment": "입찰까지 일. ",
+      "failedRateShopResults": "요금점 결과를 가져오지 못했습니다.",
+      "filedTosaveRatingDetails": "평가 세부정보를 저장하지 못했습니다.",
+      "selectTransportationProvider": "먼저 운송업체를 선택하세요.",
+      "failedAssignTransportationProvider": "운송업체를 할당하지 못했습니다.",
+      "warningModal": "배송이 이미 입찰되었습니다. ",
+      "tenderInformation": "입찰정보",
+      "rateShopSearch": "평가 매장 검색",
+      "rateShopDetails": "요금 상점 세부정보",
+      "emptyRecords": {
+        "title": "지금은 평가 세부정보를 확인할 수 없습니다. 나중에 다시 시도해 주세요."
+      },
+      "standardTransitDays": "표준 운송일",
+      "bidExpiryDate": "입찰 만료일",
+      "days": "날",
+      "convertedCost": "전환비용",
+      "serviceDescription": {
+        "label": "서비스 설명"
+      },
+      "equipmentTypeDetail": {
+        "label": "장비 유형 세부정보"
+      },
+      "userSubmitted": {
+        "label": "사용자가 제출됨"
+      },
+      "bidComment": {
+        "label": "입찰 설명"
+      },
+      "spotQuoteNumber": {
+        "label": "현물 견적 번호"
+      }
+    },
+    "vendorDetails": {
+      "title": "공급업체 세부정보",
+      "addNewVendor": "새 공급업체 추가",
+      "confirmationModal": {
+        "okText": "좋아요",
+        "updateToDelivered": "배송 추적 상태를 배송됨으로 업데이트하시겠습니까?",
+        "deliveredConfirmation": "배송 확인",
+        "acknowledgedConfirmation": "확인된 확인",
+        "updateToShipmentAcknowledged": "배송 추적 상태를 배송 확인으로 업데이트하시겠습니까?"
+      },
+      "updateToShipmentAcknowledged": {
+        "acknowledgedConfirmation": "확인된 확인",
+        "description": "배송 추적 상태를 배송 확인으로 업데이트하시겠습니까?",
+        "okText": "좋아요"
+      },
+      "alertModalDescription": {
+        "notStatus": "입찰 또는 자동 입찰 상태가 아닙니다.",
+        "unableToUpdateShipmentNew": "배송 중 또는 보류 취소됨 상태에서는 배송을 업데이트할 수 없습니다. ",
+        "shipmentNoUpdatedNew": "자동 결제됨, 입찰됨, 확인됨, 배송 중 상태인 경우 배송을 새 상품으로 업데이트할 수 없습니다. ",
+        "shipmentNoUpdatedPlanning": "자동 입찰, 입찰, 확인, 운송 중 상태인 경우 배송을 Planning으로 업데이트할 수 없습니다. ",
+        "unableToUpdateShipmentAutoRoute": "배송 상태가 '입찰', '자동 입찰', '운송 중', '확인', '종료'인 경우 배송을 자동 경로 상태로 업데이트할 수 없습니다. ",
+        "unableToUpdateShipmentRateError": "New, Spot Bid 또는 SpotBidEnd 상태가 아닌 경우 발송물을 요율 오류로 업데이트할 수 없습니다. ",
+        "shipmentStatusAutoTendered": "배송은 자동 입찰됨, 입찰됨, 확인됨, 보류, 운송 중 또는 취소 예정 상태여야 합니다. "
+      },
+      "statusMessage": "상태 메시지",
+      "addingNewVendorIs": "새로운 공급업체를 추가하는 것은",
+      "modifyingVendorIs": "공급업체 수정은 다음과 같습니다.",
+      "deletingVendorIs": "공급업체 삭제는 다음과 같습니다."
+    },
+    "billingDetails": {
+      "vatNumber": {
+        "label": "VAT 번호",
+        "placeholder": "VAT 번호 입력"
+      }
+    },
+    "categoryDetails": {
+      "addNewCategory": "새 카테고리 추가",
+      "subCategory": {
+        "label": "하위 카테고리",
+        "placeholder": "하위 카테고리 선택"
+      }
+    },
+    "accountingDetails": {
+      "showItem": "다음과 같은 값을 가진 항목 표시",
+      "startWith": "시작",
+      "isEqualto": "동일하다",
+      "taxDetails": "세금 세부정보",
+      "addNewTax": "새 세금 추가",
+      "addNewAccessorial": "새로운 부대 비용 추가",
+      "accessorialDetails": "액세서리 세부정보",
+      "taxAmount": {
+        "label": "세금"
+      }
+    },
+    "documentDetails": {
+      "fileName": "파일 이름 :",
+      "supportingDocument": {
+        "label": "지원 문서 참조 번호",
+        "placeholder": "지원 문서 참조 번호 입력"
+      }
+    },
+    "spotBid": {
+      "selectDate": "날짜를 선택하세요",
+      "doNotSendEmail": "이메일을 보내지 마세요",
+      "resetSpotBid": "현물 입찰 재설정",
+      "routingSpotBidList": "라우팅 스팟 입찰 목록",
+      "addBidder": "입찰자 추가",
+      "submitSpotBidTocarriers": "운송업체에 현물 입찰을 제출해 보세요.",
+      "expirationTime": {
+        "label": "만료 시간",
+        "message": "만료 시간을 선택하세요."
+      },
+      "dateHours": "날짜",
+      "submitSpotBid": "현물 입찰 제출",
+      "distributors": "대리점",
+      "shipmentForSpotBid": "귀하의 배송물이 현물 입찰을 위해 발송되었습니다",
+      "endSpotBid": "최종 현물 입찰"
+    }
+  },
+  "getQuote": {
+    "notesHere": "여기에 참고하세요",
+    "characters": "2000자 중 남음",
+    "triggerNotification": "정류장에는 최소한 하나의 출발지가 있어야 합니다!",
+    "destionationTriggerNotification": "정류장에는 목적지가 하나 이상 있어야 합니다!",
+    "productTriggerNotification": "최소 하나의 제품을 추가하세요.",
+    "emptyRecords": {
+      "title": "현재 평가 세부정보를 확인할 수 없습니다.",
+      "desc": "나중에 다시 시도 해주십시오!"
+    },
+    "titles": {
+      "getQuote": "견적 받기",
+      "quoteDetails": "견적 세부정보",
+      "transportationDetails": "교통 세부사항",
+      "quoteNotes": "견적 메모",
+      "additionalServices": "추가적인 서비스",
+      "rateShopResults": "RateShop 결과"
+    },
+    "quoteDetails": {
+      "projectNo": {
+        "label": "프로젝트 번호",
+        "placeholder": "프로젝트 번호를 입력하세요."
+      },
+      "quoteCost": {
+        "label": "견적 비용"
+      },
+      "quoteTransportationProvider": {
+        "label": "견적 운송 제공업체"
+      },
+      "createdBy": {
+        "label": "작성자"
+      }
+    },
+    "transportationDetails": {
+      "delivery": "배달",
+      "totalDistanceMiles": "총 거리(마일)",
+      "totalDistanceKm": "총 거리(KM)",
+      "buttons": {
+        "addStop": "경유지 추가",
+        "deleteStop": "정지 삭제"
+      },
+      "stopType": {
+        "label": "정지 유형",
+        "message": "정류장 유형을 선택하세요."
+      },
+      "stopNo": {
+        "label": "중지 안 함",
+        "message": "정류장 번호를 입력하세요",
+        "error_integer": "중지 번호는 정수여야 합니다!",
+        "error_max": "최대 허용 정류장 수 1~"
+      }
+    },
+    "productDetails": {
+      "productInformation": "제품정보",
+      "itemNo": "제품 번호",
+      "numberOfPackages": {
+        "label": "패키지 수",
+        "message": "패키지 수를 입력하세요."
+      },
+      "chargeableWeight": {
+        "label": "청구 가능 중량",
+        "message": "제품 중량을 입력하세요."
+      },
+      "unit": {
+        "label": "단위"
+      }
+    },
+    "transportationProviderSearch": {
+      "shipmentType": {
+        "label": "배송 유형"
+      },
+      "rateDetails": {
+        "title": "현재 평가 세부정보를 확인할 수 없습니다.",
+        "description_other": "나중에 다시 시도 해주십시오!"
+      }
+    },
+    "rateShopDetails": {
+      "convertedCost": "전환비용",
+      "convertedCurrencyCode": "변환된 통화 코드",
+      "standardTransitDays": "표준 운송일"
+    },
+    "additionalDetails": {
+      "addNewAccessorialCharges": "새로운 부대 비용 추가",
+      "error": "액세서리 을 선택해 주세요",
+      "accessorialName": {
+        "label": "보조 이름"
+      }
+    }
+  },
+  "notificationSettings": {
+    "title": "알림 설정",
+    "distributorContainer": {
+      "title": "배포 세부정보",
+      "button": "새 기록 추가",
+      "recordNo": "기록 번호:",
+      "distributionName": {
+        "label": "배포 이름",
+        "message": "배포 이름을 입력하세요."
+      }
+    },
+    "routingContainer": {
+      "title": "알림 라우팅 세부정보",
+      "addNewNotificationRouting": "새 알림 라우팅 추가",
+      "customerName": "고객 이름 :",
+      "selected": "선택된",
+      "emailList": {
+        "label": "이메일 목록",
+        "message": "이메일은 쉼표로 구분하여 나열할 수 있습니다."
+      },
+      "distributionName": {
+        "label": "배포 이름",
+        "message": "배포 이름을 선택하세요."
+      },
+      "chargeableWeight": {
+        "label": "청구 가능 중량",
+        "placeholder": "청구 중량 입력"
+      }
+    }
+  },
+  "rateShop": {
+    "tabs": {
+      "rateShopResults": "평가 상점 결과"
+    },
+    "buttons": {
+      "viewRateShopResults": "요금 상점 결과 보기",
+      "stops": "정류장"
+    },
+    "rateShop": {
+      "general": "일반적인",
+      "optional": "선택 과목",
+      "laneDetails": "차선 세부정보",
+      "addLane": "차선 추가",
+      "deleteLane": "차선 삭제",
+      "actualCarrierRateShopping": "(실제 통신사) 요금쇼핑",
+      "stopsDetails": "정류장 세부정보",
+      "Add Stop": "경유지 추가",
+      "deleteStop": "정지 삭제",
+      "itemDetails": "품목 세부정보",
+      "addItem": "아이템 추가",
+      "deleteItem": "항목 삭제",
+      "addStop": "경유지 추가",
+      "legDistance": "다리 거리",
+      "tripDistance": "여행 거리",
+      "totalPieces": "총 개수",
+      "totalPiecesEqual": "정차 횟수는 총 개수와 같아야 합니다.",
+      "inDetails": "자세히",
+      "port": "포트",
+      "location": "위치",
+      "pieces": {
+        "label": "조각",
+        "message": "조각을 입력해 주세요"
+      },
+      "numberOfPieces": {
+        "label": "조각 수",
+        "message": "조각 수는 음수 값을 가질 수 없습니다"
+      },
+      "currencyCode": {
+        "message": "통화를 선택하세요"
+      },
+      "pricingType": {
+        "message": "가격 유형을 선택하세요."
+      },
+      "pricingBasis": {
+        "message": "가격 기준을 선택하세요."
+      },
+      "rateSelection": {
+        "label": "요금 선택",
+        "message": "요금 선택을 선택해 주세요"
+      },
+      "measurementUit": {
+        "label": "측정 단결",
+        "message": "측정 단위 을 선택해 주세요"
+      },
+      "shipmentDate": {
+        "message": "배송 날짜를 선택하세요."
+      },
+      "account": {
+        "label": "계정",
+        "placeholder": "계정 입력"
+      },
+      "declaredValue": {
+        "label": "신고 가격"
+      },
+      "codValue": {
+        "label": "COD 값"
+      },
+      "ldmValue": {
+        "label": "LDM 가치"
+      },
+      "length": {
+        "errorLength": "길이는 음수 값을 가질 수 없습니다."
+      },
+      "width": {
+        "errorLength": "너비는 음수 값을 가질 수 없습니다."
+      },
+      "weight": {
+        "message": "체중을 입력해주세요",
+        "errorWeight": "가중치는 음수 값을 가질 수 없습니다.",
+        "errorZero": "가중치는 0보다 커야 합니다."
+      },
+      "height": {
+        "errorNegative": "높이는 음수 값을 가질 수 없습니다."
+      },
+      "billedQuantity": {
+        "label": "청구 수량",
+        "errorNegative": "청구 수량은 음수 값을 가질 수 없습니다."
+      },
+      "ratingClass": {
+        "label": "등급 등급",
+        "message": "등급 등급을 선택하세요."
+      }
+    },
+    "rateShopResult": {
+      "shippingDate": "배송일",
+      "measurementType": "측정 유형",
+      "imperial": "장엄한",
+      "metric": "미터법",
+      "emptyRecords": "지금은 평가 세부정보를 확인할 수 없습니다. 나중에 다시 시도해 주세요.",
+      "noRatesFound": "요금을 찾을 수 없습니다!",
+      "code": "암호",
+      "calculationType": "계산 유형",
+      "effectiveFrom": "발효일:",
+      "charge": "요금",
+      "accessorialDiscount": "액세서리 할인",
+      "fuel": "연료",
+      "note": "메모",
+      "accessorialBasis": "액세서리 기반",
+      "effectiveTo": "유효 기간:",
+      "deficitWeight": "적자체중",
+      "deficitRate": "적자율",
+      "itemsTotalCharge": "항목 총 요금",
+      "deficitCharge": "적자금",
+      "grossCharge": "총 요금",
+      "totalDiscount": "총 할인",
+      "baseCharge": "기본요금",
+      "itemNo": "제품 번호",
+      "piece": "조각",
+      "absMin": "ABS 최소",
+      "rateCostPer": "요율/비용",
+      "discount": "할인",
+      "uom": "어옴",
+      "actualClass": "실제 수업",
+      "absMax": "ABS 맥스",
+      "amount": "양",
+      "totalTaxCharge": "총 세금 부과액",
+      "taxBasis": "세금 기준",
+      "discountAmount": "할인 량",
+      "discountPercentage": "할인율",
+      "mileage": "마일리지(마일)",
+      "totalAcc": "총 계정",
+      "totalTax": "총 세금",
+      "totalCost": "총 비용",
+      "bureauMC": "뷰로MC",
+      "directPoint": "다이렉트 포인트",
+      "totalShipmentCost": "총 배송 비용",
+      "service": "서비스",
+      "equipment": "장비",
+      "distance": "거리(마일/km)",
+      "miles": "마일리지",
+      "kms": "KMS",
+      "tariffName": "관세명",
+      "pricingEffectiveDate": "가격 발효일",
+      "to": "에게",
+      "tariffEffectiveDate": "관세 발효일",
+      "pricingKey": "가격 책정 키",
+      "tariffKey": "관세 키",
+      "liner": "정기선",
+      "laneCode": "차선 코드",
+      "laneAlias": "차선 별칭",
+      "rateShopResult": "평가 상점 결과",
+      "accessorials": "액세서리",
+      "taxes": "구실"
+    },
+    "globalRateShope": "글로벌 요금 판매점",
+    "taxDetails": "세금 세부정보",
+    "totalAccessorialCharge": "총 부대비용",
+    "addNew": "멈추지 말고 새로 추가해 보세요!",
+    "stop": "멈추다"
+  },
+  "procurement": {
+    "createProject": "프로젝트 생성",
+    "createTender": "입찰 생성",
+    "download": "다운로드",
+    "projectName": {
+      "label": "프로젝트 이름",
+      "placeholder": "프로젝트 이름"
+    },
+    "tenderName": {
+      "label": "입찰명",
+      "placeholder": "입찰명"
+    },
+    "subMenu": {
+      "project": "프로젝트",
+      "tender": "부드러운",
+      "bidAnalysis": "입찰 분석",
+      "routeConfiguration": "경로 구성"
+    },
+    "routeConfigurationTabs": {
+      "location": "위치",
+      "lane": "레인",
+      "zone": "존"
+    },
+    "filters": {
+      "projectSearch": "프로젝트 검색",
+      "tenderSearch": "입찰 검색",
+      "searchCriteria": "검색 조건",
+      "tender": "부드러운",
+      "admin": "관리자",
+      "generalDetails": "일반 세부사항",
+      "rank": "계급",
+      "summarizeCritria": "기준 요약",
+      "includeHistorical": "과거 포함",
+      "laneSearch": "차선 검색",
+      "zoneSearch": "구역 검색"
+    },
+    "projectTabs": {
+      "projectDetails": "프로젝트 세부정보",
+      "tenderDetails": "입찰 세부정보"
+    },
+    "tenderTabs": {
+      "tenderInformation": "입찰정보",
+      "documentation": "선적 서류 비치",
+      "laneInformation": "차선정보",
+      "bidParameters": "입찰 매개변수"
+    },
+    "fields": {
+      "service": "서비스",
+      "addDestination": "목적지 추가",
+      "destinationDetails": "목적지 세부정보",
+      "region": "지역",
+      "addOrigin": "출발지 추가",
+      "originDetails": "원산지 세부정보",
+      "destinationStucuture": "대상 구조(섹션)",
+      "originStucuture": "원점 구조(헤드)",
+      "bidTransportationProvider": "BID 운송 제공업체",
+      "baseBIDPrice": "기본 입찰 가격",
+      "bidRankBidTransportationProvider": "BID 순위 BID 운송 제공업체",
+      "currentBIDPrice": "현재 입찰 가격",
+      "bidRankBaseTransportationProvider": "BID 순위 기본 운송 제공업체",
+      "lanesNotCovered": "차선이 적용되지 않음",
+      "lanesCovered": "덮힌 차선",
+      "numberOfLanes": "차선 수",
+      "currentBIDTransportationProvider": "현재 BID 운송 제공업체",
+      "baseTransportationProvider": "기지 운송 제공업체",
+      "parameterType": {
+        "label": "매개변수 유형"
+      },
+      "projectStatus": {
+        "label": "프로젝트 상태",
+        "placeholder": "프로젝트 상태 선택",
+        "message": "프로젝트 상태를 선택해주세요",
+        "true": "활동적인",
+        "false": "비활성"
+      },
+      "tenderStatus": {
+        "label": "입찰 상태:",
+        "true": "활동적인",
+        "false": "비활성"
+      },
+      "projectApproved": {
+        "label": "프로젝트 승인 상태",
+        "message": "프로젝트 승인 상태를 선택하세요."
+      },
+      "projectApprovedBy": {
+        "label": "프로젝트 승인자"
+      },
+      "projectLead": {
+        "label": "프로젝트 리더",
+        "message": "프로젝트 리더를 선택하세요."
+      },
+      "tecSupport": {
+        "label": "기술적 지원",
+        "message": "기술지원을 선택해 주세요"
+      },
+      "tecLead": {
+        "label": "기술 책임자",
+        "message": "기술지원을 선택해 주세요"
+      },
+      "projectSupport": {
+        "label": "프로젝트 지원",
+        "message": "프로젝트 지원을 선택해주세요"
+      },
+      "groupBy": {
+        "label": "그룹화 기준"
+      },
+      "formulaName": {
+        "label": "수식 이름",
+        "placeholder": "총 비용"
+      },
+      "parameters": {
+        "label": "매개변수",
+        "placeholder": "매개변수 입력"
+      },
+      "formula": {
+        "label": "공식",
+        "placeholder": "배송 기본 비용"
+      },
+      "summarizeCritria": {
+        "label": "기준 요약"
+      },
+      "actualName": {
+        "label": "실제 프로젝트 이름"
+      },
+      "description": {
+        "placeholderDesc": "입찰 설명",
+        "message": "설명을 추가해주세요"
+      },
+      "modeOfTender": {
+        "label": "입찰 방식"
+      },
+      "tecSupServicePort": {
+        "label": "기술 지원 서비스 범주 포트"
+      },
+      "reference": {
+        "label1": "참고문헌 1",
+        "label2": "참고문헌 2",
+        "placeholder": "참조"
+      },
+      "transportationMode": {
+        "label": "교통수단"
+      },
+      "prameterDisplayName": {
+        "label": "매개변수 표시 이름:"
+      },
+      "locationName": {
+        "title": "위치 명",
+        "label": "위치 명:",
+        "placeholder": "위치 이름을 입력하세요"
+      },
+      "originType": {
+        "label": "원산지 유형",
+        "placeholder": "원산지 유형 선택"
+      },
+      "originName": {
+        "label": "원산지 이름",
+        "placeholder": "원산지 이름을 입력하세요"
+      },
+      "destinationType": {
+        "label": "목적지 유형",
+        "placeholder": "대상 유형 선택"
+      },
+      "destinationName": {
+        "label": "대상 이름",
+        "placeholder": "목적지 이름을 입력하세요"
+      },
+      "zoneName": {
+        "label": "구역 이름",
+        "placeholder": "구역 이름"
+      },
+      "date": {
+        "startDate": "시작일",
+        "endDate": "종료일",
+        "projectStartDate": "프로젝트 시작일",
+        "projectEndDate": "프로젝트 종료일",
+        "tenderStartDate": "입찰 시작일",
+        "tenderEndDate": "입찰 종료일",
+        "startDateTime": "시작 날짜 및 시간",
+        "placeholder": "날짜 선택",
+        "endDateAndTime": "종료 날짜 및 시간"
+      }
+    },
+    "projectCard": {
+      "details": "프로젝트 세부정보",
+      "information": "프로젝트 정보",
+      "projectDescription": "프로젝트 설명",
+      "projectStartDate": "프로젝트 시작일",
+      "projectEndDate": "프로젝트 종료일",
+      "mileStones": "마일스톤",
+      "startDate": "시작일",
+      "endDate": "종료일",
+      "actualName": "실제 프로젝트 이름",
+      "preparationFiles": "준비 파일",
+      "bidCollectionPhase": "입찰 수집 단계",
+      "selectionPhase": "선택 단계",
+      "currentRound": "현재 라운드:",
+      "modeOfTender": "입찰 방식",
+      "transportationMode": "교통수단",
+      "serviceCategory": "서비스 카테고리",
+      "notificationSuccess": "프로젝트 생성 성공",
+      "notificationError": "프로젝트 생성 오류"
+    },
+    "tenderCard": {
+      "trackingStatus": "추적 상태",
+      "modeOfTender": "입찰 방식",
+      "tenderStartDate": "입찰 시작일",
+      "laneCovered": "덮힌 차선",
+      "tenderEndDate": "입찰 종료일",
+      "currentRound": "현재 라운드",
+      "bidCollectionStartDateTime": "입찰 수집 시작 날짜 및 시간",
+      "bidCollectionEndDateTime": "입찰 수집 종료 날짜 및 시간",
+      "laneName": "차선 이름:",
+      "dellasLocation": "델라스 위치",
+      "prameterDisplayName": "매개변수 표시 이름:",
+      "prameterType": "매개변수 유형",
+      "required": "필수/필수 아님",
+      "parameterDataType": "매개변수 데이터 유형",
+      "value": "값",
+      "repeated": "반복됨",
+      "historicalOnly": "역사적 내용만",
+      "rflStatus": "RFL 상태",
+      "rfqStatus": "RFQ 상태",
+      "rfiRequestDate": "RFI 요청 날짜",
+      "rfqRequestDate": "RFQ 요청 날짜",
+      "rfiRespondDate": "RFI 응답 날짜",
+      "rfqRespondDate": "RFQ 응답 날짜"
+    },
+    "modalTransportationProvider": {
+      "title": "운송업체 검색/추가",
+      "shortName": "짧은 이름",
+      "countryCallingCode": "국가별 전화번호",
+      "number": "숫자",
+      "ext": "내선",
+      "fax": "팩스",
+      "modeType": "모드 유형"
+    },
+    "bigAnalysisCard": {
+      "rankAndCost": "순위와 비용",
+      "laneCoverage": "차선 범위",
+      "details": "세부",
+      "laneCoverageAnalysis": "차선 커버리지 분석",
+      "combinationAnalysis": "조합분석",
+      "bidRank": "입찰 순위",
+      "winningLanes": "승리 차선",
+      "chart": "차트",
+      "bidLane": "BID 레인",
+      "totalLanes": "총 차선",
+      "percentageCoverage": "적용 범위",
+      "includeHistorical": "과거 포함",
+      "orgin": "원산지",
+      "shipment": "선적",
+      "bidedUnitPrice": "입찰 단가",
+      "baseCost": "기본 비용",
+      "rank": "계급",
+      "savingPercentage": "저축률",
+      "liftGate": "리프트 게이트",
+      "savingAmount": "저축금액",
+      "trackingStatus": "추적 상태",
+      "trackingStatusType": "추적 상태 유형",
+      "shipperShipDate": "배송업체가 배송 날짜를 요청함"
+    },
+    "routeConfigurationCard": {
+      "lane": "레인",
+      "zoneName": "구역 이름"
+    },
+    "footer": {
+      "totalActive": "총 활성 프로젝트",
+      "totalApproved": "총 승인 프로젝트",
+      "total": "총 프로젝트",
+      "totalShipments": "총 출하량",
+      "openShipments": "배송 개시",
+      "closedShipments": "마감된 배송",
+      "exceptions": "예외"
+    }
+  },
+  "purchase-order-view": {
+    "shipmentLandingList": "배송 도착 목록",
+    "filterTitle": "구매 주문 검색",
+    "pageTitle": "구매 주문 정보",
+    "draftOrderSearch": "초안 주문 검색",
+    "shipmentSearch": "배송조회",
+    "vendorAddressSearch": "공급업체 주소 검색",
+    "regularOrders": "일반 주문",
+    "releaseOrders": "릴리스 주문",
+    "originDetails": "원산지 세부정보",
+    "shipperDetails": "배송업체 세부정보",
+    "destinationDetails": "목적지 세부정보",
+    "consigneeDetails": "수취인 세부정보",
+    "wareHouseContactDetails": "창고 연락처 정보",
+    "wareHouseDetails": "창고 세부정보",
+    "suzhouDousonDrillingProdu": "소주 Douson 드릴링",
+    "contactPerson": "담당자",
+    "telephoneNo": "전화번호",
+    "extension": "확대",
+    "otherDetails": "그 외 세부 사항",
+    "htsCode": "HTS 코드",
+    "sureToReset": "재설정하시겠습니까?",
+    "quanityLeft": "남은 수량",
+    "quantityShippeError": "값은 남은 수량보다 작아야 합니다!",
+    "originDestinationDetails": "출발지 및 목적지 세부정보",
+    "warehouseContactInfoDetails": "창고 연락처 정보 및 세부 정보",
+    "appointmentIsRequired": "예약이 필요합니다",
+    "warehouseContactMsg": "창고 연락처를 입력하세요.",
+    "shipperAddressMsg": "배송지 주소를 입력해주세요",
+    "warehouseTelephoneMsg": "창고 전화번호를 입력해 주세요",
+    "emailMsg": "이메일 주소를 입력해주세요",
+    "checkboxMsg": "이 확인란을 선택하면 선택한 수취인 우편번호 위치 결과를 얻을 수 있습니다.",
+    "NoOfItems": "품목수",
+    "itemShipDate": "품목 배송 날짜",
+    "addPackageID": "패키지 ID 추가",
+    "newShipDateError": "새 배송 날짜는 1년을 초과할 수 없습니다.",
+    "newShipPastDateError": "새 배송 날짜는 과거 날짜일 수 없습니다.",
+    "totalNoOfProducts": "총 제품수",
+    "releaseQuantity": "출시 수량",
+    "createShipment": "배송물 생성",
+    "updateShipment": "배송 업데이트",
+    "locationDetails": "위치 세부정보",
+    "locationCity": "위치 도시",
+    "warehouseDetails": "창고 세부정보",
+    "enterQuantityLeft": "남은 수량을 입력하세요",
+    "action": "행동",
+    "sureToDelete": "삭제하시겠습니까?",
+    "copyLastPackageId": "마지막 패키지 ID 복사",
+    "resetPurchaseOrder": "구매 주문 재설정",
+    "percentageLeftItems": "남은 비율(남은 항목)",
+    "orderStatus": "주문 상태",
+    "topVendors": "최고 공급업체",
+    "topCustomers": "상위 고객",
+    "shipmentsStatus": "배송현황",
+    "topLocationsOrderWise": "상위 위치(현명한 주문)",
+    "topProducts": "인기 제품",
+    "shipmentInformation": "배송정보",
+    "shipperStateProvience": "배송업체 주/지방",
+    "consigneeStateProvience": "수취인 주/지방",
+    "totalOrders": "총 주문",
+    "openOrders": "미결 주문",
+    "dueinNext7Days": "다음 7일 안에 마감",
+    "delayedOrders": "지연된 주문",
+    "closedOrders": "마감된 주문",
+    "lastCreatedShipmentNumber": "마지막으로 생성된 배송 번호",
+    "vendorsInformation": "공급업체 정보",
+    "date": "날짜",
+    "addNewRecord": "새 기록 추가",
+    "confirmPurchaseOrder": "구매 주문 확인",
+    "resetReleaseOrder": "출시 주문 재설정",
+    "purchaseItemInformation": "구매 품목 정보",
+    "vendorAddressSearchExport": "공급업체 주소 검색 내보내기",
+    "purchaseOrderExport": "구매 주문 내보내기",
+    "addNewPackageId": "새 패키지 ID 추가",
+    "applyCountryButton": "모든 라인에 원산지 적용",
+    "shipmentEntry": "배송 항목",
+    "shipmentItemDetails": "배송 품목 세부정보",
+    "shipmentSummary": "배송 요약",
+    "totalMiles": "총 마일리지",
+    "chargableWeight": "청구 가능 무게",
+    "shipmentCreatedDate": "배송 생성 날짜",
+    "shipmentNumbers": "배송 번호",
+    "draftOrderSearchExport": "초안 주문 검색 내보내기",
+    "shipmentCreateDate": "배송 생성 날짜",
+    "shipmentSearchExport": "배송조회 내보내기",
+    "chargeableWeight": "청구 가능 중량",
+    "createFinalShipment": "최종 배송 생성",
+    "unSelectAll": "모두 선택 해제",
+    "shipmentSearchInformation": "배송조회정보",
+    "draftOrderSearchInformation": "초안 주문 검색 정보",
+    "pleaseEnterLocationAddress": "위치 주소를 입력하세요",
+    "pleaseSelectCountry": "국가를 선택하세요.",
+    "pleaseChooseState": "주를 선택해 주세요",
+    "pleaseEnterLocationName": "위치 이름을 입력하세요.",
+    "warehouseEmailAddress": "창고 이메일 주소",
+    "kindlyFillAllRequiredFields": "필수 입력란을 모두 작성해 주세요.",
+    "approver": "승인자",
+    "pleaseEnterTheAir": "항공 운송 승인자를 입력하십시오.",
+    "shipmentConfirmationNumber": "배송 확인 번호",
+    "kindlyEnterConfirmationNumber": "확인번호를 입력해주세요.",
+    "createShipmentExport": "배송 내보내기 생성",
+    "noRoutingDataAvailable": "사용 가능한 라우팅 데이터가 없습니다.",
+    "clickToContinueShipment": "배송을 계속하려면 클릭하세요.",
+    "failedToGenerate": "포장 목록 파일을 생성하지 못했습니다.",
+    "pleaseChooseTheCustomer": "고객을 선택해 주세요",
+    "addingPO": {
+      "description": "PO 추가는 초안 배송에만 허용됩니다.",
+      "title": "알리다",
+      "okText": "좋아요"
+    },
+    "confirmationModal": {
+      "description": "구매 주문서가 동일한 배송으로 결합되려면 국가 및 우편번호가 동일해야 합니다.",
+      "okText": "좋아요"
+    },
+    "error": {
+      "emtyDate": "날짜를 입력하세요",
+      "shipdateYear": "예상 배송일은 1년 이후일 수 없습니다.",
+      "shipmentPastDate": "지난 날짜로는 배송을 생성할 수 없습니다. ",
+      "shippedQuantity": "배송된 수량은 남은 수량보다 적어야 합니다.",
+      "similarConsigneelocationOrders": "유사한 수취인 위치 주문을 가져오고 있습니다!"
+    },
+    "fields": {
+      "purchasePartNumber": {
+        "label": "부품 번호 구매"
+      },
+      "purchasePartDescription": {
+        "label": "구매 부품 설명"
+      },
+      "date": {
+        "createdDate": "생성 날짜",
+        "placeholder": "날짜 선택",
+        "messageFromCreateOnDate": "생성 날짜를 선택하세요.",
+        "messageToCreateOnDate": "오늘까지 생성을 선택하세요.",
+        "messageFromShipnDate": "배송일을 선택해주세요.",
+        "messageToShipDate": "배송일을 선택해주세요"
+      },
+      "length": {
+        "message": "길이를 입력해주세요"
+      },
+      "width": {
+        "message": "너비를 입력하세요."
+      },
+      "height": {
+        "message": "키를 입력해주세요"
+      },
+      "houseBillofLadingNumber": {
+        "label": "주택 착륙장 번호"
+      },
+      "packageWeigh": {
+        "label": "패키지 무게",
+        "message": "패키지 중량을 입력하세요."
+      },
+      "weightUnitOfMeasure": {
+        "label": "중량 측정 단위"
+      },
+      "packagedId": {
+        "placeholder": "패키지 ID 입력",
+        "message": "패키지 ID를 입력하세요."
+      },
+      "quantityShipped": {
+        "placeholder": "배송 수량 입력",
+        "error": "값은 남은 수량보다 작아야 합니다.",
+        "errorOr": "값은 남은 수량보다 작거나 같아야 합니다!",
+        "message": "배송 수량을 입력해주세요"
+      },
+      "locationName": {
+        "label": "위치 명"
+      },
+      "locationAddress": {
+        "label": "위치 주소"
+      },
+      "locationCountry": {
+        "label": "위치 국가"
+      },
+      "locationPostalCode": {
+        "label": "위치 우편번호"
+      },
+      "locationStateProvince": {
+        "label": "위치 시/도"
+      },
+      "countryOfOrigin": {
+        "placeholder": "원산지 선택",
+        "message": "원산지를 선택해 주세요"
+      },
+      "class": {
+        "label": "수업"
+      },
+      "containerNumber": {
+        "label": "컨테이너 번호",
+        "placeholder": "컨테이너 번호를 입력하세요"
+      },
+      "locationCity": {
+        "label": "위치 도시"
+      }
+    }
+  },
+  "tms-settings": {
+    "title": "TMS 설정",
+    "companySettings": "회사 설정",
+    "shipmentSettings": "배송 설정",
+    "auctionSettings": "경매 설정",
+    "povSettings": "POV 설정",
+    "generalSettings": "일반 설정",
+    "defaultShipmentPageValues": "기본 배송 페이지 값",
+    "shipmentApprovalProcess": "배송 승인 프로세스",
+    "emailDistribution": "이메일 배포",
+    "additionalSettings": "추가 세팅",
+    "autoRouteProcess": "자동 경로 프로세스",
+    "shipmentEntryPageSettings": "발송물 입력 페이지 설정",
+    "fields": {
+      "purchaseOrderNumber": {
+        "placeholder": "구매 주문 번호 입력"
+      },
+      "emailMessage": "올바른 이메일 형식을 입력하세요.",
+      "statusInTMS": {
+        "label": "TMS의 상태",
+        "placeholder": "상태를 선택해주세요",
+        "message": "TMS의 상태가 필요합니다.",
+        "optionActive": "활동적인",
+        "optionInActive": "비활성",
+        "tooltip": "고객이 TMS에 있으면 활성이고, 그렇지 않으면 비활성입니다."
+      },
+      "brokerageCustomer": {
+        "label": "회사 유형",
+        "message": "회사 유형이 필요합니다.",
+        "placeholder": "회사 유형을 선택하세요.",
+        "optionTMS": "TMS",
+        "optionBrokerage": "중개",
+        "tooltip": "이 설정은 사용자가 추가하는 고객이 일반 TMS 고객인지 중개 고객인지를 나타냅니다."
+      },
+      "shipmentNoCounter": {
+        "label": "배송 번호 카운터",
+        "message": "배송 번호 카운터를 입력하세요.",
+        "error": "배송 번호 카운터는 8자리여야 합니다.",
+        "tooltip": "새 배송이 생성될 때 배송 번호 계산이 시작되는 번호"
+      },
+      "masterChildShipment": {
+        "label": "마스터/하위 배송",
+        "placeholder": "마스터/하위 배송을 선택하십시오.",
+        "tooltip": "고객을 위한 마스터/하위 배송 프로세스를 활성화합니다."
+      },
+      "pricingType": {
+        "optionCarrierRate": "운송업체 요금",
+        "tooltip": "어떤 가격 유형 등급을 수행해야 하는지에 따라 정의합니다. "
+      },
+      "displayPaidBY": {
+        "label": "'지불자' 표시",
+        "placeholder": "'결제자' 표시를 선택하세요.",
+        "tooltip": "배송 유지 관리 페이지에서 '지불자' 필드를 엽니다."
+      },
+      "shipmentApprovalProcess": {
+        "label": "배송 승인 프로세스",
+        "placeholder": "배송 승인 프로세스를 선택하세요.",
+        "tooltip": "고객을 위한 배송 승인 프로세스를 활성화합니다."
+      },
+      "validateCategoryDetails": {
+        "label": "카테고리 세부정보 확인",
+        "placeholder": "카테고리 세부정보 확인을 선택하세요.",
+        "tooltip": "사용자가 배송 유지 관리 페이지에서 카테고리를 입력해야 하는 경우 이 설정이 제공되지 않은 경우 유효성이 검사됩니다."
+      },
+      "calculateChargeableWeight": {
+        "label": "청구 중량 계산",
+        "placeholder": "청구 중량 계산을 선택하세요.",
+        "tooltip": "배송 유지 관리 페이지에서 제품 세부 정보 아코디언 사용자가 제품 세부 정보를 입력하면 이 설정이 활성화된 경우 청구 가능 중량이 자동으로 계산됩니다."
+      },
+      "routingGuideMatch": {
+        "label": "라우팅 가이드 매치",
+        "placeholder": "라우팅 가이드 일치를 선택하세요.",
+        "tooltip": "설정이 '예'로 설정된 경우 Routing Guide 설정 페이지에 있는 운송업체에 대해 배송 등급이 지정됩니다."
+      },
+      "shipmentCategoryVisible": {
+        "label": "배송 카테고리 표시",
+        "placeholder": "배송 카테고리 표시를 선택하세요.",
+        "tooltip": "배송 추가 및 배송 편집 화면에서 카테고리 섹션의 가시성을 켭니다."
+      },
+      "shipmentBillToVisible": {
+        "label": "배송 청구서 표시",
+        "placeholder": "배송 청구서 표시를 선택하세요.",
+        "tooltip": "배송 추가 및 배송 편집 화면에서 청구지 섹션의 가시성을 켭니다."
+      },
+      "shipmentVendorVisible": {
+        "label": "배송업체 표시",
+        "placeholder": "배송업체 표시를 선택하세요.",
+        "tooltip": "배송 추가 및 배송 편집 화면에서 공급업체 섹션의 가시성을 켭니다."
+      },
+      "branch": {
+        "tooltip": "지점을 정의할 수 없는 경우 배송 시 기본 지점이 설정됩니다."
+      },
+      "defaultSpotBidEndStatus": {
+        "label": "기본 현물 입찰 종료 상태",
+        "placeholder": "기본 현물 입찰 종료 상태를 선택하세요.",
+        "tooltip": "배송에 대한 현물 입찰 시간이 만료되면 배송 상태를 New 또는 SpotBIdEnd로 다시 변경하거나 현물 입찰 상태를 그대로 유지할 수 있습니다."
+      },
+      "displayPOSOShipmentLevel": {
+        "label": "PO/SO 배송 수준 표시",
+        "placeholder": "PO/SO 배송 수준 표시를 선택하십시오.",
+        "tooltip": "설정이 '예'로 설정된 경우 '구매 주문' 및 '판매 주문' 필드가 배송 유지 관리 페이지에 나타납니다. "
+      },
+      "shipmentTypes": {
+        "label": "배송 유형",
+        "tooltip": "이 설정은 POV에서 수동으로 생성된 배송에 대한 기본 배송 유형을 설정합니다.",
+        "option_i": "인바운드",
+        "option_c": "회사간",
+        "option_o": "배 밖으로",
+        "option_t": "제3자"
+      },
+      "displayRatingDetailsAccordion": {
+        "label": "등급 세부 정보 표시 아코디언",
+        "placeholder": "등급 세부정보 표시를 선택하세요. 아코디언",
+        "tooltip": "등급 세부 정보 표시 아코디언"
+      },
+      "hazmat": {
+        "label": "유해 물질",
+        "placeholder": "위험 물질 선택",
+        "tooltip": "배송 페이지의 제품 세부정보에 있는 Hazmat 기본값이 예 또는 아니요로 설정되어 있습니다."
+      },
+      "ratingPreference": {
+        "label": "평가 선호도",
+        "placeholder": "선호하는 평가를 선택하세요",
+        "tooltip": "배송 유지 관리 페이지의 기본 등급 기본 설정",
+        "option_a": "모든 항공사",
+        "option_l": "최소 비용",
+        "option_r": "필수의"
+      },
+      "length": {
+        "tooltip": "제품 세부 정보 아코디언에 기본 길이를 설정합니다."
+      },
+      "width": {
+        "tooltip": "제품 세부 정보 아코디언의 기본 너비를 설정합니다."
+      },
+      "height": {
+        "tooltip": "제품 세부 정보 아코디언에 기본 높이를 설정합니다."
+      },
+      "defaultInternalNotes": {
+        "label": "기본 내부 메모",
+        "placeholder": "기본 내부 메모..."
+      },
+      "shipmentApprovalCount": {
+        "label": "배송 승인 횟수",
+        "tooltip": "이 설정은 승인 프로세스에 필요한 최대 승인자 수를 지정합니다."
+      },
+      "requireApprovalNumber": {
+        "label": "승인번호 필요",
+        "placeholder": "승인 번호 필요를 선택하세요.",
+        "tooltip": "이 설정이 켜져 있으면 배송이 생성될 때 해당 승인 번호가 생성됩니다. "
+      },
+      "adminEmail": {
+        "label": "관리자 이메일 주소",
+        "messageRequired": "관리자 이메일 주소를 입력하세요",
+        "tooltip": "그러면 자동으로 생성된 모든 이메일이 전송될 이메일 주소가 설정됩니다. "
+      },
+      "supportEmail": {
+        "label": "지원 이메일 주소",
+        "messageRequired": "지원 이메일 주소를 입력하세요",
+        "tooltip": "Tender 또는 Spot bis와 같은 이메일 알림이 운송업체에 전송되면 질문이 있는 경우 운송업체가 연락할 수 있는 고객 측 지원팀의 이메일 주소가 있습니다."
+      },
+      "fromEmail": {
+        "label": "이메일 '보낸 사람' 이메일 주소",
+        "messageRequired": "이메일 '보낸 사람' 이메일 주소를 입력하세요.",
+        "tooltip": "이메일 제목의 '보낸 사람' 필드에 포함될 이메일입니다."
+      },
+      "attachSupportingDoc": {
+        "label": "이메일에 지원 문서 첨부",
+        "placeholder": "이메일에 지원 문서 첨부를 선택하십시오.",
+        "tooltip": "이메일에 지원 문서 첨부"
+      },
+      "childShipment": {
+        "label": "하위 선적 수량 허용한도 %",
+        "message": "하위 선적 수량 허용한도(%)를 입력하십시오.",
+        "tooltip": "그러면 마스터/하위 배송 프로세스에 대한 수량 필드 검증이 설정됩니다. "
+      },
+      "autoRateProcess": {
+        "label": "자동 평가 프로세스",
+        "placeholder": "자동 평가 프로세스를 선택하세요.",
+        "tooltip": "자동 평가 프로세스를 비활성화합니다."
+      },
+      "autoTenderProcess": {
+        "label": "자동입찰 과정",
+        "placeholder": "입찰과정을 선택해 주세요",
+        "tooltip": "고객 수준에서 자동 입찰 프로세스를 사용할 수 없습니다."
+      },
+      "maxAutoTenderAmount": {
+        "label": "최대 자동 입찰 금액",
+        "placeholder": "최대 자동 입찰 금액을 선택하세요.",
+        "tooltip": "최대 허용 금액을 설정합니다. 자동으로 관리되는 금액입니다."
+      },
+      "recalculateFreightClass": {
+        "label": "화물 등급 재계산",
+        "tooltip": "설정이 배송의 화물 클래스보다 '예'로 설정된 경우 배송에 이미 제공되었는지 여부를 무시하고 자동 경로 프로세스를 통해 다시 계산됩니다."
+      },
+      "autoTenderSpecificCargoType": {
+        "label": "자동 입찰 특정 화물 유형",
+        "tooltip": "자동 입찰 특정 화물 유형"
+      },
+      "defaultEquipmentType": {
+        "label": "기본 장비 유형",
+        "tooltip": "이 설정을 통해 사용자는 모든 배송에 대해 경매에서 운송업체에 표시될 장비 유형을 제시할 수 있습니다."
+      },
+      "defaultCargoType": {
+        "label": "기본 화물 유형",
+        "placeholder": "기본 화물 유형",
+        "tooltip": "운송업체에 대한 경매 모듈의 기본 화물 유형"
+      },
+      "populateBidExpiryDate": {
+        "label": "입찰 만료 날짜 채우기",
+        "placeholder": "입찰 만료일 입력을 선택하세요.",
+        "tooltip": "Spot 입찰에 따라 이미 만료된 운송업체가 제공한 Spot 입찰보다 설정이 '예'로 설정된 경우 고객 사용자가 배송 요금 상점 결과에서 선택할 수 있는 만료 날짜가 제공되지 않습니다. "
+      },
+      "addDaysBidExpiryDate": {
+        "label": "입찰 만료일에 일수 추가",
+        "placeholder": "입찰 만료일에 일수 추가",
+        "tooltip": "입찰 만료일에 일수 추가"
+      },
+      "auctionType": {
+        "label": "경매 유형",
+        "placeholder": "경매 유형을 선택하세요.",
+        "tooltip": "역경매를 비활성화합니다. 즉, 운송업체는 서로의 입찰가보다 낮게 입찰해야 합니다."
+      },
+      "maximumBidHours": {
+        "maximumBidHours": "최대 입찰 시간",
+        "message": "최대 입찰 시간을 입력하세요.",
+        "error": "최대 입찰 시간이 최대 허용 입찰 시간을 초과합니다.",
+        "tooltip": "배송 모듈에서 사용자가 현물 입찰로 배송을 보낼 때 현물 입찰 시간을 설정할 수 있습니다. "
+      },
+      "turnONPOVModule": {
+        "label": "POV 모듈 켜기",
+        "placeholder": "POV 모듈 켜기를 선택하세요.",
+        "message": "POV 모듈 켜기를 선택하십시오.",
+        "tooltip": "'예'인 경우 POV를 통해 배송을 생성할 수 있으며, '아니요'인 경우 POV를 통해 배송을 생성할 수 없습니다."
+      },
+      "shipmentStartingNumber": {
+        "label": "배송 시작 번호",
+        "tooltip": "이렇게 하면 Alpha Prefix 이후에 올 정수 번호로 시작하는 배송 번호가 설정됩니다. "
+      },
+      "shipmentNumberPrefix": {
+        "label": "배송 번호 접두어",
+        "tooltip": "그러면 배송 번호 접두어가 설정됩니다. "
+      },
+      "noRoutingGuideCarriersReturned": {
+        "label": "반환된 라우팅 가이드 캐리어 수",
+        "tooltip": "'Routing Method' = 'Routing Guide'인 경우 라우팅 가이드에서 반환된 항공사 수는 제공된 수로 제한됩니다."
+      },
+      "shipmentTermsAllowed": {
+        "label": "허용되는 배송 조건",
+        "placeholder": "허용되는 배송 조건을 선택하세요.",
+        "option_all": "--모두--",
+        "option_c": "모으다",
+        "option_p": "선불",
+        "option_t": "제3자",
+        "tooltip": "이 설정은 배송에 사용할 수 있는 배송 조건을 지정합니다."
+      },
+      "povDestinationMethod": {
+        "label": "POV 대상 방법",
+        "placeholder": "POV 대상 방법 선택",
+        "message": "POV 모듈 켜기를 선택하십시오.",
+        "tooltip": "On Shipment Entry 페이지의 목적지 주소는 Vendor 사용자를 위해 미리 설정되어 있습니다. "
+      },
+      "routingMethod": {
+        "label": "라우팅 방법",
+        "placeholder": "라우팅 방법 선택",
+        "tooltip": "공급업체 사용자가 POV를 통해 배송을 생성할 때 공급업체 사용자가 배송에 대한 운송업체를 얻을 수 있는 여러 가지 방법이 있습니다. "
+      },
+      "allowDraftShipment": {
+        "label": "초안 배송 허용",
+        "placeholder": "초안 발송 허용을 선택하십시오.",
+        "tooltip": "설정이 '예'로 설정된 경우 공급업체 사용자는 POV 모듈에서 초안 배송을 생성할 수 있습니다."
+      },
+      "packageUnitMeasure": {
+        "label": "패키지 측정 단위",
+        "tooltip": "POV의 배송 항목 페이지에 기본 패키지 측정 단위가 설정됩니다."
+      },
+      "weightUnitMeasure": {
+        "label": "중량 측정 단위",
+        "option_p": "파운드",
+        "option_k": "킬로그램",
+        "placeholder": "중량 측정 단위를 선택하세요.",
+        "tooltip": "POV 모듈의 배송 항목 페이지에 기본 측정 단위가 설정됩니다."
+      },
+      "freeOnBoardCode": {
+        "label": "무료 온보드 코드",
+        "tooltip": "POV를 통해 생성된 배송에 기본 Free On Board 코드가 설정됩니다."
+      },
+      "frightClass": {
+        "label": "공포 등급",
+        "placeholder": "공포 등급을 선택해 주세요",
+        "tooltip": "POV를 통해 생성된 배송에 기본 클래스가 할당됩니다."
+      },
+      "minimumDays": {
+        "label": "최소 일수",
+        "placeholder": "최소 일수를 입력하십시오",
+        "tooltip": "공급업체가 POV에서 PO를 선택하는 경우 '새 배송 날짜'를 제공해야 합니다. "
+      },
+      "maximumDays": {
+        "label": "최대 일수",
+        "placeholder": "최대 일수를 입력하십시오",
+        "tooltip": "공급업체가 POV에서 PO를 선택하는 경우 '새 배송 날짜'를 제공해야 합니다. "
+      },
+      "minimumDaysError": {
+        "label": "최소 일수 오류 메시지",
+        "placeholder": "최소 일수 오류 메시지를 입력하십시오",
+        "tooltip": "'최소 일수' 규칙을 위반하면 '최소 일수 오류 메시지'가 UI에서 사용자에게 표시됩니다.",
+        "message": "배송 예정일 3일 전부터 배송 불가"
+      },
+      "maximumDaysError": {
+        "label": "최대 일수 오류 메시지",
+        "placeholder": "최대 일수 오류 메시지를 입력하십시오",
+        "tooltip": "'최대 일수' 규칙을 위반하면 '최대 일수 오류 메시지'가 UI에서 사용자에게 표시됩니다.",
+        "message": "예상 배송 날짜는 1년을 초과할 수 없습니다."
+      }
+    },
+    "notificationSuccess": "TMS 설정이 성공적으로 저장되었습니다.",
+    "notificationError": "TMS 설정을 저장하지 못했습니다. "
+  },
+  "login": {
+    "authLeft": {
+      "title": "아직 계정이 없나요?",
+      "link": "지금 등록하세요!"
+    },
+    "authRight": {
+      "title": "돌아온 것을 환영합니다",
+      "desc": "계속하려면 로그인하세요"
+    },
+    "form": {
+      "email": {
+        "placeholder": "이메일 / 사용자 이름",
+        "enter": "사용자 이름을 입력하세요."
+      },
+      "password": {
+        "placeholder": "비밀번호",
+        "enter": "비밀번호를 입력 해주세요."
+      },
+      "link": "비밀번호를 잊으 셨나요?",
+      "button": "로그인"
+    }
+  },
+  "forgotPassword": {
+    "authLeft": {
+      "title": "아직 계정이 없나요?",
+      "link": "지금 등록하세요!"
+    },
+    "authRight": {
+      "title": "비밀번호를 잊으 셨나요",
+      "desc": "로그인 정보를 받을 이메일 주소를 입력하세요."
+    },
+    "form": {
+      "email": {
+        "placeholder": "이메일 / 사용자 이름",
+        "enter": "사용자 이름을 입력하세요."
+      },
+      "warning": {
+        "okText": "로그인",
+        "desc": "새로운 비밀번호가 귀하의 이메일로 전송되었습니다. 이메일을 확인하신 후 새로운 비밀번호로 로그인하시기 바랍니다."
+      },
+      "backToLogin": "로그인으로 돌아가기",
+      "button": "제출하다"
+    }
+  },
+  "signUp": {
+    "authLeft": {
+      "title": "이미 계정이 있나요?",
+      "link": "지금 로그인!"
+    },
+    "authRight": {
+      "title": "신규 사용자 등록",
+      "desc": "계속하려면 지금 등록하세요."
+    },
+    "form": {
+      "email": {
+        "enter": "사용자 이름을 입력하세요."
+      },
+      "password": {
+        "label": "비밀번호",
+        "enter": "비밀번호를 입력 해주세요."
+      },
+      "confirmPassword": {
+        "label": "비밀번호 확인",
+        "enter": "비밀번호 확인을 입력해주세요."
+      },
+      "firstName": {
+        "label": "이름",
+        "enter": "이름을 입력하세요."
+      },
+      "middleName": {
+        "label": "중간 이름"
+      },
+      "lastName": {
+        "label": "성",
+        "enter": "성을 입력하세요.",
+        "invalid": "유효한 성을 입력하세요."
+      },
+      "addressLineFirst": {
+        "label": "주소 1",
+        "enter": "주소1을 입력해주세요."
+      },
+      "addressLineSecond": {
+        "label": "주소 2",
+        "enter": "주소2를 입력해주세요."
+      },
+      "jobType": {
+        "label": "직업 종류"
+      },
+      "department": {
+        "label": "부서"
+      },
+      "phoneWork": {
+        "label": "전화(직장)"
+      },
+      "phoneCell": {
+        "label": "전화(휴대폰)"
+      },
+      "reference": {
+        "label": "참조"
+      },
+      "comments": {
+        "label": "코멘트"
+      },
+      "capcha": "리캡챠를 확인해주세요.",
+      "submit": "제출하다",
+      "warning": {
+        "okText": "로그인",
+        "desc": "사용자 등록 절차가 완료되었습니다. 이메일과 적절한 비밀번호로 로그인하세요. "
+      }
+    }
+  },
+  "verifyUser": {
+    "authLeft": {
+      "title": "아직 계정이 없나요?",
+      "link": "지금 등록하세요!"
+    },
+    "authRight": {
+      "title": "2단계 인증"
+    },
+    "notification": "인증 토큰을 보내지 못했습니다!",
+    "pickMethod": "인증 방법을 선택하세요",
+    "securityCode": "이메일을 통한 보안 코드 ",
+    "link": "너 말고? ",
+    "send": "인증코드 보내기"
+  },
+  "verifyToken": {
+    "authLeft": {
+      "title": "아직 계정이 없나요?",
+      "link": "지금 등록하세요!"
+    },
+    "authRight": {
+      "title": "당신의 메일을 확인하세요"
+    },
+    "notification": "인증 토큰을 확인하지 못했습니다!",
+    "enter": "전송된 인증번호 6자리를 입력하세요.",
+    "verify": "인증 코드 확인",
+    "receive": "코드를 받지 못하셨나요? "
+  },
+  "user": {
+    "userProfileManagement": "사용자 프로필 관리",
+    "belowCurrentProfile": " 다음은 당사 시스템에 있는 귀하의 현재 프로필입니다. ",
+    "imgAlt": "유저 프로필",
+    "active": "활동적인",
+    "userTabs": {
+      "personal": "개인의",
+      "password": "비밀번호 변경",
+      "themes": "테마"
+    },
+    "buttons": {
+      "updateProfile": "프로필 업데이트",
+      "updatePassword": "비밀번호 업데이트",
+      "preview": "시사",
+      "saveTheme": "테마 저장",
+      "restoreToDefault": "기본값으로 복원"
+    },
+    "notification": {
+      "imageInterrupted": "이미지 선택이 중단되었습니다. 나중에 다시 시도해 주세요.",
+      "userPreference": "사용자 기본 설정이 임시로 성공적으로 적용되었습니다."
+    },
+    "fields": {
+      "firstName": {
+        "label": "이름",
+        "message": "이름을 입력하세요."
+      },
+      "lastName": {
+        "label": "성",
+        "message": "성을 입력하세요."
+      },
+      "address1": {
+        "label": "주소 1",
+        "message": "주소 입력란을 입력하세요."
+      },
+      "address2": {
+        "label": "주소 2"
+      },
+      "mobileNumber": {
+        "label": "휴대폰 번호",
+        "message": "휴대폰 번호를 입력해주세요"
+      },
+      "phoneHome": {
+        "label": "전화 집",
+        "placeholder": "집 전화 번호"
+      },
+      "phoneOffice": {
+        "label": "전화 사무실",
+        "placeholder": "사무실 전화번호"
+      },
+      "currentPassword": {
+        "label": "현재 비밀번호",
+        "message": "현재 비밀번호를 입력하세요."
+      },
+      "password": {
+        "label": "비밀번호",
+        "messageString": "비밀번호를 문자열 형식으로 입력해주세요.",
+        "messageTrue": "비밀번호를 입력 해주세요.",
+        "messageSymbol": "비밀번호에는 숫자, 소문자, 대문자, 기호가 하나 이상 포함되어야 합니다.",
+        "messageMin": "비밀번호는 12자 이상이어야 합니다.",
+        "short": "짧은",
+        "weak": "약한",
+        "okay": "좋아요",
+        "good": "좋은",
+        "strong": "강한"
+      },
+      "confirmPassword": {
+        "label": "비밀번호 확인",
+        "message": "비밀번호 확인을 입력해주세요.",
+        "error": "비밀번호가 비밀번호와 일치하지 않는지 확인하세요."
+      },
+      "color": {
+        "topMenuColor": "상위 메뉴 색상",
+        "bottomMenuColor": "하단 메뉴 색상",
+        "topMenuTextColor": "상단 메뉴 텍스트 색상",
+        "bottomMenuTextColor": "하단 메뉴 텍스트 색상",
+        "message": "색상 을 선택해 주세요"
+      },
+      "date": {
+        "label": "날짜 형식",
+        "placeholder": "날짜 형식을 선택하세요",
+        "message": "날짜 형식을 선택하세요."
+      },
+      "fontFamily": {
+        "label": "글꼴군",
+        "placeholder": "글꼴 모음 선택",
+        "message": "글꼴군 을 선택해 주세요"
+      },
+      "language": {
+        "label": "언어 선택",
+        "message": "언어를 선택하세요"
+      },
+      "fontSize": {
+        "label": "글꼴 크기"
+      }
+    }
+  },
+  "shipment": {
+    "title": "선적",
+    "filter": {
+      "shipperFiltered": "배송업체는 고객 이름, 위치 ID 또는 검색 ID로 필터링할 수 있습니다.",
+      "consigneeFiltered": "수취인은 고객 이름, 위치 ID 또는 검색 ID로 필터링할 수 있습니다.",
+      "checkingApproval": "배송 승인 프로세스를 확인하는 중...",
+      "titles": {
+        "shipmentSearch": "배송조회",
+        "additional": "추가 검색 옵션"
+      },
+      "additionalSearchOptions": {
+        "salesOrderNo": {
+          "label": "판매주문번호"
+        },
+        "masterHouseBill": {
+          "label": "마스터/하우스 착륙장 번호",
+          "placeholder": "마스터/하우스 착륙장 번호"
+        },
+        "projectNo": {
+          "label": "프로젝트 번호",
+          "placeholder": "프로젝트 번호"
+        },
+        "quoteNo": {
+          "label": "견적번호",
+          "placeholder": "견적번호"
+        },
+        "createdBy": {
+          "label": "작성자",
+          "radioEmail": "이메일 주소",
+          "placeholderEmail": "이메일 선택"
+        }
+      }
+    },
+    "header": {
+      "title": "배송 관리",
+      "addShipment": "배송물 생성",
+      "delete": "삭제",
+      "consolidate": "통합하다",
+      "audit": "감사 로그",
+      "updateShipmentStatus": "배송 상태 업데이트",
+      "confirmationModal": {
+        "title": "배송 통합",
+        "description": "선택한 배송이 하나의 배송으로 통합되며 원래 배송 상태는 종료됨으로 변경됩니다. 확인하세요!",
+        "okText": "확인하다!"
+      },
+      "commonUpdateModal": {
+        "title": "배송 상태 업데이트"
+      },
+      "commonExportModal": {
+        "title": "출하수출"
+      }
+    },
+    "footer": {
+      "totalRecords": "총 기록",
+      "latePickup": "늦은 픽업",
+      "lateDelivery": "늦은 배송",
+      "trackingFailure": "추적 실패",
+      "missingDocuments": "누락된 문서",
+      "pickupFailed": "픽업 실패"
+    },
+    "dashboard": {
+      "title": "계기반",
+      "topTransportation": "상위 10개 교통 제공업체",
+      "orderStatistics": "주문 통계",
+      "total": "월별 총 출하량",
+      "shipmentByMode": "모드/화물 유형별 배송",
+      "shipmentByBound": "묶음 배송"
+    },
+    "card": {
+      "totalMiles": "총 마일리지",
+      "weight": "무게(kg)",
+      "weightUtilization": "중량 활용도",
+      "printedBolFlag": "인쇄된 BOL 플래그",
+      "masterBol": "마스터 볼",
+      "volumeUtilization": "볼륨 활용도",
+      "bidExpiry": "입찰 만료",
+      "title": "배송 복사",
+      "description": "국제 환적 발송물 사본을 작성 중이십니까?"
+    },
+    "drawer": {
+      "header": {
+        "mastShipment": "마스터 배송",
+        "childShipment": "어린이 운송",
+        "approvalNumber": "승인번호",
+        "inconterm": "불확실한",
+        "houseBillOfLading": "선하 증권",
+        "freightBillProNumber": "운임 청구서 / Pro 번호",
+        "createAsShipment": "배송물로 생성",
+        "approve": "승인하다",
+        "printView": "인쇄/보기",
+        "commonModalLabel": "서류",
+        "commonModalApprovalTitle": "선적 승인",
+        "saveAsShipment": "배송으로 저장"
+      },
+      "tabs": {
+        "masterChildShipmentDetails": "마스터/하위 배송 세부정보",
+        "transportationDetails": "교통 세부사항",
+        "vendorDetails": "공급업체 세부정보",
+        "billTo": "청구지 주소",
+        "categoryDetails": "카테고리 세부정보",
+        "auditLog": "감사 로그",
+        "accounting": "액세서리 및 세금",
+        "trackingDetails": "추적 세부정보",
+        "iTrack": "iTrack",
+        "rateShopResults": "평가 상점 결과",
+        "addStop": "경유지 추가",
+        "deleteStop": "정지 삭제"
+      },
+      "details": {
+        "delivery": "배달",
+        "distanceKm": "거리(KM)",
+        "distanceMiles": "거리(마일)",
+        "totalWeight": "총중량(LB)",
+        "freightBill": "운임 청구서 / Pro 번호",
+        "masterBillOfLandingNumber": "마스터 착륙장 번호",
+        "freightAllowances": "화물수당",
+        "customerAccountNumber": "고객 계좌번호",
+        "freeOnBoard": "탑승 시 무료",
+        "incotermNamedPlace": "인코텀 지정 장소",
+        "createdBy": "작성자",
+        "cube": {
+          "label": "입방체"
+        }
+      },
+      "product": {
+        "houseBillOfLandingNumber": "주택 착륙장 번호",
+        "unitOfMeasure": {
+          "placeholder": "측정 단위 선택",
+          "message": "측정 단위를 선택하세요."
+        },
+        "chargeableWeight": {
+          "label": "청구 가능 중량",
+          "placeholder": "청구 중량 입력",
+          "message": "청구 중량을 입력해 주세요",
+          "error": "청구 중량은 숫자여야 합니다."
+        },
+        "packageBilled": {
+          "placeholder": "패키지/청구 수량 입력",
+          "message": "패키지/청구 수량을 입력하세요.",
+          "error": "패키지/청구 수량은 숫자여야 합니다."
+        },
+        "length": {
+          "placeholder": "길이 입력",
+          "message": "길이를 입력하세요",
+          "error": "길이는 1 이상이어야 합니다."
+        },
+        "width": {
+          "placeholder": "너비 입력",
+          "message": "너비를 입력하세요",
+          "error": "너비는 1 이상이어야 합니다."
+        },
+        "height": {
+          "placeholder": "높이 입력",
+          "message": "신장을 입력해주세요",
+          "error": "높이는 1 이상이어야 합니다."
+        },
+        "purchaseOrders": {
+          "label": "구매 주문",
+          "placeholder": "구매 주문 입력"
+        },
+        "lineItemNumber": {
+          "label": "품목 번호",
+          "placeholder": "품목 번호 입력"
+        },
+        "NMFCNumber": {
+          "label": "NMFC 번호",
+          "placeholder": "NMFC번호를 입력하세요."
+        }
+      },
+      "notes": {
+        "shipmentNotes": {
+          "placeholder": "배송 메모 입력"
+        }
+      },
+      "vendorDetails": {
+        "addNewVendor": "새 공급업체 추가"
+      },
+      "billTo": {
+        "VATNumber": {
+          "label": "VAT 번호",
+          "placeholder": "VAT 번호 입력"
+        }
+      },
+      "categoryDetails": {
+        "addNewCategory": "새 카테고리 추가",
+        "subCategory": {
+          "label": "하위 카테고리",
+          "placeholder": "하위 카테고리 선택"
+        }
+      },
+      "auditLog": {
+        "database": "데이터 베이스",
+        "tableName": "테이블 이름",
+        "tableSchema": "테이블 스키마",
+        "hostName": "호스트 이름",
+        "applicationName": "애플리케이션 이름",
+        "columnName": "열 이름",
+        "oldValue": "이전 값",
+        "newValue": "새로운 가치"
+      },
+      "shipmentTransport": {
+        "stopType": {
+          "label": "정지 유형",
+          "placeholder": "중지 유형 선택",
+          "message": "중지 유형을 선택하세요."
+        },
+        "stopNo": {
+          "label": "중지 안 함",
+          "placeholder": "중지 선택",
+          "message": "정류장 위치를 ​​선택하세요."
+        },
+        "requestedDateTime": {
+          "label": "요청 날짜",
+          "date_message": "날짜를 선택하세요",
+          "time_message": "시간을 선택하세요"
+        },
+        "actual": "실제",
+        "dateTime": "날짜",
+        "contactPersonName": {
+          "label": "담당자 이름",
+          "placeholder": "이름을 입력하시오"
+        },
+        "emailId": {
+          "label": "이메일 주소",
+          "placeholder": "이메일 ID를 입력하세요"
+        },
+        "contactNo": {
+          "label": "연락처",
+          "placeholder": "연락번호 입력",
+          "message": "연락처는 10자리여야 합니다."
+        },
+        "ext": {
+          "label": "내선",
+          "placeholder": "내선 입력"
+        },
+        "dockConfirmationNumber": "도킹/확인 번호",
+        "taxIdVat": "세금 ID/VAT",
+        "iTrackDetails": "iTrack 세부정보",
+        "emptyRecords": "이동통신사로부터 업데이트를 받으려면 잠시 기다려 주십시오."
+      }
+    },
+    "print": {
+      "plNo": "PL 아니요",
+      "seeSection2": "NMFC 항목 360의 섹션 2(e)를 참조하세요."
+    },
+    "hazmat": "위험물질(X)",
+    "qty": "수량",
+    "saveAsPartial": "부분적으로 저장",
+    "shipmentExportSFiled": "배송 내보내기에 실패했습니다.",
+    "consigneeAppointmentNumber": "수취인 지정 번호",
+    "shipperAppointmentNumber": "발송인 예약 번호",
+    "approverName": "승인자 이름",
+    "approverEmail": "승인자 이메일",
+    "priority": {
+      "label": "우선 사항",
+      "placeholder": "우선순위 선택",
+      "message": "우선순위를 선택해주세요",
+      "error": "우선순위는 고유해야 합니다."
+    },
+    "of": "~의",
+    "pallet": "팔레트(S)",
+    "proNo": "프로 아니오",
+    "bolNo": "볼 아니요",
+    "FOB": "본선 인도",
+    "SID": "시드",
+    "location": "위치",
+    "thirdParty": "제3자 운임 청구 대상:",
+    "billOfLadingNumber": "선하증권 번호",
+    "proNumber": "프로 번호:",
+    "serviceDescription": "서비스 설명:",
+    "freightChargeTerms": "운임 조건:",
+    "freightChargesArePrepaid": "(별도 표시가 없는 한 운임은 선불입니다)",
+    "docNumberConfirmationNumber": "문서 번호/확인 번호:",
+    "masterBillOfLading": "마스터 선하증권: 기본 선하증권이 첨부됨",
+    "countryCityStateZip": "국가/시/주/우편번호:",
+    "freightCharges": "(별도 표시가 없는 한 운임은 선불입니다)",
+    "masterBill": "마스터 선하증권: 기본 선하증권이 첨부됨",
+    "customerCheck": "고객 확인 가능",
+    "feeTerms": "수수료 조건:",
+    "whereTheRate": "요율이 가치에 따라 달라지는 경우, 발송인은 다음과 같이 합의 또는 신고된 재산 가치를 서면으로 구체적으로 명시해야 합니다.",
+    "theAgreed": "합의되거나 신고된 재산 가치가 다음을 초과하지 않는다고 발송인이 구체적으로 명시한 경우",
+    "poNo": "PO 번호",
+    "soNo": "그래서 아니오(들)",
+    "codAmount": "COD 금액:",
+    "pleaseSelect": "선택 해주세요",
+    "approvers": "승인자",
+    "searchEmail": "이메일 검색",
+    "searchByEmail": "이메일로 검색",
+    "shipmentRequire": "이 배송에는 승인이 필요하지 않습니다.",
+    "approversList": "승인자 목록",
+    "sendApprovalRequest": "승인 요청 보내기",
+    "savingAdditionalDetailsIs": "추가 세부정보를 저장하는 것은",
+    "maxCharacter": "최대 허용 문자 25",
+    "checkingPO": "PO 및 SO 가시성 확인",
+    "visitBack": "이 배송물을 수정한 후 다시 방문하시기 바랍니다.",
+    "savingBillingDetailsIs": "결제 세부정보를 저장하는 중입니다.",
+    "addingNewCategoryIs": "새로운 카테고리를 추가하는 것은",
+    "modifyingCategoryIs": "카테고리 수정은",
+    "deletingCategoryIs": "삭제 중인 카테고리는 다음과 같습니다.",
+    "createSomeData": "데이터를 만들어 보세요.",
+    "masterChildShipment": "마스터/하위 배송",
+    "childShipment": "어린이 운송",
+    "convertingAs": "다음으로 변환 중",
+    "regularShipment": "정기배송",
+    "progressHas": "진전이 있었다",
+    "masterChildShipmentDetails": "마스터/하위 배송 세부정보",
+    "masterQuantityLeft": "마스터 남은 수량",
+    "masterWeightLeft": "마스터 무게 왼쪽",
+    "childShipmentDetails": "하위 배송 세부정보",
+    "addChildShipment": "하위 배송 추가",
+    "noMasterChildshipments!": "마스터/하위 배송이 없습니다!",
+    "failedToUpdate": "업데이트하지 못했습니다.",
+    "enter": "입력하다",
+    "copyingLastProductIs": "마지막 제품을 복사하는 중입니다.",
+    "addingNewProductIs": "새로운 제품을 추가하는 것은",
+    "modifyingProductIs": "상품수정은",
+    "deletingProductIs": "상품 삭제는",
+    "freightClassSuccessfully": "화물 등급이 성공적으로 계산되었습니다.",
+    "addNewProductDetails": "새 제품 세부정보 추가",
+    "copyLastProductDetailsEntry": "마지막 제품 세부 정보 항목 복사",
+    "freightClassCalculator": "화물 등급 계산기",
+    "totalChargableWeight": "총 청구 가능 중량",
+    "weightUnitOfMeasure": "중량 측정 단위",
+    "pleaseSelectUnitOfMeasure": "임대 측정 단위 선택",
+    "cooPdf": {
+      "certificationOfOrigin": "원산지 증명서",
+      "certificateType": "인증자 유형('X' 표시)",
+      "importer": "수입자",
+      "exporter": "수출업체",
+      "producer": "생산자",
+      "blanketPeriod": "총계 기간(MM/DD/YYYY)",
+      "sectionDetails": "이름, 주소, 전화번호 및 이메일",
+      "certifierSectionDetails": "인증자 $t(shipment.cooPdf.sectionDetails)",
+      "producerSectionDetails": "생산자 $t(shipment.cooPdf.sectionDetails)",
+      "exporterSectionDetails": "$t(shipment.cooPdf.exporter) $t(shipment.cooPdf.sectionDetails)",
+      "importerSectionDetails": "$t(shipment.cooPdf.importer) $t(shipment.cooPdf.sectionDetails)",
+      "taxIdentificationNumber": "세금 식별 번호",
+      "descriptionOfGoods": "제품의 설명",
+      "originCriterion": "원산지 기준",
+      "producerYesNo": "$t(shipment.cooPdf.producer) (예 아니오)",
+      "methodOfQualification": "자격 취득 방법",
+      "cointryOfOrigin": "원산지",
+      "certificateAssuranceDescription": "나는 이 문서에 설명된 상품이 원산지로서 자격을 갖추고 이 문서에 포함된 정보가 진실되고 정확함을 보증합니다. ",
+      "certificateAttachmentDescription": "이 인증서는 모든 첨부 파일을 포함하는 페이지로 구성됩니다.",
+      "dateWithFormat": "날짜(MM/DD/YYYY)",
+      "documentCompliantDescription": "이 문서는 USMCA를 준수합니다."
+    }
+  },
+  "claims": {
+    "spotBidSearch": "스팟입찰 검색",
+    "spotBidSearchOriginDestination": "출발지 및 목적지별 SpotBid 검색",
+    "chooseColumns": "내보내기 열을 선택합니다.",
+    "selectMinOneField": "내보낼 필드를 하나 이상 선택하세요.",
+    "emailToTransportationProvider": "운송업체에 이메일 보내기",
+    "printOverchargeClaim": "과충전 청구서 인쇄",
+    "indemnificationClause": " 면책 조항: 청구인은 원본 화물 청구서를 반환하지 않고 정산한다는 이유로 이 청구를 제기한 운송 제공업체를 보호하는 데 동의하며 당사는 분명히 상환을 보장합니다.",
+    "dateSubmitted": "제출 된 날짜",
+    "contractAuthority": "계약 기관",
+    "claimTariff": "관세 청구",
+    "reasonForOvercharge": "과충전 이유",
+    "correctAmount": "정확한 금액",
+    "totalPaid": "전체 지불금",
+    "correctCharges": "올바른 요금",
+    "paidAmount": "결제금액",
+    "billedAmount": "청구 금액",
+    "chargeableWeight": "청구 가능 중량",
+    "detailedOverchrgeClaimStatement": "자세한 초과요금 청구서",
+    "freightBill": "운임 청구서",
+    "attachedDocumentation": "첨부문서",
+    "yourClaimNumber": "귀하의 청구 번호",
+    "ourClaimNumber": "우리의 청구 번호",
+    "refer": "모든 서신에서 위의 청구 번호를 참조하세요.",
+    "forwardCorrespondence": "위의 주소로 서신을 전달하고 수표를 다음 주소로 지불하십시오: ",
+    "presentation": "초과 요금 청구 제시",
+    "printResults": "결과 인쇄",
+    "totalClaims": "총 청구 건수",
+    "openClaims": "공개 청구",
+    "closedClaims": "종결된 청구",
+    "onHoldClaims": "보류 중인 청구",
+    "totalAmountFiled": "제출된 총 금액",
+    "totalAmountPaid": "지불한 총 금액",
+    "byAge": "연령별:",
+    "daysOld": "일수",
+    "pleaseEnterDaysOld": "일수를 입력하십시오.",
+    "claimsNumber": "청구 번호",
+    "pleaseEnterClaimsNumber": "청구 번호를 입력하세요.",
+    "freightBillProNumber": "운임 청구서 / Pro 번호",
+    "pleaseEnterFreightBillProNumber": "운임 청구서/Pro 번호를 입력하세요.",
+    "pleaseEnterInvoiceNumber": "송장번호를 입력해주세요",
+    "pleaseEnterPackageNumber": "패키지 번호를 입력하세요.",
+    "Details": "세부",
+    "overchargeClaimItems": "과충전 청구 항목",
+    "overchargeClaimNotes": "과충전 청구 메모",
+    "overchargeUploadViewFiles": "과충전 파일 업로드/보기",
+    "overchargeClaimSettlements": "과충전 청구 합의",
+    "addNewNote": "새 메모 추가",
+    "selectCommentType": "댓글 유형 선택",
+    "commentType": "댓글 유형",
+    "comments": "코멘트",
+    "enterComments": "댓글 입력",
+    "createdBy": "작성자",
+    "yourClaim": "귀하의 청구",
+    "enterYourClaim": "청구서를 입력하세요",
+    "noData": "데이터 없음",
+    "houseBillOfLadingNumber": "하우스 착륙장 번호",
+    "others": "기타",
+    "othersPleaseMention": "기타 언급해주세요",
+    "recoverySum": "회수금액",
+    "dateClosed": "휴무일",
+    "dateRefundedToCustomer": "고객에게 환불된 날짜",
+    "checkNumberFromTransportationProvider": "운송업체로부터 번호 확인",
+    "pleaseSelectCurrency": "A 통화를 선택하세요.",
+    "ourClaim": "우리의 주장",
+    "claimant": "원고",
+    "overchargeSum": "과충전 합계",
+    "preClaims": "사전 청구",
+    "reports": "보고서",
+    "overCharge": "과충전",
+    "lossAndDamage": "손실 및 손상",
+    "claimsSettings": "청구 설정",
+    "overchargeClaims": "과충전 청구",
+    "mailTo": "메일 주소",
+    "checkNumberToCustomer": "고객에게 번호 확인"
+  },
+  "routingGuide": {
+    "generalSearch": "일반 검색",
+    "searchByOrigin": "원산지로 검색",
+    "searchByDestination": "목적지로 검색",
+    "routingKey": "라우팅 키",
+    "routingGuideID": "라우팅 가이드 ID",
+    "routingName": "라우팅 이름",
+    "createdBy": "작성자",
+    "hazmat": {
+      "label": "유해 물질",
+      "placeholder": "위험 물질 선택"
+    },
+    "pieces": {
+      "label": "조각"
+    },
+    "piecesUOM": {
+      "label": "조각",
+      "placeholder": "조각 선택 UOM"
+    }
+  },
+  "auction": {
+    "title": "경매",
+    "card": "카드",
+    "noOfStops": "정류장 수",
+    "locationId": "위치 ID:",
+    "stopType": "정지 유형:",
+    "stopNo": "정지 번호 :",
+    "companyDetails": "기업 세부 정보",
+    "appointmentNumber": "약속 번호",
+    "contactPersonName": "담당자 이름",
+    "pickup": "픽업 요청 날짜",
+    "pickupAppointmentDateTime": "픽업 약속 날짜",
+    "contactNo": "연락처",
+    "actualPickupDateTime": "실제 픽업 날짜",
+    "dockConfirmationNumber": "도킹/확인 번호",
+    "taxIdVAT": "세금 ID/VAT",
+    "approvalNumber": "승인번호",
+    "spotBIDTypes": "현물 BID 유형",
+    "selectSpotBIDTypes": "입찰 유형 선택",
+    "consigneeStateProvience": "수취인 주/지방",
+    "BIDExpiryDateTime": "입찰 만료일",
+    "BIDExpiry": "입찰 만료",
+    "totalBIDS": "총 입찰",
+    "openBIDS": "공개 입찰",
+    "expiredBIDS": "만료된 입찰",
+    "expiringSoonBIDS": "곧 만료되는 BIDS",
+    "grossWeight": "총 중량",
+    "weightUnitOfMeasure": "중량 측정 단위",
+    "viewAllStops": "모든 정류장 보기",
+    "viewProductDetails": "제품 세부 정보보기",
+    "viewUploadFiles": "파일 보기/업로드",
+    "shipmentDetails": "배송 세부정보",
+    "shipperDetails": "배송업체 세부정보",
+    "consigneeDetails": "수취인 세부정보",
+    "frightClass": "공포 등급",
+    "package": "패키지",
+    "delieryDateAndTime": "배송 날짜 및 시간",
+    "customerBIDExpiryDateTime": "고객 BID 만료일",
+    "BIDDetails": "입찰 세부정보",
+    "equipmentTypeDetails": "장비 유형 세부정보",
+    "enterEquipmentType": "장비 유형 입력",
+    "expiryDate": "만료일",
+    "expiryDateIsRequired": "만료일은 필수 항목입니다.",
+    "expiryTime": "만료 시간",
+    "expiryTimeIsRequired": "만료 시간은 필수 항목입니다.",
+    "spotQuoteNumber": "현물 견적 번호",
+    "enterQuoteNumber": "견적 번호 입력",
+    "BIDSubmittedBy": "입찰 제출자",
+    "BIDPriceAndCurrency": "BID 가격 및 통화",
+    "BIDPrice": "입찰 가격",
+    "enterPrice": "가격 입력",
+    "priceIsRequired": "가격은 필수 항목입니다.",
+    "pleaseEnterTheNumber": "번호를 입력해주세요",
+    "pleaseEnterLowerTheNumber": "현재 입찰가보다 낮은 입찰가를 입력하세요.",
+    "BIDCurrency": "입찰 통화",
+    "BIDComment": "입찰 설명",
+    "enterComment": "댓글 입력",
+    "submitBID": "입찰 제출"
+  }
+}

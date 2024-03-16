@@ -1,0 +1,3489 @@
+{
+  "default": {
+    "navMenu": {
+      "home": "Maison",
+      "dashboard": "Tableau de bord",
+      "contractManagement": "La gestion des contrats",
+      "shipmentsModule": "Module Expéditions",
+      "shipmentTracking": "Suivi des expéditions",
+      "activities": "Activités",
+      "reports": "Rapports",
+      "pricing": "Tarifs",
+      "procurement": "Approvisionnement",
+      "purchaseOrderView": "Vue du bon de commande",
+      "routingGuide": "Guide d'itinéraire",
+      "settings": "Paramètres",
+      "companySettings": "Paramètres de l'entreprise",
+      "tmsSettings": "Paramètres TMS",
+      "clientNameGoesHere": "Le nom du client va ici",
+      "shipment": "Expédition",
+      "visibility": "Visibilité",
+      "claims": "Réclamations",
+      "freightBill": "Facture de transport",
+      "adminSettings": "Paramètres d'administration"
+    },
+    "loading": "Chargement...",
+    "date": "Date",
+    "captcha": {
+      "placeholder": "Entrez le code captcha.",
+      "message": "Veuillez entrer le captcha",
+      "invalid": "Captcha invalide."
+    },
+    "buttons": {
+      "save": "Sauvegarder",
+      "cancel": "Annuler",
+      "rateShop": "Tarifs Boutique",
+      "delete": "Supprimer",
+      "export": "Exporter",
+      "clear": "Clair",
+      "search": "Recherche",
+      "mileageCalculator": "Calculateur de kilométrage",
+      "addProduct": "Ajouter un produit",
+      "deleteProduct": "Supprimer le produit",
+      "edit": "Modifier",
+      "viewMoreStatus": "Afficher plus de statut",
+      "track": "Piste",
+      "add": "Ajouter",
+      "update": "Mise à jour",
+      "sendEmail": "Envoyer un mail",
+      "restoreToDefault": "Rétablir les options par défaut",
+      "clearSelection": "Effacer la sélection",
+      "newStatus": "Nouveau statut",
+      "select": "Sélectionner",
+      "close": "Fermer",
+      "exportToExcel": "Exporter vers Excel",
+      "addPO": "Ajouter un bon de commande",
+      "addShipper": "Ajouter un expéditeur",
+      "copy": "Copie",
+      "closed": "Fermé",
+      "updateSelectedRecords": "Mettre à jour les enregistrements sélectionnés",
+      "viewMoreDetails": "Afficher plus de détails",
+      "viewStatus": "Afficher l'état",
+      "download": "Télécharger",
+      "addNewLocation": "Carnet d'adresses",
+      "addNewZone": "Ajouter une nouvelle zone",
+      "sendRFI": "Envoyer une demande d'informations",
+      "sendRFQ": "Envoyer une demande de prix",
+      "sendRFIRFQ": "Envoyer une demande d'informations",
+      "stops": "Arrêts",
+      "hide": "Cacher",
+      "view": "Voir",
+      "viewOrderInformation": "Afficher les informations de commande"
+    },
+    "documentManager": {
+      "fileUpdatingIssuccess": "La mise à jour des fichiers est un succès.",
+      "title": "Gestionnaire de documents",
+      "noFoundText": "Aucun enregistrement trouvé",
+      "addNewFile": "Ajouter un nouveau fichier",
+      "addNewLane": "Ajouter une nouvelle voie",
+      "addNewParameter": "Ajouter un nouveau paramètre",
+      "chooseFile": "Choisir le fichier",
+      "fileName": "Nom de fichier : ",
+      "chooseFileMessage": "Veuillez sélectionner un fichier",
+      "docDescMessage": " est déjà utilisé.",
+      "supportingDocumentNumber": "Numéro de pièce justificative",
+      "only": "seulement",
+      "filesAreAllowed": "les fichiers sont autorisés",
+      "documentTypeMessage": "Veuillez sélectionner un type de document",
+      "notificationUploadingFailed": "Le téléchargement du fichier a échoué.",
+      "documentManager": {
+        "label": "Type de document",
+        "placeholder": "Sélectionnez le type de document",
+        "message": "Veuillez sélectionner un type"
+      },
+      "docType": {
+        "label": "Type de document",
+        "placeholder": "Sélectionnez le type de document",
+        "message": "Veuillez sélectionner un type"
+      },
+      "fileComments": {
+        "label": "Commentaires sur le fichier",
+        "placeholder": "Saisir les commentaires du fichier"
+      },
+      "referenceNo": {
+        "label": "Numéro de référence du document justificatif",
+        "placeholder": "Entrez le numéro de référence du document justificatif",
+        "title": "Numéro de réference"
+      },
+      "notificationUploadingError": "Le téléchargement des fichiers est réussi. ",
+      "notificationUploadingSuccess": "Le téléchargement du fichier est réussi",
+      "notificationUpdatingSuccess": "La mise à jour des fichiers est réussie",
+      "notificationDeleteSuccess": "La suppression du fichier est un succès.",
+      "notificationDeleteError": "La suppression du fichier a échoué."
+    },
+    "popConfirm": {
+      "title": "Es-tu sûr?"
+    },
+    "weekDays": {
+      "sun": "Dimanche",
+      "mon": "Lundi",
+      "tue": "Mardi",
+      "wed": "Mercredi",
+      "thu": "Jeudi",
+      "fri": "Vendredi",
+      "sat": "Samedi"
+    },
+    "options": {
+      "and": "et",
+      "all": "Tous",
+      "enable": "Activer",
+      "disable": "Désactiver",
+      "yes": "Oui",
+      "no": "Non",
+      "cargo": "Cargaison",
+      "passenger": "Passager",
+      "new": "Nouveau",
+      "spotBidEnd": "SpotBidEnd",
+      "spotBid": "Enchère ponctuelle",
+      "blind": "Aveugle",
+      "reverseBlind": "Store inversé",
+      "purchaseOrder": "Bon de commande",
+      "na": "N / A",
+      "routingGuide": "Guide d'acheminement",
+      "draftShipment": "Brouillon d'expédition",
+      "finalShipment": "Expédition finale",
+      "сurrent": "Actuel",
+      "historical": "Historique (rouge)"
+    },
+    "language": {
+      "en": "Anglais",
+      "es": "Espagnol",
+      "es-cr": "espagnol (castillan)",
+      "es-mx": "espagnol (mexicain)",
+      "it": "italien",
+      "ch": "Chinois",
+      "zh-tw": "Chinois",
+      "fr": "Français",
+      "nl": "Néerlandais",
+      "pt": "Portugais",
+      "pt-br": "Portugais (brésilien)",
+      "de": "Allemand",
+      "pl": "polonais",
+      "fi": "finlandais",
+      "ko": "coréen",
+      "ja": "Japonais"
+    },
+    "fields": {
+      "shipmentAdditionalInformation": "Informations supplémentaires sur l'expédition",
+      "shipmentInformation": "Informations d'expédition",
+      "rateDetails": "Détails du tarif",
+      "selectState": {
+        "label": "Sélectionnez l'état",
+        "placeholder": "Sélectionnez l'état"
+      },
+      "productDetails": "détails du produit",
+      "distributor": "Distributeur",
+      "costName": "Nom du coût",
+      "tender": "Tendre",
+      "pending": "En attente",
+      "selectTime": "Sélectionnez l'heure",
+      "enter": "Entrer",
+      "profile": "Profil",
+      "addressBook": "Carnet d'adresses",
+      "productCode": {
+        "label": "Code produit",
+        "message": "Veuillez entrer le code produit",
+        "placeholder": "Veuillez entrer le code produit",
+        "tooltip": "Définit le code produit par défaut sur l'accordéon des détails du produit"
+      },
+      "addNewProduct": " Ajouter un nouveau produit",
+      "number": "Nombre",
+      "code": "Code",
+      "contactNumber": "Numéro de contact",
+      "carrier": "Transporteur",
+      "vendor": "Fournisseur",
+      "popconfirmFreightClass": "Voulez-vous calculer la classe de fret ?",
+      "quoteNo": "Numéro de devis",
+      "approvalNo": "Numéro d'approbation",
+      "claimType": "Type de réclamation",
+      "closedDate": "Date de fermeture",
+      "claimStatus": "Statut de la réclamation",
+      "amendmentDate": "Date de modification",
+      "submittedDate": "Date proposée",
+      "submittedBy": "Proposé par",
+      "preparedBy": "Préparé par",
+      "auditedBy": "Audité par",
+      "recoveryAmount": "Montant de récupération",
+      "overchargeAmount": "Montant du supplément",
+      "packageNumber": "Numéro de colis",
+      "claimNumber": "Numéro de réclamation",
+      "updateDraft": "mise à jourBrouillon",
+      "saveAsDraft": "Enregistrer comme brouillon",
+      "deleteVendorSuccessfully": "Supprimer le fournisseur avec succès",
+      "portSearch": "Recherche de ports",
+      "transportationProviderSearch": "Recherche de fournisseur de transport",
+      "viewCI": "Afficher l'IC",
+      "viewPL": "Voir PL",
+      "viewBOL": "Afficher le BOL",
+      "viewCOO": "Voir le directeur de l'exploitation",
+      "viewShipping": "Voir l'expédition",
+      "signature": "Signature",
+      "statusType": "Type de statut",
+      "updateReceivedEST": "Mise à jour reçue en EST",
+      "plannedDeliveryDate": "Date de livraison prévue",
+      "plannedShipDate": "Date d'expédition prévue",
+      "shipperReqDeliveryDate": "Date de livraison demandée par l'expéditeur",
+      "shipperReqShipDate": "Date d'expédition de la demande de l'expéditeur",
+      "conReferenceNo": "Numéro de référence du destinataire",
+      "eventOccurrenceLocalTime": "Occurrence de l’événement Heure locale",
+      "unitMeasure": "Unité de mesure de quantité",
+      "displayAllTrackingStatus": "Afficher tous les statuts de suivi",
+      "itemQuantity": "Quantité d'article",
+      "billQtyUOM": "UdM du colis/quantité facturée",
+      "quantityUOM": "Quantité UdM",
+      "orderQuantity": "Quantité commandée",
+      "mode": "Mode",
+      "businessSegment": "Secteur d'activité",
+      "poNumber": "Numéro de bon de commande",
+      "lineNo": "Numéro de ligne",
+      "itnNumber": "Numéro ITN",
+      "distributorName": "Nom du distributeur",
+      "rateStatus": "Statut du taux",
+      "showAllSpotBidCarrier": "Afficher tous les transporteurs SpotBid",
+      "costCurrency": "Devise de coût",
+      "cost": "Coût",
+      "rateSubmittedOn": "Tarif soumis le",
+      "partNumberDescription": "Numéro de pièce Description",
+      "salesOrderNumber": "Numéro de commande",
+      "purchaseOrderNumber": "Numéro de commande",
+      "displayStopOffs": "Afficher les étapes",
+      "freightBillNumber": "Numéro de facture de transport",
+      "transportationProviderAppointmentNumber": "Numéro de rendez-vous du fournisseur de transport",
+      "masterShipmentNo": "Numéro d'envoi principal",
+      "houseBOLNo": "Maison BOL Non",
+      "masterBOLNo": "Maître BOL Non",
+      "modifiedBy": "Modifié par",
+      "modifiedOn": "Modifié le",
+      "printedBillOfLading": "Connaissement imprimé",
+      "billOfLanding": "CONNAISSEMENT",
+      "billOfLandingContent": "Connaissement",
+      "countryOdOrigin": "Pays d'origine",
+      "dataFetchingError": "Erreur de récupération des données",
+      "shipFrom": "EXPÉDIER DE",
+      "shipTo": "ENVOYEZ À",
+      "totalMileage": "Kilométrage total",
+      "shipmentCost": "Coût d'expédition",
+      "shipmentCounts": "Nombre d'envois",
+      "shipmentTransportationProvider": "Fournisseur de transport d'expédition",
+      "shipmentCargoType": "Type de fret d'expédition",
+      "packageBilledQuantityunitOfMeasure": "Colis/Quantité facturée Unité de mesure",
+      "chargebleWeight": "Poids rechargeable",
+      "consigneePortType": "Type de port du destinataire",
+      "shipmentStatus": "Expédition statut",
+      "shipmentNotes": "Notes d'expédition",
+      "shipmentDetails": "Détails de l'envoi",
+      "shipmentNo": "Numéro d'expédition",
+      "shipmentDate": "Date d'expédition",
+      "consignee": "Destinataire",
+      "carrierName": "Nom du transporteur",
+      "billQ": "Quantité facturée",
+      "trailerNumber": "Numéro de remorque :",
+      "sealNumber": "Numéro(s) de sceau :",
+      "shipperReferenceNo": "Numéro de référence de l'expéditeur",
+      "email": "E-mail",
+      "phoneExt": "Poste téléphonique",
+      "phone": "Téléphone",
+      "contact": "Contact",
+      "zip": "Fermeture éclair",
+      "name": "Nom",
+      "drop": "Baisse",
+      "terminal": "Terminal",
+      "pickUp": "Ramasser",
+      "fileName": "Nom de fichier",
+      "specialInstructions": "instructions spéciales",
+      "specialInstructionsSecondary": "INSTRUCTIONS SPÉCIALES:",
+      "customerOrderInformation": "INFORMATIONS SUR LA COMMANDE CLIENT",
+      "customerOrderNumber": "NUMÉRO DE COMMANDE CLIENT",
+      "additionalShipperInfo": "INFORMATIONS SUPPLÉMENTAIRES SUR L'EXPÉDITEUR",
+      "carrierInfo": "INFORMATIONS SUR LE TRANSPORTEUR",
+      "additionalUnit": "UNITÉ SUPPLÉMENTAIRE",
+      "handlingUnit": "UNITÉ DE TRAITEMENT",
+      "commodityDescription": "DESCRIPTION DU PRODUIT",
+      "commodityText": "Les marchandises nécessitant des soins ou une attention particulière ou supplémentaire lors de la manipulation ou de l'arrimage doivent être marquées et emballées de manière à garantir un transport sûr avec des soins ordinaires. ",
+      "package": "EMBALLER",
+      "weightTable": "POIDS",
+      "palletSlip": "PALETTE/BORDURE",
+      "grandTotal": "TOTAL",
+      "commercialInvoice": "FACTURE COMMERCIALE",
+      "commercialInvoiceContents": "Facture commerciale",
+      "identificationNumber": "Numéro d'identification:",
+      "noteLiability": "REMARQUE Une limitation de responsabilité en cas de perte ou de dommage dans cet envoi peut être applicable. ",
+      "received": "REÇU, sous réserve de tarifs déterminés individuellement ou de contrats convenus par écrit entre le transporteur et l'expéditeur, le cas échéant, sinon des tarifs, classifications et règles établis par le transporteur et mis à la disposition de l'expéditeur, sur demande, ",
+      "carrierShall": "Le transporteur ne procédera pas à la livraison de cet envoi sans paiement du fret et de tous les autres frais légaux.",
+      "certify": "Il s'agit de certifier que les matériaux nommés ci-dessus sont correctement classés, emballés, marqués et étiquetés, et sont en bon état pour le transport conformément aux réglementations applicables du DOT.",
+      "classTable": "CLASSE",
+      "type": "TAPER",
+      "shipperSignatureDate": "SIGNATURE / DATE DE L'EXPÉDITEUR",
+      "trailerLoaded": "Remorque chargée :",
+      "freightCounted": "Fret compté :",
+      "freight": "Fret:",
+      "byShipper": "Par expéditeur",
+      "byDriver": "Par chauffeur",
+      "byDriverPallets": "Par Chauffeur/palettes censées contenir",
+      "byDriverPieces": "Par pilote/pièces",
+      "carrierPickupDate": "SIGNATURE DU TRANSPORTEUR / DATE DE RETRAIT",
+      "carrierAcknowledges": "Le transporteur accuse réception des colis et des pancartes requises. ",
+      "hazmat": "Matières dangereuses",
+      "ltlOnly": "LTL SEULEMENT",
+      "invoiceNumber": "Numéro de facture",
+      "shipperSignature": "Signature de l'expéditeur",
+      "houseBillOfLandingNumber": "Numéro de connaissement de la maison",
+      "billQty": "Colis/Quantité facturée",
+      "packageWeight": "Poids du paquet",
+      "unitOfMeasure": "Unité de mesure",
+      "height": "Hauteur",
+      "width": "Largeur",
+      "length": "Longueur",
+      "currencyCode": "Code de devise",
+      "eccnNumber": "Numéro ECCN",
+      "htcCode": "Code HTC",
+      "unitPrice": "Prix ​​unitaire",
+      "totalQuantity": "Quantité totale",
+      "consigneePortName": "Nom du port du destinataire",
+      "consigneeHoursOfOperations": "Heures d'ouverture du destinataire",
+      "consigneeDaysTo": "Jours de la semaine du destinataire jusqu'à",
+      "consigneeDaysFrom": "Jours de la semaine du destinataire à partir de",
+      "consigneeAppointmentType": "Type de rendez-vous du destinataire",
+      "consigneeWarehouseEmail": "E-mail de l'entrepôt du destinataire",
+      "consigneeWarehouseTelephone": "Téléphone de l'entrepôt du destinataire",
+      "consigneeWarehouseContact": "Contact de l'entrepôt du destinataire",
+      "shipperPortName": "Nom du port d'expédition",
+      "hoursOfOperations": "Heures d'ouverture",
+      "warehouseEmail": "E-mail de l'entrepôt",
+      "warehouseTelephone": "Téléphone d'entrepôt",
+      "warehouseContact": "Contact Entrepôt",
+      "shipperPortType": "Type de port d'expédition",
+      "countryOfOrigin": "Pays d'origine",
+      "hts": "HTS",
+      "eccn": "ECCN",
+      "coo": "ROUCOULER",
+      "ciNo": "N° CI :",
+      "description": "Description",
+      "newShipDate": "Nouvelle date d'expédition",
+      "quantityLeft": "Quantité restante",
+      "consigneePostal": "Destinataire postal",
+      "shipperPostal": "Expéditeur postal",
+      "percentageLeft": "Pourcentage restant",
+      "weight": "Poids",
+      "expectedDeliveryDate": "Date de livraison prévue",
+      "destination": "Destination",
+      "origin": "Origine",
+      "bolNumber": "Numéro BOL",
+      "comparativeRate": "Tarif comparatif",
+      "actualCarrierRate": "Tarif réel du transporteur",
+      "bidStatus": "Statut de l'offre",
+      "spotBidHistory": "Historique des enchères ponctuelles",
+      "allSpotBids": "Toutes les offres ponctuelles",
+      "openSpotBids": "Offres ponctuelles ouvertes",
+      "paymentTerms": "Modalités de paiement",
+      "partNumber": "Numéro d'article",
+      "povStatus": "Statut du point de vue",
+      "orderDeliveryDate": "Date de livraison de la commande",
+      "orderShipDate": "Date d'expédition de la commande",
+      "conStateState": "État du destinataire",
+      "consigneeZip": "Zip du destinataire",
+      "shipperState": "État de l'expéditeur",
+      "shipperZip": "Code postal de l'expéditeur",
+      "orderNumber": "Numéro de commande",
+      "transitDays": "Jours de transit",
+      "transitDaysAreRequired": "Des jours de transit sont requis",
+      "emailAddress": "Adresse e-mail",
+      "currencyName": "Nom de la devise",
+      "price": "Prix",
+      "packageQuantity": "Quantité de colis",
+      "packageUOMQuantity": "Quantité UdM du colis",
+      "weightUOM": "Poids UdM",
+      "selectWeightUOM": "Sélectionnez l'UdM de poids",
+      "totalWeight": "Poids total",
+      "totalItemQty": "Quantité totale d'articles",
+      "packageDimensions": "Dimensions du colis",
+      "consigneeAddress": "Adresse du destinataire",
+      "shipperAddress": "Adresse de l'expéditeur",
+      "shipperPostalCode": "Code postal de l'expéditeur",
+      "pickupDate": "Date de ramassage",
+      "effectiveDueDate": "Date d'échéance effective",
+      "totalCube": "Cube total",
+      "total": "TOTAL",
+      "bid": "OFFRE",
+      "open": "Ouvrir",
+      "multiStop": "Arrêt multiple",
+      "notes": "Remarques",
+      "shipmentCount": "Nombre d'envois",
+      "quantityShipped": "Quantité expédiée",
+      "daysOfWeek": "Jours de la semaine",
+      "tenderEmailAddress": "Adresse e-mail de l'offre",
+      "selectAll": "Tout sélectionner",
+      "spotBid": "ENCHÈRE Spot",
+      "mapView": "Vue de la carte",
+      "changesWillBeLost": "Les modifications seront perdues.",
+      "quoteNumber": "Cite un nombre",
+      "failedToExportShipmentDetails": "Échec de l'exportation des détails de l'expédition.",
+      "createdByFullName": "Créé par (Nom complet)",
+      "createByEmailAddress": "Créer par (adresse e-mail)",
+      "purchaseOrderNo": "Numéro de bon de commande",
+      "milageCalculator": "Calculateur de kilométrage",
+      "create": "Créer",
+      "reset": "Réinitialiser",
+      "shipper": "Expéditeur",
+      "totalDistance": "Distance totale",
+      "attachedDocuments": "Documents attachés",
+      "print": "Imprimer",
+      "unsavedChanges": "Les modifications non enregistrées seront perdues. ",
+      "alert": "Alerte",
+      "logout": "Se déconnecter",
+      "approvalRejectionMessage": "Message d'approbation/rejet",
+      "validatingPleaseWait": "Validation, veuillez patienter...",
+      "redirectURL": "L'URL redirigée n'est actuellement pas valide, veuillez vérifier l'URL.",
+      "filter": "Filtre",
+      "manageCompany": "Gérer l'entreprise",
+      "thePageYouVisitedDoesNotExist": "Désolé, la page que vous avez visitée n'existe pas.",
+      "backHome": "Retour à la maison",
+      "page": "Page",
+      "kindlyTryAgain": "Veuillez réessayer",
+      "hasBeenCreated": " a été créé. ",
+      "toCopyError": "Pour copier une erreur de projet",
+      "shipmentConsolidationFailed": "La consolidation des expéditions a échoué.",
+      "failedToCopyShipmentNo": "Échec de la copie du numéro d'envoi",
+      "shipmentDeletedSuccessfully": "Envoi supprimé avec succès.",
+      "shipmentCreatedSuccessfully": "Envoi créé avec succès.",
+      "shipmentCreationSuccessfully": "La création de l'envoi a échoué.",
+      "shipmentSend": "L’envoi de l’envoi pour Spot Bid est un succès.",
+      "shipmentSendFailed": "L’envoi de l’envoi pour Spot Bid a échoué.",
+      "bidderAddedSuccessfully": "Enchérisseur ajouté avec succès.",
+      "failedToAddBidder": "Échec de l'ajout d'un enchérisseur",
+      "failedToLoadRate": "Échec du chargement de la liste des boutiques de tarifs.",
+      "yourSpotBidHasEnded": "Succès! ",
+      "failedYourSpotBid": "Échoué! ",
+      "failedToDeleteShipments": "Échec de la suppression des expéditions.",
+      "shipmentTenderProcessSuccess": "Succès du processus d’appel d’offres d’expédition.",
+      "shipmentTenderProcessError": "Erreur du processus d’appel d’offres d’expédition.",
+      "successfullyCalculated": "Calculé avec succès le nouveau kilométrage",
+      "failedToCalculateTheMileage": "Impossible de calculer le kilométrage.",
+      "successfullySavedRateShopResults": "Les résultats de la boutique de tarifs ont été enregistrés avec succès.",
+      "failedToSaveRateShopResults": "Échec de l'enregistrement des résultats de la boutique de tarifs !",
+      "failedToGetAuditLogs": "Échec de l'obtention des journaux d'audit !",
+      "tmsSettingsSuccessfullySaved": "Les paramètres TMS ont été enregistrés avec succès.",
+      "copyProjectSuccessfully": "Copier le projet avec succès",
+      "failedToSave": "Échec de l'enregistrement des paramètres TMS. ",
+      "currentlyRatingResults": "Résultats d'évaluation actuellement ou non disponibles.",
+      "failedToGetShipment": "Impossible d'obtenir les détails de l'expédition. Veuillez réessayer plus tard.",
+      "successfullySavedAddressBook": "Carnet d'adresses enregistré avec succès !",
+      "failedToSaveAddressBook": "Échec de l'enregistrement du carnet d'adresses !",
+      "successfullyDeletedAddressBook": "Carnet d'adresses supprimé avec succès !",
+      "failedToDeleteAddressBook": "Échec de la suppression du carnet d'adresses !",
+      "successfullySavedProduct": "Produit enregistré avec succès !",
+      "failedToSaveProduct": "Échec de l'enregistrement du produit !",
+      "failedToGetTracking": "Échec de l'obtention du suivi",
+      "failedToGetExcelData": "Impossible d'obtenir les données Excel",
+      "failedToGetExcelDataDetails": "Échec de l'obtention des données Excel. Détails",
+      "documentEmailsSuccessfullySent": "E-mails de documents envoyés avec succès.",
+      "failedToSendDocumentEmail": "Échec de l'envoi de l'e-mail du document !",
+      "documentDownloadedSuccessfully": "Document téléchargé avec succès",
+      "failedDocumentRequest": "Demande de document échouée",
+      "updateTheReferenceAndDockNumberSuccess": "Mettre à jour la référence et le numéro de quai avec succès",
+      "failedToUpdateTheReferenceAndDockNumber": "Échec de la mise à jour de la référence et du numéro de quai !",
+      "successfullySavedITrackDetails": "Les détails iTrack ont ​​été enregistrés avec succès.",
+      "failedToSaveITrackDetails": "Échec de l'enregistrement des détails iTrack !",
+      "updateShipmentNoteSuccess": "Succès de la mise à jour du bon d'expédition",
+      "failedToUpdateShipmentNote": "Échec de la mise à jour du bon d'expédition !",
+      "failedToUpdateShipmentDetails": "Échec de la mise à jour des détails de l'expédition !",
+      "updatedShipmentDetailsSuccessfully": "Détails de l'envoi mis à jour avec succès",
+      "successfullyDeletedDistributorDetails": "Les détails du distributeur ont été supprimés avec succès.",
+      "failedToDeleteDistributorDetails": "Échec de la suppression des détails du distributeur.",
+      "successfullyDeletedRoutingDetails": "Les détails du routage ont été supprimés avec succès.",
+      "failedToDeleteRoutingDetails": "Échec de la suppression des détails du routage.",
+      "currentlyNotAbleToGet": "Impossible d'obtenir les données du carnet d'adresses pour le moment. Veuillez réessayer plus tard.",
+      "successfullySavedTheQuoted": "Les détails de l'expédition indiqués avec le numéro d'expédition ont été enregistrés avec succès :",
+      "failedSaveTheQuoteShipmentDetails": "Échec de l'enregistrement des détails de l'expédition du devis !",
+      "theUpdatingDataAreInvalid": "Les données de mise à jour ne sont pas valides",
+      "successfullyUpdatedTheAccounting": "Mise à jour réussie de la comptabilité",
+      "successfullyUpdatedTheAccountingDetails": "Mise à jour réussie des détails comptables",
+      "failedToSaveAccounting": "Échec de l'enregistrement de la comptabilité",
+      "failedToSaveAccountingDetails": "Échec de l'enregistrement des détails comptables",
+      "shipmentHasBeenCreatedSuccessfullyWith": "L'envoi a été créé avec succès avec le numéro d'envoi :",
+      "failedCreateShipment": "Échec de la création de l'expédition.",
+      "failedToGetMilageDetails": "Impossible d'obtenir les détails du kilométrage !",
+      "failedToGetRatesData": "Échec de l'obtention des données sur les tarifs !",
+      "failedToValidateApproval": "Échec de la validation de l'approbation.",
+      "failedToGetApproversList": "Échec de l'obtention de la liste des approbateurs.",
+      "somethingWentWrong": "Quelque chose s'est mal passé !",
+      "shippingLabelHasBeenCreatedSuccessfully": "L'étiquette d'expédition a été créée avec succès avec le numéro d'expédition :",
+      "failedToCreateShippingLabel": "Échec de la création de l'étiquette d'expédition ! Veuillez vérifier vos informations et réessayer !",
+      "newChildShipmentIsCreated": "Un nouvel envoi secondaire est créé avec le numéro d'approbation :",
+      "successfullySentTheApprovalRequestToTheCustomers": "Envoi réussi de la demande d’approbation aux clients.",
+      "failedToSendTheApprovalRequest": "Échec de l'envoi de la demande d'approbation !",
+      "successfullyAssignedTheTransportationProvider": "Le fournisseur de transport a été attribué avec succès.",
+      "failedToAssignTheTransportationProvider": "Échec de l'attribution du fournisseur de transport.",
+      "successfullyAddedRateEntry": "Entrée de taux ajoutée avec succès.",
+      "failedToAddRateEntry": "Échec de l'ajout d'une entrée de taux.",
+      "failedToValidateRateEntry": "Échec de la validation de l'entrée du taux.",
+      "successfullyDeletedRateEntry": "Entrée de taux supprimée avec succès.",
+      "failedToRemoveRateEntry": "Échec de la suppression de l'entrée de taux.",
+      "failedToGetMasterChilde": "Impossible d'obtenir les détails de l'envoi Maître/Enfant !",
+      "successfullyUpdatedRateEntry": "Entrée de taux mise à jour avec succès.",
+      "failedToUpdateRateEntry": "Échec de la mise à jour de l'entrée du taux.",
+      "successfullySavedAsShipment": "Enregistré avec succès en tant qu'envoi",
+      "failedToSaveAsShipment": "Échec de l'enregistrement en tant qu'envoi !",
+      "failedToGetBranchAddress": "Impossible d'obtenir l'adresse de la succursale.",
+      "failedToGetShipmentsStopsDetails": "Impossible d'obtenir les détails des arrêts d'expédition !",
+      "packingList": "LISTE DE COLISAGE",
+      "packingListContents": "Liste de colisage",
+      "billTo": "FACTURER À",
+      "vendorAdress": "ADRESSE DU VENDEUR",
+      "supplierAddress": "ADRESSE DU FOURNISSEUR",
+      "packageQty": "Quantité de colis",
+      "customRelease": "Référence de dédouanement :",
+      "referenceDate": "Date de référence:",
+      "releaseDate": "Date de sortie:",
+      "soldTo": "VENDU À",
+      "legalText": "Texte juridique.",
+      "totalInvoice": "Montant total de la facture :",
+      "insurance": "Assurance:",
+      "invoiceLine": "Total de la ligne de facture :",
+      "totalAmount": "Montant total",
+      "license": "Licence",
+      "htsCode": "Code HTS",
+      "totals": "TOTAUX",
+      "generatedPackingList": "Fichier de liste de colisage généré avec succès.",
+      "generateAllSupporting": "Générer toutes les pièces justificatives",
+      "sendCopyTo": "Envoyer une copie à :",
+      "myEmailAddress": "Mon adresse email",
+      "otherEmailAddress": "Autre adresse e-mail",
+      "typeEmailComma": "Tapez l'adresse e-mail séparée par une virgule",
+      "successfullyLadingPDF": "Fichier PDF du connaissement généré avec succès.",
+      "failedBillLadingPDFFile": "Échec de la génération du fichier PDF du connaissement.",
+      "commoditiesRequiring": "Les marchandises nécessitant des soins ou une attention particulière ou supplémentaire lors de la manipulation ou de l'arrimage doivent être marquées et emballées de manière à garantir un transport sûr avec un soin ordinaire.",
+      "whereTheRate": "Lorsque le tarif dépend de la valeur, les expéditeurs sont tenus d'indiquer spécifiquement par écrit la valeur convenue ou déclarée du bien comme suit :",
+      "agreedOrDeclared": "La valeur convenue ou déclarée de la propriété est spécifiquement déclarée par l'expéditeur comme ne dépassant pas",
+      "cid": "Numéro d'identification client",
+      "emailID": "Identifiant de courrier électronique",
+      "modal": {
+        "label": "Les modifications seront perdues !",
+        "labelTwo": "Êtes-vous sûr de supprimer ?",
+        "okText": "D'accord"
+      },
+      "shipmentsByServiceType": "Expéditions par type de service",
+      "startDateAndTime": "Date et heure de début",
+      "updateShipmentSummary": "Mettre à jour le résumé de l'expédition",
+      "pleaseSelectAnyItem": "Veuillez sélectionner n'importe quel élément.",
+      "pleaseEnterPackageWeight": "Veuillez entrer le poids du colis",
+      "location": {
+        "label": "Emplacement",
+        "message": "Veuillez entrer l'emplacement",
+        "messageMax": "L'emplacement ne doit pas dépasser 13 caractères."
+      },
+      "contactEmailAddress": {
+        "label": "Adresse e-mail de contact"
+      },
+      "portCode": {
+        "label": "Code portuaire",
+        "placeholderSelect": "Sélectionnez le code du port",
+        "placeholderEnter": "Entrez le code du port"
+      },
+      "customer": {
+        "label": "Client",
+        "message": "Veuillez sélectionner un client"
+      },
+      "scac": {
+        "label": "SCAC",
+        "placeholder": "Entrez dans le SCAC"
+      },
+      "shipDate": {
+        "label": "Date d'expédition",
+        "message": "Veuillez sélectionner une date d'expédition"
+      },
+      "deleteConfirm": {
+        "title": "Êtes-vous sûr de vouloir supprimer?"
+      },
+      "internalNotes": {
+        "label": "Notes internes",
+        "placeholder": "Saisir des notes internes"
+      },
+      "pickUpReference": {
+        "label": "Récupérer la référence",
+        "message": "Veuillez entrer la référence de retrait"
+      },
+      "dimUnitOfMeasure": {
+        "label": "Unité de mesure DIM",
+        "message": "Veuillez sélectionner l'unité de mesure"
+      },
+      "packageType": {
+        "label": "Type d'emballage",
+        "message": "Veuillez sélectionner le type de colis"
+      },
+      "packageID": {
+        "label": "ID du paquet",
+        "placeholder": "Entrez l'ID du package"
+      },
+      "quantity": {
+        "label": "Quantité",
+        "placeholder": "Entrez la quantité",
+        "message": "Veuillez entrer la quantité",
+        "error": "La quantité doit être au minimum 1",
+        "number": "La quantité doit être un nombre."
+      },
+      "receiptNumber": {
+        "label": "Sélectionnez le numéro de reçu",
+        "placeholder": "Numéro de reçu"
+      },
+      "cube": {
+        "label": "cube",
+        "placeholder": "Entrez dans le cube",
+        "message": "Veuillez entrer le cube",
+        "errorNegative": "Le cube ne peut pas avoir de valeurs négatives"
+      },
+      "expectedShipDate": {
+        "label": "Date de livraison attendue"
+      },
+      "productDesc": {
+        "label": "Description du produit",
+        "placeholder": "Sélectionnez le code produit",
+        "message": "Veuillez sélectionner le code produit",
+        "enter": "Veuillez saisir la description du produit",
+        "tooltip": "Définit la description du produit par défaut sur l'accordéon des détails du produit"
+      },
+      "lineNumber": {
+        "label": "Numéro de ligne"
+      },
+      "incoTerm": {
+        "label": "IncoTerm",
+        "placeholder": "Sélectionnez IncoTerm",
+        "tooltip": "Prérégle IncoTerm dans le module Expédition. "
+      },
+      "consigneeCity": {
+        "label": "Ville du destinataire",
+        "placeholder": "Sélectionnez la ville du destinataire"
+      },
+      "consigneeState": {
+        "label": "État/province du destinataire",
+        "placeholder": "Sélectionnez l'État/la province du destinataire"
+      },
+      "consigneePostalCode": {
+        "label": "Code postal du destinataire"
+      },
+      "consigneeCountry": {
+        "label": "Pays du destinataire",
+        "placeholder": "Sélectionnez le pays du destinataire"
+      },
+      "consigneeName": {
+        "label": "Le nom du destinataire",
+        "placeholder": "Sélectionnez le nom du destinataire",
+        "message": "Veuillez sélectionner le nom du destinataire"
+      },
+      "shipperCity": {
+        "label": "Ville de l'expéditeur",
+        "placeholder": "Sélectionnez la ville de l'expéditeur",
+        "message": "Veuillez entrer la ville de l'expéditeur"
+      },
+      "shipperStateProvince": {
+        "label": "État/province de l'expéditeur",
+        "placeholder": "Sélectionnez l'État/la province de l'expéditeur"
+      },
+      "shipperCountry": {
+        "label": "Pays de l'expéditeur",
+        "placeholder": "Sélectionnez le pays de l'expéditeur",
+        "message": "Veuillez sélectionner le pays de l'expéditeur"
+      },
+      "deliveryDate": {
+        "label": "La date de livraison",
+        "message": "Veuillez sélectionner une date de livraison"
+      },
+      "freightClass": {
+        "label": "Classe de fret",
+        "placeholder": "Veuillez sélectionner la classe de fret",
+        "tooltip": "Définit la classe de fret par défaut sur l'accordéon des détails du produit"
+      },
+      "shipmentNumber": {
+        "label": "Numéro d'expédition",
+        "placeholder": "Entrez le numéro d'expédition"
+      },
+      "shipmentTerms": {
+        "label": "Conditions d'expédition",
+        "message": "Veuillez sélectionner des conditions d'expédition",
+        "option_c": "Collecter",
+        "option_p": "Prépayé",
+        "option_t": "Tierce personne",
+        "placeholder": "Sélectionnez les conditions d'expédition",
+        "tooltip": "Définit les conditions d'expédition par défaut sur l'expédition"
+      },
+      "transportationProvider": {
+        "label": "Fournisseur de transport",
+        "selectPlaceholder": "Sélectionnez le fournisseur de transport",
+        "message": "Un fournisseur de transport est requis",
+        "select": "Veuillez sélectionner le fournisseur de transport",
+        "email": "E-mail envoyé avec succès au fournisseur de transport",
+        "emailError": "Échec de l'envoi d'un e-mail au fournisseur de transport"
+      },
+      "vendorName": {
+        "label": "Nom du fournisseur",
+        "placeholder": "Sélectionnez le nom du fournisseur",
+        "message": "Veuillez sélectionner le fournisseur"
+      },
+      "companyName": {
+        "label": "Nom de l'entreprise",
+        "placeholder": "Entrez le nom de l'entreprise",
+        "selectPlaceholder": "Sélectionnez le nom de l'entreprise",
+        "message": "Veuillez entrer le nom de l'entreprise"
+      },
+      "companyAddress": {
+        "label": "Adresse de la société",
+        "placeholder": "Entrez l'adresse de l'entreprise",
+        "message": "Veuillez entrer l'adresse de l'entreprise"
+      },
+      "country": {
+        "label": "Pays",
+        "placeholder": "Choisissez le pays",
+        "message": "Veuillez sélectionner un pays"
+      },
+      "address": {
+        "label": "Adresse",
+        "message": "Veuillez entrer l'adresse"
+      },
+      "postalCode": {
+        "label": "Code Postal",
+        "placeholder": "Entrez le code postal",
+        "selectPlaceholder": "Sélectionnez le code postal",
+        "message": "Veuillez entrer le code postal",
+        "selectMessage": "Veuillez sélectionner le code postal",
+        "error": "Le courrier saisi n'est pas valide ou n'a pas pu être trouvé dans le pays sélectionné !",
+        "invalid": "Code postal invalide !",
+        "zip": "Veuillez entrer le code postal",
+        "zipPostal": "Zip / code postal",
+        "enter": "Veuillez saisir le code postal."
+      },
+      "stateProvince": {
+        "label": "État/Province",
+        "placeholder": "Sélectionnez l'état/la province",
+        "message": "Veuillez sélectionner État/Province"
+      },
+      "from": {
+        "label": "Depuis",
+        "placeholder": "Sélectionnez le jour"
+      },
+      "to": {
+        "label": "À",
+        "placeholder": "Sélectionnez le jour"
+      },
+      "city": {
+        "label": "Ville",
+        "placeholder": "Sélectionnez une ville",
+        "message": "Veuillez entrer la ville",
+        "enter": "Entrez la ville",
+        "select": "Veuillez sélectionner une ville"
+      },
+      "state": {
+        "label": "État",
+        "message": "Veuillez sélectionner un État",
+        "placeholder": "Sélectionner un état",
+        "city": "Ville"
+      },
+      "contactName": {
+        "label": "Nom du contact",
+        "message": "Veuillez entrer le nom du contact"
+      },
+      "contactEmail": {
+        "label": "Email du contact",
+        "required": "Veuillez entrer l'e-mail de contact",
+        "message": "La valeur saisie n'est pas au format e-mail !"
+      },
+      "containerNumber": {
+        "label": "Numéro de conteneur"
+      },
+      "trackingNumber": {
+        "label": "Numéro de suivi",
+        "placeholder": "Entrez le numéro de suivi"
+      },
+      "createdOn": {
+        "title": "Créé sur",
+        "placeholder": "Sélectionner une date",
+        "shipmentCreatedOn": "Expédition créée le"
+      },
+      "branch": {
+        "label": "Bifurquer",
+        "message": "Veuillez sélectionner une succursale",
+        "placeholder": "Sélectionnez une succursale"
+      },
+      "sortBy": {
+        "label": "Trier par",
+        "select": "Sélectionnez Trier par"
+      },
+      "reason": {
+        "label": "Raison",
+        "placeholder": "Sélectionnez la raison",
+        "message": "Veuillez sélectionner une raison"
+      },
+      "shipmentType": {
+        "placeholder": "Sélectionnez le type d'envoi",
+        "label": "Type d'envoi",
+        "message": "Veuillez sélectionner le type d'envoi"
+      },
+      "accessorial": {
+        "label": "Accessoire",
+        "placeholder": "Sélectionnez accessoire"
+      },
+      "product": {
+        "label": "Produit",
+        "placeholder": "Sélectionner un produit"
+      },
+      "locationID": {
+        "label": "Identifiant du lieu",
+        "placeholder": "Sélectionnez l'identifiant de l'emplacement"
+      },
+      "serviceLevel": {
+        "label": "Niveau de service",
+        "placeholder": "Sélectionnez le niveau de service"
+      },
+      "appointmentType": {
+        "label": "Type de rendez-vous",
+        "placeholder": "Sélectionnez le type de rendez-vous",
+        "message": "Veuillez saisir le type de rendez-vous",
+        "choose": "Veuillez choisir le type de rendez-vous."
+      },
+      "cargoType": {
+        "label": "Type de chargement",
+        "placeholder": "Sélectionnez le type de chargement",
+        "message": "Veuillez sélectionner un type de fret",
+        "required": "Le type de fret est requis"
+      },
+      "accountNumber": {
+        "label": "Numéro de compte",
+        "placeholder": "Sélectionnez le numéro de compte",
+        "message": "Veuillez saisir le numéro de compte",
+        "select": "Veuillez sélectionner le numéro de compte"
+      },
+      "shipmentBranch": {
+        "label": "Direction des expéditions",
+        "placeholder": "Sélectionnez la succursale d'expédition",
+        "message": "Veuillez sélectionner une succursale d'expédition"
+      },
+      "portName": {
+        "label": "Nom du port",
+        "placeholder": "Rechercher le nom du port",
+        "select": "Sélectionnez le nom du port",
+        "message": "Veuillez sélectionner un nom de port",
+        "enter": "Entrez le nom du port"
+      },
+      "currency": {
+        "label": "Devise",
+        "placeholder": "Sélectionnez la devise",
+        "message": "La devise est requise"
+      },
+      "customerName": {
+        "label": "Nom du client",
+        "placeholder": "Sélectionnez le nom du client",
+        "placeholderEnter": "Veuillez sélectionner le nom du client"
+      },
+      "equipmentType": {
+        "label": "Type d'équipement",
+        "placeholder": "Sélectionnez le type d'équipement",
+        "message": "Le type d'équipement est requis"
+      },
+      "linerType": {
+        "label": "Type de doublure",
+        "placeholder": "Sélectionnez le type de doublure"
+      },
+      "measurementUit": {
+        "label": "Unité de mesure",
+        "placeholder": "Sélectionnez l'unité de mesure"
+      },
+      "packageLoadType": {
+        "label": "Type de chargement du colis",
+        "placeholder": "Sélectionnez le type de chargement du colis",
+        "message": "Veuillez sélectionner le type de chargement du colis"
+      },
+      "palletLoadType": {
+        "label": "Type de charge de palette",
+        "placeholder": "Sélectionnez le type de chargement de palette",
+        "option": "Empilable",
+        "optionNon": "Non empilable"
+      },
+      "paymentType": {
+        "label": "Type de paiement",
+        "placeholder": "Sélectionnez le type de paiement"
+      },
+      "portType": {
+        "label": "Type de port",
+        "placeholder": "Sélectionnez le type de port",
+        "search": "Type de port de recherche",
+        "message": "Veuillez sélectionner le type de port"
+      },
+      "pricingBasis": {
+        "label": "Base de tarification",
+        "placeholder": "Sélectionnez la base de tarification"
+      },
+      "pricingType": {
+        "label": "Type de prix",
+        "placeholder": "Sélectionnez le type de tarification",
+        "message": "Veuillez sélectionner le type de tarification"
+      },
+      "unitOfMeasurement": {
+        "label": "Unité de mesure",
+        "placeholder": "Sélectionnez l'unité de mesure"
+      },
+      "projectName": {
+        "label": "nom du projet",
+        "placeholder": "Sélectionnez le nom du projet",
+        "messageError": "Veuillez entrer le nom du projet",
+        "messageExist": "Le nom du projet existe déjà !"
+      },
+      "poStatus": {
+        "label": "Statut du bon de commande",
+        "placeholder": "Sélectionnez le statut du bon de commande",
+        "option_o": "Ouvrir",
+        "option_c": "Complété",
+        "option_d": "Supprimé"
+      },
+      "ratingPreferences": {
+        "label": "Préférences de notation",
+        "placeholder": "Sélectionnez les préférences de notation"
+      },
+      "category": {
+        "label": "Catégorie",
+        "placeholder": "Choisir une catégorie"
+      },
+      "categoryType": {
+        "label": "Type de catégorie",
+        "placeholder": "Sélectionnez le type de catégorie",
+        "message": "Veuillez sélectionner le type de catégorie"
+      },
+      "userName": {
+        "label": "Nom d'utilisateur",
+        "placeholder": "Sélectionnez le nom d'utilisateur",
+        "message": "Veuillez sélectionner le nom d'utilisateur"
+      },
+      "shipmentCreatedBy": {
+        "email": "Sélectionnez E-mail"
+      },
+      "shipperName": {
+        "label": "Nom de l'expéditeur",
+        "placeholder": "Sélectionnez le nom de l'expéditeur",
+        "message": "Veuillez sélectionner le nom de l'expéditeur"
+      },
+      "exceptionType": {
+        "label": "Type d'exception",
+        "placeholder": "Sélectionnez le type d'exception"
+      },
+      "status": {
+        "label": "Statut",
+        "placeholder": "Sélectionnez le statut",
+        "message": "Veuillez sélectionner un statut"
+      },
+      "locationType": {
+        "label": "Type de lieu",
+        "placeholder": "Sélectionnez le type d'emplacement"
+      },
+      "class": {
+        "label": "Classe",
+        "placeholder": "Sélectionnez une classe"
+      },
+      "hazmatClass": {
+        "label": "Classe HAZMAT",
+        "placeholder": "Sélectionnez la classe HAZMAT"
+      },
+      "routingType": {
+        "label": "Type de routage",
+        "placeholder": "Sélectionnez le type de routage"
+      },
+      "hours": {
+        "label": "Heures",
+        "placeholder": "Sélectionnez les heures",
+        "message": "Sélectionnez les heures"
+      },
+      "supplier": {
+        "label": "Fournisseur",
+        "placeholder": "Sélectionnez le fournisseur"
+      },
+      "taxType": {
+        "label": "Type de taxe",
+        "placeholder": "Sélectionnez le type de taxe"
+      },
+      "tenderName": {
+        "label": "Nom de l'offre",
+        "placeholder": "Sélectionnez le nom de l'offre"
+      },
+      "timeZone": {
+        "label": "Fuseau horaire",
+        "placeholder": "Sélectionnez le fuseau horaire",
+        "message": "Veuillez sélectionner les heures"
+      },
+      "userType": {
+        "label": "Type d'utilisateur",
+        "placeholder": "Sélectionnez le type d'utilisateur",
+        "enter": "Veuillez saisir le type d'utilisateur."
+      },
+      "weightMeasurement": {
+        "label": "Mesure du poids",
+        "placeholder": "Sélectionnez la mesure du poids"
+      },
+      "authorisedSignature": "Signature autorisée",
+      "company": "Entreprise",
+      "title": "Titre",
+      "telephoneNumber": "NUMÉRO DE TÉLÉPHONE"
+    },
+    "notification": {
+      "messages": "messages",
+      "recentActivities": "Activités récentes",
+      "errorMessages": "Messages d'erreur",
+      "failedUpdateClaimsDetails": "Échec de la mise à jour des détails des réclamations",
+      "sessionExpired": "La session a expiré ! Veuillez vous reconnecter.",
+      "failedTrackingDetails": "Impossible d'obtenir les détails du suivi",
+      "failedCarrierDetails": "Impossible d'obtenir les détails du transporteur.",
+      "shipmentCancelled": "L'envoi a été annulé avec succès",
+      "timeoutIssue": "Problème de délai d'attente",
+      "parcelExpressSaga": "La saga des colis express",
+      "failedToGetData": "Échec de l'obtention des données !",
+      "routingDetails": "détails d'acheminement",
+      "failedTo": "Échec de",
+      "distributorDetails": "détails du distributeur",
+      "updated": "mis à jour",
+      "created": "créé",
+      "successfully": "Avec succès",
+      "successfullyUpdated": "mise à jour réussie",
+      "errorWithCode0": "Erreur avec le code 0",
+      "shipmentsFollowing": "les expéditions sont regroupées avec le numéro d'expédition suivant :",
+      "successfullyCopied": "est copié avec succès avec",
+      "failed": "échoué",
+      "success": "succès",
+      "copyTender": "Copier l'offre avec succès",
+      "copyTenderError": "Pour copier une erreur de soumission",
+      "purchaseOrderCreated": "Confirmer la création du bon de commande avec succès",
+      "claimsDetailsFailed": "Impossible d'obtenir les détails des réclamations",
+      "claimsDeletedFailed": "Échec de la suppression des revendications.",
+      "claimsDeleted": "Revendications supprimées avec succès.",
+      "failedShippingLabelPDF": "Échec de la génération du fichier PDF de l'étiquette d'expédition.",
+      "failedGgeneratePDF": "Échec de la génération du PDF",
+      "shippingLabelPDF": "Fichier PDF d'étiquette d'expédition généré avec succès.",
+      "carrierDataFailed": "Échec de la transmission des données de l'opérateur.",
+      "portDataFailed": "Échec du port des données.",
+      "postalDataFailed": "Échec de l'envoi des données postales.",
+      "userProfileImage": "L'image du profil utilisateur a été mise à jour",
+      "shipmentStatusFailed": "Échec de la vérification de l'état de l'envoi !",
+      "userPreferenceFailed": "Impossible d'obtenir les préférences de l'utilisateur",
+      "preferenceUpdatedFailed": "Échec de la mise à jour des préférences",
+      "preferenceUpdated": "La préférence a été mise à jour avec succès",
+      "passwordUpdatedFailed": "Échec de la mise à jour du mot de passe",
+      "passwordUpdated": "Le mot de passe a été mis à jour avec succès",
+      "userProfileUpdated": "Le profil utilisateur a été mis à jour",
+      "bidSubmitted": "L'offre a été soumise avec succès.",
+      "bidNotSubmitted.": "L'offre n'a pas été soumise.",
+      "email": "Entrez une adresse email valide.",
+      "numeric": "Veuillez saisir uniquement des chiffres",
+      "problemWithDownloading": "Problème de téléchargement !",
+      "emptyList": "Liste vide",
+      "leastOneItem": "Veuillez saisir au moins un élément pour continuer.",
+      "emptySelect": "Recherchez quelque chose pour obtenir des données...",
+      "noRecondfound": "Aucune reconnaissance trouvée.",
+      "itSeems": "Il semble",
+      "trackingNumber": " n'est pas un numéro de suivi valide",
+      "successfulyGeneratedCommercial": "Fichier de facture commerciale généré avec succès.",
+      "failedToGenerateCommercialInvoiceFile.": "Échec de la génération du fichier de facture commerciale.",
+      "COOPDF": "Fichier PDF COO généré avec succès.",
+      "failedCOOPDF": "Échec de la génération du fichier PDF COO."
+    },
+    "emptyRecords": {
+      "title": "Veuillez essayer d'ajuster les filtres. ",
+      "descriptionOne": "Aucune donnée n'est basée sur les informations que vous avez saisies.",
+      "descriptionTwo": "Veuillez essayer d'ajuster les filtres."
+    }
+  },
+  "parcelExpress": {
+    "serviceType": "type de service",
+    "transitTime": "Temps de transit (jour)",
+    "billingWeight": "Poids de facturation",
+    "charges": "Des charges",
+    "action": "Action",
+    "baseCharges": "Frais de base",
+    "totalSurcharges": "Total des suppléments",
+    "totalDiscount": "Remise totale",
+    "netCharges": "Frais nets",
+    "savePrintLabel": "Sauvegarder",
+    "note": "Note",
+    "severity": "Gravité",
+    "alertMessage": "Message d'alerte",
+    "triggerNotification": {
+      "default": "Veuillez sélectionner un transporteur pour obtenir les tarifs.",
+      "packages": "Les paquets sont vides, veuillez réessayer avec au moins un paquet !",
+      "reject": "Transporteurs non sélectionnés",
+      "packagesReject": "Les paquets sont vides !"
+    },
+    "titles": {
+      "parcelExpress": "Colis Express",
+      "shipmentInformation": "Informations d'expédition",
+      "shipmentsByService": "Expéditions par type de service",
+      "originDestinationInformation": "Informations sur l'origine/destination",
+      "packageDetails": "Détails du forfait",
+      "additionalServices": "Des services supplémentaires",
+      "total": "Dépense totale cette année",
+      "service": "Pannes de service"
+    },
+    "buttons": {
+      "addPackage": "Ajouter un paquet",
+      "deletePackage": "Supprimer le paquet"
+    },
+    "locationForm": {
+      "datePickerMessage": "Veuillez sélectionner la date d'expédition",
+      "countryCallingCode": {
+        "label": "Indicatif d'appel du pays"
+      },
+      "number": {
+        "required": "Veuillez entrer le numéro de contact",
+        "number_error": "Le numéro de contact ne doit être constitué que de chiffres !",
+        "digits_error": "Le numéro de contact doit être composé de 10 chiffres uniquement !"
+      },
+      "ext": "Poste"
+    },
+    "packageForm": {
+      "itemNo": "Numéro d'article",
+      "noOfPackages": {
+        "label": "Nombre de colis",
+        "message": "Veuillez entrer le nombre de colis"
+      },
+      "chargeableWeight": {
+        "label": "Poids taxable",
+        "message": "Veuillez saisir le poids facturable"
+      },
+      "unit": {
+        "label": "Unité",
+        "message": "Veuillez sélectionner l'unité UdM",
+        "dimension_message": "Veuillez sélectionner Dimensions UdM"
+      },
+      "length": {
+        "message": "Veuillez entrer la longueur"
+      },
+      "width": {
+        "message": "Veuillez entrer la largeur"
+      },
+      "height": {
+        "message": "Veuillez entrer la hauteur"
+      }
+    },
+    "additionalForm": {
+      "residentialDelivery": "Livraison résidentielle",
+      "insurance": "Assurance",
+      "declaredValue": {
+        "label": "Valeur déclarée",
+        "placeholder": "Entrez la valeur déclarée"
+      }
+    },
+    "serviceBarChart": "Service",
+    "totalSpend": " Dépenses totales cette année par les fournisseurs de transport"
+  },
+  "visibility": {
+    "filters": {
+      "titles": {
+        "shipmentSearch": "Recherche d'envoi",
+        "byOrigin": "Recherche d'envois par origine et destination",
+        "byOrder": "Recherche d'expédition par détails de commande"
+      },
+      "shipmentSearch": {
+        "shipmentType": {
+          "label": "Types d'expédition",
+          "optionOpen": "Ouvrir",
+          "optionClosed": "Fermé"
+        },
+        "pickupDate": {
+          "title": "Date de ramassage",
+          "placeholder": "Sélectionner une date"
+        },
+        "itnNumber": {
+          "label": "Numéro ITN/ISF/AES"
+        }
+      }
+    },
+    "header": {
+      "title": "Visibilité",
+      "errorNotification": "Échec de l'envoi du document par e-mail !",
+      "downloadLabel": "Télécharger le PDF",
+      "printLabel": "Imprimer le PDF",
+      "emailLabel": "Envoyer le PDF par courrier électronique",
+      "sendEmailTitle": "Envoyer un e-mail au fournisseur de transport",
+      "sendEmailSubtitle": "Détails de suivi pour ",
+      "documents": "Documents",
+      "sendEmailSubject": {
+        "label": "Sujet"
+      },
+      "sendEmailAddress": {
+        "placeholder": "Adresse e-mail*",
+        "errorMessage": "Veuillez saisir votre adresse e-mail."
+      },
+      "sendEmailComments": {
+        "label": "commentaires",
+        "placeholder": "commentaires"
+      },
+      "notificationSendEmailError": "Échec de l'envoi du document par e-mail !",
+      "exportForm": {
+        "title": "Informations sur la visibilité",
+        "createOn": "Créer sur",
+        "exportExcel": "Visibilité Exporter Excel"
+      },
+      "exportPDF": {
+        "shipment": {
+          "title": "Détails de l'envoi",
+          "transitServiceStandard": "Norme de service de transport en commun : ",
+          "actualTransitDays": " Jours de transit réels : ",
+          "shipmentIdentifier": "Identifiant de l'expédition : ",
+          "billOfLadingNumber": "Numéro du connaissement : ",
+          "flightVoyageNumber": "Numéro de vol/voyage : ",
+          "expShipDate": "Date d'expédition : ",
+          "vessel": "Navire: ",
+          "xpDeliveryDate": "Date de livraison express : ",
+          "sealNumber": "Numéro de scellé: ",
+          "vendorName": "Nom du fournisseur : ",
+          "itNisFaeSNo": "Numéro ITN/ISF/AES : ",
+          "carrierName": "Nom du transporteur: ",
+          "shipmentNote": "Remarque sur l'expédition : ",
+          "po": "PO "
+        },
+        "product": {
+          "title": "Information produit",
+          "productDescription": " Description du produit",
+          "billedQty": "Quantité facturée",
+          "l": "L",
+          "w": "W",
+          "h": "H",
+          "dimUOM": "Faible UdM",
+          "soNumber": "Numéro de SO"
+        },
+        "shipper": {
+          "title": "Informations sur l'expéditeur",
+          "address1": "Adresse 1",
+          "address2": "Adresse 2",
+          "postal": "Postal",
+          "contact": "Nom/Téléphone du contact",
+          "appointmentNumber": "Numéro de rendez-vous",
+          "dockNumber": "Numéro de quai"
+        },
+        "consignee": {
+          "title": "Informations sur le destinataire",
+          "address1": "Adresse 1",
+          "address2": "Adresse 2",
+          "postal": "Postal",
+          "contact": " Nom/téléphone du contact",
+          "appointmentNumber": " Numéro de rendez-vous",
+          "dockNumber": "Numéro de quai",
+          "totalPalletCount": "Nombre total de palettes"
+        },
+        "tracking": {
+          "title": "Détails de l'état du suivi",
+          "date": "Date/heure au statut",
+          "location": "Emplacement",
+          "etaDate": "Date Eta"
+        }
+      },
+      "visibilityExport": "Exportation de visibilité"
+    },
+    "minCard": {
+      "trackingStatusType": "Type de statut de suivi",
+      "shipDate": "Date d'expédition demandée par l'expéditeur"
+    },
+    "detailCard": {
+      "tabs": {
+        "general": "Général",
+        "tracking": "Détails de l'état du suivi",
+        "details": "Détails",
+        "productInfo": "Information produit"
+      },
+      "generalTab": {
+        "title": "Général",
+        "shipmentDetail": "Détails de l'expédition",
+        "shipmentMode": "Mode d'expédition",
+        "multiShop": "Multiboutique",
+        "shipperDetails": "Détails de l'expéditeur",
+        "shipperContact": "Coordonnées de l'expéditeur",
+        "appointmentNo": "Numéro de rendez-vous",
+        "dockNo": "Numéro de quai/numéro de confirmation",
+        "consigneeDetails": "Détails du destinataire",
+        "consigneeContact": "Coordonnées du destinataire",
+        "shipmentLocation": "Lieu d'expédition",
+        "trackingDetails": "Détails de suivi",
+        "trackingStatus": "Statut de suivi",
+        "trackingStatusType": "Type de statut de suivi",
+        "transporterPlannedShipDate": "Date d'expédition prévue par le transporteur",
+        "transporterPlannedDeliveryDate": "Date de livraison prévue par le transporteur",
+        "eventOccurrence": "Date et heure de l'événement",
+        "shipperRequestedShipDate": "Date d'expédition demandée par l'expéditeur",
+        "shipmentDetails": "Détails de l'envoi",
+        "shipperRequstedShipDate": "Date d'expédition demandée par l'expéditeur",
+        "shipperRequstedDeliveryDate": "Date de livraison demandée par l'expéditeur",
+        "eventOccurrenceDate": " Date et heure de l'événement"
+      },
+      "notesTab": {
+        "createdBy": "Créé par :",
+        "createdOn": "Créé sur :",
+        "editedBy": "Édité par :",
+        "editedOn": "Edité le :"
+      },
+      "detailsTab": {
+        "title": "Détails",
+        "portOfOrigin": "Port d'origine",
+        "portOfDischarge": "Port de déchargement",
+        "houseBill": "Numéro de connaissement de la maison",
+        "actualTransitDays": "Jours de transit réels",
+        "interlineRoutingSequence": "Séquence de routage interligne",
+        "interlineSCAC": "SCAC interligne",
+        "vessel": "Navire",
+        "flightVoyageNumber": "Numéro de vol/voyage",
+        "sealNumber": "Numéro de scellé",
+        "itNisFaeSNumber": "Numéro ITN/ISF/AES"
+      },
+      "productInfoTab": {
+        "title": "Information produit",
+        "productCode": "Code produit :",
+        "productDescription": "Description du produit",
+        "grossWeight": "Poids brut"
+      },
+      "fileDetailsTab": {
+        "fileComments": {
+          "label": "Commentaires sur le fichier",
+          "placeholder": "Commentaires sur le fichier"
+        },
+        "referenceNo": {
+          "label": "Numéro de référence du document justificatif",
+          "placeholder": "Numéro de référence du document justificatif"
+        }
+      }
+    },
+    "footer": {
+      "totalShipments": "Total des expéditions",
+      "openShipments": "Expéditions ouvertes",
+      "closedShipments": "Expéditions clôturées",
+      "exceptions": "Des exceptions"
+    },
+    "trackingStatusInfo": {
+      "trackingStatus": {
+        "label": "Statut de suivi",
+        "placeholder": "Sélectionnez le statut de suivi",
+        "message": "Veuillez sélectionner le statut de suivi"
+      },
+      "trackingStatusType": {
+        "label": "Type de statut de suivi",
+        "placeholder": "Sélectionnez le type de statut de suivi"
+      }
+    },
+    "containerNumbershouldbe": " n'est pas un numéro de conteneur, il devrait ressembler à XXXU1234567",
+    "youOnlyhave": "Tu n'as que",
+    "charactersRequired": " mais au moins 5 caractères sont requis",
+    "invalidProvider": "Fournisseur invalide"
+  },
+  "shipmentAdd": {
+    "totalPieces": "Nombre total de pièces",
+    "consolidate": "Consolider",
+    "shipmentToDisplayOnMap": "Envois à afficher sur la carte",
+    "productRepository": {
+      "title": "Ajouter au référentiel de produits",
+      "description": "Souhaitez-vous que ce produit soit stocké dans le référentiel de produits ?"
+    },
+    "titles": {
+      "details": "Détails de l'envoi",
+      "transportation": "Détails du transport",
+      "vendor": "Détails du fournisseur",
+      "bill": "Facturer à",
+      "category": "Détails de la catégorie",
+      "accounting": "Accessoires et taxes"
+    },
+    "notifications": {
+      "barcodeElementNotfound": "Élément de code-barres introuvable",
+      "generatedBarcodeOnly": "Code-barres généré uniquement",
+      "costIsRequired": "Le coût est requis",
+      "standardTransitDaysIsRequired": "Des jours de transit standard sont requis",
+      "pickupDeliveryLocations": "Le transport des expéditions doit avoir au moins un lieu de ramassage et de livraison.",
+      "pickupLocation": "Le transport des envois doit avoir au moins un lieu de ramassage.",
+      "minimumDeliveryLocation": "Le transport des expéditions doit avoir au moins un lieu de livraison.",
+      "productRequired": "Les détails du produit nécessitent au minimum un produit.",
+      "fixAccountingSection": "Veuillez résoudre les problèmes de validation dans la section Comptabilité."
+    },
+    "shipmentScreen": {
+      "checkingApproval": "Vérification du processus d'approbation de l'expédition...",
+      "approvalNumber": "Numéro d'agrément",
+      "masterShipment": "Expédition principale"
+    },
+    "shipmentDetails": {
+      "rateShopResults": "Évaluer les résultats de la boutique",
+      "iTrack": "iTrack",
+      "trackingDetails": "Détails de suivi",
+      "warningModalInternalTracking": "Actuellement, aucune donnée de suivi n'existe pour cet enregistrement. ",
+      "emptyRecords": "Veuillez être patient pour obtenir une mise à jour du transporteur.",
+      "checking": "Vérification de la visibilité des PO, SO et PaidBy...",
+      "freightBillProNumber": {
+        "label": "Facture de transport/numéro Pro"
+      },
+      "masterBillOfLandingNumber": {
+        "label": "Numéro de la lettre d'atterrissage principale"
+      },
+      "purchaseOrders": {
+        "label": "Acheter en ligne",
+        "message": "Veuillez saisir les bons de commande !"
+      },
+      "salesOrders": {
+        "label": "Commandes"
+      },
+      "paidBy": {
+        "label": "Payé par",
+        "placeholder": "Sélectionnez A payé par"
+      },
+      "amount": {
+        "label": "Montant",
+        "placeholder": "Montant"
+      },
+      "paidPercentage": {
+        "label": "Pourcentage payé :",
+        "placeholder": "Pourcentage"
+      },
+      "of": {
+        "placeholder": "% De"
+      },
+      "freeOnBoard": {
+        "label": "Gratuit à bord",
+        "placeholder": "Sélectionnez Gratuit à bord"
+      },
+      "customerAccountNumber": {
+        "label": "Numéro de compte client"
+      },
+      "incotermNamedPlace": {
+        "label": "Incoterm Lieu Nommé"
+      }
+    },
+    "transportationDetails": {
+      "addingNewStopIs": "L'ajout d'un nouvel arrêt est",
+      "modifyingStopIs": "La modification de l'arrêt est",
+      "deletingStopIs": "Supprimer l'arrêt est",
+      "trackContainer": "Suivre le conteneur",
+      "shipmentCity": "Ville d'expédition",
+      "shipmentStateProvince": "État/province d'expédition",
+      "shipmentCountry": "Pays d'expédition",
+      "receivedDateEST": "Date de réception",
+      "selectDate": "Sélectionnez une date",
+      "eventOccurrenceDateLocal": "Date et heure d'occurrence de l'événement en local",
+      "transporterRequestedDeliveryDate": "Date de livraison demandée par le transporteur",
+      "transporterRequestedShipDate": "Date d'expédition demandée par le transporteur",
+      "shipperRequestedDeliveryDate": "Date de livraison demandée par l'expéditeur",
+      "shipperRequestedShipDate": "Date d'expédition demandée par l'expéditeur",
+      "transportationProviderReferenceNo": "Numéro de référence du fournisseur de transport",
+      "actual": "Réel",
+      "dateTime": "Date",
+      "requestedDateTime": "Date demandée",
+      "appointmentDateTime": "Date de rendez-vous",
+      "delivery": "Livraison",
+      "totalMiles": "Miles totaux",
+      "addStops": "Ajouter des arrêts",
+      "addressBookDescription": "Souhaitez-vous que cette adresse soit stockée dans le carnet d'adresses ?",
+      "addToAddressBook": "Ajouter au carnet d'adresses",
+      "number": {
+        "placeholder": "Nombre"
+      },
+      "ext": {
+        "placeholder": "Poste"
+      },
+      "stopType": {
+        "label": "Type d'arrêt",
+        "placeholder": "Sélectionnez le type d'arrêt",
+        "message": "Veuillez sélectionner le type d'arrêt"
+      },
+      "stopNo": {
+        "label": "Arrêter Non",
+        "placeholder": "Sélectionnez Arrêter Non",
+        "message": "Veuillez sélectionner un lieu d'arrêt"
+      },
+      "appointmentNumber": {
+        "label": "Numéro de rendez-vous",
+        "placeholder": "Entrez le numéro de rendez-vous."
+      },
+      "dockConfirmationNumber": {
+        "label": "Numéro de quai/confirmation"
+      },
+      "taxIdVat": {
+        "label": "Numéro d'identification fiscale/TVA"
+      }
+    },
+    "productDetails": {
+      "freightClassCalculator": "Calculateur de classe de fret",
+      "copyLastProduct": "Copier la dernière entrée des détails du produit",
+      "createNewProduct": "Créer un nouveau produit",
+      "chargeableWeight": {
+        "label": "Poids taxable",
+        "message": "Veuillez saisir le poids facturable",
+        "error": "Le poids facturable doit être un nombre.",
+        "minError": "Le poids facturable doit être d'au moins 1"
+      },
+      "packageBilledQuantity": {
+        "message": "Veuillez saisir le colis/la quantité facturée",
+        "error": "Le colis/quantité facturée doit être un nombre.",
+        "minError": "Le colis/la quantité facturée doit être au minimum de 1"
+      },
+      "length": {
+        "message": "Veuillez entrer la longueur",
+        "error": "La longueur doit être un nombre.",
+        "minError": "La longueur doit être d'au moins 1"
+      },
+      "width": {
+        "message": "Veuillez entrer la largeur",
+        "error": "La largeur doit être un nombre.",
+        "minError": "La largeur doit être d'au moins 1"
+      },
+      "height": {
+        "message": "Veuillez entrer la hauteur",
+        "error": "La hauteur doit être un nombre.",
+        "minError": "La hauteur doit être d'au moins 1"
+      },
+      "hazmatUnNumber": {
+        "label": "Numéro ONU pour les matières dangereuses"
+      },
+      "saidToContain": {
+        "label": "Censé contenir"
+      },
+      "purchaseOrders": {
+        "label": "Acheter en ligne",
+        "message": "Veuillez saisir les bons de commande !"
+      },
+      "salesOrders": {
+        "label": "Commandes"
+      },
+      "lineItemNumber": {
+        "label": "Numéro de l'élément de ligne"
+      },
+      "htsCode": {
+        "label": "Code HTS"
+      },
+      "nmfcNumber": {
+        "label": "Numéro NMFC"
+      }
+    },
+    "rateShopDetails": {
+      "assignTransportationProvider": "Attribuer un fournisseur de transport",
+      "preferredTransportationProvider": {
+        "label": "Fournisseur de transport privilégié",
+        "placeholder": "Sélectionnez le fournisseur de transport préféré",
+        "message": "Veuillez sélectionner votre fournisseur de transport préféré"
+      },
+      "warningModalFilter": "La quantité de produit, la quantité facturée et le poids facturable ne peuvent pas être vides ou nuls.",
+      "standrardTransitDays": "Jours de transit standards",
+      "rateEntry": "Entrée de taux",
+      "rateShopResults": "Évaluer les résultats de la boutique",
+      "tenderEmail": "Veuillez sélectionner au moins un e-mail d'appel d'offres pour continuer.",
+      "adminEmail": "Adresse e-mail de l'administrateur",
+      "doNotSendTenderEmail": "N'envoyez pas d'e-mail d'appel d'offres",
+      "doNotSendBillOfLading": "N'envoyez pas de connaissement",
+      "tenderList": "Liste d'appel d'offres",
+      "shipperInformation": "Informations sur l'expéditeur",
+      "shipperEmailAddress": "Adresse e-mail de l'expéditeur",
+      "sendEmailToShipper": "Envoyer un e-mail à l'expéditeur",
+      "assignTansportationProvider": "Avant l'appel d'offres, veuillez désigner un prestataire de transport",
+      "ratesCantBe": "Les tarifs ne peuvent pas être plus anciens que",
+      "rateShipment": "jours pour soumissionner. ",
+      "failedRateShopResults": "Échec de l'obtention des résultats de la boutique de tarifs.",
+      "filedTosaveRatingDetails": "Échec de l'enregistrement des détails de la note.",
+      "selectTransportationProvider": "Veuillez d'abord sélectionner un fournisseur de transport",
+      "failedAssignTransportationProvider": "Échec de l'attribution du fournisseur de transport.",
+      "warningModal": "L'expédition a déjà été soumise. ",
+      "tenderInformation": "Informations sur l'appel d'offres",
+      "rateShopSearch": "Noter la recherche de magasin",
+      "rateShopDetails": "Évaluer les détails de la boutique",
+      "emptyRecords": {
+        "title": "Les détails de l'évaluation ne sont pas disponibles pour le moment. Veuillez réessayer plus tard."
+      },
+      "standardTransitDays": "Jours de transit standards",
+      "bidExpiryDate": "Date d'expiration de l'offre",
+      "days": "Jours",
+      "convertedCost": "Coût converti",
+      "serviceDescription": {
+        "label": "Description du service"
+      },
+      "equipmentTypeDetail": {
+        "label": "Détails du type d'équipement"
+      },
+      "userSubmitted": {
+        "label": "Soumis par l'utilisateur"
+      },
+      "bidComment": {
+        "label": "Commentaire sur l'offre"
+      },
+      "spotQuoteNumber": {
+        "label": "Numéro de devis ponctuel"
+      }
+    },
+    "vendorDetails": {
+      "title": "Détails du fournisseur",
+      "addNewVendor": "Ajouter un nouveau fournisseur",
+      "confirmationModal": {
+        "okText": "D'accord",
+        "updateToDelivered": "Souhaitez-vous mettre à jour le statut de suivi de l'envoi sur Livré ?",
+        "deliveredConfirmation": "Confirmation livrée",
+        "acknowledgedConfirmation": "Confirmation avec accusé de réception",
+        "updateToShipmentAcknowledged": "Souhaitez-vous mettre à jour le statut de suivi des envois en Envoi reconnu ?"
+      },
+      "updateToShipmentAcknowledged": {
+        "acknowledgedConfirmation": "Confirmation avec accusé de réception",
+        "description": "Souhaitez-vous mettre à jour le statut de suivi des envois en Envoi reconnu ?",
+        "okText": "D'accord"
+      },
+      "alertModalDescription": {
+        "notStatus": "n'est pas en statut d'appel d'offres ou d'offre automatique",
+        "unableToUpdateShipmentNew": "Impossible de mettre à jour l'envoi en statut En transit ou Annulé en attente. ",
+        "shipmentNoUpdatedNew": "L’envoi ne peut pas être mis à jour vers Nouveau s’il a le statut Envoi automatique, Appel d’offres, Confirmé, En transit. ",
+        "shipmentNoUpdatedPlanning": "L'expédition ne peut pas être mise à jour vers Planning si elle a le statut Envoi automatique, Appel d'offres, Confirmé, En transit. ",
+        "unableToUpdateShipmentAutoRoute": "Impossible de mettre à jour l'envoi vers le statut Auto-Route si le statut de l'envoi est « Tender », « Auto-Tendered », « En transit », « Confirmé », « Fermé ». ",
+        "unableToUpdateShipmentRateError": "Impossible de mettre à jour l'envoi vers Rate-Error s'il n'a pas le statut Nouveau, Spot Bid ou SpotBidEnd. ",
+        "shipmentStatusAutoTendered": "L’envoi doit être dans le statut Soumis automatiquement, Soumis, Confirmé, Retenu, En transit ou Planifié pour être annulé. "
+      },
+      "statusMessage": "Message d'état",
+      "addingNewVendorIs": "L'ajout d'un nouveau fournisseur est",
+      "modifyingVendorIs": "La modification du fournisseur est",
+      "deletingVendorIs": "La suppression du fournisseur est"
+    },
+    "billingDetails": {
+      "vatNumber": {
+        "label": "Numéro de TVA",
+        "placeholder": "Entrez le numéro de TVA"
+      }
+    },
+    "categoryDetails": {
+      "addNewCategory": "Ajouter une nouvelle catégorie",
+      "subCategory": {
+        "label": "Sous-catégorie",
+        "placeholder": "Sélectionnez une sous-catégorie"
+      }
+    },
+    "accountingDetails": {
+      "showItem": "Afficher les éléments ayant une valeur qui",
+      "startWith": "Commencer avec",
+      "isEqualto": "Est égal à",
+      "taxDetails": "Détails fiscaux",
+      "addNewTax": "Ajouter une nouvelle taxe",
+      "addNewAccessorial": "Ajouter de nouveaux frais accessoires",
+      "accessorialDetails": "Détails des accessoires",
+      "taxAmount": {
+        "label": "Montant de la taxe"
+      }
+    },
+    "documentDetails": {
+      "fileName": "Nom de fichier :",
+      "supportingDocument": {
+        "label": "Numéro de référence du document justificatif",
+        "placeholder": "Entrez le numéro de référence du document justificatif"
+      }
+    },
+    "spotBid": {
+      "selectDate": "Veuillez sélectionner la date",
+      "doNotSendEmail": "N'envoyez pas d'e-mail",
+      "resetSpotBid": "Réinitialiser l'enchère ponctuelle",
+      "routingSpotBidList": "Liste d'offres ponctuelles de routage",
+      "addBidder": "Ajouter un enchérisseur",
+      "submitSpotBidTocarriers": "Veuillez essayer de soumettre une offre ponctuelle aux transporteurs",
+      "expirationTime": {
+        "label": "Date d'expiration",
+        "message": "Veuillez sélectionner l'heure d'expiration"
+      },
+      "dateHours": "Date",
+      "submitSpotBid": "Soumettre une offre ponctuelle",
+      "distributors": "Distributeurs",
+      "shipmentForSpotBid": "Votre envoi a été envoyé pour une offre ponctuelle",
+      "endSpotBid": "Fin de l'enchère ponctuelle"
+    }
+  },
+  "getQuote": {
+    "notesHere": "Remarques ici",
+    "characters": "de 2000 caractères restants",
+    "triggerNotification": "Les arrêts doivent avoir au minimum une origine !",
+    "destionationTriggerNotification": "Les arrêts doivent avoir au minimum une destination !",
+    "productTriggerNotification": "Veuillez ajouter au moins un produit.",
+    "emptyRecords": {
+      "title": "Les détails de la notation ne sont actuellement pas disponibles.",
+      "desc": "Veuillez réessayer plus tard!"
+    },
+    "titles": {
+      "getQuote": "Obtenir un devis",
+      "quoteDetails": "Détails du devis",
+      "transportationDetails": "Détails du transport",
+      "quoteNotes": "Notes de devis",
+      "additionalServices": "Des services supplémentaires",
+      "rateShopResults": "Résultats de RateShop"
+    },
+    "quoteDetails": {
+      "projectNo": {
+        "label": "Numéro du projet",
+        "placeholder": "Entrez le numéro du projet."
+      },
+      "quoteCost": {
+        "label": "Coût du devis"
+      },
+      "quoteTransportationProvider": {
+        "label": "Devis Fournisseur de Transport"
+      },
+      "createdBy": {
+        "label": "Créé par"
+      }
+    },
+    "transportationDetails": {
+      "delivery": "Livraison",
+      "totalDistanceMiles": "Distance totale (miles)",
+      "totalDistanceKm": "Distance totale (KM)",
+      "buttons": {
+        "addStop": "Ajouter un arrêt",
+        "deleteStop": "Supprimer l'arrêt"
+      },
+      "stopType": {
+        "label": "Type d'arrêt",
+        "message": "Veuillez sélectionner un type d'arrêt"
+      },
+      "stopNo": {
+        "label": "Arrêter Non",
+        "message": "Veuillez entrer le numéro d'arrêt",
+        "error_integer": "Stop Non doit être en nombre entier !",
+        "error_max": "Numéros d'arrêt maximum autorisés 1 à"
+      }
+    },
+    "productDetails": {
+      "productInformation": "Information produit",
+      "itemNo": "Numéro d'article",
+      "numberOfPackages": {
+        "label": "Nombre de colis",
+        "message": "Veuillez entrer le nombre de colis"
+      },
+      "chargeableWeight": {
+        "label": "Poids taxable",
+        "message": "Veuillez entrer le poids du produit"
+      },
+      "unit": {
+        "label": "Unité"
+      }
+    },
+    "transportationProviderSearch": {
+      "shipmentType": {
+        "label": "Type d'expédition"
+      },
+      "rateDetails": {
+        "title": "Les détails de la notation ne sont actuellement pas disponibles.",
+        "description_one": "Veuillez réessayer plus tard!",
+        "description_many": "Veuillez réessayer plus tard!",
+        "description_other": "Veuillez réessayer plus tard!"
+      }
+    },
+    "rateShopDetails": {
+      "convertedCost": "Coût converti",
+      "convertedCurrencyCode": "Code de devise convertie",
+      "standardTransitDays": "Jours de transit standards"
+    },
+    "additionalDetails": {
+      "addNewAccessorialCharges": "Ajouter de nouveaux frais accessoires",
+      "error": "Veuillez sélectionner un accessoire",
+      "accessorialName": {
+        "label": "Nom de l'accessoire"
+      }
+    }
+  },
+  "notificationSettings": {
+    "title": "Paramètres de notification",
+    "distributorContainer": {
+      "title": "Détails de la distribution",
+      "button": "Ajouter un nouvel enregistrement",
+      "recordNo": "Numéro d'enregistrement :",
+      "distributionName": {
+        "label": "Nom de la distribution",
+        "message": "Veuillez entrer le nom de la distribution"
+      }
+    },
+    "routingContainer": {
+      "title": "Détails du routage des notifications",
+      "addNewNotificationRouting": "Ajouter un nouveau routage de notifications",
+      "customerName": "Nom du client :",
+      "selected": "Choisi",
+      "emailList": {
+        "label": "Liste de diffusion",
+        "message": "Les e-mails peuvent être répertoriés avec des virgules séparées."
+      },
+      "distributionName": {
+        "label": "Nom de la distribution",
+        "message": "Veuillez sélectionner le nom de la distribution"
+      },
+      "chargeableWeight": {
+        "label": "Poids taxable",
+        "placeholder": "Entrez le poids facturable"
+      }
+    }
+  },
+  "rateShop": {
+    "tabs": {
+      "rateShopResults": "Évaluer les résultats de la boutique"
+    },
+    "buttons": {
+      "viewRateShopResults": "Voir les résultats de la boutique de tarifs",
+      "stops": "Arrêts"
+    },
+    "rateShop": {
+      "general": "Général",
+      "optional": "Facultatif",
+      "laneDetails": "Détails de la voie",
+      "addLane": "Ajouter une voie",
+      "deleteLane": "Supprimer une voie",
+      "actualCarrierRateShopping": "(Transporteur réel) Tarif Shopping",
+      "stopsDetails": "Détails des arrêts",
+      "Add Stop": "Ajouter un arrêt",
+      "deleteStop": "Supprimer l'arrêt",
+      "itemDetails": "Détails de l'article",
+      "addItem": "Ajouter un item",
+      "deleteItem": "Effacer l'article",
+      "addStop": "Ajouter un arrêt",
+      "legDistance": "Distance des jambes",
+      "tripDistance": "Distance du trajet",
+      "totalPieces": "Nombre total de pièces",
+      "totalPiecesEqual": "les arrêts doivent être égaux au total des pièces",
+      "inDetails": "en détails",
+      "port": "Port",
+      "location": "Emplacement",
+      "pieces": {
+        "label": "Pièces",
+        "message": "Veuillez entrer des pièces"
+      },
+      "numberOfPieces": {
+        "label": "Nombre de pièces",
+        "message": "Le nombre de pièces ne peut pas avoir de valeurs négatives"
+      },
+      "currencyCode": {
+        "message": "Veuillez sélectionner une devise"
+      },
+      "pricingType": {
+        "message": "Veuillez sélectionner un type de tarification"
+      },
+      "pricingBasis": {
+        "message": "Veuillez sélectionner une base de tarification"
+      },
+      "rateSelection": {
+        "label": "Sélection du taux",
+        "message": "Veuillez sélectionner une sélection de tarif"
+      },
+      "measurementUit": {
+        "label": "Mesure unifiée",
+        "message": "Veuillez sélectionner une unité de mesure"
+      },
+      "shipmentDate": {
+        "message": "Veuillez sélectionner la date d'expédition"
+      },
+      "account": {
+        "label": "Compte",
+        "placeholder": "Entrer un compte"
+      },
+      "declaredValue": {
+        "label": "Valeur déclarée"
+      },
+      "codValue": {
+        "label": "Valeur DCO"
+      },
+      "ldmValue": {
+        "label": "Valeur LDM"
+      },
+      "length": {
+        "errorLength": "La longueur ne peut pas avoir de valeurs négatives"
+      },
+      "width": {
+        "errorLength": "La largeur ne peut pas avoir de valeurs négatives"
+      },
+      "weight": {
+        "message": "Veuillez entrer les poids",
+        "errorWeight": "Le poids ne peut pas avoir de valeurs négatives",
+        "errorZero": "Le poids doit être supérieur à zéro"
+      },
+      "height": {
+        "errorNegative": "La hauteur ne peut pas avoir de valeurs négatives"
+      },
+      "billedQuantity": {
+        "label": "Quantité facturée",
+        "errorNegative": "La quantité facturée ne peut pas avoir de valeurs négatives"
+      },
+      "ratingClass": {
+        "label": "Classe de notation",
+        "message": "Veuillez sélectionner une classe de notation"
+      }
+    },
+    "rateShopResult": {
+      "shippingDate": "Date d'expédition",
+      "measurementType": "Type de mesure",
+      "imperial": "Impérial",
+      "metric": "Métrique",
+      "emptyRecords": "Les détails de l'évaluation ne sont pas disponibles pour le moment. Veuillez réessayer plus tard.",
+      "noRatesFound": "Aucun tarif trouvé !",
+      "code": "Code",
+      "calculationType": "Type de calcul",
+      "effectiveFrom": "À compter de",
+      "charge": "Charge",
+      "accessorialDiscount": "Remise sur les accessoires",
+      "fuel": "Carburant",
+      "note": "Note",
+      "accessorialBasis": "Base accessoire",
+      "effectiveTo": "Efficace pour",
+      "deficitWeight": "Poids déficitaire",
+      "deficitRate": "Taux de déficit",
+      "itemsTotalCharge": "Articles Frais totaux",
+      "deficitCharge": "Charge de déficit",
+      "grossCharge": "Frais bruts",
+      "totalDiscount": "Remise totale",
+      "baseCharge": "Frais de base",
+      "itemNo": "Numéro d'article",
+      "piece": "Morceau",
+      "absMin": "ABS min.",
+      "rateCostPer": "Tarif/Coût par",
+      "discount": "Rabais",
+      "uom": "UdM",
+      "actualClass": "Classe réelle",
+      "absMax": "ABS maximum",
+      "amount": "Montant",
+      "totalTaxCharge": "Charge fiscale totale",
+      "taxBasis": "Base fiscale",
+      "discountAmount": "Montant de la remise",
+      "discountPercentage": "Pourcentage de remise",
+      "mileage": "Kilométrage (miles)",
+      "totalAcc": "Compte total",
+      "totalTax": "Taxe total",
+      "totalCost": "Coût total",
+      "bureauMC": "Bureau MC",
+      "directPoint": "Point direct",
+      "totalShipmentCost": "Coût total d'expédition",
+      "service": "Service",
+      "equipment": "Équipement",
+      "distance": "Distance (miles/km)",
+      "miles": "Milles",
+      "kms": "Kms",
+      "tariffName": "Nom du tarif",
+      "pricingEffectiveDate": "Date d'entrée en vigueur du prix",
+      "to": "à",
+      "tariffEffectiveDate": "Date d'entrée en vigueur du tarif",
+      "pricingKey": "Clé de tarification",
+      "tariffKey": "Clé tarifaire",
+      "liner": "Doublure",
+      "laneCode": "Code de voie",
+      "laneAlias": "Alias ​​de voie",
+      "rateShopResult": "Évaluer le résultat de la boutique",
+      "accessorials": "Accessoires",
+      "taxes": "Impôts"
+    },
+    "globalRateShope": "Boutique au tarif global",
+    "taxDetails": "Détails fiscaux",
+    "totalAccessorialCharge": "Frais accessoires totaux",
+    "addNew": "Aucun arrêt, veuillez essayer d'en ajouter de nouveaux !",
+    "stop": "Arrêt"
+  },
+  "procurement": {
+    "createProject": "Créer un projet",
+    "createTender": "Créer un appel d'offres",
+    "download": "Télécharger",
+    "projectName": {
+      "label": "nom du projet",
+      "placeholder": "nom du projet"
+    },
+    "tenderName": {
+      "label": "Nom de l'offre",
+      "placeholder": "Nom de l'offre"
+    },
+    "subMenu": {
+      "project": "Projet",
+      "tender": "Tendre",
+      "bidAnalysis": "Analyse des offres",
+      "routeConfiguration": "Configuration de l'itinéraire"
+    },
+    "routeConfigurationTabs": {
+      "location": "Emplacement",
+      "lane": "voie",
+      "zone": "Zone"
+    },
+    "filters": {
+      "projectSearch": "Recherche de projet",
+      "tenderSearch": "Recherche d'offres",
+      "searchCriteria": "Critères de recherche",
+      "tender": "Tendre",
+      "admin": "Administrateur",
+      "generalDetails": "Détails Généraux",
+      "rank": "Rang",
+      "summarizeCritria": "Résumer les critères",
+      "includeHistorical": "Inclure l'historique",
+      "laneSearch": "Recherche de voie",
+      "zoneSearch": "Recherche de zones"
+    },
+    "projectTabs": {
+      "projectDetails": "détails du projet",
+      "tenderDetails": "Détails de l'offre"
+    },
+    "tenderTabs": {
+      "tenderInformation": "Informations sur l'appel d'offres",
+      "documentation": "Documentation",
+      "laneInformation": "Informations sur les voies",
+      "bidParameters": "Paramètres d'enchère"
+    },
+    "fields": {
+      "service": "Service",
+      "addDestination": "Ajouter une destination",
+      "destinationDetails": "Détails de la destination",
+      "region": "Région",
+      "addOrigin": "Ajouter une origine",
+      "originDetails": "Détails d'origine",
+      "destinationStucuture": "Structure de destination (Section)",
+      "originStucuture": "Structure d'origine (chef)",
+      "bidTransportationProvider": "Fournisseur de transport BID",
+      "baseBIDPrice": "Prix ​​de base de l'offre",
+      "bidRankBidTransportationProvider": "BID Rang BID Fournisseur de transport",
+      "currentBIDPrice": "Prix ​​offert actuel",
+      "bidRankBaseTransportationProvider": "BID Rang Base Fournisseur de transport",
+      "lanesNotCovered": "Voies non couvertes",
+      "lanesCovered": "Voies couvertes",
+      "numberOfLanes": "Nombre de voies",
+      "currentBIDTransportationProvider": "Fournisseur de transport BID actuel",
+      "baseTransportationProvider": "Fournisseur de transport de base",
+      "parameterType": {
+        "label": "Type de paramètre"
+      },
+      "projectStatus": {
+        "label": "L'état du projet",
+        "placeholder": "Sélectionnez le statut du projet",
+        "message": "Veuillez sélectionner le statut du projet",
+        "true": "Actif",
+        "false": "Inactif"
+      },
+      "tenderStatus": {
+        "label": "Statut de l'offre :",
+        "true": "Actif",
+        "false": "Inactif"
+      },
+      "projectApproved": {
+        "label": "Statut d'approbation du projet",
+        "message": "Veuillez sélectionner le statut d'approbation du projet"
+      },
+      "projectApprovedBy": {
+        "label": "Projet approuvé par"
+      },
+      "projectLead": {
+        "label": "Chef de projet",
+        "message": "Veuillez sélectionner le responsable du projet"
+      },
+      "tecSupport": {
+        "label": "Soutien technique",
+        "message": "Veuillez sélectionner le support technique"
+      },
+      "tecLead": {
+        "label": "Responsable technique",
+        "message": "Veuillez sélectionner le support technique"
+      },
+      "projectSupport": {
+        "label": "Soutien au projet",
+        "message": "Veuillez sélectionner le support du projet"
+      },
+      "groupBy": {
+        "label": "Par groupe"
+      },
+      "formulaName": {
+        "label": "Nom de la formule",
+        "placeholder": "Coût total"
+      },
+      "parameters": {
+        "label": "Paramètres",
+        "placeholder": "Saisir les paramètres"
+      },
+      "formula": {
+        "label": "Formule",
+        "placeholder": "Coût de base des expéditions"
+      },
+      "summarizeCritria": {
+        "label": "Résumer les critères"
+      },
+      "actualName": {
+        "label": "Nom réel du projet"
+      },
+      "description": {
+        "placeholderDesc": "Description de l'offre",
+        "message": "Veuillez ajouter une description"
+      },
+      "modeOfTender": {
+        "label": "Mode d'appel d'offres"
+      },
+      "tecSupServicePort": {
+        "label": "Port de catégorie de support technique"
+      },
+      "reference": {
+        "label1": "Référence 1",
+        "label2": "Référence 2",
+        "placeholder": "Référence"
+      },
+      "transportationMode": {
+        "label": "Mode de transport"
+      },
+      "prameterDisplayName": {
+        "label": "Nom d'affichage du paramètre :"
+      },
+      "locationName": {
+        "title": "Nom de la localisation",
+        "label": "Nom de la localisation:",
+        "placeholder": "Entrez le nom du lieu"
+      },
+      "originType": {
+        "label": "Type d'origine",
+        "placeholder": "Sélectionnez le type d'origine"
+      },
+      "originName": {
+        "label": "Nom d'origine",
+        "placeholder": "Entrez le nom d'origine"
+      },
+      "destinationType": {
+        "label": "Type de destination",
+        "placeholder": "Sélectionnez le type de destination"
+      },
+      "destinationName": {
+        "label": "Nom de la destination",
+        "placeholder": "Entrez le nom de la destination"
+      },
+      "zoneName": {
+        "label": "Nom de la zone",
+        "placeholder": "Nom de la zone"
+      },
+      "date": {
+        "startDate": "Date de début",
+        "endDate": "Date de fin",
+        "projectStartDate": "Date de début du projet",
+        "projectEndDate": "Date de fin du projet",
+        "tenderStartDate": "Date de début de l'appel d'offres",
+        "tenderEndDate": "Date de fin de l'offre",
+        "startDateTime": "Date et heure de début",
+        "placeholder": "Sélectionner une date",
+        "endDateAndTime": "Date et heure de fin"
+      }
+    },
+    "projectCard": {
+      "details": "détails du projet",
+      "information": "Renseignements sur le projet",
+      "projectDescription": "Description du projet",
+      "projectStartDate": "Date de début du projet",
+      "projectEndDate": "Date de fin du projet",
+      "mileStones": "Miles Pierres",
+      "startDate": "Date de début",
+      "endDate": "Date de fin",
+      "actualName": "Nom réel du projet",
+      "preparationFiles": "Fichiers de préparation",
+      "bidCollectionPhase": "Phase de collecte des offres",
+      "selectionPhase": "Phase de sélection",
+      "currentRound": "Tour actuel :",
+      "modeOfTender": "Mode d'appel d'offres",
+      "transportationMode": "Mode de transport",
+      "serviceCategory": "Catégorie de services",
+      "notificationSuccess": "Créer un projet avec succès",
+      "notificationError": "Erreur de création de projet"
+    },
+    "tenderCard": {
+      "trackingStatus": "Statut de suivi",
+      "modeOfTender": "Mode d'appel d'offres",
+      "tenderStartDate": "Date de début de l'appel d'offres",
+      "laneCovered": "Voie couverte",
+      "tenderEndDate": "Date de fin de l'offre",
+      "currentRound": "Tour en cours",
+      "bidCollectionStartDateTime": "Date et heure de début de la collecte des offres",
+      "bidCollectionEndDateTime": "Date et heure de fin de collecte des offres",
+      "laneName": "Nom de la voie :",
+      "dellasLocation": "Emplacement de Dellas",
+      "prameterDisplayName": "Nom d'affichage du paramètre :",
+      "prameterType": "Type de paramètre",
+      "required": "Obligatoire/Non obligatoire",
+      "parameterDataType": "Type de données de paramètre",
+      "value": "Valeur",
+      "repeated": "Répété",
+      "historicalOnly": "Historique uniquement",
+      "rflStatus": "Statut RFL",
+      "rfqStatus": "Statut de la demande de prix",
+      "rfiRequestDate": "Date de la demande de DDR",
+      "rfqRequestDate": "Date de la demande de devis",
+      "rfiRespondDate": "Date de réponse à la DDR",
+      "rfqRespondDate": "Date de réponse à la demande de prix"
+    },
+    "modalTransportationProvider": {
+      "title": "Rechercher/Ajouter un fournisseur de transport",
+      "shortName": "Nom court",
+      "countryCallingCode": "Indicatif d'appel du pays",
+      "number": "Nombre",
+      "ext": "Poste",
+      "fax": "Fax",
+      "modeType": "Type de mode"
+    },
+    "bigAnalysisCard": {
+      "rankAndCost": "Rang et coût",
+      "laneCoverage": "Couverture des voies",
+      "details": "Détails",
+      "laneCoverageAnalysis": "Analyse de la couverture des voies",
+      "combinationAnalysis": "Analyse combinée",
+      "bidRank": "Rang de l'offre",
+      "winningLanes": "Voies gagnantes",
+      "chart": "Graphique",
+      "bidLane": "Voie d'offre",
+      "totalLanes": "Total des voies",
+      "percentageCoverage": "Couverture en pourcentage",
+      "includeHistorical": "Inclure l'historique",
+      "orgin": "Origine",
+      "shipment": "Expédition",
+      "bidedUnitPrice": "Prix ​​unitaire offert",
+      "baseCost": "Coût de base",
+      "rank": "Rang",
+      "savingPercentage": "Pourcentage d'économie",
+      "liftGate": "Portail élévateur",
+      "savingAmount": "Montant d'économie",
+      "trackingStatus": "Statut de suivi",
+      "trackingStatusType": "Type de statut de suivi",
+      "shipperShipDate": "Date d'expédition demandée par l'expéditeur"
+    },
+    "routeConfigurationCard": {
+      "lane": "voie",
+      "zoneName": "Nom de la zone"
+    },
+    "footer": {
+      "totalActive": "Projet actif total",
+      "totalApproved": "Total du projet approuvé",
+      "total": "Projet total",
+      "totalShipments": "Total des expéditions",
+      "openShipments": "Expéditions ouvertes",
+      "closedShipments": "Expéditions clôturées",
+      "exceptions": "Des exceptions"
+    }
+  },
+  "purchase-order-view": {
+    "shipmentLandingList": "Liste de destination des expéditions",
+    "filterTitle": "Recherche de bon de commande",
+    "pageTitle": "Informations sur le bon de commande",
+    "draftOrderSearch": "Recherche de brouillon de commande",
+    "shipmentSearch": "Recherche d'envoi",
+    "vendorAddressSearch": "Recherche d'adresse de fournisseur",
+    "regularOrders": "Commandes régulières",
+    "releaseOrders": "Ordres de sortie",
+    "originDetails": "Détails d'origine",
+    "shipperDetails": "Détails de l'expéditeur",
+    "destinationDetails": "Détails de la destination",
+    "consigneeDetails": "Détails du destinataire",
+    "wareHouseContactDetails": "Détails du contact de l'entrepôt",
+    "wareHouseDetails": "Détails de l'entrepôt",
+    "suzhouDousonDrillingProdu": "Forage de Suzhou Douson",
+    "contactPerson": "Personne de contact",
+    "telephoneNo": "N ° de téléphone.",
+    "extension": "Extension",
+    "otherDetails": "Autres détails",
+    "htsCode": "Code HTS",
+    "sureToReset": "Vous êtes sûr de réinitialiser ?",
+    "quanityLeft": "Quantité restante",
+    "quantityShippeError": "la valeur doit être inférieure à la quantité restante !",
+    "originDestinationDetails": "Détails d'origine et de destination",
+    "warehouseContactInfoDetails": "Coordonnées et détails de l'entrepôt",
+    "appointmentIsRequired": "Un rendez-vous est requis",
+    "warehouseContactMsg": "Veuillez entrer le contact de l'entrepôt",
+    "shipperAddressMsg": "Veuillez entrer l'adresse de l'expéditeur",
+    "warehouseTelephoneMsg": "Veuillez entrer le téléphone de l'entrepôt",
+    "emailMsg": "Veuillez entrer l'adresse e-mail",
+    "checkboxMsg": "En cochant cette case, vous obtiendrez les résultats de localisation du destinataire sélectionné.",
+    "NoOfItems": "Nombre d'articles",
+    "itemShipDate": "Date d'expédition de l'article",
+    "addPackageID": "Ajouter un identifiant de package",
+    "newShipDateError": "La date de nouvelle expédition ne peut pas dépasser un an.",
+    "newShipPastDateError": "La nouvelle date d’expédition ne peut pas être postérieure.",
+    "totalNoOfProducts": "Nombre total de produits",
+    "releaseQuantity": "Quantité libérée",
+    "createShipment": "Créer un envoi",
+    "updateShipment": "Mettre à jour l'envoi",
+    "locationDetails": "Détails de l'emplacement",
+    "locationCity": "Localisation Ville",
+    "warehouseDetails": "Détails de l'entrepôt",
+    "enterQuantityLeft": "Entrez la quantité restante",
+    "action": "Action",
+    "sureToDelete": "Vous êtes sûr de supprimer ?",
+    "copyLastPackageId": "Copier l'identifiant du dernier package",
+    "resetPurchaseOrder": "Réinitialiser le bon de commande",
+    "percentageLeftItems": "Pourcentage restant (éléments restants)",
+    "orderStatus": "Statut de la commande",
+    "topVendors": "Meilleurs fournisseurs",
+    "topCustomers": "Meilleurs clients",
+    "shipmentsStatus": "Statut des expéditions",
+    "topLocationsOrderWise": "Principaux emplacements (commande sage)",
+    "topProducts": "Produits phares",
+    "shipmentInformation": "Informations d'expédition",
+    "shipperStateProvience": "État/province de l'expéditeur",
+    "consigneeStateProvience": "État/province du destinataire",
+    "totalOrders": "Total des commandes",
+    "openOrders": "Commandes ouvertes",
+    "dueinNext7Days": "À rendre dans les 7 prochains jours",
+    "delayedOrders": "Commandes retardées",
+    "closedOrders": "Commandes clôturées",
+    "lastCreatedShipmentNumber": "Numéro du dernier envoi créé",
+    "vendorsInformation": "Informations sur les vendeurs",
+    "date": "Date",
+    "addNewRecord": "Ajouter un nouvel enregistrement",
+    "confirmPurchaseOrder": "CONFIRMER LA COMMANDE D'ACHAT",
+    "resetReleaseOrder": "RÉINITIALISER L'ORDRE DE LIBÉRATION",
+    "purchaseItemInformation": "Informations sur l'article acheté",
+    "vendorAddressSearchExport": "Exportation de recherche d’adresse de fournisseur",
+    "purchaseOrderExport": "Exportation des bons de commande",
+    "addNewPackageId": "Ajouter un nouvel identifiant de package",
+    "applyCountryButton": "Appliquer le pays d'origine à toutes les lignes",
+    "shipmentEntry": "Saisie des expéditions",
+    "shipmentItemDetails": "Détails de l'article d'expédition",
+    "shipmentSummary": "Résumé de l'expédition",
+    "totalMiles": "Miles totaux",
+    "chargableWeight": "Poids facturable",
+    "shipmentCreatedDate": "Date de création de l'envoi",
+    "shipmentNumbers": "Numéros d'expédition",
+    "draftOrderSearchExport": "Exportation de la recherche de commandes préliminaires",
+    "shipmentCreateDate": "Date de création de l'envoi",
+    "shipmentSearchExport": "Exportation de recherche d’expédition",
+    "chargeableWeight": "Poids taxable",
+    "createFinalShipment": "Créer une expédition finale",
+    "unSelectAll": "Tout déselectionner",
+    "shipmentSearchInformation": "Informations sur la recherche d'expédition",
+    "draftOrderSearchInformation": "Informations sur la recherche de commandes préliminaires",
+    "pleaseEnterLocationAddress": "Veuillez entrer l'adresse de localisation",
+    "pleaseSelectCountry": "Veuillez sélectionner un pays.",
+    "pleaseChooseState": "Veuillez choisir l'État",
+    "pleaseEnterLocationName": "Veuillez saisir le nom du lieu",
+    "warehouseEmailAddress": "Adresse e-mail de l'entrepôt",
+    "kindlyFillAllRequiredFields": "Veuillez remplir tous les champs obligatoires",
+    "approver": "Approbateur",
+    "pleaseEnterTheAir": "Veuillez saisir l'approbateur de l'expédition aérienne",
+    "shipmentConfirmationNumber": "Numéro de confirmation d'expédition",
+    "kindlyEnterConfirmationNumber": "Veuillez entrer le numéro de confirmation",
+    "createShipmentExport": "CRÉER UNE EXPORTATION D'EXPÉDITION",
+    "noRoutingDataAvailable": "Aucune donnée de routage disponible",
+    "clickToContinueShipment": "Cliquez pour continuer l'expédition",
+    "failedToGenerate": "Échec de la génération du fichier de liste de colisage.",
+    "pleaseChooseTheCustomer": "Veuillez choisir le client",
+    "addingPO": {
+      "description": "L'ajout d'un bon de commande n'est autorisé que pour les envois provisoires",
+      "title": "Alerte",
+      "okText": "D'accord"
+    },
+    "confirmationModal": {
+      "description": "Le bon de commande doit avoir le même pays et le même code postal pour être combiné dans le même envoi.",
+      "okText": "D'accord"
+    },
+    "error": {
+      "emtyDate": "Veuillez entrer la date",
+      "shipdateYear": "La date d'expédition prévue ne peut pas dépasser un an.",
+      "shipmentPastDate": "Vous ne pouvez pas créer d'envoi par date passée. ",
+      "shippedQuantity": "La quantité expédiée doit être inférieure à la quantité restante",
+      "similarConsigneelocationOrders": "Nous récupérons des commandes de localisation de destinataires similaires !"
+    },
+    "fields": {
+      "purchasePartNumber": {
+        "label": "Numéro de pièce d'achat"
+      },
+      "purchasePartDescription": {
+        "label": "Description de la pièce achetée"
+      },
+      "date": {
+        "createdDate": "Date de création",
+        "placeholder": "Sélectionner une date",
+        "messageFromCreateOnDate": "Veuillez sélectionner créer le à partir de la date",
+        "messageToCreateOnDate": "Veuillez sélectionner créer à ce jour",
+        "messageFromShipnDate": "Veuillez sélectionner à partir de la date d'expédition",
+        "messageToShipDate": "Veuillez sélectionner la date d'expédition"
+      },
+      "length": {
+        "message": "Veuillez entrer la longueur"
+      },
+      "width": {
+        "message": "Veuillez entrer la largeur"
+      },
+      "height": {
+        "message": "Veuillez entrer la hauteur"
+      },
+      "houseBillofLadingNumber": {
+        "label": "Numéro de connaissement de la maison"
+      },
+      "packageWeigh": {
+        "label": "Pesée du colis",
+        "message": "Veuillez entrer le poids du colis"
+      },
+      "weightUnitOfMeasure": {
+        "label": "Unité de mesure de poids"
+      },
+      "packagedId": {
+        "placeholder": "Entrez l'identifiant du package",
+        "message": "Veuillez saisir l'identifiant du package"
+      },
+      "quantityShipped": {
+        "placeholder": "Entrez la quantité expédiée",
+        "error": "La valeur doit être inférieure à la quantité restante",
+        "errorOr": "la valeur doit être inférieure ou égale à la quantité restante !",
+        "message": "Veuillez saisir la quantité expédiée"
+      },
+      "locationName": {
+        "label": "Nom de la localisation"
+      },
+      "locationAddress": {
+        "label": "Adresse de l'emplacement"
+      },
+      "locationCountry": {
+        "label": "Localisation Pays"
+      },
+      "locationPostalCode": {
+        "label": "Emplacement Code postal"
+      },
+      "locationStateProvince": {
+        "label": "Emplacement État/Province"
+      },
+      "countryOfOrigin": {
+        "placeholder": "Sélectionnez le pays d'origine",
+        "message": "Veuillez sélectionner le pays d'origine"
+      },
+      "class": {
+        "label": "Classe"
+      },
+      "containerNumber": {
+        "label": "Numéro de conteneur",
+        "placeholder": "Entrez le numéro du conteneur"
+      },
+      "locationCity": {
+        "label": "Localisation Ville"
+      }
+    }
+  },
+  "tms-settings": {
+    "title": "Paramètres TMS",
+    "companySettings": "Paramètres de l'entreprise",
+    "shipmentSettings": "Paramètres d'expédition",
+    "auctionSettings": "Paramètres des enchères",
+    "povSettings": "Paramètres du point de vue",
+    "generalSettings": "réglages généraux",
+    "defaultShipmentPageValues": "Valeurs de la page d'expédition par défaut",
+    "shipmentApprovalProcess": "Processus d'approbation des expéditions",
+    "emailDistribution": "Distribution d'e-mails",
+    "additionalSettings": "Paramètres additionnels",
+    "autoRouteProcess": "Processus d'acheminement automatique",
+    "shipmentEntryPageSettings": "Paramètres de la page de saisie de l'envoi",
+    "fields": {
+      "purchaseOrderNumber": {
+        "placeholder": "Entrez le numéro de bon de commande"
+      },
+      "emailMessage": "Veuillez saisir un format de courrier électronique valide.",
+      "statusInTMS": {
+        "label": "Statut dans TMS",
+        "placeholder": "Veuillez sélectionner le statut",
+        "message": "Le statut dans TMS est requis.",
+        "optionActive": "Actif",
+        "optionInActive": "Inactif",
+        "tooltip": "Actif si le client est dans TMS, sinon Inactif."
+      },
+      "brokerageCustomer": {
+        "label": "Type de compagnie",
+        "message": "Le type d’entreprise est requis.",
+        "placeholder": "Veuillez sélectionner le type d'entreprise",
+        "optionTMS": "TMS",
+        "optionBrokerage": "Courtage",
+        "tooltip": "Ce paramètre déterminera si le client que l'utilisateur ajoute est un client TMS régulier ou un client de courtage."
+      },
+      "shipmentNoCounter": {
+        "label": "Compteur de numéro d'expédition",
+        "message": "Veuillez saisir le compteur du numéro d'expédition",
+        "error": "Le compteur du numéro d’expédition doit comporter 8 chiffres.",
+        "tooltip": "Numéro à partir duquel le décompte du numéro d'envoi commencera lors de la création d'un nouvel envoi"
+      },
+      "masterChildShipment": {
+        "label": "Envoi maître/enfant",
+        "placeholder": "Veuillez sélectionner Envoi maître/enfant",
+        "tooltip": "Active le processus d'expédition maître/enfant pour le client"
+      },
+      "pricingType": {
+        "optionCarrierRate": "Tarif du transporteur",
+        "tooltip": "Définit selon quel type de tarification la notation doit être effectuée. "
+      },
+      "displayPaidBY": {
+        "label": "Afficher « Payé PAR »",
+        "placeholder": "Veuillez sélectionner Afficher « Payé PAR »",
+        "tooltip": "Ouvre le champ « Payé par » sur la page Gestion des envois"
+      },
+      "shipmentApprovalProcess": {
+        "label": "Processus d'approbation des expéditions",
+        "placeholder": "Veuillez sélectionner le processus d'approbation de l'expédition",
+        "tooltip": "Active le processus d'approbation des expéditions pour le client"
+      },
+      "validateCategoryDetails": {
+        "label": "Valider les détails de la catégorie",
+        "placeholder": "Veuillez sélectionner Valider les détails de la catégorie",
+        "tooltip": "Si la catégorie doit être renseignée par l'utilisateur sur la page de maintenance de l'envoi, ce paramètre sera validé au cas où il ne serait pas fourni."
+      },
+      "calculateChargeableWeight": {
+        "label": "Calculer le poids facturable",
+        "placeholder": "Veuillez sélectionner Calculer le poids facturable",
+        "tooltip": "Dans la page de maintenance de l'expédition Détails du produit en accordéon, lorsque les détails du produit sont saisis par l'utilisateur, le poids facturable est calculé automatiquement si ce paramètre est activé."
+      },
+      "routingGuideMatch": {
+        "label": "Correspondance du guide de routage",
+        "placeholder": "Veuillez sélectionner la correspondance du guide de routage",
+        "tooltip": "Si le paramètre est défini sur « Oui », l'évaluation de l'expédition sera effectuée pour les transporteurs situés dans la page des paramètres du Guide d'acheminement."
+      },
+      "shipmentCategoryVisible": {
+        "label": "Catégorie d'expédition visible",
+        "placeholder": "Veuillez sélectionner la catégorie d'envoi visible",
+        "tooltip": "Active la visibilité de la section de catégorie dans les écrans Ajouter un envoi et Modifier l'envoi."
+      },
+      "shipmentBillToVisible": {
+        "label": "Facture d'expédition à visible",
+        "placeholder": "Veuillez sélectionner la facture d'expédition pour être visible",
+        "tooltip": "Active la visibilité de la section Facturer à dans les écrans Ajouter un envoi et Modifier l'envoi."
+      },
+      "shipmentVendorVisible": {
+        "label": "Fournisseur d'expédition visible",
+        "placeholder": "Veuillez sélectionner le fournisseur d'expédition visible",
+        "tooltip": "Active la visibilité de la section Fournisseur dans les écrans Ajouter un envoi et Modifier l'envoi."
+      },
+      "branch": {
+        "tooltip": "Cela configurera une succursale par défaut lors de l'expédition si la succursale ne peut pas être définie."
+      },
+      "defaultSpotBidEndStatus": {
+        "label": "Statut de fin d'offre ponctuelle par défaut",
+        "placeholder": "Veuillez sélectionner le statut de fin de l'offre ponctuelle par défaut",
+        "tooltip": "Lorsque le délai d'offre ponctuelle pour l'expédition expire, le statut de l'expédition peut être redéfini sur Nouveau ou SpotBIdEnd ou rester tel quel dans le statut d'offre ponctuelle."
+      },
+      "displayPOSOShipmentLevel": {
+        "label": "Afficher le niveau d'expédition du bon de commande/commande",
+        "placeholder": "Veuillez sélectionner Afficher le niveau d'expédition du bon de commande/commande",
+        "tooltip": "Si le paramètre est défini sur « Oui », 2 champs « Bon de commande » et « Commande client » apparaîtront sur la page de maintenance des expéditions. "
+      },
+      "shipmentTypes": {
+        "label": "Types d'expédition",
+        "tooltip": "Ce paramètre définira le type d'envoi par défaut pour les envois créés à partir du POV et manuellement.",
+        "option_i": "Entrant",
+        "option_c": "Intersociétés",
+        "option_o": "Sortant",
+        "option_t": "Tierce personne"
+      },
+      "displayRatingDetailsAccordion": {
+        "label": "Afficher les détails de la note Accordéon",
+        "placeholder": "Veuillez sélectionner Afficher les détails de la note Accordéon",
+        "tooltip": "Afficher les détails de la note Accordéon"
+      },
+      "hazmat": {
+        "label": "Matières dangereuses",
+        "placeholder": "Sélectionnez les matières dangereuses",
+        "tooltip": "Par défaut, Hazmat dans les détails du produit sur la page d'expédition est Oui ou Non."
+      },
+      "ratingPreference": {
+        "label": "Préférence de notation",
+        "placeholder": "Veuillez sélectionner la préférence de notation",
+        "tooltip": "Préférence de notation par défaut sur la page de maintenance des expéditions",
+        "option_a": "Tous les transporteurs",
+        "option_l": "Moins cher",
+        "option_r": "Requis"
+      },
+      "length": {
+        "tooltip": "Définit la longueur par défaut sur l'accordéon des détails du produit"
+      },
+      "width": {
+        "tooltip": "Définit la largeur par défaut sur l'accordéon des détails du produit"
+      },
+      "height": {
+        "tooltip": "Définit la hauteur par défaut sur l'accordéon des détails du produit"
+      },
+      "defaultInternalNotes": {
+        "label": "Notes internes par défaut",
+        "placeholder": "Notes internes par défaut..."
+      },
+      "shipmentApprovalCount": {
+        "label": "Nombre d'approbations d'expédition",
+        "tooltip": "Ce paramètre détermine le nombre maximum d'approbateurs requis pour le processus d'approbation."
+      },
+      "requireApprovalNumber": {
+        "label": "Exiger un numéro d'approbation",
+        "placeholder": "Veuillez sélectionner Exiger un numéro d'approbation",
+        "tooltip": "Si ce paramètre est activé, ce numéro d'approbation sera généré lors de la création de l'envoi. "
+      },
+      "adminEmail": {
+        "label": "Adresse e-mail de l'administrateur",
+        "messageRequired": "Veuillez saisir l'adresse e-mail de l'administrateur",
+        "tooltip": "Cela configurera une adresse e-mail à laquelle tous les e-mails générés automatiquement seront envoyés. "
+      },
+      "supportEmail": {
+        "label": "Adresse e-mail d'assistance",
+        "messageRequired": "Veuillez saisir l'adresse e-mail de l'assistance",
+        "tooltip": "Lorsqu'une notification par e-mail telle que Tender ou Spot bis est envoyée au transporteur, il existe une adresse e-mail de l'équipe d'assistance du côté client que le transporteur peut contacter en cas de questions."
+      },
+      "fromEmail": {
+        "label": "Adresse e-mail « De » par e-mail",
+        "messageRequired": "Veuillez saisir l'adresse e-mail « De »",
+        "tooltip": "E-mail qui sera placé dans le champ « De » dans l'objet de l'e-mail."
+      },
+      "attachSupportingDoc": {
+        "label": "Joindre des pièces justificatives aux e-mails",
+        "placeholder": "Veuillez sélectionner Joindre des documents justificatifs aux e-mails",
+        "tooltip": "Joindre des pièces justificatives aux e-mails"
+      },
+      "childShipment": {
+        "label": "% de tolérance sur la quantité d'expédition secondaire",
+        "message": "Veuillez saisir le % de tolérance sur la quantité d'expédition secondaire",
+        "tooltip": "Cela définira une validation de champ de quantité pour le processus d’expéditions maître/enfant. "
+      },
+      "autoRateProcess": {
+        "label": "Processus de tarification automatique",
+        "placeholder": "Veuillez sélectionner le processus de tarification automatique",
+        "tooltip": "Impossible de procéder au processus de notation automatique"
+      },
+      "autoTenderProcess": {
+        "label": "Processus d'appel d'offres automatique",
+        "placeholder": "Veuillez sélectionner le processus d'appel d'offres",
+        "tooltip": "Impossible d'activer le processus d'appel d'offres automatique au niveau du client"
+      },
+      "maxAutoTenderAmount": {
+        "label": "Montant maximum du paiement automatique",
+        "placeholder": "Veuillez sélectionner le montant maximum du paiement automatique.",
+        "tooltip": "Définit le montant maximum autorisé. Montant automatiquement géré"
+      },
+      "recalculateFreightClass": {
+        "label": "Recalculer la classe de fret",
+        "tooltip": "Si le paramètre est défini sur « Oui », la classe de fret sur l'envoi sera recalculée par le processus Auto-Route, sans tenir compte si elle a déjà été fournie sur l'envoi ou non."
+      },
+      "autoTenderSpecificCargoType": {
+        "label": "Type de chargement spécifique à l'offre automatique",
+        "tooltip": "Type de chargement spécifique à l'offre automatique"
+      },
+      "defaultEquipmentType": {
+        "label": "Type d'équipement par défaut",
+        "tooltip": "Ce paramètre permet à l'utilisateur de présenter le type d'équipement qui sera présenté au transporteur lors des enchères pour toutes les expéditions."
+      },
+      "defaultCargoType": {
+        "label": "Type de fret par défaut",
+        "placeholder": "Type de fret par défaut",
+        "tooltip": "Type de cargaison par défaut dans le module d'enchères pour le fournisseur de transport"
+      },
+      "populateBidExpiryDate": {
+        "label": "Renseigner la date d'expiration de l'offre",
+        "placeholder": "Veuillez sélectionner Remplir la date d'expiration de l'offre",
+        "tooltip": "Si le paramètre est défini sur « Oui », les offres Spot fournies par le transporteur qui ont déjà expiré en fonction de la date d'expiration de l'offre Spot ne seront pas disponibles pour que l'utilisateur client puisse les sélectionner dans le résultat de la boutique Tarif d'expédition. "
+      },
+      "addDaysBidExpiryDate": {
+        "label": "Ajouter des jours à la date d'expiration des offres",
+        "placeholder": "Ajouter des jours à la date d'expiration des offres",
+        "tooltip": "Ajouter des jours à la date d'expiration de l'offre"
+      },
+      "auctionType": {
+        "label": "Type d'enchère",
+        "placeholder": "Veuillez sélectionner le type d'enchère",
+        "tooltip": "Impossible d'enchères inversées, ce qui signifie que les transporteurs doivent sous-enchérir les uns sur les autres."
+      },
+      "maximumBidHours": {
+        "maximumBidHours": "Heures d'enchères maximales",
+        "message": "Veuillez entrer les heures d'enchères maximales",
+        "error": "Le nombre maximal d'heures de soumission dépasse le nombre maximal d'heures de soumission autorisé.",
+        "tooltip": "Dans le module Expédition, lorsque l'utilisateur envoie une expédition à Spot Bid, il est autorisé à définir l'heure de l'offre Spot. "
+      },
+      "turnONPOVModule": {
+        "label": "Allumer le module POV",
+        "placeholder": "Veuillez sélectionner Activer le module POV",
+        "message": "Veuillez sélectionner Activer le module POV.",
+        "tooltip": "Si « Oui », les expéditions peuvent être créées via POV, si « Non », les expéditions ne peuvent pas être créées via POV."
+      },
+      "shipmentStartingNumber": {
+        "label": "Numéro de départ de l'expédition",
+        "tooltip": "Cela configurera le numéro d’expédition commençant par un nombre entier qui ira après le préfixe alpha. "
+      },
+      "shipmentNumberPrefix": {
+        "label": "Préfixe du numéro d'expédition",
+        "tooltip": "Cela configurera le préfixe du numéro d’expédition. "
+      },
+      "noRoutingGuideCarriersReturned": {
+        "label": "Nombre de supports de guides d'acheminement retournés",
+        "tooltip": "Si « Méthode de routage » = « Guide de routage », le nombre de transporteurs renvoyés à partir du guide de routage sera limité au nombre fourni."
+      },
+      "shipmentTermsAllowed": {
+        "label": "Conditions d'expédition autorisées",
+        "placeholder": "Veuillez sélectionner Conditions d'expédition autorisées",
+        "option_all": "--Tous--",
+        "option_c": "Collecter",
+        "option_p": "Prépayé",
+        "option_t": "TIERCE PERSONNE",
+        "tooltip": "Ce paramètre détermine quelles conditions d'expédition peuvent être utilisées pour les expéditions."
+      },
+      "povDestinationMethod": {
+        "label": "Méthode de destination du PDV",
+        "placeholder": "Sélectionnez la méthode de destination du PDV",
+        "message": "Veuillez sélectionner Activer le module POV.",
+        "tooltip": "Sur la page de saisie de l'envoi, l'adresse de destination est prédéfinie pour l'utilisateur du fournisseur. "
+      },
+      "routingMethod": {
+        "label": "Méthode de routage",
+        "placeholder": "Sélectionnez la méthode de routage",
+        "tooltip": "Lorsque l'utilisateur fournisseur crée une expédition via POV, il existe plusieurs façons pour l'utilisateur fournisseur d'obtenir le transporteur pour l'expédition. "
+      },
+      "allowDraftShipment": {
+        "label": "Autoriser l'expédition provisoire",
+        "placeholder": "Veuillez sélectionner Autoriser l'envoi en mode brouillon",
+        "tooltip": "Si le paramètre est défini sur « Oui », les utilisateurs du fournisseur seront autorisés à créer des envois préliminaires dans le module POV."
+      },
+      "packageUnitMeasure": {
+        "label": "Unité de mesure du paquet",
+        "tooltip": "Cela définira l'unité de mesure du colis par défaut sur la page de saisie de l'expédition dans le POV."
+      },
+      "weightUnitMeasure": {
+        "label": "Unité de mesure de poids",
+        "option_p": "Livre",
+        "option_k": "Kilogramme",
+        "placeholder": "Veuillez sélectionner l'unité de mesure du poids",
+        "tooltip": "Cela définira l'unité de mesure par défaut sur la page de saisie de l'expédition dans le module POV."
+      },
+      "freeOnBoardCode": {
+        "label": "Code à bord gratuit",
+        "tooltip": "Cela définira le code Free On Board par défaut sur l'envoi créé via POV."
+      },
+      "frightClass": {
+        "label": "Classe de peur",
+        "placeholder": "Veuillez sélectionner la classe de peur",
+        "tooltip": "Cela attribuera une classe par défaut à l'envoi créé via POV."
+      },
+      "minimumDays": {
+        "label": "Jours minimum",
+        "placeholder": "Veuillez entrer le nombre minimum de jours",
+        "tooltip": "Lorsque le fournisseur sélectionne le bon de commande dans le POV, il doit fournir la « nouvelle date d'expédition ». "
+      },
+      "maximumDays": {
+        "label": "Jours maximum",
+        "placeholder": "Veuillez entrer le nombre maximum de jours",
+        "tooltip": "Lorsque le fournisseur sélectionne le bon de commande dans le POV, il doit fournir la « nouvelle date d'expédition ». "
+      },
+      "minimumDaysError": {
+        "label": "Message d'erreur de jours minimum",
+        "placeholder": "Veuillez saisir un message d'erreur concernant le nombre minimum de jours",
+        "tooltip": "Si la règle des « jours minimum » n'est pas respectée, un « message d'erreur de jours minimum » sera affiché à l'utilisateur sur l'interface utilisateur.",
+        "message": "Les expéditions ne sont pas autorisées 3 jours avant la date d'expédition prévue"
+      },
+      "maximumDaysError": {
+        "label": "Message d'erreur du nombre maximum de jours",
+        "placeholder": "Veuillez saisir le message d'erreur du nombre maximum de jours",
+        "tooltip": "Si la règle « Nombre maximum de jours » n'est pas respectée, un « message d'erreur de jours maximum » sera affiché à l'utilisateur sur l'interface utilisateur.",
+        "message": "La date d’expédition prévue ne peut pas dépasser un an."
+      }
+    },
+    "notificationSuccess": "Les paramètres TMS ont été enregistrés avec succès.",
+    "notificationError": "Échec de l'enregistrement des paramètres TMS. "
+  },
+  "login": {
+    "authLeft": {
+      "title": "Vous n'avez pas encore de compte?",
+      "link": "S'inscrire maintenant!"
+    },
+    "authRight": {
+      "title": "Content de te revoir",
+      "desc": "Connectez-vous pour continuer"
+    },
+    "form": {
+      "email": {
+        "placeholder": "E-mail / Nom d'utilisateur",
+        "enter": "Veuillez saisir votre nom d'utilisateur."
+      },
+      "password": {
+        "placeholder": "Mot de passe",
+        "enter": "Veuillez entrer le mot de passe."
+      },
+      "link": "Mot de passe oublié?",
+      "button": "Se connecter"
+    }
+  },
+  "forgotPassword": {
+    "authLeft": {
+      "title": "Vous n'avez pas encore de compte?",
+      "link": "S'inscrire maintenant!"
+    },
+    "authRight": {
+      "title": "Mot de passe oublié",
+      "desc": "Veuillez saisir l'adresse e-mail à laquelle vous souhaitez que vos informations de connexion soient envoyées"
+    },
+    "form": {
+      "email": {
+        "placeholder": "E-mail / Nom d'utilisateur",
+        "enter": "Veuillez saisir votre nom d'utilisateur."
+      },
+      "warning": {
+        "okText": "Se connecter",
+        "desc": "Le nouveau mot de passe a été envoyé à votre e-mail, veuillez vérifier votre e-mail et vous connecter avec le nouveau mot de passe."
+      },
+      "backToLogin": "Retour connexion",
+      "button": "Soumettre"
+    }
+  },
+  "signUp": {
+    "authLeft": {
+      "title": "Vous avez déjà un compte?",
+      "link": "Connectez vous maintenant!"
+    },
+    "authRight": {
+      "title": "Enregistrement d'un nouvel utilisateur",
+      "desc": "Inscrivez-vous maintenant pour continuer"
+    },
+    "form": {
+      "email": {
+        "enter": "Veuillez saisir votre nom d'utilisateur."
+      },
+      "password": {
+        "label": "Mot de passe",
+        "enter": "Veuillez entrer le mot de passe."
+      },
+      "confirmPassword": {
+        "label": "Confirmez le mot de passe",
+        "enter": "Veuillez saisir Confirmer le mot de passe."
+      },
+      "firstName": {
+        "label": "Prénom",
+        "enter": "Veuillez saisir votre prénom."
+      },
+      "middleName": {
+        "label": "Deuxième prénom"
+      },
+      "lastName": {
+        "label": "Nom de famille",
+        "enter": "Veuillez saisir votre nom de famille.",
+        "invalid": "Entrez un nom de famille valide."
+      },
+      "addressLineFirst": {
+        "label": "Adresse 1",
+        "enter": "Veuillez saisir l'adresse 1."
+      },
+      "addressLineSecond": {
+        "label": "Adresse 2",
+        "enter": "Veuillez saisir l'adresse 2."
+      },
+      "jobType": {
+        "label": "Type d'emploi"
+      },
+      "department": {
+        "label": "Département"
+      },
+      "phoneWork": {
+        "label": "Téléphone (travail)"
+      },
+      "phoneCell": {
+        "label": "Téléphone (Portable)"
+      },
+      "reference": {
+        "label": "Référence"
+      },
+      "comments": {
+        "label": "commentaires"
+      },
+      "capcha": "Veuillez vérifier le récapitulatif.",
+      "submit": "Soumettre",
+      "warning": {
+        "okText": "Se connecter",
+        "desc": "Le processus d'enregistrement de l'utilisateur est terminé. Veuillez vous connecter avec votre e-mail et votre mot de passe approprié. "
+      }
+    }
+  },
+  "verifyUser": {
+    "authLeft": {
+      "title": "Vous n'avez pas encore de compte?",
+      "link": "S'inscrire maintenant!"
+    },
+    "authRight": {
+      "title": "Authentification à deux facteurs"
+    },
+    "notification": "Échec de l'envoi du jeton d'authentification !",
+    "pickMethod": "Choisissez votre méthode d'authentification",
+    "securityCode": "Code de sécurité par e-mail ",
+    "link": "Pas toi? ",
+    "send": "Envoyer le code d'authentification"
+  },
+  "verifyToken": {
+    "authLeft": {
+      "title": "Vous n'avez pas encore de compte?",
+      "link": "S'inscrire maintenant!"
+    },
+    "authRight": {
+      "title": "Vérifier votre courrier"
+    },
+    "notification": "Échec de la vérification du jeton d'authentification !",
+    "enter": "Entrez le code d'authentification à 6 chiffres envoyé à",
+    "verify": "Vérifier le code d'authentification",
+    "receive": "Code non reçu ? "
+  },
+  "user": {
+    "userProfileManagement": "Gestion des profils utilisateur",
+    "belowCurrentProfile": " Vous trouverez ci-dessous le profil actuel que nous avons pour vous dans notre système. ",
+    "imgAlt": "Profil de l'utilisateur",
+    "active": "Actif",
+    "userTabs": {
+      "personal": "Personnel",
+      "password": "Changer le mot de passe",
+      "themes": "Thèmes"
+    },
+    "buttons": {
+      "updateProfile": "Mettre à jour le profil",
+      "updatePassword": "Mettre à jour le mot de passe",
+      "preview": "Aperçu",
+      "saveTheme": "Enregistrer le thème",
+      "restoreToDefault": "Rétablir les options par défaut"
+    },
+    "notification": {
+      "imageInterrupted": "La sélection d'images a été interrompue. Veuillez réessayer plus tard.",
+      "userPreference": "La préférence de l'utilisateur a été appliquée avec succès pour un poste temporaire."
+    },
+    "fields": {
+      "firstName": {
+        "label": "Prénom",
+        "message": "Veuillez saisir votre prénom."
+      },
+      "lastName": {
+        "label": "Nom de famille",
+        "message": "Veuillez saisir votre nom de famille."
+      },
+      "address1": {
+        "label": "Adresse 1",
+        "message": "Veuillez saisir la ligne d'adresse."
+      },
+      "address2": {
+        "label": "Adresse 2"
+      },
+      "mobileNumber": {
+        "label": "Numéro de portable",
+        "message": "Veuillez entrer le numéro de portable"
+      },
+      "phoneHome": {
+        "label": "Téléphone Accueil",
+        "placeholder": "Numéro de téléphone résidentiel"
+      },
+      "phoneOffice": {
+        "label": "Bureau téléphonique",
+        "placeholder": "Numéro de téléphone du bureau"
+      },
+      "currentPassword": {
+        "label": "Mot de passe actuel",
+        "message": "Veuillez saisir le mot de passe actuel."
+      },
+      "password": {
+        "label": "Mot de passe",
+        "messageString": "Veuillez saisir le mot de passe au format String.",
+        "messageTrue": "Veuillez entrer le mot de passe.",
+        "messageSymbol": "Le mot de passe doit contenir au minimum un chiffre, une minuscule, une majuscule et des symboles.",
+        "messageMin": "Le mot de passe doit comporter au minimum 12 caractères.",
+        "short": "court",
+        "weak": "faible",
+        "okay": "d'accord",
+        "good": "bien",
+        "strong": "fort"
+      },
+      "confirmPassword": {
+        "label": "Confirmez le mot de passe",
+        "message": "Veuillez saisir Confirmer le mot de passe.",
+        "error": "Confirmer le mot de passe ne correspondant pas au mot de passe"
+      },
+      "color": {
+        "topMenuColor": "Couleur du menu supérieur",
+        "bottomMenuColor": "Couleur du menu inférieur",
+        "topMenuTextColor": "Couleur du texte du menu supérieur",
+        "bottomMenuTextColor": "Couleur du texte du menu inférieur",
+        "message": "Veuillez sélectionner une couleur"
+      },
+      "date": {
+        "label": "Format de date",
+        "placeholder": "Sélectionnez un format de date",
+        "message": "Veuillez sélectionner un format de date"
+      },
+      "fontFamily": {
+        "label": "Famille de polices",
+        "placeholder": "Sélectionnez une famille de polices",
+        "message": "Veuillez sélectionner une famille de polices"
+      },
+      "language": {
+        "label": "Choisir la langue",
+        "message": "Veuillez sélectionner une langue"
+      },
+      "fontSize": {
+        "label": "Taille de police"
+      }
+    }
+  },
+  "shipment": {
+    "title": "Expédition",
+    "filter": {
+      "shipperFiltered": "L'expéditeur peut être filtré par nom de client, identifiant d'emplacement ou identifiant de recherche.",
+      "consigneeFiltered": "Le destinataire peut être filtré par nom de client, ID d'emplacement ou ID de recherche",
+      "checkingApproval": "Vérification du processus d'approbation de l'expédition...",
+      "titles": {
+        "shipmentSearch": "Recherche d'envoi",
+        "additional": "Options de recherche supplémentaires"
+      },
+      "additionalSearchOptions": {
+        "salesOrderNo": {
+          "label": "Numéro de commande client"
+        },
+        "masterHouseBill": {
+          "label": "Lettre d'atterrissage principale/maison Non",
+          "placeholder": "Lettre d'atterrissage principale/maison Non"
+        },
+        "projectNo": {
+          "label": "Numéro du projet",
+          "placeholder": "Numéro du projet"
+        },
+        "quoteNo": {
+          "label": "Citation n°",
+          "placeholder": "Citation n°"
+        },
+        "createdBy": {
+          "label": "Créé par",
+          "radioEmail": "Identifiant de courrier électronique",
+          "placeholderEmail": "Sélectionnez E-mail"
+        }
+      }
+    },
+    "header": {
+      "title": "Gérer l'expédition",
+      "addShipment": "Créer un envoi",
+      "delete": "Supprimer",
+      "consolidate": "Consolider",
+      "audit": "Journal d'audit",
+      "updateShipmentStatus": "Mettre à jour le statut de l'envoi",
+      "confirmationModal": {
+        "title": "Consolidation des expéditions",
+        "description": "Les envois sélectionnés seront combinés en un seul envoi et le statut des envois d'origine passera à fermé, confirmez !",
+        "okText": "Confirmer!"
+      },
+      "commonUpdateModal": {
+        "title": "Mise à jour du statut de l'envoi"
+      },
+      "commonExportModal": {
+        "title": "Exportation des expéditions"
+      }
+    },
+    "footer": {
+      "totalRecords": "Total des enregistrements",
+      "latePickup": "Ramassage tardif",
+      "lateDelivery": "Livraison tardive",
+      "trackingFailure": "Échec du suivi",
+      "missingDocuments": "Documents manquants",
+      "pickupFailed": "Échec du ramassage"
+    },
+    "dashboard": {
+      "title": "Tableau de bord",
+      "topTransportation": "Top 10 des fournisseurs de transport",
+      "orderStatistics": "Statistiques des commandes",
+      "total": "Nombre total d'expéditions par mois",
+      "shipmentByMode": "Expédition par mode/type de chargement",
+      "shipmentByBound": "Expédition par liaison"
+    },
+    "card": {
+      "totalMiles": "Miles totaux",
+      "weight": "Poids (kg)",
+      "weightUtilization": "Utilisation du poids",
+      "printedBolFlag": "Drapeau BOL imprimé",
+      "masterBol": "Maître Bol",
+      "volumeUtilization": "Utilisation des volumes",
+      "bidExpiry": "Expiration de l'offre",
+      "title": "Copier l'envoi",
+      "description": "Créez-vous une copie de l’expédition de transbordement international ?"
+    },
+    "drawer": {
+      "header": {
+        "mastShipment": "Expédition principale",
+        "childShipment": "Envoi enfant",
+        "approvalNumber": "Numéro d'agrément",
+        "inconterm": "Inconterm",
+        "houseBillOfLading": "Connaissement",
+        "freightBillProNumber": "Facture de transport/numéro Pro",
+        "createAsShipment": "Créer comme expédition",
+        "approve": "Approuver",
+        "printView": "Imprimer/Afficher",
+        "commonModalLabel": "Documents",
+        "commonModalApprovalTitle": "Approbation de l'expédition",
+        "saveAsShipment": "Enregistrer comme expédition"
+      },
+      "tabs": {
+        "masterChildShipmentDetails": "Détails de l'envoi principal/enfant",
+        "transportationDetails": "Détails du transport",
+        "vendorDetails": "Détails du fournisseur",
+        "billTo": "Facturer à",
+        "categoryDetails": "Détails de la catégorie",
+        "auditLog": "Journal d'audit",
+        "accounting": "Accessoires et taxes",
+        "trackingDetails": "Détails de suivi",
+        "iTrack": "iTrack",
+        "rateShopResults": "Évaluer les résultats de la boutique",
+        "addStop": "Ajouter un arrêt",
+        "deleteStop": "Supprimer l'arrêt"
+      },
+      "details": {
+        "delivery": "Livraison",
+        "distanceKm": "Distance (KM)",
+        "distanceMiles": "Distance (miles)",
+        "totalWeight": "Poids total (livre)",
+        "freightBill": "Facture de transport/numéro Pro",
+        "masterBillOfLandingNumber": "Numéro de la lettre d'atterrissage principale",
+        "freightAllowances": "Indemnités de transport",
+        "customerAccountNumber": "Numéro de compte client",
+        "freeOnBoard": "Gratuit à bord",
+        "incotermNamedPlace": "Incoterm Lieu Nommé",
+        "createdBy": "Créé par",
+        "cube": {
+          "label": "Cube"
+        }
+      },
+      "product": {
+        "houseBillOfLandingNumber": "Numéro de connaissement de la maison",
+        "unitOfMeasure": {
+          "placeholder": "Sélectionnez l'unité de mesure",
+          "message": "Veuillez sélectionner une unité de mesure"
+        },
+        "chargeableWeight": {
+          "label": "Poids taxable",
+          "placeholder": "Entrez le poids facturable",
+          "message": "Veuillez saisir le poids facturable",
+          "error": "Le poids facturable doit être un nombre."
+        },
+        "packageBilled": {
+          "placeholder": "Entrez le colis/la quantité facturée",
+          "message": "Veuillez saisir le colis/la quantité facturée",
+          "error": "Le colis/quantité facturée doit être un nombre."
+        },
+        "length": {
+          "placeholder": "Entrez la longueur",
+          "message": "Veuillez entrer la longueur",
+          "error": "La longueur doit être d'au moins 1"
+        },
+        "width": {
+          "placeholder": "Entrez la largeur",
+          "message": "Veuillez entrer la largeur",
+          "error": "La largeur doit être d'au moins 1"
+        },
+        "height": {
+          "placeholder": "Entrez la hauteur",
+          "message": "Veuillez entrer la hauteur",
+          "error": "La hauteur doit être d'au moins 1"
+        },
+        "purchaseOrders": {
+          "label": "Acheter en ligne",
+          "placeholder": "Saisir les bons de commande"
+        },
+        "lineItemNumber": {
+          "label": "Numéro de l'élément de ligne",
+          "placeholder": "Saisir le numéro de l'élément de campagne"
+        },
+        "NMFCNumber": {
+          "label": "Numéro NMFC",
+          "placeholder": "Entrez le numéro NMFCN"
+        }
+      },
+      "notes": {
+        "shipmentNotes": {
+          "placeholder": "Saisir les notes d'expédition"
+        }
+      },
+      "vendorDetails": {
+        "addNewVendor": "Ajouter un nouveau fournisseur"
+      },
+      "billTo": {
+        "VATNumber": {
+          "label": "Numéro de TVA",
+          "placeholder": "Entrez le numéro de TVA"
+        }
+      },
+      "categoryDetails": {
+        "addNewCategory": "Ajouter une nouvelle catégorie",
+        "subCategory": {
+          "label": "Sous-catégorie",
+          "placeholder": "Sélectionnez une sous-catégorie"
+        }
+      },
+      "auditLog": {
+        "database": "Base de données",
+        "tableName": "Nom de la table",
+        "tableSchema": "Schéma de table",
+        "hostName": "Nom d'hôte",
+        "applicationName": "Nom de l'application",
+        "columnName": "Nom de colonne",
+        "oldValue": "Ancienne valeur",
+        "newValue": "Nouvelle valeur"
+      },
+      "shipmentTransport": {
+        "stopType": {
+          "label": "Type d'arrêt",
+          "placeholder": "Sélectionnez le type d'arrêt",
+          "message": "Veuillez sélectionner le type d'arrêt"
+        },
+        "stopNo": {
+          "label": "Arrêter Non",
+          "placeholder": "Sélectionnez Arrêter Non",
+          "message": "Veuillez sélectionner un lieu d'arrêt"
+        },
+        "requestedDateTime": {
+          "label": "Date demandée",
+          "date_message": "Veuillez sélectionner la date",
+          "time_message": "Veuillez sélectionner l'heure"
+        },
+        "actual": "Réel",
+        "dateTime": "Date",
+        "contactPersonName": {
+          "label": "nom de contacte d'une personne",
+          "placeholder": "Entrez le nom"
+        },
+        "emailId": {
+          "label": "Identifiant de courrier électronique",
+          "placeholder": "Entrez l'identifiant de messagerie"
+        },
+        "contactNo": {
+          "label": "Numéro de contact",
+          "placeholder": "Entrez le numéro de contact",
+          "message": "Le numéro de contact doit contenir 10 chiffres"
+        },
+        "ext": {
+          "label": "Poste",
+          "placeholder": "Entrez le poste"
+        },
+        "dockConfirmationNumber": "Numéro de quai/confirmation",
+        "taxIdVat": "Numéro d'identification fiscale/TVA",
+        "iTrackDetails": "Détails d'iTrack",
+        "emptyRecords": "Veuillez être patient pour obtenir une mise à jour du transporteur."
+      }
+    },
+    "print": {
+      "plNo": "PL Non",
+      "seeSection2": "Voir la section 2 (e) de l'article 360 ​​du NMFC."
+    },
+    "hazmat": "Matières dangereuses (X)",
+    "qty": "QTÉ",
+    "saveAsPartial": "Enregistrer comme partiel",
+    "shipmentExportSFiled": "L'exportation de l'envoi a échoué.",
+    "consigneeAppointmentNumber": "Numéro de rendez-vous du destinataire",
+    "shipperAppointmentNumber": "Numéro de rendez-vous de l'expéditeur",
+    "approverName": "Nom de l'approbateur",
+    "approverEmail": "E-mail de l'approbateur",
+    "priority": {
+      "label": "Priorité",
+      "placeholder": "Sélectionnez la priorité",
+      "message": "Veuillez choisir la priorité",
+      "error": "La priorité doit être Unique."
+    },
+    "of": "de",
+    "pallet": "Palette(S)",
+    "proNo": "PRO NON",
+    "bolNo": "BOL NON",
+    "FOB": "GOUSSET",
+    "SID": "SID",
+    "location": "Emplacement",
+    "thirdParty": "FRAIS DE TRANSPORT DE TIERS FACTURÉS À :",
+    "billOfLadingNumber": "Numéro du connaissement",
+    "proNumber": "Numéro Pro :",
+    "serviceDescription": "Description du service:",
+    "freightChargeTerms": "Conditions de frais de transport :",
+    "freightChargesArePrepaid": "(les frais de transport sont prépayés, sauf indication contraire)",
+    "docNumberConfirmationNumber": "Numéro de document/numéro de confirmation :",
+    "masterBillOfLading": "Connaissement principal : avec les connaissements sous-jacents joints",
+    "countryCityStateZip": "Pays/Ville/État/Zip :",
+    "freightCharges": "(les frais de transport sont prépayés, sauf indication contraire)",
+    "masterBill": "Connaissement principal : avec les connaissements sous-jacents joints",
+    "customerCheck": "Chèque client acceptable",
+    "feeTerms": "Conditions tarifaires :",
+    "whereTheRate": "Lorsque le tarif dépend de la valeur, les expéditeurs sont tenus d'indiquer spécifiquement par écrit la valeur convenue ou déclarée du bien comme suit :",
+    "theAgreed": "La valeur convenue ou déclarée de la propriété est spécifiquement déclarée par l'expéditeur comme ne dépassant pas",
+    "poNo": "N° DE PO",
+    "soNo": "DONC NON",
+    "codAmount": "Montant du remboursement :",
+    "pleaseSelect": "Veuillez sélectionner",
+    "approvers": "Approbateurs",
+    "searchEmail": "Chercher un email",
+    "searchByEmail": "Rechercher par email",
+    "shipmentRequire": "Cet envoi ne nécessite pas d'approbation",
+    "approversList": "Liste des approbateurs",
+    "sendApprovalRequest": "Envoyer une demande d'approbation",
+    "savingAdditionalDetailsIs": "L'enregistrement de détails supplémentaires est",
+    "maxCharacter": "Caractère maximum autorisé 25",
+    "checkingPO": "Vérification de la visibilité des PO et SO",
+    "visitBack": "Veuillez revenir après avoir modifié cet envoi.",
+    "savingBillingDetailsIs": "L'enregistrement des détails de facturation est",
+    "addingNewCategoryIs": "L'ajout d'une nouvelle catégorie est",
+    "modifyingCategoryIs": "La modification de la catégorie est",
+    "deletingCategoryIs": "Supprimer une catégorie est",
+    "createSomeData": "créer des données.",
+    "masterChildShipment": "Envoi maître/enfant",
+    "childShipment": "Envoi enfant",
+    "convertingAs": "Conversion en tant que",
+    "regularShipment": "Expédition régulière",
+    "progressHas": "les progrès ont",
+    "masterChildShipmentDetails": "Détails de l'envoi principal/enfant",
+    "masterQuantityLeft": "Quantité principale restante",
+    "masterWeightLeft": "Poids principal gauche",
+    "childShipmentDetails": "Détails de l'envoi enfant",
+    "addChildShipment": "Ajouter un envoi enfant",
+    "noMasterChildshipments!": "Il n’y a pas d’envois Maître/Enfant !",
+    "failedToUpdate": "Échec de mise à jour",
+    "enter": "Entrer",
+    "copyingLastProductIs": "La copie du dernier produit est",
+    "addingNewProductIs": "Ajouter un nouveau produit est",
+    "modifyingProductIs": "Modifier un produit est",
+    "deletingProductIs": "Supprimer un produit est",
+    "freightClassSuccessfully": "Classe de fret calculée avec succès.",
+    "addNewProductDetails": "Ajouter de nouveaux détails sur le produit",
+    "copyLastProductDetailsEntry": "Copier la dernière entrée des détails du produit",
+    "freightClassCalculator": "Calculateur de classe de fret",
+    "totalChargableWeight": "Poids total facturable",
+    "weightUnitOfMeasure": "Unité de mesure de poids",
+    "pleaseSelectUnitOfMeasure": "location, sélectionnez l'unité de mesure",
+    "cooPdf": {
+      "certificationOfOrigin": "CERTIFICATION D'ORIGINE",
+      "certificateType": "TYPE DE CERTIFICAT (INDIQUER 'X')",
+      "importer": "IMPORTATEUR",
+      "exporter": "EXPORTATEUR",
+      "producer": "PRODUCTEUR",
+      "blanketPeriod": "PÉRIODE COUVERTE (MM/JJ/AAAA A)",
+      "sectionDetails": "NOM, ADRESSE, TÉLÉPHONE ET EMAIL",
+      "certifierSectionDetails": "CERTIFICAT $t(shipment.cooPdf.sectionDetails)",
+      "producerSectionDetails": "PRODUCTEUR $t(shipment.cooPdf.sectionDetails)",
+      "exporterSectionDetails": "$t(shipment.cooPdf.exporter) $t(shipment.cooPdf.sectionDetails)",
+      "importerSectionDetails": "$t(shipment.cooPdf.importer) $t(shipment.cooPdf.sectionDetails)",
+      "taxIdentificationNumber": "NUMÉRO D'IDENTIFICATION FISCALE",
+      "descriptionOfGoods": "DESCRIPTION DES BIENS",
+      "originCriterion": "CRITÈRE D'ORIGINE",
+      "producerYesNo": "$t(shipment.cooPdf.producer) (OUI NON)",
+      "methodOfQualification": "METHODE DE QUALIFICATION",
+      "cointryOfOrigin": "PAYS D'ORIGINE",
+      "certificateAssuranceDescription": "Je certifie que les marchandises décrites dans ce document sont originaires et que les informations contenues dans ce document sont vraies et exactes. ",
+      "certificateAttachmentDescription": "CE CERTIFICAT COMPREND DES PAGES COMPRENANT TOUTES LES PIÈCES JOINTES.",
+      "dateWithFormat": "DATE (MM/JJ/AAAA)",
+      "documentCompliantDescription": "CE DOCUMENT EST CONFORME À L'USMCA"
+    }
+  },
+  "claims": {
+    "spotBidSearch": "Recherche SpotBid",
+    "spotBidSearchOriginDestination": "Recherche SpotBid par origine et destination",
+    "chooseColumns": "Choisissez des colonnes pour Exporter.",
+    "selectMinOneField": "Veuillez sélectionner au moins un champ à exporter.",
+    "emailToTransportationProvider": "Envoyer un e-mail au fournisseur de transport",
+    "printOverchargeClaim": "Imprimer une demande de surcharge",
+    "indemnificationClause": " CLAUSE D'INDEMNISATION : Le demandeur s'engage à protéger le fournisseur de transport auprès duquel cette réclamation est déposée en raison d'un règlement sans remise de la facture de transport originale et nous garantissons sans équivoque le remboursement.",
+    "dateSubmitted": "Date de soumission",
+    "contractAuthority": "Autorité contractante",
+    "claimTariff": "Tarif de réclamation",
+    "reasonForOvercharge": "Raison de la surcharge",
+    "correctAmount": "Somme exacte",
+    "totalPaid": "Total payé",
+    "correctCharges": "Corriger les frais",
+    "paidAmount": "Montant payé",
+    "billedAmount": "Montant facturé",
+    "chargeableWeight": "Poids taxable",
+    "detailedOverchrgeClaimStatement": "DÉCLARATION DÉTAILLÉE DE RÉCLAMATION DE SURCHARGE",
+    "freightBill": "Facture(s) de transport",
+    "attachedDocumentation": "Documentation ci-jointe",
+    "yourClaimNumber": "Votre numéro de réclamation",
+    "ourClaimNumber": "Notre numéro de réclamation",
+    "refer": "VEUILLEZ VOUS RÉFÉRER AU NUMÉRO DE RÉCLAMATION CI-DESSUS DANS TOUTE CORRESPONDANCE",
+    "forwardCorrespondence": "AVRIL PAR CORRESPONDANCE À L'ADRESSE CI-DESSUS ET CHÈQUE À L'ORDRE DE : ",
+    "presentation": "PRÉSENTATION DE LA RÉCLAMATION DE SURCHARGE",
+    "printResults": "Imprimer les résultats",
+    "totalClaims": "Total des réclamations",
+    "openClaims": "Réclamations ouvertes",
+    "closedClaims": "Réclamations clôturées",
+    "onHoldClaims": "Réclamations en attente",
+    "totalAmountFiled": "Montant total déposé",
+    "totalAmountPaid": "Montant total payé",
+    "byAge": "Par âge:",
+    "daysOld": "Jours vieux",
+    "pleaseEnterDaysOld": "Veuillez entrer les jours d'ancienneté",
+    "claimsNumber": "Numéro de réclamation",
+    "pleaseEnterClaimsNumber": "Veuillez entrer le numéro de réclamation",
+    "freightBillProNumber": "Facture de transport/numéro Pro",
+    "pleaseEnterFreightBillProNumber": "Veuillez saisir la facture de transport/le numéro Pro",
+    "pleaseEnterInvoiceNumber": "Veuillez saisir le numéro de facture",
+    "pleaseEnterPackageNumber": "Veuillez entrer le numéro de colis",
+    "Details": "Détails",
+    "overchargeClaimItems": "Articles de réclamation de surcharge",
+    "overchargeClaimNotes": "Notes sur les réclamations en cas de surcharge",
+    "overchargeUploadViewFiles": "Surcharger les fichiers de téléchargement/affichage",
+    "overchargeClaimSettlements": "Règlements des réclamations concernant les surcharges",
+    "addNewNote": "Ajouter une nouvelle note",
+    "selectCommentType": "Sélectionnez un type de commentaire",
+    "commentType": "Type de commentaire",
+    "comments": "commentaires",
+    "enterComments": "Entrez des commentaires",
+    "createdBy": "Créé par",
+    "yourClaim": "Votre demande",
+    "enterYourClaim": "Entrez votre réclamation",
+    "noData": "Pas de données",
+    "houseBillOfLadingNumber": "Numéro de connaissement de la maison",
+    "others": "Autres",
+    "othersPleaseMention": "Autres, veuillez mentionner",
+    "recoverySum": "Somme de récupération",
+    "dateClosed": "Date de fermeture",
+    "dateRefundedToCustomer": "Date de remboursement au client",
+    "checkNumberFromTransportationProvider": "Numéro de contrôle du fournisseur de transport",
+    "pleaseSelectCurrency": "Veuillez sélectionner une devise",
+    "ourClaim": "Notre revendication",
+    "claimant": "Demandeur",
+    "overchargeSum": "Somme de surcharge",
+    "preClaims": "Pré-réclamations",
+    "reports": "Rapports",
+    "overCharge": "Surcharge",
+    "lossAndDamage": "Pertes et dommages",
+    "claimsSettings": "Paramètres des réclamations",
+    "overchargeClaims": "Réclamations de surcharge",
+    "mailTo": "Envoyer à",
+    "checkNumberToCustomer": "Numéro de chèque au client"
+  },
+  "routingGuide": {
+    "generalSearch": "Recherche générale",
+    "searchByOrigin": "Recherche par origine",
+    "searchByDestination": "Recherche par destination",
+    "routingKey": "Clé de routage",
+    "routingGuideID": "ID du guide d'acheminement",
+    "routingName": "Nom du routage",
+    "createdBy": "Créé par",
+    "hazmat": {
+      "label": "Matières dangereuses",
+      "placeholder": "Sélectionnez les matières dangereuses"
+    },
+    "pieces": {
+      "label": "Pièces"
+    },
+    "piecesUOM": {
+      "label": "Pièces",
+      "placeholder": "Sélectionner les pièces UdM"
+    }
+  },
+  "auction": {
+    "title": "Enchères",
+    "card": "Carte",
+    "noOfStops": "Nombre d'arrêts",
+    "locationId": "Identifiant du lieu :",
+    "stopType": "Type d'arrêt :",
+    "stopNo": "N° d'arrêt :",
+    "companyDetails": "Détails de l'entreprise",
+    "appointmentNumber": "Numéro de rendez-vous",
+    "contactPersonName": "nom de contacte d'une personne",
+    "pickup": "Date de la demande de ramassage",
+    "pickupAppointmentDateTime": "Date du rendez-vous de ramassage",
+    "contactNo": "Numéro de contact",
+    "actualPickupDateTime": "Date réelle de ramassage",
+    "dockConfirmationNumber": "Numéro de quai/confirmation",
+    "taxIdVAT": "Numéro d'identification fiscale/TVA",
+    "approvalNumber": "Numéro d'agrément",
+    "spotBIDTypes": "Types d'offres ponctuelles",
+    "selectSpotBIDTypes": "Sélectionnez le type d'offre",
+    "consigneeStateProvience": "État/province du destinataire",
+    "BIDExpiryDateTime": "Date d'expiration de l'offre",
+    "BIDExpiry": "Expiration de l'offre",
+    "totalBIDS": "Total des enchères",
+    "openBIDS": "Offres ouvertes",
+    "expiredBIDS": "OFFRES expirées",
+    "expiringSoonBIDS": "Expire bientôt",
+    "grossWeight": "Poids brut",
+    "weightUnitOfMeasure": "Unité de mesure de poids",
+    "viewAllStops": "Afficher tous les arrêts",
+    "viewProductDetails": "Afficher les détails du produit",
+    "viewUploadFiles": "Afficher/télécharger des fichiers",
+    "shipmentDetails": "Détails de l'envoi",
+    "shipperDetails": "Détails de l'expéditeur",
+    "consigneeDetails": "Détails du destinataire",
+    "frightClass": "Classe de peur",
+    "package": "Emballer",
+    "delieryDateAndTime": "Date et heure de livraison",
+    "customerBIDExpiryDateTime": "Date d'expiration de l'offre client",
+    "BIDDetails": "Détails de l'offre",
+    "equipmentTypeDetails": "Détails du type d'équipement",
+    "enterEquipmentType": "Entrez le type d'équipement",
+    "expiryDate": "Date d'expiration",
+    "expiryDateIsRequired": "La date d'expiration est requise",
+    "expiryTime": "Date d'expiration",
+    "expiryTimeIsRequired": "Un délai d'expiration est requis",
+    "spotQuoteNumber": "Numéro de devis ponctuel",
+    "enterQuoteNumber": "Entrez le numéro de devis",
+    "BIDSubmittedBy": "OFFRE Soumise par",
+    "BIDPriceAndCurrency": "Prix ​​et devise de l'offre",
+    "BIDPrice": "Prix ​​de l'offre",
+    "enterPrice": "Entrez le prix",
+    "priceIsRequired": "Le prix est requis",
+    "pleaseEnterTheNumber": "Veuillez entrer le numéro",
+    "pleaseEnterLowerTheNumber": "Veuillez saisir une offre inférieure à l'enchère actuelle",
+    "BIDCurrency": "Devise de l'offre",
+    "BIDComment": "Commentaire sur l'offre",
+    "enterComment": "Entrez un commentaire",
+    "submitBID": "Soumettre une offre"
+  }
+}

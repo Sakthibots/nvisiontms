@@ -1,0 +1,3487 @@
+{
+  "default": {
+    "navMenu": {
+      "home": "家",
+      "dashboard": "仪表板",
+      "contractManagement": "合同管理",
+      "shipmentsModule": "出货模块",
+      "shipmentTracking": "发货跟踪",
+      "activities": "活动",
+      "reports": "报告",
+      "pricing": "价钱",
+      "procurement": "采购",
+      "purchaseOrderView": "采购订单视图",
+      "routingGuide": "路由指南",
+      "settings": "设置",
+      "companySettings": "公司设置",
+      "tmsSettings": "经颅磁刺激系统设置",
+      "clientNameGoesHere": "此处显示客户名称",
+      "shipment": "运输",
+      "visibility": "能见度",
+      "claims": "索赔",
+      "freightBill": "运费单",
+      "adminSettings": "管理设置"
+    },
+    "loading": "加载中...",
+    "date": "日期",
+    "captcha": {
+      "placeholder": "输入验证码。",
+      "message": "请输入验证码",
+      "invalid": "无效输入。"
+    },
+    "buttons": {
+      "save": "节省",
+      "cancel": "取消",
+      "rateShop": "评价商店",
+      "delete": "删除",
+      "export": "出口",
+      "clear": "清除",
+      "search": "搜索",
+      "mileageCalculator": "里程计算器",
+      "addProduct": "添加产品",
+      "deleteProduct": "删除产品",
+      "edit": "编辑",
+      "viewMoreStatus": "查看更多状态",
+      "track": "追踪",
+      "add": "添加",
+      "update": "更新",
+      "sendEmail": "发送邮件",
+      "restoreToDefault": "恢复默认值",
+      "clearSelection": "清空选项",
+      "newStatus": "新状态",
+      "select": "选择",
+      "close": "关闭",
+      "exportToExcel": "导出到 Excel",
+      "addPO": "添加采购订单",
+      "addShipper": "添加发货人",
+      "copy": "复制",
+      "closed": "关闭",
+      "updateSelectedRecords": "更新选定的记录",
+      "viewMoreDetails": "查看更多详情",
+      "viewStatus": "查看状态",
+      "download": "下载",
+      "addNewLocation": "地址簿",
+      "addNewZone": "添加新区域",
+      "sendRFI": "发送 RFI",
+      "sendRFQ": "发送询价",
+      "sendRFIRFQ": "发送 RFI",
+      "stops": "停靠点",
+      "hide": "隐藏",
+      "view": "看法",
+      "viewOrderInformation": "查看订单信息"
+    },
+    "documentManager": {
+      "fileUpdatingIssuccess": "文件更新成功。",
+      "title": "文档管理器",
+      "noFoundText": "没有找到记录",
+      "addNewFile": "添加新文件",
+      "addNewLane": "添加新车道",
+      "addNewParameter": "添加新参数",
+      "chooseFile": "选择文件",
+      "fileName": "文件名 ： ",
+      "chooseFileMessage": "请选择一个文件",
+      "docDescMessage": " 已被使用。",
+      "supportingDocumentNumber": "支持文件编号",
+      "only": "仅有的",
+      "filesAreAllowed": "允许文件",
+      "documentTypeMessage": "请选择文档类型",
+      "notificationUploadingFailed": "文件上传失败。",
+      "documentManager": {
+        "label": "文件类型",
+        "placeholder": "选择文档类型",
+        "message": "请选择类型"
+      },
+      "docType": {
+        "label": "文件类型",
+        "placeholder": "选择文档类型",
+        "message": "请选择类型"
+      },
+      "fileComments": {
+        "label": "文件评论",
+        "placeholder": "输入文件注释"
+      },
+      "referenceNo": {
+        "label": "支持文件参考号",
+        "placeholder": "输入支持文件参考号",
+        "title": "参考编号"
+      },
+      "notificationUploadingError": "文件上传成功。",
+      "notificationUploadingSuccess": "文件上传成功",
+      "notificationUpdatingSuccess": "文件更新成功",
+      "notificationDeleteSuccess": "文件删除成功。",
+      "notificationDeleteError": "文件删除失败。"
+    },
+    "popConfirm": {
+      "title": "你确定吗？"
+    },
+    "weekDays": {
+      "sun": "星期日",
+      "mon": "周一",
+      "tue": "周二",
+      "wed": "周三",
+      "thu": "周四",
+      "fri": "星期五",
+      "sat": "周六"
+    },
+    "options": {
+      "and": "和",
+      "all": "全部",
+      "enable": "使能够",
+      "disable": "禁用",
+      "yes": "是的",
+      "no": "不",
+      "cargo": "货物",
+      "passenger": "乘客",
+      "new": "新的",
+      "spotBidEnd": "现货投标结束",
+      "spotBid": "现货投标",
+      "blind": "瞎的",
+      "reverseBlind": "反向盲注",
+      "purchaseOrder": "采购订单",
+      "na": "不适用",
+      "routingGuide": "路线指南",
+      "draftShipment": "草稿装运",
+      "finalShipment": "最终发货",
+      "сurrent": "当前的",
+      "historical": "历史（红色）"
+    },
+    "language": {
+      "en": "英语",
+      "es": "西班牙语",
+      "es-cr": "西班牙语（卡斯蒂利亚语）",
+      "es-mx": "西班牙语（墨西哥）",
+      "it": "意大利语",
+      "ch": "中国人",
+      "zh-tw": "中国人",
+      "fr": "法语",
+      "nl": "荷兰语",
+      "pt": "葡萄牙语",
+      "pt-br": "葡萄牙语（巴西）",
+      "de": "德语",
+      "pl": "抛光",
+      "fi": "芬兰",
+      "ko": "韩国人",
+      "ja": "日本人"
+    },
+    "fields": {
+      "shipmentAdditionalInformation": "货件附加信息",
+      "shipmentInformation": "发货信息",
+      "rateDetails": "费率详情",
+      "selectState": {
+        "label": "选择状态",
+        "placeholder": "选择状态"
+      },
+      "productDetails": "产品详情",
+      "distributor": "经销商",
+      "costName": "费用名称",
+      "tender": "投标",
+      "pending": "待办的",
+      "selectTime": "选择时间",
+      "enter": "进入",
+      "profile": "轮廓",
+      "addressBook": "地址簿",
+      "productCode": {
+        "label": "产品代码",
+        "message": "请输入产品代码",
+        "placeholder": "请输入产品代码",
+        "tooltip": "在产品详细信息手风琴上设置默认产品代码"
+      },
+      "addNewProduct": " 添加新产品",
+      "number": "数字",
+      "code": "代码",
+      "contactNumber": "联系电话",
+      "carrier": "载体",
+      "vendor": "小贩",
+      "popconfirmFreightClass": "您想计算运费舱位吗？",
+      "quoteNo": "报价编号",
+      "approvalNo": "批准文号",
+      "claimType": "索赔类型",
+      "closedDate": "截止日期",
+      "claimStatus": "索赔状态",
+      "amendmentDate": "修订日期",
+      "submittedDate": "提交日期",
+      "submittedBy": "由...所提交",
+      "preparedBy": "编制",
+      "auditedBy": "审核人",
+      "recoveryAmount": "回收金额",
+      "overchargeAmount": "超额收费金额",
+      "packageNumber": "包裹数量",
+      "claimNumber": "索赔号码",
+      "updateDraft": "更新草稿",
+      "saveAsDraft": "保存为草稿",
+      "deleteVendorSuccessfully": "删除供应商成功",
+      "portSearch": "端口搜索",
+      "transportationProviderSearch": "运输提供商搜索",
+      "viewCI": "查看 CI",
+      "viewPL": "查看PL",
+      "viewBOL": "查看玻尔",
+      "viewCOO": "查看首席运营官",
+      "viewShipping": "查看运输",
+      "signature": "签名",
+      "statusType": "状态类型",
+      "updateReceivedEST": "美国东部时间 (EST) 收到更新",
+      "plannedDeliveryDate": "计划交货日期",
+      "plannedShipDate": "计划发货日期",
+      "shipperReqDeliveryDate": "发件人要求的交货日期",
+      "shipperReqShipDate": "发件人请求发货日期",
+      "conReferenceNo": "收货人参考号",
+      "eventOccurrenceLocalTime": "事件发生当地时间",
+      "unitMeasure": "数量计量单位",
+      "displayAllTrackingStatus": "显示所有追踪状态",
+      "itemQuantity": "商品数量",
+      "billQtyUOM": "包装/计费数量计量单位",
+      "quantityUOM": "数量计量单位",
+      "orderQuantity": "订单数量",
+      "mode": "模式",
+      "businessSegment": "业务板块",
+      "poNumber": "订单号",
+      "lineNo": "行号",
+      "itnNumber": "ITN 号码",
+      "distributorName": "经销商名称",
+      "rateStatus": "费率状态",
+      "showAllSpotBidCarrier": "显示所有 SpotBid 运营商",
+      "costCurrency": "成本货币",
+      "cost": "成本",
+      "rateSubmittedOn": "提交率",
+      "partNumberDescription": "零件编号 说明",
+      "salesOrderNumber": "销售订单号",
+      "purchaseOrderNumber": "订购单号码",
+      "displayStopOffs": "显示停止",
+      "freightBillNumber": "货运单号",
+      "transportationProviderAppointmentNumber": "交通提供商预约号码",
+      "masterShipmentNo": "主发货编号",
+      "houseBOLNo": "房屋 BOL 否",
+      "masterBOLNo": "主 BOL 否",
+      "modifiedBy": "修改者",
+      "modifiedOn": "修改于",
+      "printedBillOfLading": "印刷提单",
+      "billOfLanding": "提货单",
+      "billOfLandingContent": "提货单",
+      "countryOdOrigin": "原产地",
+      "dataFetchingError": "数据获取错误",
+      "shipFrom": "发货地",
+      "shipTo": "运送到",
+      "totalMileage": "总里程",
+      "shipmentCost": "运费",
+      "shipmentCounts": "发货数量",
+      "shipmentTransportationProvider": "货运运输提供商",
+      "shipmentCargoType": "快件货物类型",
+      "packageBilledQuantityunitOfMeasure": "包装/计费数量 计量单位",
+      "chargebleWeight": "充电重量",
+      "consigneePortType": "收货人港口类型",
+      "shipmentStatus": "运输状态",
+      "shipmentNotes": "发货单",
+      "shipmentDetails": "物流信息",
+      "shipmentNo": "发货编号",
+      "shipmentDate": "发货日期",
+      "consignee": "收货人",
+      "carrierName": "运营商名称",
+      "billQ": "账单数量",
+      "trailerNumber": "拖车编号：",
+      "sealNumber": "印章号码：",
+      "shipperReferenceNo": "发件人参考号",
+      "email": "电子邮件",
+      "phoneExt": "电话分机",
+      "phone": "电话",
+      "contact": "接触",
+      "zip": "压缩",
+      "name": "姓名",
+      "drop": "降低",
+      "terminal": "终端",
+      "pickUp": "捡起",
+      "fileName": "文件名",
+      "specialInstructions": "特别说明",
+      "specialInstructionsSecondary": "特别说明：",
+      "customerOrderInformation": "客户订单信息",
+      "customerOrderNumber": "客户订单号",
+      "additionalShipperInfo": "其他托运人信息",
+      "carrierInfo": "承运商信息",
+      "additionalUnit": "额外单位",
+      "handlingUnit": "处理单元",
+      "commodityDescription": "商品描述",
+      "commodityText": "在处理或存放时需要特殊或额外小心或注意的商品必须进行标记和包装，以确保在普通护理下安全运输。",
+      "package": "包裹",
+      "weightTable": "重量",
+      "palletSlip": "托盘/滑移",
+      "grandTotal": "累计",
+      "commercialInvoice": "商业发票",
+      "commercialInvoiceContents": "商业发票",
+      "identificationNumber": "身份证号码：",
+      "noteLiability": "注意 本批货物的丢失或损坏的责任限制可能适用。",
+      "received": "已收到，须遵守承运人和托运人之间书面商定的单独确定的费率或合同（如果适用），否则应遵守承运人已制定并应托运人要求提供的费率、分类和规则，",
+      "carrierShall": "在未支付运费和所有其他合法费用的情况下，承运人不得交付该批货物。",
+      "certify": "兹证明上述材料已根据 DOT 的适用规定进行了正确分类、包装、标记和标签，并且处于适合运输的状态。",
+      "classTable": "班级",
+      "type": "类型",
+      "shipperSignatureDate": "托运人签名/日期",
+      "trailerLoaded": "拖车已装载：",
+      "freightCounted": "运费计算：",
+      "freight": "货运：",
+      "byShipper": "按托运人",
+      "byDriver": "由司机",
+      "byDriverPallets": "由司机/托盘据说包含",
+      "byDriverPieces": "按车手/件数",
+      "carrierPickupDate": "承运人签名/提货日期",
+      "carrierAcknowledges": "承运人确认收到包裹和所需的标语牌。",
+      "hazmat": "危险品",
+      "ltlOnly": "仅限零担",
+      "invoiceNumber": "发票号码",
+      "shipperSignature": "托运人签名",
+      "houseBillOfLandingNumber": "房屋提单号码",
+      "billQty": "包装/计费数量",
+      "packageWeight": "包裹重量",
+      "unitOfMeasure": "测量单位",
+      "height": "高度",
+      "width": "宽度",
+      "length": "长度",
+      "currencyCode": "货币代码",
+      "eccnNumber": "ECCN号码",
+      "htcCode": "HTC 代码",
+      "unitPrice": "单价",
+      "totalQuantity": "总数（量",
+      "consigneePortName": "收货人港口名称",
+      "consigneeHoursOfOperations": "收货人营业时间",
+      "consigneeDaysTo": "收货人一周中的天数至",
+      "consigneeDaysFrom": "收货人一周中的天数从",
+      "consigneeAppointmentType": "收货人预约类型",
+      "consigneeWarehouseEmail": "收货人仓库邮箱",
+      "consigneeWarehouseTelephone": "收货人仓库电话",
+      "consigneeWarehouseContact": "收货人仓库联系方式",
+      "shipperPortName": "发货人港口名称",
+      "hoursOfOperations": "营业时间",
+      "warehouseEmail": "仓库邮箱",
+      "warehouseTelephone": "仓库电话",
+      "warehouseContact": "仓库联系方式",
+      "shipperPortType": "发货人港口类型",
+      "countryOfOrigin": "原产地",
+      "hts": "高温超导",
+      "eccn": "电子通讯网络",
+      "coo": "首席运营官",
+      "ciNo": "CI 编号：",
+      "description": "描述",
+      "newShipDate": "新发货日期",
+      "quantityLeft": "剩余数量",
+      "consigneePostal": "收货人邮政",
+      "shipperPostal": "托运人 邮政",
+      "percentageLeft": "剩余百分比",
+      "weight": "重量",
+      "expectedDeliveryDate": "预计交货日期",
+      "destination": "目的地",
+      "origin": "起源",
+      "bolNumber": "提单号码",
+      "comparativeRate": "比较率",
+      "actualCarrierRate": "实际承载率",
+      "bidStatus": "出价状态",
+      "spotBidHistory": "现货投标历史",
+      "allSpotBids": "所有现货投标",
+      "openSpotBids": "公开现货投标",
+      "paymentTerms": "付款条件",
+      "partNumber": "零件号",
+      "povStatus": "观点状态",
+      "orderDeliveryDate": "订单交货日期",
+      "orderShipDate": "订单发货日期",
+      "conStateState": "收货人国家",
+      "consigneeZip": "收货人邮政编码",
+      "shipperState": "托运人国家",
+      "shipperZip": "托运人邮政编码",
+      "orderNumber": "订单号",
+      "transitDays": "过境天数",
+      "transitDaysAreRequired": "需要过境天数",
+      "emailAddress": "电子邮件地址",
+      "currencyName": "货币名称",
+      "price": "价格",
+      "packageQuantity": "包装数量",
+      "packageUOMQuantity": "封装计量单位数量",
+      "weightUOM": "重量单位",
+      "selectWeightUOM": "选择重量计量单位",
+      "totalWeight": "总重量",
+      "totalItemQty": "商品总数",
+      "packageDimensions": "包装尺寸",
+      "consigneeAddress": "收货人地址",
+      "shipperAddress": "发货人地址",
+      "shipperPostalCode": "发货人邮政编码",
+      "pickupDate": "挑个日子",
+      "effectiveDueDate": "有效截止日期",
+      "totalCube": "总立方体",
+      "total": "全部的",
+      "bid": "出价",
+      "open": "打开",
+      "multiStop": "多站",
+      "notes": "笔记",
+      "shipmentCount": "发货数量",
+      "quantityShipped": "发货数量",
+      "daysOfWeek": "一周中的几天",
+      "tenderEmailAddress": "投标邮箱地址",
+      "selectAll": "全选",
+      "spotBid": "现货投标",
+      "mapView": "地图视图",
+      "changesWillBeLost": "更改将会丢失。",
+      "quoteNumber": "报价编号",
+      "failedToExportShipmentDetails": "无法导出货件详细信息。",
+      "createdByFullName": "创建者（全名）",
+      "createByEmailAddress": "创建者（电子邮件地址）",
+      "purchaseOrderNo": "订单编号。",
+      "milageCalculator": "里程计算器",
+      "create": "创造",
+      "reset": "重置",
+      "shipper": "托运人",
+      "totalDistance": "总距离",
+      "attachedDocuments": "附加文件",
+      "print": "打印",
+      "unsavedChanges": "未保存的更改将会丢失。",
+      "alert": "警报",
+      "logout": "登出",
+      "approvalRejectionMessage": "批准/拒绝消息",
+      "validatingPleaseWait": "正在验证，请稍候...",
+      "redirectURL": "重定向的 URL 目前无效，请检查 URL。",
+      "filter": "筛选",
+      "manageCompany": "管理公司",
+      "thePageYouVisitedDoesNotExist": "抱歉，您访问的页面不存在。",
+      "backHome": "回家",
+      "page": "页",
+      "kindlyTryAgain": "请再试一次",
+      "hasBeenCreated": " 已经被创造了。",
+      "toCopyError": "复制项目错误",
+      "shipmentConsolidationFailed": "装运合并失败。",
+      "failedToCopyShipmentNo": "无法复制货件编号",
+      "shipmentDeletedSuccessfully": "货件删除成功。",
+      "shipmentCreatedSuccessfully": "货件创建成功。",
+      "shipmentCreationSuccessfully": "货件创建失败。",
+      "shipmentSend": "现货投标发货成功。",
+      "shipmentSendFailed": "现货投标发货失败。",
+      "bidderAddedSuccessfully": "投标人添加成功。",
+      "failedToAddBidder": "添加投标人失败",
+      "failedToLoadRate": "无法加载商店列表。",
+      "yourSpotBidHasEnded": "成功！",
+      "failedYourSpotBid": "失败的！",
+      "failedToDeleteShipments": "删除发货失败。",
+      "shipmentTenderProcessSuccess": "装运招标流程成功。",
+      "shipmentTenderProcessError": "装运招标流程错误。",
+      "successfullyCalculated": "成功计算新里程",
+      "failedToCalculateTheMileage": "无法计算里程。",
+      "successfullySavedRateShopResults": "已成功保存评价商店结果。",
+      "failedToSaveRateShopResults": "无法保存评价商店结果！",
+      "failedToGetAuditLogs": "获取审核日志失败！",
+      "tmsSettingsSuccessfullySaved": "TMS 设置已成功保存。",
+      "copyProjectSuccessfully": "复制项目成功",
+      "failedToSave": "无法保存 TMS 设置。",
+      "currentlyRatingResults": "目前评级结果还是不可用。",
+      "failedToGetShipment": "获取货件详细信息失败，请稍后重试。",
+      "successfullySavedAddressBook": "成功保存地址簿！",
+      "failedToSaveAddressBook": "保存地址簿失败！",
+      "successfullyDeletedAddressBook": "通讯录删除成功！",
+      "failedToDeleteAddressBook": "删除通讯录失败！",
+      "successfullySavedProduct": "成功保存产品！",
+      "failedToSaveProduct": "保存产品失败！",
+      "failedToGetTracking": "获取追踪失败",
+      "failedToGetExcelData": "获取excel数据失败",
+      "failedToGetExcelDataDetails": "获取excel数据失败详细信息",
+      "documentEmailsSuccessfullySent": "文档电子邮件已成功发送。",
+      "failedToSendDocumentEmail": "发送文档邮件失败！",
+      "documentDownloadedSuccessfully": "文档下载成功",
+      "failedDocumentRequest": "文件请求失败",
+      "updateTheReferenceAndDockNumberSuccess": "更新参考号和码头编号成功",
+      "failedToUpdateTheReferenceAndDockNumber": "无法更新参考号和码头编号！",
+      "successfullySavedITrackDetails": "已成功保存 iTrack 详细信息。",
+      "failedToSaveITrackDetails": "无法保存 iTrack 详细信息！",
+      "updateShipmentNoteSuccess": "更新发货单成功",
+      "failedToUpdateShipmentNote": "更新发货单失败！",
+      "failedToUpdateShipmentDetails": "无法更新发货详细信息！",
+      "updatedShipmentDetailsSuccessfully": "已成功更新货件详细信息",
+      "successfullyDeletedDistributorDetails": "已成功删除经销商详细信息。",
+      "failedToDeleteDistributorDetails": "无法删除经销商详细信息。",
+      "successfullyDeletedRoutingDetails": "已成功删除路由详细信息。",
+      "failedToDeleteRoutingDetails": "删除路由详细信息失败。",
+      "currentlyNotAbleToGet": "目前无法获取通讯录数据，请稍后重试。",
+      "successfullySavedTheQuoted": "已成功保存报价的货件详细信息以及货件编号：",
+      "failedSaveTheQuoteShipmentDetails": "保存报价发货详细信息失败！",
+      "theUpdatingDataAreInvalid": "更新数据无效",
+      "successfullyUpdatedTheAccounting": "已成功更新会计",
+      "successfullyUpdatedTheAccountingDetails": "已成功更新会计详细信息",
+      "failedToSaveAccounting": "保存会计失败",
+      "failedToSaveAccountingDetails": "无法保存会计详细信息",
+      "shipmentHasBeenCreatedSuccessfullyWith": "货件已成功创建，货件编号：",
+      "failedCreateShipment": "创建货件失败。",
+      "failedToGetMilageDetails": "获取里程详情失败！",
+      "failedToGetRatesData": "获取费率数据失败！",
+      "failedToValidateApproval": "无法验证批准。",
+      "failedToGetApproversList": "无法获取批准者列表。",
+      "somethingWentWrong": "出了些问题！",
+      "shippingLabelHasBeenCreatedSuccessfully": "发货标签已成功创建，发货编号为：",
+      "failedToCreateShippingLabel": "创建运输标签失败！，请验证您的信息并重试！",
+      "newChildShipmentIsCreated": "创建新的子货件，批准号：",
+      "successfullySentTheApprovalRequestToTheCustomers": "已成功向客户发送批准请求。",
+      "failedToSendTheApprovalRequest": "无法发送批准请求！",
+      "successfullyAssignedTheTransportationProvider": "已成功分配运输提供商。",
+      "failedToAssignTheTransportationProvider": "无法分配运输提供商。",
+      "successfullyAddedRateEntry": "已成功添加费率条目。",
+      "failedToAddRateEntry": "添加费率条目失败。",
+      "failedToValidateRateEntry": "无法验证汇率条目。",
+      "successfullyDeletedRateEntry": "已成功删除费率条目。",
+      "failedToRemoveRateEntry": "无法删除费率条目。",
+      "failedToGetMasterChilde": "无法获取主/子货件详细信息！",
+      "successfullyUpdatedRateEntry": "已成功更新费率条目。",
+      "failedToUpdateRateEntry": "无法更新费率条目。",
+      "successfullySavedAsShipment": "已成功保存为发货",
+      "failedToSaveAsShipment": "保存为发货失败！",
+      "failedToGetBranchAddress": "获取分行地址失败。",
+      "failedToGetShipmentsStopsDetails": "无法获取发货站点详细信息！",
+      "packingList": "包装清单",
+      "packingListContents": "包装清单",
+      "billTo": "记账到",
+      "vendorAdress": "供应商地址",
+      "supplierAddress": "供应商地址",
+      "packageQty": "包装数量",
+      "customRelease": "海关放行参考：",
+      "referenceDate": "参考日期：",
+      "releaseDate": "发布日期：",
+      "soldTo": "卖给",
+      "legalText": "法律文本。",
+      "totalInvoice": "发票总金额：",
+      "insurance": "保险：",
+      "invoiceLine": "发票行总计：",
+      "totalAmount": "总金额",
+      "license": "执照",
+      "htsCode": "高温超导代码",
+      "totals": "总计",
+      "generatedPackingList": "成功生成装箱单文件。",
+      "generateAllSupporting": "生成所有支持文件",
+      "sendCopyTo": "将副本发送至：",
+      "myEmailAddress": "我的电子邮箱",
+      "otherEmailAddress": "其他电子邮件地址",
+      "typeEmailComma": "输入电子邮件地址，以逗号分隔",
+      "successfullyLadingPDF": "成功生成提单 PDF 文件。",
+      "failedBillLadingPDFFile": "无法生成提单 PDF 文件。",
+      "commoditiesRequiring": "在处理或存放时需要特殊或额外小心或注意的商品必须进行标记和包装，以确保在普通护理下安全运输",
+      "whereTheRate": "如果费率取决于价值，托运人必须以书面形式具体说明财产的约定或声明价值，如下：",
+      "agreedOrDeclared": "托运人明确规定财产的约定或申报价值不超过",
+      "cid": "来电显示",
+      "emailID": "电子邮件ID",
+      "modal": {
+        "label": "改变就会丢失！",
+        "labelTwo": "确定删除吗？",
+        "okText": "好的"
+      },
+      "shipmentsByServiceType": "按服务类型划分的发货量",
+      "startDateAndTime": "开始日期和时间",
+      "updateShipmentSummary": "更新发货摘要",
+      "pleaseSelectAnyItem": "请选择任意项目。",
+      "pleaseEnterPackageWeight": "请输入包裹重量",
+      "location": {
+        "label": "地点",
+        "message": "请输入位置",
+        "messageMax": "位置不应超过 13 个字符。"
+      },
+      "contactEmailAddress": {
+        "label": "联系邮箱地址"
+      },
+      "portCode": {
+        "label": "港口代码",
+        "placeholderSelect": "选择端口代码",
+        "placeholderEnter": "输入端口代码"
+      },
+      "customer": {
+        "label": "顾客",
+        "message": "请选择一位客户"
+      },
+      "scac": {
+        "label": "SCAC",
+        "placeholder": "进入SCAC"
+      },
+      "shipDate": {
+        "label": "发货日期",
+        "message": "请选择发货日期"
+      },
+      "deleteConfirm": {
+        "title": "您确定要删除吗？"
+      },
+      "internalNotes": {
+        "label": "内部注释",
+        "placeholder": "输入内部注释"
+      },
+      "pickUpReference": {
+        "label": "拾取参考",
+        "message": "请输入提货参考号"
+      },
+      "dimUnitOfMeasure": {
+        "label": "DIM 测量单位",
+        "message": "请选择计量单位"
+      },
+      "packageType": {
+        "label": "包装类型",
+        "message": "请选择套餐类型"
+      },
+      "packageID": {
+        "label": "封装ID",
+        "placeholder": "输入包裹 ID"
+      },
+      "quantity": {
+        "label": "数量",
+        "placeholder": "输入数量",
+        "message": "请输入数量",
+        "error": "数量至少应为 1",
+        "number": "数量必须是数字。"
+      },
+      "receiptNumber": {
+        "label": "选择收据号码",
+        "placeholder": "收据号"
+      },
+      "cube": {
+        "label": "立方体",
+        "placeholder": "进入立方体",
+        "message": "请输入立方体",
+        "errorNegative": "立方体不能有负值"
+      },
+      "expectedShipDate": {
+        "label": "预计发货日期"
+      },
+      "productDesc": {
+        "label": "产品描述",
+        "placeholder": "选择产品代码",
+        "message": "请选择产品代码",
+        "enter": "请输入产品描述",
+        "tooltip": "在产品详细信息手风琴上设置默认产品描述"
+      },
+      "lineNumber": {
+        "label": "电话号码"
+      },
+      "incoTerm": {
+        "label": "国际贸易术语",
+        "placeholder": "选择国际贸易术语解释通则",
+        "tooltip": "在装运模块中预设 IncoTerm。"
+      },
+      "consigneeCity": {
+        "label": "收货人城市",
+        "placeholder": "选择收货人城市"
+      },
+      "consigneeState": {
+        "label": "收货人所在州/省",
+        "placeholder": "选择收货人州/省"
+      },
+      "consigneePostalCode": {
+        "label": "收货人邮政编码"
+      },
+      "consigneeCountry": {
+        "label": "收货人国家",
+        "placeholder": "选择收货人国家/地区"
+      },
+      "consigneeName": {
+        "label": "收货人姓名",
+        "placeholder": "选择收货人姓名",
+        "message": "请选择收货人姓名"
+      },
+      "shipperCity": {
+        "label": "发货城市",
+        "placeholder": "选择发货城市",
+        "message": "请输入发货城市"
+      },
+      "shipperStateProvince": {
+        "label": "发货人所在州/省",
+        "placeholder": "选择发件人州/省"
+      },
+      "shipperCountry": {
+        "label": "发货人国家/地区",
+        "placeholder": "选择发件人国家/地区",
+        "message": "请选择发件人国家/地区"
+      },
+      "deliveryDate": {
+        "label": "交货日期",
+        "message": "请选择交货日期"
+      },
+      "freightClass": {
+        "label": "货运舱位",
+        "placeholder": "请选择货运舱位",
+        "tooltip": "在产品详细信息手风琴上设置默认货运等级"
+      },
+      "shipmentNumber": {
+        "label": "物流编号",
+        "placeholder": "输入发货单号"
+      },
+      "shipmentTerms": {
+        "label": "装运条款",
+        "message": "请选择运输条款",
+        "option_c": "收集",
+        "option_p": "预付费",
+        "option_t": "第三者",
+        "placeholder": "选择运输条款",
+        "tooltip": "设置货件的默认货件条款"
+      },
+      "transportationProvider": {
+        "label": "运输供应商",
+        "selectPlaceholder": "选择交通提供商",
+        "message": "需要运输提供商",
+        "select": "请选择交通提供商",
+        "email": "电子邮件已成功发送给运输提供商",
+        "emailError": "向运输提供商发送电子邮件失败"
+      },
+      "vendorName": {
+        "label": "供应商名称",
+        "placeholder": "选择供应商名称",
+        "message": "请选择供应商"
+      },
+      "companyName": {
+        "label": "公司名称",
+        "placeholder": "输入公司名称",
+        "selectPlaceholder": "选择公司名称",
+        "message": "请输入公司名称"
+      },
+      "companyAddress": {
+        "label": "公司地址",
+        "placeholder": "输入公司地址",
+        "message": "请输入公司地址"
+      },
+      "country": {
+        "label": "国家",
+        "placeholder": "选择国家",
+        "message": "请选择国家"
+      },
+      "address": {
+        "label": "地址",
+        "message": "请输入地址"
+      },
+      "postalCode": {
+        "label": "邮政编码",
+        "placeholder": "输入邮政编码",
+        "selectPlaceholder": "选择邮政编码",
+        "message": "请输入邮政编码",
+        "selectMessage": "请选择邮政编码",
+        "error": "输入的邮政地址无效或无法在所选国家/地区找到！",
+        "invalid": "邮政编码无效！",
+        "zip": "请输入邮编",
+        "zipPostal": "邮编/邮政编码",
+        "enter": "请输入邮政编码。"
+      },
+      "stateProvince": {
+        "label": "州/省",
+        "placeholder": "选择州/省",
+        "message": "请选择州/省"
+      },
+      "from": {
+        "label": "从",
+        "placeholder": "选择日期"
+      },
+      "to": {
+        "label": "到",
+        "placeholder": "选择日期"
+      },
+      "city": {
+        "label": "城市",
+        "placeholder": "选择城市",
+        "message": "请输入城市",
+        "enter": "输入城市",
+        "select": "请选择一个城市"
+      },
+      "state": {
+        "label": "状态",
+        "message": "请选择一个州",
+        "placeholder": "选择一个州",
+        "city": "城市"
+      },
+      "contactName": {
+        "label": "联系人姓名",
+        "message": "请输入联系人姓名"
+      },
+      "contactEmail": {
+        "label": "联系电子邮件",
+        "required": "请输入联系邮箱",
+        "message": "输入的值不是电子邮件格式！"
+      },
+      "containerNumber": {
+        "label": "集装箱号"
+      },
+      "trackingNumber": {
+        "label": "追踪号码",
+        "placeholder": "输入追踪号码"
+      },
+      "createdOn": {
+        "title": "创建于",
+        "placeholder": "选择日期",
+        "shipmentCreatedOn": "货件创建于"
+      },
+      "branch": {
+        "label": "分支",
+        "message": "请选择分行",
+        "placeholder": "选择分行"
+      },
+      "sortBy": {
+        "label": "排序方式",
+        "select": "选择排序方式"
+      },
+      "reason": {
+        "label": "原因",
+        "placeholder": "选择原因",
+        "message": "请选择一个原因"
+      },
+      "shipmentType": {
+        "placeholder": "选择货件类型",
+        "label": "发货类型",
+        "message": "请选择货件类型"
+      },
+      "accessorial": {
+        "label": "配件",
+        "placeholder": "选择配件"
+      },
+      "product": {
+        "label": "产品",
+        "placeholder": "选择产品"
+      },
+      "locationID": {
+        "label": "位置ID",
+        "placeholder": "选择位置 ID"
+      },
+      "serviceLevel": {
+        "label": "服务水平",
+        "placeholder": "选择服务级别"
+      },
+      "appointmentType": {
+        "label": "预约类型",
+        "placeholder": "选择预约类型",
+        "message": "请输入预约类型",
+        "choose": "请选择预约类型。"
+      },
+      "cargoType": {
+        "label": "货物类型",
+        "placeholder": "选择货物类型",
+        "message": "请选择货物类型",
+        "required": "货物类型为必填项"
+      },
+      "accountNumber": {
+        "label": "帐号",
+        "placeholder": "选择帐号",
+        "message": "请输入帐号",
+        "select": "请选择账号"
+      },
+      "shipmentBranch": {
+        "label": "出货分公司",
+        "placeholder": "选择发货分公司",
+        "message": "请选择货运分公司"
+      },
+      "portName": {
+        "label": "端口名称",
+        "placeholder": "搜索端口名称",
+        "select": "选择端口名称",
+        "message": "请选择端口名称",
+        "enter": "输入端口名称"
+      },
+      "currency": {
+        "label": "货币",
+        "placeholder": "选择货币",
+        "message": "货币为必填项"
+      },
+      "customerName": {
+        "label": "顾客姓名",
+        "placeholder": "选择客户名称",
+        "placeholderEnter": "请选择客户名称"
+      },
+      "equipmentType": {
+        "label": "设备类型",
+        "placeholder": "选择设备类型",
+        "message": "设备类型为必填项"
+      },
+      "linerType": {
+        "label": "内衬类型",
+        "placeholder": "选择衬管类型"
+      },
+      "measurementUit": {
+        "label": "测量单位",
+        "placeholder": "选择测量单位"
+      },
+      "packageLoadType": {
+        "label": "包裹装载类型",
+        "placeholder": "选择包裹装载类型",
+        "message": "请选择包裹装载类型"
+      },
+      "palletLoadType": {
+        "label": "托盘装载类型",
+        "placeholder": "选择托盘装载类型",
+        "option": "可堆叠",
+        "optionNon": "不可堆叠"
+      },
+      "paymentType": {
+        "label": "付款方式",
+        "placeholder": "选择付款方式"
+      },
+      "portType": {
+        "label": "端口类型",
+        "placeholder": "选择端口类型",
+        "search": "搜索端口类型",
+        "message": "请选择端口类型"
+      },
+      "pricingBasis": {
+        "label": "定价依据",
+        "placeholder": "选择定价基础"
+      },
+      "pricingType": {
+        "label": "定价类型",
+        "placeholder": "选择定价类型",
+        "message": "请选择定价类型"
+      },
+      "unitOfMeasurement": {
+        "label": "测量单位",
+        "placeholder": "选择测量单位"
+      },
+      "projectName": {
+        "label": "项目名",
+        "placeholder": "选择项目名称",
+        "messageError": "请输入项目名称",
+        "messageExist": "项目名称已存在！"
+      },
+      "poStatus": {
+        "label": "采购订单状态",
+        "placeholder": "选择采购订单状态",
+        "option_o": "打开",
+        "option_c": "完全的",
+        "option_d": "已删除"
+      },
+      "ratingPreferences": {
+        "label": "评级偏好",
+        "placeholder": "选择评级首选项"
+      },
+      "category": {
+        "label": "类别",
+        "placeholder": "选择类别"
+      },
+      "categoryType": {
+        "label": "类别类型",
+        "placeholder": "选择类别类型",
+        "message": "请选择类别类型"
+      },
+      "userName": {
+        "label": "用户名",
+        "placeholder": "选择用户名",
+        "message": "请选择用户名"
+      },
+      "shipmentCreatedBy": {
+        "email": "选择电子邮件"
+      },
+      "shipperName": {
+        "label": "发货人名称",
+        "placeholder": "选择发件人名称",
+        "message": "请选择发件人名称"
+      },
+      "exceptionType": {
+        "label": "异常类型",
+        "placeholder": "选择异常类型"
+      },
+      "status": {
+        "label": "地位",
+        "placeholder": "选择状态",
+        "message": "请选择状态"
+      },
+      "locationType": {
+        "label": "位置类型",
+        "placeholder": "选择位置类型"
+      },
+      "class": {
+        "label": "班级",
+        "placeholder": "选择班级"
+      },
+      "hazmatClass": {
+        "label": "危险品等级",
+        "placeholder": "选择危险品类别"
+      },
+      "routingType": {
+        "label": "路由类型",
+        "placeholder": "选择路由类型"
+      },
+      "hours": {
+        "label": "小时",
+        "placeholder": "选择时间",
+        "message": "选择时间"
+      },
+      "supplier": {
+        "label": "供应商",
+        "placeholder": "选择供应商"
+      },
+      "taxType": {
+        "label": "税种",
+        "placeholder": "选择税种"
+      },
+      "tenderName": {
+        "label": "招标名称",
+        "placeholder": "选择投标名称"
+      },
+      "timeZone": {
+        "label": "时区",
+        "placeholder": "选择时区",
+        "message": "请选择营业时间"
+      },
+      "userType": {
+        "label": "用户类型",
+        "placeholder": "选择用户类型",
+        "enter": "请输入用户类型。"
+      },
+      "weightMeasurement": {
+        "label": "重量测量",
+        "placeholder": "选择体重测量"
+      },
+      "authorisedSignature": "授权签名",
+      "company": "公司",
+      "title": "标题",
+      "telephoneNumber": "电话号码"
+    },
+    "notification": {
+      "messages": "留言",
+      "recentActivities": "最近的活动",
+      "errorMessages": "错误信息",
+      "failedUpdateClaimsDetails": "无法更新索赔详细信息",
+      "sessionExpired": "会话已过期！，请重新登录。",
+      "failedTrackingDetails": "无法获取追踪详细信息",
+      "failedCarrierDetails": "无法获取运营商详细信息。",
+      "shipmentCancelled": "发货已成功取消",
+      "timeoutIssue": "超时问题",
+      "parcelExpressSaga": "包裹快递传奇",
+      "failedToGetData": "获取数据失败！",
+      "routingDetails": "路线详情",
+      "failedTo": "失败",
+      "distributorDetails": "经销商详情",
+      "updated": "更新",
+      "created": "已创建",
+      "successfully": "成功地",
+      "successfullyUpdated": "成功更新",
+      "errorWithCode0": "代码错误 0",
+      "shipmentsFollowing": "发货与以下发货编号合并：",
+      "successfullyCopied": "已成功复制",
+      "failed": "失败的",
+      "success": "成功",
+      "copyTender": "复制投标成功",
+      "copyTenderError": "复制投标错误",
+      "purchaseOrderCreated": "确认采购订单已成功创建",
+      "claimsDetailsFailed": "无法获取理赔详情",
+      "claimsDeletedFailed": "无法删除声明。",
+      "claimsDeleted": "声明已成功删除。",
+      "failedShippingLabelPDF": "无法生成运输标签 PDF 文件。",
+      "failedGgeneratePDF": "生成 PDF 失败",
+      "shippingLabelPDF": "成功生成运输标签 PDF 文件。",
+      "carrierDataFailed": "数据承载失败。",
+      "portDataFailed": "无法移植数据。",
+      "postalDataFailed": "无法发送数据。",
+      "userProfileImage": "用户个人资料图片已更新",
+      "shipmentStatusFailed": "无法查询发货状态！",
+      "userPreferenceFailed": "无法获取用户偏好",
+      "preferenceUpdatedFailed": "无法更新偏好设置",
+      "preferenceUpdated": "偏好设置已成功更新",
+      "passwordUpdatedFailed": "更新密码失败",
+      "passwordUpdated": "密码已成功更新",
+      "userProfileUpdated": "用户个人资料已更新",
+      "bidSubmitted": "投标已成功提交。",
+      "bidNotSubmitted.": "投标尚未提交。",
+      "email": "输入有效的邮箱。",
+      "numeric": "请仅输入数字",
+      "problemWithDownloading": "下载有问题！",
+      "emptyList": "空列表",
+      "leastOneItem": "请至少输入一项才能继续。",
+      "emptySelect": "搜索某些内容以获取数据...",
+      "noRecondfound": "没有找到记录。",
+      "itSeems": "它似乎",
+      "trackingNumber": " 不是有效的追踪号码",
+      "successfulyGeneratedCommercial": "成功生成商业发票文件。",
+      "failedToGenerateCommercialInvoiceFile.": "无法生成商业发票文件。",
+      "COOPDF": "成功生成 COO PDF 文件。",
+      "failedCOOPDF": "无法生成 COO PDF 文件。"
+    },
+    "emptyRecords": {
+      "title": "请尝试调整过滤器。",
+      "descriptionOne": "没有基于您输入的详细信息的数据。",
+      "descriptionTwo": "请尝试调整过滤器。"
+    }
+  },
+  "parcelExpress": {
+    "serviceType": "服务类型",
+    "transitTime": "运输时间（天）",
+    "billingWeight": "计费重量",
+    "charges": "收费",
+    "action": "行动",
+    "baseCharges": "基本费用",
+    "totalSurcharges": "附加费总计",
+    "totalDiscount": "总折扣",
+    "netCharges": "净费用",
+    "savePrintLabel": "节省",
+    "note": "笔记",
+    "severity": "严重性",
+    "alertMessage": "警报信息",
+    "triggerNotification": {
+      "default": "请选择运营商以获取费率。",
+      "packages": "包裹已空，请至少购买 1 个包裹重试！",
+      "reject": "未选择运营商",
+      "packagesReject": "包裹是空的！"
+    },
+    "titles": {
+      "parcelExpress": "包裹快递",
+      "shipmentInformation": "发货信息",
+      "shipmentsByService": "按服务类型划分的发货量",
+      "originDestinationInformation": "出发地/目的地信息",
+      "packageDetails": "套餐详情",
+      "additionalServices": "额外服务",
+      "total": "今年总支出",
+      "service": "服务失败"
+    },
+    "buttons": {
+      "addPackage": "添加套餐",
+      "deletePackage": "删除包"
+    },
+    "locationForm": {
+      "datePickerMessage": "请选择发货日期",
+      "countryCallingCode": {
+        "label": "国家/地区电话代码"
+      },
+      "number": {
+        "required": "请输入联系电话",
+        "number_error": "联系电话只能是数字！",
+        "digits_error": "联系电话只能是10位数字！"
+      },
+      "ext": "分机"
+    },
+    "packageForm": {
+      "itemNo": "编号",
+      "noOfPackages": {
+        "label": "包装数量",
+        "message": "请输入包裹数量"
+      },
+      "chargeableWeight": {
+        "label": "计费重量",
+        "message": "请输入计费重量"
+      },
+      "unit": {
+        "label": "单元",
+        "message": "请选择单位UOM",
+        "dimension_message": "请选择尺寸计量单位"
+      },
+      "length": {
+        "message": "请输入长度"
+      },
+      "width": {
+        "message": "请输入宽度"
+      },
+      "height": {
+        "message": "请输入高度"
+      }
+    },
+    "additionalForm": {
+      "residentialDelivery": "住宅配送",
+      "insurance": "保险",
+      "declaredValue": {
+        "label": "申报价值",
+        "placeholder": "输入申报价值"
+      }
+    },
+    "serviceBarChart": "服务",
+    "totalSpend": " 今年交通提供商的总支出"
+  },
+  "visibility": {
+    "filters": {
+      "titles": {
+        "shipmentSearch": "快件查询",
+        "byOrigin": "按起运地和目的地搜索货件",
+        "byOrder": "按订单详细信息搜索货件"
+      },
+      "shipmentSearch": {
+        "shipmentType": {
+          "label": "发货类型",
+          "optionOpen": "打开",
+          "optionClosed": "关闭"
+        },
+        "pickupDate": {
+          "title": "挑个日子",
+          "placeholder": "选择日期"
+        },
+        "itnNumber": {
+          "label": "ITN/ISF/AES 号码"
+        }
+      }
+    },
+    "header": {
+      "title": "能见度",
+      "errorNotification": "发送文档电子邮件失败！",
+      "downloadLabel": "下载PDF",
+      "printLabel": "打印 PDF",
+      "emailLabel": "电子邮件 PDF",
+      "sendEmailTitle": "发送电子邮件给运输提供商",
+      "sendEmailSubtitle": "跟踪详细信息 ",
+      "documents": "文件",
+      "sendEmailSubject": {
+        "label": "主题"
+      },
+      "sendEmailAddress": {
+        "placeholder": "电子邮件地址*",
+        "errorMessage": "请输入电子邮件地址。"
+      },
+      "sendEmailComments": {
+        "label": "评论",
+        "placeholder": "评论"
+      },
+      "notificationSendEmailError": "发送文档电子邮件失败！",
+      "exportForm": {
+        "title": "能见度信息",
+        "createOn": "创建于",
+        "exportExcel": "可见性导出 Excel"
+      },
+      "exportPDF": {
+        "shipment": {
+          "title": "物流信息",
+          "transitServiceStandard": "中转服务标准： ",
+          "actualTransitDays": " 实际运输天数： ",
+          "shipmentIdentifier": "货件标识符： ",
+          "billOfLadingNumber": "提单号码： ",
+          "flightVoyageNumber": "航班/航次： ",
+          "expShipDate": "到期发货日期： ",
+          "vessel": "血管： ",
+          "xpDeliveryDate": "到期交货日期： ",
+          "sealNumber": "封条码： ",
+          "vendorName": "供应商名称： ",
+          "itNisFaeSNo": "ITN/ISF/AES 编号： ",
+          "carrierName": "运营商名称： ",
+          "shipmentNote": "发货备注： ",
+          "po": "采购订单 "
+        },
+        "product": {
+          "title": "产品信息",
+          "productDescription": " 产品描述",
+          "billedQty": "计费数量",
+          "l": "L",
+          "w": "瓦",
+          "h": "H",
+          "dimUOM": "暗淡计量单位",
+          "soNumber": "SO 编号"
+        },
+        "shipper": {
+          "title": "发货人信息",
+          "address1": "地址1",
+          "address2": "地址2",
+          "postal": "邮政",
+          "contact": "联系人姓名/电话",
+          "appointmentNumber": "预约号码",
+          "dockNumber": "码头号码"
+        },
+        "consignee": {
+          "title": "收货人信息",
+          "address1": "地址1",
+          "address2": "地址2",
+          "postal": "邮政",
+          "contact": " 联系人姓名/电话",
+          "appointmentNumber": " 预约号码",
+          "dockNumber": "码头号码",
+          "totalPalletCount": "托盘总数"
+        },
+        "tracking": {
+          "title": "追踪状态详细信息",
+          "date": "状态日期/时间",
+          "location": "地点",
+          "etaDate": "预计日期"
+        }
+      },
+      "visibilityExport": "可见性导出"
+    },
+    "minCard": {
+      "trackingStatusType": "追踪状态类型",
+      "shipDate": "发件人要求的发货日期"
+    },
+    "detailCard": {
+      "tabs": {
+        "general": "一般的",
+        "tracking": "追踪状态详细信息",
+        "details": "细节",
+        "productInfo": "产品信息"
+      },
+      "generalTab": {
+        "title": "一般的",
+        "shipmentDetail": "发货详情",
+        "shipmentMode": "发货方式",
+        "multiShop": "多店",
+        "shipperDetails": "托运人详细信息",
+        "shipperContact": "托运人联系方式",
+        "appointmentNo": "预约号码",
+        "dockNo": "码头号码/确认号码",
+        "consigneeDetails": "收货人详情",
+        "consigneeContact": "收货人联系方式",
+        "shipmentLocation": "发货地点",
+        "trackingDetails": "追踪详情",
+        "trackingStatus": "追踪状态",
+        "trackingStatusType": "追踪状态类型",
+        "transporterPlannedShipDate": "运输商计划发货日期",
+        "transporterPlannedDeliveryDate": "运输商计划交货日期",
+        "eventOccurrence": "事件发生日期和时间",
+        "shipperRequestedShipDate": "发件人要求的发货日期",
+        "shipmentDetails": "物流信息",
+        "shipperRequstedShipDate": "发件人要求的发货日期",
+        "shipperRequstedDeliveryDate": "发件人要求的交货日期",
+        "eventOccurrenceDate": " 事件发生日期和时间"
+      },
+      "notesTab": {
+        "createdBy": "由...制作 ：",
+        "createdOn": "创建于 ：",
+        "editedBy": "编辑者：",
+        "editedOn": "编辑于："
+      },
+      "detailsTab": {
+        "title": "细节",
+        "portOfOrigin": "始发港",
+        "portOfDischarge": "卸货港",
+        "houseBill": "房屋提单号码",
+        "actualTransitDays": "实际运输天数",
+        "interlineRoutingSequence": "联运路由顺序",
+        "interlineSCAC": "联运SCAC",
+        "vessel": "血管",
+        "flightVoyageNumber": "航班/航次",
+        "sealNumber": "封条码",
+        "itNisFaeSNumber": "ITN/ISF/AES 号码"
+      },
+      "productInfoTab": {
+        "title": "产品信息",
+        "productCode": "产品代码 ：",
+        "productDescription": "产品描述",
+        "grossWeight": "总重量"
+      },
+      "fileDetailsTab": {
+        "fileComments": {
+          "label": "文件评论",
+          "placeholder": "文件评论"
+        },
+        "referenceNo": {
+          "label": "支持文件参考号",
+          "placeholder": "支持文件参考号"
+        }
+      }
+    },
+    "footer": {
+      "totalShipments": "总出货量",
+      "openShipments": "开放发货",
+      "closedShipments": "已关闭的发货",
+      "exceptions": "例外情况"
+    },
+    "trackingStatusInfo": {
+      "trackingStatus": {
+        "label": "追踪状态",
+        "placeholder": "选择追踪状态",
+        "message": "请选择追踪状态"
+      },
+      "trackingStatusType": {
+        "label": "追踪状态类型",
+        "placeholder": "选择跟踪状态类型"
+      }
+    },
+    "containerNumbershouldbe": " 不是集装箱号，应该是XXXU1234567",
+    "youOnlyhave": "你只有",
+    "charactersRequired": " 但至少需要 5 个字符",
+    "invalidProvider": "无效的提供商"
+  },
+  "shipmentAdd": {
+    "totalPieces": "总件",
+    "consolidate": "巩固",
+    "shipmentToDisplayOnMap": "在地图上显示的货件",
+    "productRepository": {
+      "title": "添加到产品存储库",
+      "description": "您希望将此产品存储在产品存储库中吗？"
+    },
+    "titles": {
+      "details": "物流信息",
+      "transportation": "交通详情",
+      "vendor": "供应商详情",
+      "bill": "记账到",
+      "category": "类别详情",
+      "accounting": "附属品和税收"
+    },
+    "notifications": {
+      "barcodeElementNotfound": "未找到条形码元素",
+      "generatedBarcodeOnly": "仅生成条形码",
+      "costIsRequired": "需要费用",
+      "standardTransitDaysIsRequired": "需要标准运输天数",
+      "pickupDeliveryLocations": "货件运输应至少有一个取货和送货地点。",
+      "pickupLocation": "货件运输应至少有一个提货地点。",
+      "minimumDeliveryLocation": "货物运输应至少有一个交货地点。",
+      "productRequired": "产品详细信息至少需要一件产品。",
+      "fixAccountingSection": "请修复会计部分中的验证问题。"
+    },
+    "shipmentScreen": {
+      "checkingApproval": "检查发货审批流程...",
+      "approvalNumber": "批准文号",
+      "masterShipment": "主发货"
+    },
+    "shipmentDetails": {
+      "rateShopResults": "评价商店结果",
+      "iTrack": "iTrack",
+      "trackingDetails": "追踪详情",
+      "warningModalInternalTracking": "目前此记录不存在跟踪数据。",
+      "emptyRecords": "请耐心等待运营商的更新。",
+      "checking": "检查 PO、SO 和 PaidBy 可见性...",
+      "freightBillProNumber": {
+        "label": "货运单/专业编号"
+      },
+      "masterBillOfLandingNumber": {
+        "label": "主提单号码"
+      },
+      "purchaseOrders": {
+        "label": "订单",
+        "message": "请输入采购订单！"
+      },
+      "salesOrders": {
+        "label": "销售订单"
+      },
+      "paidBy": {
+        "label": "由...支付",
+        "placeholder": "选择 A 付款人"
+      },
+      "amount": {
+        "label": "数量",
+        "placeholder": "数量"
+      },
+      "paidPercentage": {
+        "label": "付费百分比：",
+        "placeholder": "百分比"
+      },
+      "of": {
+        "placeholder": "％ 的"
+      },
+      "freeOnBoard": {
+        "label": "免费董事会",
+        "placeholder": "选择船上免费"
+      },
+      "customerAccountNumber": {
+        "label": "客户帐号"
+      },
+      "incotermNamedPlace": {
+        "label": "国际贸易术语命名地点"
+      }
+    },
+    "transportationDetails": {
+      "addingNewStopIs": "添加新站点是",
+      "modifyingStopIs": "修改停止是",
+      "deletingStopIs": "删除停靠站是",
+      "trackContainer": "轨道集装箱",
+      "shipmentCity": "发货城市",
+      "shipmentStateProvince": "发货州/省",
+      "shipmentCountry": "发货国家",
+      "receivedDateEST": "收到的日期",
+      "selectDate": "选择日期",
+      "eventOccurrenceDateLocal": "当地事件发生日期和时间",
+      "transporterRequestedDeliveryDate": "运输商要求的交货日期",
+      "transporterRequestedShipDate": "运输商要求的发货日期",
+      "shipperRequestedDeliveryDate": "发件人要求的交货日期",
+      "shipperRequestedShipDate": "发件人要求的发货日期",
+      "transportationProviderReferenceNo": "运输提供商参考号",
+      "actual": "实际的",
+      "dateTime": "日期",
+      "requestedDateTime": "申请日期",
+      "appointmentDateTime": "约会日期",
+      "delivery": "送货",
+      "totalMiles": "总里程",
+      "addStops": "添加停靠点",
+      "addressBookDescription": "您希望将此地址存储在地址簿中吗？",
+      "addToAddressBook": "加至地址簿",
+      "number": {
+        "placeholder": "数字"
+      },
+      "ext": {
+        "placeholder": "分机"
+      },
+      "stopType": {
+        "label": "停止类型",
+        "placeholder": "选择停止类型",
+        "message": "请选择停止类型"
+      },
+      "stopNo": {
+        "label": "停靠站号",
+        "placeholder": "选择停靠站号",
+        "message": "请选择A站地点"
+      },
+      "appointmentNumber": {
+        "label": "预约号码",
+        "placeholder": "输入预约号码"
+      },
+      "dockConfirmationNumber": {
+        "label": "码头/确认号码"
+      },
+      "taxIdVat": {
+        "label": "税号/增值税"
+      }
+    },
+    "productDetails": {
+      "freightClassCalculator": "货运舱位计算器",
+      "copyLastProduct": "复制最后的产品详细信息条目",
+      "createNewProduct": "创造新产品",
+      "chargeableWeight": {
+        "label": "计费重量",
+        "message": "请输入计费重量",
+        "error": "计费重量必须是数字。",
+        "minError": "计费重量至少应为 1"
+      },
+      "packageBilledQuantity": {
+        "message": "请输入包裹/计费数量",
+        "error": "包裹/计费数量必须是数字。",
+        "minError": "包裹/计费数量应至少为 1"
+      },
+      "length": {
+        "message": "请输入长度",
+        "error": "长度必须是数字。",
+        "minError": "长度应至少为 1"
+      },
+      "width": {
+        "message": "请输入宽度",
+        "error": "宽度必须是数字。",
+        "minError": "宽度应至少为 1"
+      },
+      "height": {
+        "message": "请输入身高",
+        "error": "高度必须是数字。",
+        "minError": "高度应至少为 1"
+      },
+      "hazmatUnNumber": {
+        "label": "危险品联合国编号"
+      },
+      "saidToContain": {
+        "label": "据说包含"
+      },
+      "purchaseOrders": {
+        "label": "订单",
+        "message": "请输入采购订单！"
+      },
+      "salesOrders": {
+        "label": "销售订单"
+      },
+      "lineItemNumber": {
+        "label": "行项目编号"
+      },
+      "htsCode": {
+        "label": "高温超导代码"
+      },
+      "nmfcNumber": {
+        "label": "NMFC编号"
+      }
+    },
+    "rateShopDetails": {
+      "assignTransportationProvider": "指定交通提供商",
+      "preferredTransportationProvider": {
+        "label": "首选交通提供商",
+        "placeholder": "选择首选交通提供商",
+        "message": "请选择首选交通提供商"
+      },
+      "warningModalFilter": "产品数量、计费数量、计费重量不能为空或0",
+      "standrardTransitDays": "标准过境天数",
+      "rateEntry": "率输入",
+      "rateShopResults": "评价商店结果",
+      "tenderEmail": "请至少选择一封投标电子邮件以继续。",
+      "adminEmail": "管理员电子邮件地址",
+      "doNotSendTenderEmail": "不要发送投标电子邮件",
+      "doNotSendBillOfLading": "不发送提单",
+      "tenderList": "招标清单",
+      "shipperInformation": "发货人信息",
+      "shipperEmailAddress": "发件人电子邮件地址",
+      "sendEmailToShipper": "发送电子邮件给发货人",
+      "assignTansportationProvider": "投标前请指定运输提供商",
+      "ratesCantBe": "价格不能早于",
+      "rateShipment": "投标日。",
+      "failedRateShopResults": "无法获取商店的价格结果。",
+      "filedTosaveRatingDetails": "无法保存评级详细信息。",
+      "selectTransportationProvider": "请先选择运输提供商",
+      "failedAssignTransportationProvider": "无法分配运输提供商。",
+      "warningModal": "装运已经招标。",
+      "tenderInformation": "招标信息",
+      "rateShopSearch": "评价商店搜索",
+      "rateShopDetails": "评价商店详情",
+      "emptyRecords": {
+        "title": "目前无法提供评级详细信息，请稍后再试。"
+      },
+      "standardTransitDays": "标准运输天数",
+      "bidExpiryDate": "投标截止日期",
+      "days": "天",
+      "convertedCost": "换算成本",
+      "serviceDescription": {
+        "label": "服务说明"
+      },
+      "equipmentTypeDetail": {
+        "label": "设备类型详细信息"
+      },
+      "userSubmitted": {
+        "label": "用户已提交"
+      },
+      "bidComment": {
+        "label": "投标评论"
+      },
+      "spotQuoteNumber": {
+        "label": "现货报价编号"
+      }
+    },
+    "vendorDetails": {
+      "title": "供应商详情",
+      "addNewVendor": "添加新供应商",
+      "confirmationModal": {
+        "okText": "好的",
+        "updateToDelivered": "您想将货件追踪状态更新为“已送达”吗？",
+        "deliveredConfirmation": "已交付确认",
+        "acknowledgedConfirmation": "确认确认",
+        "updateToShipmentAcknowledged": "您想将货件跟踪状态更新为“货件已确认”吗？"
+      },
+      "updateToShipmentAcknowledged": {
+        "acknowledgedConfirmation": "确认确认",
+        "description": "您想将货件跟踪状态更新为“货件已确认”吗？",
+        "okText": "好的"
+      },
+      "alertModalDescription": {
+        "notStatus": "不处于投标或自动投标状态",
+        "unableToUpdateShipmentNew": "无法更新状态为“在途”或“取消保留”的货件。",
+        "shipmentNoUpdatedNew": "如果货件处于“自动投标”、“投标”、“已确认”、“在途”状态，则无法将其更新为“新”。",
+        "shipmentNoUpdatedPlanning": "如果货件处于“自动投标”、“投标”、“已确认”、“在途”状态，则无法将其更新为“计划”。",
+        "unableToUpdateShipmentAutoRoute": "如果货件状态为“投标”、“自动投标”、“在途”、“已确认”、“已关闭”，则无法将货件更新为“自动路由”状态。",
+        "unableToUpdateShipmentRateError": "如果货件不处于 New、Spot Bid 或 SpotBidEnd 状态，则无法将货件更新为费率错误。",
+        "shipmentStatusAutoTendered": "货件必须处于“自动投标”、“已投标”、“已确认”、“保留”、“在途”或“计划取消”状态。"
+      },
+      "statusMessage": "状态消息",
+      "addingNewVendorIs": "添加新供应商是",
+      "modifyingVendorIs": "修改供应商是",
+      "deletingVendorIs": "删除供应商是"
+    },
+    "billingDetails": {
+      "vatNumber": {
+        "label": "增值税号",
+        "placeholder": "输入增值税号"
+      }
+    },
+    "categoryDetails": {
+      "addNewCategory": "添加新类别",
+      "subCategory": {
+        "label": "子类别",
+        "placeholder": "选择子类别"
+      }
+    },
+    "accountingDetails": {
+      "showItem": "显示具有以下价值的物品",
+      "startWith": "从...开始",
+      "isEqualto": "等于",
+      "taxDetails": "税务详情",
+      "addNewTax": "添加新税",
+      "addNewAccessorial": "添加新的附加费用",
+      "accessorialDetails": "配件细节",
+      "taxAmount": {
+        "label": "税额"
+      }
+    },
+    "documentDetails": {
+      "fileName": "文件名 ：",
+      "supportingDocument": {
+        "label": "支持文件参考号",
+        "placeholder": "输入支持文件参考号"
+      }
+    },
+    "spotBid": {
+      "selectDate": "请选择日期",
+      "doNotSendEmail": "不要发送电子邮件",
+      "resetSpotBid": "重置现货出价",
+      "routingSpotBidList": "路由点投标列表",
+      "addBidder": "添加投标人",
+      "submitSpotBidTocarriers": "请尝试向运营商提交现货报价",
+      "expirationTime": {
+        "label": "到期时间",
+        "message": "请选择到期时间"
+      },
+      "dateHours": "日期",
+      "submitSpotBid": "提交现货投标",
+      "distributors": "经销商",
+      "shipmentForSpotBid": "您的货物已发送用于现货投标",
+      "endSpotBid": "结束现货投标"
+    }
+  },
+  "getQuote": {
+    "notesHere": "此处注释",
+    "characters": "还剩 2000 个字符",
+    "triggerNotification": "停靠点应至少有一个起点！",
+    "destionationTriggerNotification": "停靠站应至少有一个目的地！",
+    "productTriggerNotification": "请添加至少一种产品。",
+    "emptyRecords": {
+      "title": "目前无法获取评级详细信息。",
+      "desc": "请稍后再试！"
+    },
+    "titles": {
+      "getQuote": "获得报价",
+      "quoteDetails": "报价详情",
+      "transportationDetails": "交通详情",
+      "quoteNotes": "报价备注",
+      "additionalServices": "额外服务",
+      "rateShopResults": "评价商店结果"
+    },
+    "quoteDetails": {
+      "projectNo": {
+        "label": "项目编号",
+        "placeholder": "输入项目编号"
+      },
+      "quoteCost": {
+        "label": "报价成本"
+      },
+      "quoteTransportationProvider": {
+        "label": "报价运输提供商"
+      },
+      "createdBy": {
+        "label": "由...制作"
+      }
+    },
+    "transportationDetails": {
+      "delivery": "送货",
+      "totalDistanceMiles": "总距离（英里）",
+      "totalDistanceKm": "总距离（公里）",
+      "buttons": {
+        "addStop": "添加停靠站",
+        "deleteStop": "删除停靠站"
+      },
+      "stopType": {
+        "label": "停止类型",
+        "message": "请选择停止类型"
+      },
+      "stopNo": {
+        "label": "停靠站号",
+        "message": "请输入停靠站号",
+        "error_integer": "停止号应该是整数！",
+        "error_max": "最大允许停靠站数量 1 至"
+      }
+    },
+    "productDetails": {
+      "productInformation": "产品信息",
+      "itemNo": "编号",
+      "numberOfPackages": {
+        "label": "包裹数量",
+        "message": "请输入包裹数量"
+      },
+      "chargeableWeight": {
+        "label": "计费重量",
+        "message": "请输入产品重量"
+      },
+      "unit": {
+        "label": "单元"
+      }
+    },
+    "transportationProviderSearch": {
+      "shipmentType": {
+        "label": "发货类型"
+      },
+      "rateDetails": {
+        "title": "目前无法获取评级详细信息。",
+        "description_other": "请稍后再试！"
+      }
+    },
+    "rateShopDetails": {
+      "convertedCost": "换算成本",
+      "convertedCurrencyCode": "转换后的货币代码",
+      "standardTransitDays": "标准运输天数"
+    },
+    "additionalDetails": {
+      "addNewAccessorialCharges": "添加新的附加费用",
+      "error": "请选择配件",
+      "accessorialName": {
+        "label": "配件名称"
+      }
+    }
+  },
+  "notificationSettings": {
+    "title": "通知设置",
+    "distributorContainer": {
+      "title": "分布详情",
+      "button": "添加新记录",
+      "recordNo": "记录编号：",
+      "distributionName": {
+        "label": "发行版名称",
+        "message": "请输入发行版名称"
+      }
+    },
+    "routingContainer": {
+      "title": "通知路由详细信息",
+      "addNewNotificationRouting": "添加新的通知路由",
+      "customerName": "顾客姓名 ：",
+      "selected": "已选择",
+      "emailList": {
+        "label": "电子邮件列表",
+        "message": "电子邮件可以用逗号分隔列出。"
+      },
+      "distributionName": {
+        "label": "发行版名称",
+        "message": "请选择发行版名称"
+      },
+      "chargeableWeight": {
+        "label": "计费重量",
+        "placeholder": "输入计费重量"
+      }
+    }
+  },
+  "rateShop": {
+    "tabs": {
+      "rateShopResults": "评价商店结果"
+    },
+    "buttons": {
+      "viewRateShopResults": "查看费率商店结果",
+      "stops": "停靠点"
+    },
+    "rateShop": {
+      "general": "一般的",
+      "optional": "选修的",
+      "laneDetails": "车道详情",
+      "addLane": "添加车道",
+      "deleteLane": "删除车道",
+      "actualCarrierRateShopping": "（实际承运人）费率购物",
+      "stopsDetails": "停靠点详情",
+      "Add Stop": "添加停靠站",
+      "deleteStop": "删除停靠站",
+      "itemDetails": "项目详情",
+      "addItem": "新增项目",
+      "deleteItem": "删除项目",
+      "addStop": "添加停靠站",
+      "legDistance": "腿距",
+      "tripDistance": "旅行距离",
+      "totalPieces": "总件",
+      "totalPiecesEqual": "停靠站数量必须等于总件数",
+      "inDetails": "详细地",
+      "port": "港口",
+      "location": "地点",
+      "pieces": {
+        "label": "件",
+        "message": "请输入件数"
+      },
+      "numberOfPieces": {
+        "label": "件数",
+        "message": "件数不能为负值"
+      },
+      "currencyCode": {
+        "message": "请选择货币"
+      },
+      "pricingType": {
+        "message": "请选择定价类型"
+      },
+      "pricingBasis": {
+        "message": "请选择定价基础"
+      },
+      "rateSelection": {
+        "label": "费率选择",
+        "message": "请选择费率选择"
+      },
+      "measurementUit": {
+        "label": "测量单位",
+        "message": "请选择测量单位"
+      },
+      "shipmentDate": {
+        "message": "请选择发货日期"
+      },
+      "account": {
+        "label": "帐户",
+        "placeholder": "输入账户"
+      },
+      "declaredValue": {
+        "label": "申报价值"
+      },
+      "codValue": {
+        "label": "化学需氧量值"
+      },
+      "ldmValue": {
+        "label": "LDM值"
+      },
+      "length": {
+        "errorLength": "长度不能为负值"
+      },
+      "width": {
+        "errorLength": "宽度不能为负值"
+      },
+      "weight": {
+        "message": "请输入重量",
+        "errorWeight": "权重不能为负值",
+        "errorZero": "权重应大于零"
+      },
+      "height": {
+        "errorNegative": "高度不能为负值"
+      },
+      "billedQuantity": {
+        "label": "计费数量",
+        "errorNegative": "计费数量不能为负值"
+      },
+      "ratingClass": {
+        "label": "评级等级",
+        "message": "请选择评级等级"
+      }
+    },
+    "rateShopResult": {
+      "shippingDate": "发货日期",
+      "measurementType": "测量类型",
+      "imperial": "帝国",
+      "metric": "公制",
+      "emptyRecords": "目前无法提供评级详细信息，请稍后再试。",
+      "noRatesFound": "没有找到价格！",
+      "code": "代码",
+      "calculationType": "计算类型",
+      "effectiveFrom": "生效日期",
+      "charge": "收费",
+      "accessorialDiscount": "配件折扣",
+      "fuel": "燃料",
+      "note": "笔记",
+      "accessorialBasis": "配件基础",
+      "effectiveTo": "有效至",
+      "deficitWeight": "赤字权重",
+      "deficitRate": "赤字率",
+      "itemsTotalCharge": "项目 总费用",
+      "deficitCharge": "赤字费用",
+      "grossCharge": "总费用",
+      "totalDiscount": "总折扣",
+      "baseCharge": "基本费用",
+      "itemNo": "编号",
+      "piece": "片",
+      "absMin": "ABS 最小值",
+      "rateCostPer": "每人的费率/费用",
+      "discount": "折扣",
+      "uom": "墨尔本大学",
+      "actualClass": "实际班级",
+      "absMax": "最大ABS",
+      "amount": "数量",
+      "totalTaxCharge": "总税费",
+      "taxBasis": "计税依据",
+      "discountAmount": "折扣金额",
+      "discountPercentage": "折扣率",
+      "mileage": "里程（英里）",
+      "totalAcc": "总积分",
+      "totalTax": "总税额",
+      "totalCost": "总成本",
+      "bureauMC": "主席团司仪",
+      "directPoint": "直接点",
+      "totalShipmentCost": "总运输成本",
+      "service": "服务",
+      "equipment": "设备",
+      "distance": "距离（英里/公里）",
+      "miles": "英里",
+      "kms": "公里数",
+      "tariffName": "资费名称",
+      "pricingEffectiveDate": "定价生效日期",
+      "to": "到",
+      "tariffEffectiveDate": "关税生效日期",
+      "pricingKey": "定价要点",
+      "tariffKey": "资费表",
+      "liner": "衬垫",
+      "laneCode": "车道代码",
+      "laneAlias": "巷别名",
+      "rateShopResult": "评价商店结果",
+      "accessorials": "配件",
+      "taxes": "税收"
+    },
+    "globalRateShope": "全球价格商店",
+    "taxDetails": "税务详情",
+    "totalAccessorialCharge": "辅助费用总额",
+    "addNew": "没有停止，请尝试添加新的！",
+    "stop": "停止"
+  },
+  "procurement": {
+    "createProject": "创建项目",
+    "createTender": "创建标书",
+    "download": "下载",
+    "projectName": {
+      "label": "项目名",
+      "placeholder": "项目名"
+    },
+    "tenderName": {
+      "label": "招标名称",
+      "placeholder": "招标名称"
+    },
+    "subMenu": {
+      "project": "项目",
+      "tender": "投标",
+      "bidAnalysis": "投标分析",
+      "routeConfiguration": "路由配置"
+    },
+    "routeConfigurationTabs": {
+      "location": "地点",
+      "lane": "车道",
+      "zone": "区"
+    },
+    "filters": {
+      "projectSearch": "项目搜寻",
+      "tenderSearch": "招标搜索",
+      "searchCriteria": "搜索条件",
+      "tender": "投标",
+      "admin": "行政",
+      "generalDetails": "一般详情",
+      "rank": "秩",
+      "summarizeCritria": "总结标准",
+      "includeHistorical": "包括历史",
+      "laneSearch": "车道搜索",
+      "zoneSearch": "区域搜索"
+    },
+    "projectTabs": {
+      "projectDetails": "项目详情",
+      "tenderDetails": "招标详情"
+    },
+    "tenderTabs": {
+      "tenderInformation": "招标信息",
+      "documentation": "文档",
+      "laneInformation": "车道信息",
+      "bidParameters": "出价参数"
+    },
+    "fields": {
+      "service": "服务",
+      "addDestination": "添加目的地",
+      "destinationDetails": "目的地详情",
+      "region": "地区",
+      "addOrigin": "添加原点",
+      "originDetails": "产地详情",
+      "destinationStucuture": "目的地结构（部分）",
+      "originStucuture": "起源结构（头部）",
+      "bidTransportationProvider": "BID 运输提供商",
+      "baseBIDPrice": "基本出价",
+      "bidRankBidTransportationProvider": "BID 排名 BID 运输提供商",
+      "currentBIDPrice": "当前出价",
+      "bidRankBaseTransportationProvider": "BID 排名基础 交通提供商",
+      "lanesNotCovered": "车道未覆盖",
+      "lanesCovered": "覆盖车道",
+      "numberOfLanes": "车道数",
+      "currentBIDTransportationProvider": "当前 BID 运输提供商",
+      "baseTransportationProvider": "基地运输提供商",
+      "parameterType": {
+        "label": "参数类型"
+      },
+      "projectStatus": {
+        "label": "项目状况",
+        "placeholder": "选择项目状态",
+        "message": "请选择项目状态",
+        "true": "积极的",
+        "false": "不活跃"
+      },
+      "tenderStatus": {
+        "label": "招标状态：",
+        "true": "积极的",
+        "false": "不活跃"
+      },
+      "projectApproved": {
+        "label": "项目审批情况",
+        "message": "请选择项目审批状态"
+      },
+      "projectApprovedBy": {
+        "label": "项目批准人"
+      },
+      "projectLead": {
+        "label": "项目负责人",
+        "message": "请选择项目负责人"
+      },
+      "tecSupport": {
+        "label": "技术支援",
+        "message": "请选择技术支持"
+      },
+      "tecLead": {
+        "label": "技术负责人",
+        "message": "请选择技术支持"
+      },
+      "projectSupport": {
+        "label": "项目支持",
+        "message": "请选择项目支持"
+      },
+      "groupBy": {
+        "label": "通过...分组"
+      },
+      "formulaName": {
+        "label": "配方名称",
+        "placeholder": "总成本"
+      },
+      "parameters": {
+        "label": "参数",
+        "placeholder": "输入参数"
+      },
+      "formula": {
+        "label": "公式",
+        "placeholder": "运输基本成本"
+      },
+      "summarizeCritria": {
+        "label": "总结标准"
+      },
+      "actualName": {
+        "label": "实际项目名称"
+      },
+      "description": {
+        "placeholderDesc": "招标说明",
+        "message": "请添加描述"
+      },
+      "modeOfTender": {
+        "label": "招标方式"
+      },
+      "tecSupServicePort": {
+        "label": "技术支持服务类别端口"
+      },
+      "reference": {
+        "label1": "参考文献1",
+        "label2": "参考2",
+        "placeholder": "参考"
+      },
+      "transportationMode": {
+        "label": "运输方式"
+      },
+      "prameterDisplayName": {
+        "label": "参数显示名称："
+      },
+      "locationName": {
+        "title": "地点名称",
+        "label": "地点名称：",
+        "placeholder": "输入位置名称"
+      },
+      "originType": {
+        "label": "原产地类型",
+        "placeholder": "选择来源类型"
+      },
+      "originName": {
+        "label": "产地名称",
+        "placeholder": "输入来源名称"
+      },
+      "destinationType": {
+        "label": "目的地类型",
+        "placeholder": "选择目的地类型"
+      },
+      "destinationName": {
+        "label": "目的地名称",
+        "placeholder": "输入目的地名称"
+      },
+      "zoneName": {
+        "label": "区域名称",
+        "placeholder": "区域名称"
+      },
+      "date": {
+        "startDate": "开始日期",
+        "endDate": "结束日期",
+        "projectStartDate": "项目开始日期",
+        "projectEndDate": "项目结束日期",
+        "tenderStartDate": "招标开始日期",
+        "tenderEndDate": "投标结束日期",
+        "startDateTime": "开始日期和时间",
+        "placeholder": "选择日期",
+        "endDateAndTime": "结束日期和时间"
+      }
+    },
+    "projectCard": {
+      "details": "项目详情",
+      "information": "项目信息",
+      "projectDescription": "项目介绍",
+      "projectStartDate": "项目开始日期",
+      "projectEndDate": "项目结束日期",
+      "mileStones": "里程碑",
+      "startDate": "开始日期",
+      "endDate": "结束日期",
+      "actualName": "实际项目名称",
+      "preparationFiles": "准备文件",
+      "bidCollectionPhase": "投标收集阶段",
+      "selectionPhase": "选择阶段",
+      "currentRound": "本轮：",
+      "modeOfTender": "招标方式",
+      "transportationMode": "运输方式",
+      "serviceCategory": "服务类别",
+      "notificationSuccess": "创建项目成功",
+      "notificationError": "创建项目错误"
+    },
+    "tenderCard": {
+      "trackingStatus": "追踪状态",
+      "modeOfTender": "招标方式",
+      "tenderStartDate": "招标开始日期",
+      "laneCovered": "车道覆盖",
+      "tenderEndDate": "投标结束日期",
+      "currentRound": "本轮",
+      "bidCollectionStartDateTime": "投标收集开始日期和时间",
+      "bidCollectionEndDateTime": "投标收集结束日期和时间",
+      "laneName": "车道名称：",
+      "dellasLocation": "德拉斯位置",
+      "prameterDisplayName": "参数显示名称：",
+      "prameterType": "参数类型",
+      "required": "必需/不必需",
+      "parameterDataType": "参数数据类型",
+      "value": "价值",
+      "repeated": "重复",
+      "historicalOnly": "仅历史",
+      "rflStatus": "RFL 状态",
+      "rfqStatus": "询价状态",
+      "rfiRequestDate": "RFI 请求日期",
+      "rfqRequestDate": "询价请求日期",
+      "rfiRespondDate": "RFI 回复日期",
+      "rfqRespondDate": "询价回复日期"
+    },
+    "modalTransportationProvider": {
+      "title": "搜索/添加运输提供商",
+      "shortName": "简称",
+      "countryCallingCode": "国家/地区电话代码",
+      "number": "数字",
+      "ext": "分机",
+      "fax": "传真",
+      "modeType": "模式类型"
+    },
+    "bigAnalysisCard": {
+      "rankAndCost": "排名和成本",
+      "laneCoverage": "车道覆盖率",
+      "details": "细节",
+      "laneCoverageAnalysis": "车道覆盖分析",
+      "combinationAnalysis": "组合分析",
+      "bidRank": "出价排名",
+      "winningLanes": "获胜车道",
+      "chart": "图表",
+      "bidLane": "投标通道",
+      "totalLanes": "总车道数",
+      "percentageCoverage": "覆盖率百分比",
+      "includeHistorical": "包括历史",
+      "orgin": "起源",
+      "shipment": "运输",
+      "bidedUnitPrice": "投标单价",
+      "baseCost": "基本成本",
+      "rank": "秩",
+      "savingPercentage": "节省百分比",
+      "liftGate": "升降门",
+      "savingAmount": "储蓄金额",
+      "trackingStatus": "追踪状态",
+      "trackingStatusType": "追踪状态类型",
+      "shipperShipDate": "发件人要求的发货日期"
+    },
+    "routeConfigurationCard": {
+      "lane": "车道",
+      "zoneName": "区域名称"
+    },
+    "footer": {
+      "totalActive": "活跃项目总数",
+      "totalApproved": "核准项目总数",
+      "total": "项目总计",
+      "totalShipments": "总出货量",
+      "openShipments": "开放发货",
+      "closedShipments": "已关闭的发货",
+      "exceptions": "例外情况"
+    }
+  },
+  "purchase-order-view": {
+    "shipmentLandingList": "快件卸货清单",
+    "filterTitle": "采购订单搜索",
+    "pageTitle": "采购订单信息",
+    "draftOrderSearch": "草稿订单搜索",
+    "shipmentSearch": "快件查询",
+    "vendorAddressSearch": "供应商地址搜索",
+    "regularOrders": "常规订单",
+    "releaseOrders": "发布订单",
+    "originDetails": "产地详情",
+    "shipperDetails": "托运人详细信息",
+    "destinationDetails": "目的地详情",
+    "consigneeDetails": "收货人详情",
+    "wareHouseContactDetails": "仓库联系方式",
+    "wareHouseDetails": "仓库详情",
+    "suzhouDousonDrillingProdu": "苏州道森钻探",
+    "contactPerson": "联络人",
+    "telephoneNo": "电话号码。",
+    "extension": "扩大",
+    "otherDetails": "其他详情",
+    "htsCode": "高温超导代码",
+    "sureToReset": "确定要重置吗？",
+    "quanityLeft": "剩余数量",
+    "quantityShippeError": "价值必须小于剩余数量！",
+    "originDestinationDetails": "出发地和目的地详情",
+    "warehouseContactInfoDetails": "仓库联系信息和详细信息",
+    "appointmentIsRequired": "需要预约",
+    "warehouseContactMsg": "请输入仓库联系方式",
+    "shipperAddressMsg": "请输入发货人地址",
+    "warehouseTelephoneMsg": "请输入仓库电话",
+    "emailMsg": "请输入电子邮件地址",
+    "checkboxMsg": "通过选择此复选框，您将获得选定的收货人邮政编码位置结果",
+    "NoOfItems": "物品数量",
+    "itemShipDate": "商品发货日期",
+    "addPackageID": "添加包 ID",
+    "newShipDateError": "新发货日期不能超过一年。",
+    "newShipPastDateError": "新发货日期不能是过去的日期。",
+    "totalNoOfProducts": "产品总数",
+    "releaseQuantity": "发布数量",
+    "createShipment": "创建货件",
+    "updateShipment": "更新发货",
+    "locationDetails": "地点详情",
+    "locationCity": "地点城市",
+    "warehouseDetails": "仓库详情",
+    "enterQuantityLeft": "输入剩余数量",
+    "action": "行动",
+    "sureToDelete": "确定要删除吗？",
+    "copyLastPackageId": "复制最后一个包 ID",
+    "resetPurchaseOrder": "重置采购订单",
+    "percentageLeftItems": "剩余百分比（剩余物品）",
+    "orderStatus": "订单状态",
+    "topVendors": "顶级供应商",
+    "topCustomers": "顶级客户",
+    "shipmentsStatus": "发货状态",
+    "topLocationsOrderWise": "热门地点（按顺序排列）",
+    "topProducts": "热门产品",
+    "shipmentInformation": "发货信息",
+    "shipperStateProvience": "发货人所在州/省",
+    "consigneeStateProvience": "收货人所在州/省",
+    "totalOrders": "订单总数",
+    "openOrders": "未结订单",
+    "dueinNext7Days": "未来 7 天内到期",
+    "delayedOrders": "延迟订单",
+    "closedOrders": "已关闭订单",
+    "lastCreatedShipmentNumber": "最后创建的货件编号",
+    "vendorsInformation": "供应商信息",
+    "date": "日期",
+    "addNewRecord": "添加新记录",
+    "confirmPurchaseOrder": "确认采购订单",
+    "resetReleaseOrder": "重置发布顺序",
+    "purchaseItemInformation": "购买商品信息",
+    "vendorAddressSearchExport": "供应商地址搜索导出",
+    "purchaseOrderExport": "采购订单导出",
+    "addNewPackageId": "添加新包 ID",
+    "applyCountryButton": "将原产地应用于所有线路",
+    "shipmentEntry": "装运录入",
+    "shipmentItemDetails": "货件详情",
+    "shipmentSummary": "发货摘要",
+    "totalMiles": "总里程",
+    "chargableWeight": "收费重量",
+    "shipmentCreatedDate": "货件创建日期",
+    "shipmentNumbers": "发货数量",
+    "draftOrderSearchExport": "草稿订单搜索导出",
+    "shipmentCreateDate": "货件创建日期",
+    "shipmentSearchExport": "货件搜索 导出",
+    "chargeableWeight": "计费重量",
+    "createFinalShipment": "创建最终发货",
+    "unSelectAll": "全部取消选择",
+    "shipmentSearchInformation": "快件查询信息",
+    "draftOrderSearchInformation": "草稿订单搜索信息",
+    "pleaseEnterLocationAddress": "请输入地点地址",
+    "pleaseSelectCountry": "请选择国家。",
+    "pleaseChooseState": "请选择州",
+    "pleaseEnterLocationName": "请输入地点名称",
+    "warehouseEmailAddress": "仓库邮箱地址",
+    "kindlyFillAllRequiredFields": "请填写所有必填字段",
+    "approver": "审批人",
+    "pleaseEnterTheAir": "请输入空运审批人",
+    "shipmentConfirmationNumber": "发货确认号",
+    "kindlyEnterConfirmationNumber": "请输入确认号码",
+    "createShipmentExport": "创建装运出口",
+    "noRoutingDataAvailable": "无可用路由数据",
+    "clickToContinueShipment": "点击继续发货",
+    "failedToGenerate": "无法生成装箱单文件。",
+    "pleaseChooseTheCustomer": "请选择客户",
+    "addingPO": {
+      "description": "仅允许草稿装运添加 PO",
+      "title": "警报",
+      "okText": "好的"
+    },
+    "confirmationModal": {
+      "description": "采购订单必须具有相同的国家/地区和邮政编码才能合并到同一货件中。",
+      "okText": "好的"
+    },
+    "error": {
+      "emtyDate": "请输入日期",
+      "shipdateYear": "预计发货日期不能超过一年。",
+      "shipmentPastDate": "您无法在过去的日期之前创建货件。",
+      "shippedQuantity": "发货数量应小于剩余数量",
+      "similarConsigneelocationOrders": "我们正在获取类似的收货人地点订单！"
+    },
+    "fields": {
+      "purchasePartNumber": {
+        "label": "购买零件号"
+      },
+      "purchasePartDescription": {
+        "label": "采购零件说明"
+      },
+      "date": {
+        "createdDate": "创建日期",
+        "placeholder": "选择日期",
+        "messageFromCreateOnDate": "请选择创建日期",
+        "messageToCreateOnDate": "请选择创建日期",
+        "messageFromShipnDate": "请选择发货日期",
+        "messageToShipDate": "请选择发货日期"
+      },
+      "length": {
+        "message": "请输入长度"
+      },
+      "width": {
+        "message": "请输入宽度"
+      },
+      "height": {
+        "message": "请输入身高"
+      },
+      "houseBillofLadingNumber": {
+        "label": "房屋提单号码"
+      },
+      "packageWeigh": {
+        "label": "包裹重量",
+        "message": "请输入包裹重量"
+      },
+      "weightUnitOfMeasure": {
+        "label": "重量计量单位"
+      },
+      "packagedId": {
+        "placeholder": "输入打包 ID",
+        "message": "请输入包ID"
+      },
+      "quantityShipped": {
+        "placeholder": "输入发货数量",
+        "error": "价值必须小于剩余数量",
+        "errorOr": "价值必须小于或等于剩余数量！",
+        "message": "请输入发货数量"
+      },
+      "locationName": {
+        "label": "地点名称"
+      },
+      "locationAddress": {
+        "label": "地点地址"
+      },
+      "locationCountry": {
+        "label": "地点国家"
+      },
+      "locationPostalCode": {
+        "label": "位置 邮政编码"
+      },
+      "locationStateProvince": {
+        "label": "地点 州/省"
+      },
+      "countryOfOrigin": {
+        "placeholder": "选择原产国",
+        "message": "请选择原产国"
+      },
+      "locationCity": {
+        "label": "地点城市"
+      }
+    },
+    "class": {
+      "label": "班级"
+    },
+    "containerNumber": {
+      "label": "集装箱号",
+      "placeholder": "输入集装箱号"
+    }
+  },
+  "tms-settings": {
+    "title": "经颅磁刺激系统设置",
+    "companySettings": "公司设置",
+    "shipmentSettings": "发货设置",
+    "auctionSettings": "拍卖设置",
+    "povSettings": "视角设置",
+    "generalSettings": "常规设置",
+    "defaultShipmentPageValues": "默认货件页面值",
+    "shipmentApprovalProcess": "发货审批流程",
+    "emailDistribution": "电子邮件分发",
+    "additionalSettings": "其他设置",
+    "autoRouteProcess": "自动布线流程",
+    "shipmentEntryPageSettings": "货件录入页面设置",
+    "fields": {
+      "purchaseOrderNumber": {
+        "placeholder": "输入采购订单号"
+      },
+      "emailMessage": "请输入有效的电子邮件格式。",
+      "statusInTMS": {
+        "label": "TMS 中的状态",
+        "placeholder": "请选择状态",
+        "message": "需要 TMS 中的状态。",
+        "optionActive": "积极的",
+        "optionInActive": "不活跃",
+        "tooltip": "如果客户在 TMS 中，则处于活动状态，否则处于非活动状态。"
+      },
+      "brokerageCustomer": {
+        "label": "公司类型",
+        "message": "公司类型为必填项。",
+        "placeholder": "请选择公司类型",
+        "optionTMS": "经颅磁刺激系统",
+        "optionBrokerage": "经纪业务",
+        "tooltip": "此设置将决定用户添加的客户是常规 TMS 客户还是经纪客户"
+      },
+      "shipmentNoCounter": {
+        "label": "货件编号柜台",
+        "message": "请输入货件编号 柜台",
+        "error": "货件编号计数器必须为 8 位数字。",
+        "tooltip": "创建新货件时将从该货件编号开始计数"
+      },
+      "masterChildShipment": {
+        "label": "主/子托运",
+        "placeholder": "请选择主/子托运",
+        "tooltip": "为客户开启主/子装运流程"
+      },
+      "pricingType": {
+        "optionCarrierRate": "承载率",
+        "tooltip": "定义需要根据哪种定价类型进行评级。"
+      },
+      "displayPaidBY": {
+        "label": "显示“付款方式”",
+        "placeholder": "请选择显示“付款方式”",
+        "tooltip": "打开货件维护页面上的“付款人”字段"
+      },
+      "shipmentApprovalProcess": {
+        "label": "发货审批流程",
+        "placeholder": "请选择发货审批流程",
+        "tooltip": "为客户开启发货批准流程"
+      },
+      "validateCategoryDetails": {
+        "label": "验证类别详细信息",
+        "placeholder": "请选择验证类别详细信息",
+        "tooltip": "如果用户必须在货件维护页面上填写类别，则如果未提供此设置，则该设置将生效。"
+      },
+      "calculateChargeableWeight": {
+        "label": "计算计费重量",
+        "placeholder": "请选择计算计费重量",
+        "tooltip": "在“货件维护”页面的“产品详细信息”手风琴中，当用户输入产品详细信息时，如果启用此设置，则会自动计算计费重量。"
+      },
+      "routingGuideMatch": {
+        "label": "路由引导匹配",
+        "placeholder": "请选择路由引导匹配",
+        "tooltip": "如果设置为“是”，则将对“路线指南”设置页面中的承运商进行发货评级。"
+      },
+      "shipmentCategoryVisible": {
+        "label": "货件类别可见",
+        "placeholder": "请选择可见的货件类别",
+        "tooltip": "打开“添加货件”和“编辑货件”屏幕中类别部分的可见性。"
+      },
+      "shipmentBillToVisible": {
+        "label": "发货单可见",
+        "placeholder": "请选择发货单以可见",
+        "tooltip": "打开“添加货件”和“编辑货件”屏幕中“收单方”部分的可见性。"
+      },
+      "shipmentVendorVisible": {
+        "label": "发货供应商可见",
+        "placeholder": "请选择可见的发货供应商",
+        "tooltip": "打开添加发货和编辑发货屏幕中供应商部分的可见性。"
+      },
+      "branch": {
+        "tooltip": "如果无法定义分支，这将在发货时设置默认分支"
+      },
+      "defaultSpotBidEndStatus": {
+        "label": "默认现货投标结束状态",
+        "placeholder": "请选择默认现货投标结束状态",
+        "tooltip": "当货件的现货出价时间到期时，货件状态可以更改回“新”或“SpotBIdEnd”或保持“现货出价”状态。"
+      },
+      "displayPOSOShipmentLevel": {
+        "label": "显示 PO/SO 装运水平",
+        "placeholder": "请选择显示 PO/SO 发货级别",
+        "tooltip": "如果设置为“是”，则发货维护页面上将显示 2 个字段“采购订单”和“销售订单”。"
+      },
+      "shipmentTypes": {
+        "label": "发货类型",
+        "tooltip": "此设置将为从 POV 手动创建的货件设置默认货件类型。",
+        "option_i": "入境",
+        "option_c": "公司间",
+        "option_o": "出境",
+        "option_t": "第三者"
+      },
+      "displayRatingDetailsAccordion": {
+        "label": "显示评级详细信息 手风琴",
+        "placeholder": "请选择显示评级详细信息手风琴",
+        "tooltip": "显示评级详细信息 手风琴"
+      },
+      "hazmat": {
+        "label": "危险品",
+        "placeholder": "选择危险品",
+        "tooltip": "将发货页面上的产品详细信息中的危险物质默认为是或否"
+      },
+      "ratingPreference": {
+        "label": "评级偏好",
+        "placeholder": "请选择评级偏好",
+        "tooltip": "货件维护页面上的默认评级偏好",
+        "option_a": "所有运营商",
+        "option_l": "最低成本",
+        "option_r": "必需的"
+      },
+      "length": {
+        "tooltip": "在产品详细信息手风琴上设置默认长度"
+      },
+      "width": {
+        "tooltip": "设置产品详细信息手风琴的默认宽度"
+      },
+      "height": {
+        "tooltip": "设置产品详细信息手风琴的默认高度"
+      },
+      "defaultInternalNotes": {
+        "label": "默认内部注释",
+        "placeholder": "默认内部注释..."
+      },
+      "shipmentApprovalCount": {
+        "label": "发货批准计数",
+        "tooltip": "此设置规定审批流程所需的最大审批人数量"
+      },
+      "requireApprovalNumber": {
+        "label": "需要批准文号",
+        "placeholder": "请选择需要批准号",
+        "tooltip": "如果启用此设置，则在创建货件时将生成批准号。"
+      },
+      "adminEmail": {
+        "label": "管理员电子邮件地址",
+        "messageRequired": "请输入管理员电子邮件地址",
+        "tooltip": "这将设置一个电子邮件地址，所有自动生成的电子邮件都将发送到该地址。"
+      },
+      "supportEmail": {
+        "label": "支持电子邮件地址",
+        "messageRequired": "请输入支持电子邮件地址",
+        "tooltip": "当 Tender 或 Spot bis 等电子邮件通知发送给承运人时，会有客户方支持团队的电子邮件地址，承运人如有任何问题可以联系该地址。"
+      },
+      "fromEmail": {
+        "label": "电子邮件“发件人”电子邮件地址",
+        "messageRequired": "请输入电子邮件“发件人”电子邮件地址",
+        "tooltip": "将放置在电子邮件主题的“发件人”字段中的电子邮件。"
+      },
+      "attachSupportingDoc": {
+        "label": "将支持文档附加到电子邮件中",
+        "placeholder": "请选择将支持文档附加到电子邮件",
+        "tooltip": "将支持文档附加到电子邮件中"
+      },
+      "childShipment": {
+        "label": "儿童发货数量容差%",
+        "message": "请输入儿童装运数量公差%",
+        "tooltip": "这将为主/子发货流程设置数量字段验证。 "
+      },
+      "autoRateProcess": {
+        "label": "自动定价过程",
+        "placeholder": "请选择自动评分流程",
+        "tooltip": "无法自动评级过程"
+      },
+      "autoTenderProcess": {
+        "label": "自动招标流程",
+        "placeholder": "请选择招标流程",
+        "tooltip": "无法在客户级别进行自动招标流程"
+      },
+      "maxAutoTenderAmount": {
+        "label": "最大自动投标金额",
+        "placeholder": "请选择最大自动投标金额",
+        "tooltip": "设置允许的最大自动处理量"
+      },
+      "recalculateFreightClass": {
+        "label": "重新计算货运舱位",
+        "tooltip": "如果设置为“是”，则自动路线流程将重新计算货件的货运等级，无论货件是否已提供。"
+      },
+      "autoTenderSpecificCargoType": {
+        "label": "自动招标特定货物类型",
+        "tooltip": "自动投标特定货物类型"
+      },
+      "defaultEquipmentType": {
+        "label": "默认设备类型",
+        "tooltip": "此设置允许用户呈现将在所有运输的拍卖中向承运人显示的设备类型。"
+      },
+      "defaultCargoType": {
+        "label": "默认货物类型",
+        "placeholder": "默认货物类型",
+        "tooltip": "运输提供商拍卖模块中的默认货物类型"
+      },
+      "populateBidExpiryDate": {
+        "label": "填写出价到期日期",
+        "placeholder": "请选择填写出价到期日期",
+        "tooltip": "如果设置设为“是”，则客户用户将无法在“发货费率”商店结果中选择承运商提供的已过期（基于即期出价到期日期）的即期出价。"
+      },
+      "addDaysBidExpiryDate": {
+        "label": "添加出价到期日期天数",
+        "placeholder": "添加出价到期日期天数",
+        "tooltip": "添加出价到期日天数"
+      },
+      "auctionType": {
+        "label": "拍卖类型",
+        "placeholder": "请选择拍卖类型",
+        "tooltip": "无法进行反向拍卖，这意味着运营商需要低于对方的出价。"
+      },
+      "maximumBidHours": {
+        "maximumBidHours": "最大投标时间",
+        "message": "请输入最长出价时间",
+        "error": "最大投标时间超出了允许的最大投标时间。",
+        "tooltip": "在发货模块中，当用户将发货发送至现货竞价时，他可以设置现货竞价的时间。"
+      },
+      "turnONPOVModule": {
+        "label": "打开 POV 模块",
+        "placeholder": "请选择打开 POV 模块",
+        "message": "请选择打开 POV 模块。",
+        "tooltip": "如果“是”，则可以通过 POV 创建货件，如果“否”，则不能通过 POV 创建货件。"
+      },
+      "shipmentStartingNumber": {
+        "label": "发货起始编号",
+        "tooltip": "这将设置发货编号，起始整数将位于 Alpha 前缀之后。"
+      },
+      "shipmentNumberPrefix": {
+        "label": "货件号码前缀",
+        "tooltip": "这将设置货运号码前缀。"
+      },
+      "noRoutingGuideCarriersReturned": {
+        "label": "返回的路由指南运营商数量",
+        "tooltip": "如果“路由方法”=“路由指南”，则从路由指南返回的承运商数量将限制为提供的数量。"
+      },
+      "shipmentTermsAllowed": {
+        "label": "允许的装运条款",
+        "placeholder": "请选择允许的运输条款",
+        "option_all": " - 全部 - ",
+        "option_c": "收集",
+        "option_p": "预付费",
+        "option_t": "第三者",
+        "tooltip": "此设置规定允许将哪些装运条款用于装运"
+      },
+      "povDestinationMethod": {
+        "label": "POV 目标方法",
+        "placeholder": "选择 POV 目的地方法",
+        "message": "请选择打开 POV 模块。",
+        "tooltip": "在发货输入页面上，为供应商用户预设了目的地地址。"
+      },
+      "routingMethod": {
+        "label": "路由方式",
+        "placeholder": "选择路由方法",
+        "tooltip": "当供应商用户通过 POV 创建货件时，供应商用户可以通过多种方式获取货件的承运商。"
+      },
+      "allowDraftShipment": {
+        "label": "允许汇票装运",
+        "placeholder": "请选择允许汇票装运",
+        "tooltip": "如果设置为“是”，则供应商用户将被允许在 POV 模块中创建草稿货件。"
+      },
+      "packageUnitMeasure": {
+        "label": "包装计量单位",
+        "tooltip": "这将在 POV 的货件输入页面上设置默认包裹计量单位"
+      },
+      "weightUnitMeasure": {
+        "label": "重量计量单位",
+        "option_p": "磅",
+        "option_k": "公斤",
+        "placeholder": "请选择重量计量单位",
+        "tooltip": "这将在 POV 模块的“货件输入”页面上设置默认测量单位"
+      },
+      "freeOnBoardCode": {
+        "label": "免费机上代码",
+        "tooltip": "这将为通过 POV 创建的货件设置默认船上免费代码"
+      },
+      "frightClass": {
+        "label": "惊吓级",
+        "placeholder": "请选择惊吓等级",
+        "tooltip": "这将为通过 POV 创建的货件分配默认等级。"
+      },
+      "minimumDays": {
+        "label": "最短天数",
+        "placeholder": "请输入最短天数",
+        "tooltip": "当供应商在 POV 中选择 PO 时，他们需要提供“新发货日期”。"
+      },
+      "maximumDays": {
+        "label": "最长天数",
+        "placeholder": "请输入最长天数",
+        "tooltip": "当供应商在 POV 中选择 PO 时，他们需要提供“新发货日期”。"
+      },
+      "minimumDaysError": {
+        "label": "最短天数错误消息",
+        "placeholder": "请输入最短天数 错误消息",
+        "tooltip": "如果违反“最短天数”规则，则将在 UI 上向用户显示“最短天数错误消息”",
+        "message": "预计发货日期前 3 天不允许发货"
+      },
+      "maximumDaysError": {
+        "label": "最大天数错误消息",
+        "placeholder": "请输入最大天数错误消息",
+        "tooltip": "如果违反“最大天数”规则，则将在 UI 上向用户显示“最大天数错误消息”",
+        "message": "预计发货日期不能超过一年。"
+      }
+    },
+    "notificationSuccess": "TMS 设置已成功保存。",
+    "notificationError": "无法保存 TMS 设置。"
+  },
+  "login": {
+    "authLeft": {
+      "title": "还没有帐户？",
+      "link": "立即注册！"
+    },
+    "authRight": {
+      "title": "欢迎回来",
+      "desc": "登录以继续"
+    },
+    "form": {
+      "email": {
+        "placeholder": "电子邮件/用户名",
+        "enter": "请输入用户名。"
+      },
+      "password": {
+        "placeholder": "密码",
+        "enter": "请输入密码。"
+      },
+      "link": "忘记密码？",
+      "button": "登录"
+    }
+  },
+  "forgotPassword": {
+    "authLeft": {
+      "title": "还没有帐户？",
+      "link": "立即注册！"
+    },
+    "authRight": {
+      "title": "忘记密码",
+      "desc": "请输入您希望将登录信息发送到的电子邮件地址"
+    },
+    "form": {
+      "email": {
+        "placeholder": "电子邮件/用户名",
+        "enter": "请输入用户名。"
+      },
+      "warning": {
+        "okText": "登录",
+        "desc": "新密码已发送至您的邮箱，请检查您的邮箱并使用新密码登录。"
+      },
+      "backToLogin": "回到登入",
+      "button": "提交"
+    }
+  },
+  "signUp": {
+    "authLeft": {
+      "title": "已经有帐户？",
+      "link": "立即登录！"
+    },
+    "authRight": {
+      "title": "新用户注册",
+      "desc": "立即注册以继续"
+    },
+    "form": {
+      "email": {
+        "enter": "请输入用户名。"
+      },
+      "password": {
+        "label": "密码",
+        "enter": "请输入密码。"
+      },
+      "confirmPassword": {
+        "label": "确认密码",
+        "enter": "请输入确认密码。"
+      },
+      "firstName": {
+        "label": "名",
+        "enter": "请输入名字。"
+      },
+      "middleName": {
+        "label": "中间名字"
+      },
+      "lastName": {
+        "label": "姓",
+        "enter": "请输入姓氏。",
+        "invalid": "输入有效的姓氏。"
+      },
+      "addressLineFirst": {
+        "label": "地址1",
+        "enter": "请输入地址1。"
+      },
+      "addressLineSecond": {
+        "label": "地址2",
+        "enter": "请输入地址2。"
+      },
+      "jobType": {
+        "label": "工作类型"
+      },
+      "department": {
+        "label": "部门网"
+      },
+      "phoneWork": {
+        "label": "电话（工作）"
+      },
+      "phoneCell": {
+        "label": "电话（手机）"
+      },
+      "reference": {
+        "label": "参考"
+      },
+      "comments": {
+        "label": "评论"
+      },
+      "capcha": "请检查重述。",
+      "submit": "提交",
+      "warning": {
+        "okText": "登录",
+        "desc": "用户注册过程已完成，请使用您的电子邮件和适当的密码登录。"
+      }
+    }
+  },
+  "verifyUser": {
+    "authLeft": {
+      "title": "还没有帐户？",
+      "link": "立即注册！"
+    },
+    "authRight": {
+      "title": "双因素身份验证"
+    },
+    "notification": "发送身份验证令牌失败！",
+    "pickMethod": "选择您的身份验证方法",
+    "securityCode": "通过电子邮件发送安全码 ",
+    "link": "不是你？",
+    "send": "发送验证码"
+  },
+  "verifyToken": {
+    "authLeft": {
+      "title": "还没有帐户？",
+      "link": "立即注册！"
+    },
+    "authRight": {
+      "title": "请查收你的邮件"
+    },
+    "notification": "验证令牌失败！",
+    "enter": "输入发送至的 6 位验证码",
+    "verify": "验证验证码",
+    "receive": "没有收到代码？"
+  },
+  "user": {
+    "userProfileManagement": "用户档案管理",
+    "belowCurrentProfile": " 以下是我们系统中为您提供的当前个人资料。",
+    "imgAlt": "用户资料",
+    "active": "积极的",
+    "userTabs": {
+      "personal": "个人的",
+      "password": "更改密码",
+      "themes": "主题"
+    },
+    "buttons": {
+      "updateProfile": "更新个人信息",
+      "updatePassword": "更新密码",
+      "preview": "预览",
+      "saveTheme": "保存主题",
+      "restoreToDefault": "恢复默认值"
+    },
+    "notification": {
+      "imageInterrupted": "图像选取已中断，请稍后重试。",
+      "userPreference": "用户偏好已成功申请临时。"
+    },
+    "fields": {
+      "firstName": {
+        "label": "名",
+        "message": "请输入名字。"
+      },
+      "lastName": {
+        "label": "姓",
+        "message": "请输入姓氏。"
+      },
+      "address1": {
+        "label": "地址1",
+        "message": "请输入地址行。"
+      },
+      "address2": {
+        "label": "地址2"
+      },
+      "mobileNumber": {
+        "label": "手机号码",
+        "message": "请输入手机号码"
+      },
+      "phoneHome": {
+        "label": "电话之家",
+        "placeholder": "家庭电话号码"
+      },
+      "phoneOffice": {
+        "label": "电话办公室",
+        "placeholder": "办公室电话号码"
+      },
+      "currentPassword": {
+        "label": "当前密码",
+        "message": "请输入当前密码。"
+      },
+      "password": {
+        "label": "密码",
+        "messageString": "请以字符串格式输入密码。",
+        "messageTrue": "请输入密码。",
+        "messageSymbol": "密码应至少包含一个数字、小写字母、大写字母和符号。",
+        "messageMin": "密码必须至少包含 12 个字符。",
+        "short": "短的",
+        "weak": "虚弱的",
+        "okay": "好的",
+        "good": "好的",
+        "strong": "强的"
+      },
+      "confirmPassword": {
+        "label": "确认密码",
+        "message": "请输入确认密码。",
+        "error": "确认密码与密码不匹配"
+      },
+      "color": {
+        "topMenuColor": "顶部菜单颜色",
+        "bottomMenuColor": "底部菜单颜色",
+        "topMenuTextColor": "顶部菜单文字颜色",
+        "bottomMenuTextColor": "底部菜单文字颜色",
+        "message": "请选择颜色"
+      },
+      "date": {
+        "label": "日期格式",
+        "placeholder": "选择日期格式",
+        "message": "请选择日期格式"
+      },
+      "fontFamily": {
+        "label": "字体系列",
+        "placeholder": "选择字体系列",
+        "message": "请选择字体系列"
+      },
+      "language": {
+        "label": "选择语言",
+        "message": "请选择语言"
+      },
+      "fontSize": {
+        "label": "字体大小"
+      }
+    }
+  },
+  "shipment": {
+    "title": "运输",
+    "filter": {
+      "shipperFiltered": "可以按客户名称、位置 ID 或搜索 ID 过滤发件人",
+      "consigneeFiltered": "可以按客户名称、位置 ID 或搜索 ID 筛选收货人",
+      "checkingApproval": "检查发货审批流程...",
+      "titles": {
+        "shipmentSearch": "快件查询",
+        "additional": "附加搜索选项"
+      },
+      "additionalSearchOptions": {
+        "salesOrderNo": {
+          "label": "销售订单号"
+        },
+        "masterHouseBill": {
+          "label": "主/房屋提单号",
+          "placeholder": "主/房屋提单号"
+        },
+        "projectNo": {
+          "label": "项目编号",
+          "placeholder": "项目编号"
+        },
+        "quoteNo": {
+          "label": "报价编号",
+          "placeholder": "报价编号"
+        },
+        "createdBy": {
+          "label": "由...制作",
+          "radioEmail": "电子邮件ID",
+          "placeholderEmail": "选择电子邮件"
+        }
+      }
+    },
+    "header": {
+      "title": "管理发货",
+      "addShipment": "创建货件",
+      "delete": "删除",
+      "consolidate": "巩固",
+      "audit": "审核日志",
+      "updateShipmentStatus": "更新发货状态",
+      "confirmationModal": {
+        "title": "货运集运",
+        "description": "选定的货件将合并为一个货件，原货件状态将更改为已关闭，确认！",
+        "okText": "确认！"
+      },
+      "commonUpdateModal": {
+        "title": "发货状态更新"
+      },
+      "commonExportModal": {
+        "title": "出货出口"
+      }
+    },
+    "footer": {
+      "totalRecords": "总记录数",
+      "latePickup": "延迟接载",
+      "lateDelivery": "逾期送达",
+      "trackingFailure": "追踪失败",
+      "missingDocuments": "丢失文件",
+      "pickupFailed": "取件失败"
+    },
+    "dashboard": {
+      "title": "仪表板",
+      "topTransportation": "十大交通提供商",
+      "orderStatistics": "订单统计",
+      "total": "每月发货总数",
+      "shipmentByMode": "按运输方式/货物类型分类",
+      "shipmentByBound": "绑定运输"
+    },
+    "card": {
+      "totalMiles": "总里程",
+      "weight": "重量（公斤）",
+      "weightUtilization": "体重利用率",
+      "printedBolFlag": "印刷 BOL 旗帜",
+      "masterBol": "波尔大师",
+      "volumeUtilization": "体积利用率",
+      "bidExpiry": "出价到期",
+      "title": "复制发货",
+      "description": "您正在创建国际转运货件的副本吗？"
+    },
+    "drawer": {
+      "header": {
+        "approvalNumber": "批准文号",
+        "mastShipment": "主发货",
+        "inconterm": "不符合术语",
+        "houseBillOfLading": "提货单",
+        "freightBillProNumber": "运费单/专业编号",
+        "createAsShipment": "创建为货件",
+        "approve": "批准",
+        "printView": "打印/查看",
+        "commonModalLabel": "文件",
+        "commonModalApprovalTitle": "发货批准",
+        "saveAsShipment": "另存为货件",
+        "childShipment": "儿童托运"
+      },
+      "tabs": {
+        "transportationDetails": "交通详情",
+        "vendorDetails": "供应商详情",
+        "masterChildShipmentDetails": "主/子货运详细信息",
+        "billTo": "记账到",
+        "categoryDetails": "类别详情",
+        "auditLog": "审核日志",
+        "accounting": "附属品和税收",
+        "trackingDetails": "追踪详情",
+        "iTrack": "iTrack",
+        "rateShopResults": "评价商店结果",
+        "addStop": "添加停靠站",
+        "deleteStop": "删除停靠站"
+      },
+      "details": {
+        "delivery": "送货",
+        "distanceKm": "距离（公里）",
+        "distanceMiles": "距离（英里）",
+        "totalWeight": "总重量(磅)",
+        "freightBill": "运费单/专业编号",
+        "masterBillOfLandingNumber": "主提单号码",
+        "freightAllowances": "运费补贴",
+        "customerAccountNumber": "客户帐号",
+        "freeOnBoard": "免费董事会",
+        "incotermNamedPlace": "国际贸易术语命名地点",
+        "createdBy": "由...制作",
+        "cube": {
+          "label": "立方体"
+        }
+      },
+      "product": {
+        "houseBillOfLandingNumber": "房屋提单号码",
+        "unitOfMeasure": {
+          "placeholder": "选择测量单位",
+          "message": "请选择计量单位"
+        },
+        "chargeableWeight": {
+          "label": "计费重量",
+          "placeholder": "输入计费重量",
+          "message": "请输入计费重量",
+          "error": "计费重量必须是数字。"
+        },
+        "packageBilled": {
+          "placeholder": "输入包裹/计费数量",
+          "message": "请输入包裹/计费数量",
+          "error": "包裹/计费数量必须是数字。"
+        },
+        "length": {
+          "placeholder": "输入长度",
+          "message": "请输入长度",
+          "error": "长度应至少为 1"
+        },
+        "width": {
+          "placeholder": "输入宽度",
+          "message": "请输入宽度",
+          "error": "宽度应至少为 1"
+        },
+        "height": {
+          "placeholder": "输入高度",
+          "message": "请输入身高",
+          "error": "高度应至少为 1"
+        },
+        "purchaseOrders": {
+          "label": "订单",
+          "placeholder": "输入采购订单"
+        },
+        "lineItemNumber": {
+          "label": "行项目编号",
+          "placeholder": "输入行项目编号"
+        },
+        "NMFCNumber": {
+          "label": "NMFC编号",
+          "placeholder": "输入 NMFC 编号"
+        }
+      },
+      "notes": {
+        "shipmentNotes": {
+          "placeholder": "输入发货单"
+        }
+      },
+      "vendorDetails": {
+        "addNewVendor": "添加新供应商"
+      },
+      "billTo": {
+        "VATNumber": {
+          "label": "增值税号",
+          "placeholder": "输入增值税号"
+        }
+      },
+      "categoryDetails": {
+        "addNewCategory": "添加新类别",
+        "subCategory": {
+          "label": "子类别",
+          "placeholder": "选择子类别"
+        }
+      },
+      "auditLog": {
+        "database": "数据库",
+        "tableName": "表名",
+        "tableSchema": "表架构",
+        "hostName": "主机名",
+        "applicationName": "应用名称",
+        "columnName": "列名",
+        "oldValue": "旧值",
+        "newValue": "新价值"
+      },
+      "shipmentTransport": {
+        "stopType": {
+          "label": "停止类型",
+          "placeholder": "选择停止类型",
+          "message": "请选择停止类型"
+        },
+        "stopNo": {
+          "label": "停靠站号",
+          "placeholder": "选择停靠站号",
+          "message": "请选择A站地点"
+        },
+        "requestedDateTime": {
+          "label": "申请日期",
+          "date_message": "请选择日期",
+          "time_message": "请选择时间"
+        },
+        "actual": "实际的",
+        "dateTime": "日期",
+        "contactPersonName": {
+          "label": "联系人姓名",
+          "placeholder": "输入名字"
+        },
+        "emailId": {
+          "label": "电子邮件ID",
+          "placeholder": "输入电子邮件 ID"
+        },
+        "contactNo": {
+          "label": "联系方式。",
+          "placeholder": "输入联系电话",
+          "message": "联系号码应为 10 位数字"
+        },
+        "ext": {
+          "label": "分机",
+          "placeholder": "输入分机号"
+        },
+        "dockConfirmationNumber": "码头/确认号码",
+        "taxIdVat": "税号/增值税",
+        "iTrackDetails": "iTrack详情",
+        "emptyRecords": "请耐心等待运营商的更新。"
+      }
+    },
+    "print": {
+      "plNo": "PL 号",
+      "seeSection2": "参见 NMFC 第 360 条第 2(e) 节"
+    },
+    "hazmat": "危险品(X)",
+    "qty": "数量",
+    "saveAsPartial": "另存为部分",
+    "shipmentExportSFiled": "货件导出失败。",
+    "consigneeAppointmentNumber": "收货人预约号码",
+    "shipperAppointmentNumber": "托运人预约号码",
+    "approverName": "审批人姓名",
+    "approverEmail": "审批人电子邮件",
+    "priority": {
+      "label": "优先事项",
+      "placeholder": "选择优先级",
+      "message": "请选择优先级",
+      "error": "优先级应该是唯一的。"
+    },
+    "of": "的",
+    "pallet": "托盘(小)",
+    "proNo": "专业编号",
+    "bolNo": "波尔号",
+    "FOB": "离岸价格",
+    "SID": "安全识别码",
+    "location": "地点",
+    "thirdParty": "第三方运费账单寄至：",
+    "billOfLadingNumber": "提单号码",
+    "proNumber": "亲号：",
+    "serviceDescription": "服务说明：",
+    "freightChargeTerms": "运费条款：",
+    "freightChargesArePrepaid": "（除非另有注明，运费均为预付）",
+    "docNumberConfirmationNumber": "文件编号/确认编号：",
+    "masterBillOfLading": "主提单：附有基础提单",
+    "countryCityStateZip": "国家/城市/州/邮政编码：",
+    "freightCharges": "（除非另有注明，运费均为预付）",
+    "masterBill": "主提单：附有基础提单",
+    "customerCheck": "客户检查可接受",
+    "feeTerms": "费用条款：",
+    "whereTheRate": "如果费率取决于价值，托运人必须以书面形式具体说明财产的约定或声明价值，如下：",
+    "theAgreed": "托运人明确规定财产的约定或申报价值不超过",
+    "poNo": "采购订单号",
+    "soNo": "所以没有",
+    "codAmount": "货到付款金额：",
+    "pleaseSelect": "请选择",
+    "approvers": "批准者",
+    "searchEmail": "搜索电子邮件",
+    "searchByEmail": "通过电子邮件搜索",
+    "shipmentRequire": "此货件不需要批准",
+    "approversList": "批准者名单",
+    "sendApprovalRequest": "发送批准请求",
+    "savingAdditionalDetailsIs": "保存额外的详细信息是",
+    "maxCharacter": "允许的最大字符 25",
+    "checkingPO": "检查 PO 和 SO 可见性",
+    "visitBack": "请修改此货件后回来访问。",
+    "savingBillingDetailsIs": "保存帐单详细信息是",
+    "addingNewCategoryIs": "添加新类别是",
+    "modifyingCategoryIs": "修改类别为",
+    "deletingCategoryIs": "删除类别是",
+    "createSomeData": "创建一些数据。",
+    "masterChildShipment": "主/子托运",
+    "childShipment": "儿童托运",
+    "convertingAs": "转换为",
+    "regularShipment": "定期发货",
+    "progressHas": "进展有",
+    "masterChildShipmentDetails": "主/子货运详细信息",
+    "masterQuantityLeft": "剩余主数量",
+    "masterWeightLeft": "左主重量",
+    "childShipmentDetails": "儿童托运详细信息",
+    "addChildShipment": "添加子货件",
+    "noMasterChildshipments!": "没有主/子发货！",
+    "failedToUpdate": "更新失败",
+    "enter": "进入",
+    "copyingLastProductIs": "复制最后一个产品是",
+    "addingNewProductIs": "添加新产品是",
+    "modifyingProductIs": "修改产品是",
+    "deletingProductIs": "删除产品是",
+    "freightClassSuccessfully": "货运舱位计算成功。",
+    "addNewProductDetails": "添加新产品详细信息",
+    "copyLastProductDetailsEntry": "复制最后的产品详细信息条目",
+    "freightClassCalculator": "货运舱位计算器",
+    "totalChargableWeight": "收费总重量",
+    "weightUnitOfMeasure": "重量计量单位",
+    "pleaseSelectUnitOfMeasure": "租赁选择计量单位",
+    "cooPdf": {
+      "certificationOfOrigin": "原产地证明",
+      "certificateType": "认证者类型（指示“X”）",
+      "importer": "进口商",
+      "exporter": "出口商",
+      "producer": "制片人",
+      "blanketPeriod": "总体期限（月/日/年）",
+      "sectionDetails": "姓名、地址、电话和电子邮件",
+      "certifierSectionDetails": "认证者 $t(shipment.cooPdf.sectionDetails)",
+      "producerSectionDetails": "制片人 $t(shipment.cooPdf.sectionDetails)",
+      "exporterSectionDetails": "$t(shipment.cooPdf.exporter) $t(shipment.cooPdf.sectionDetails)",
+      "importerSectionDetails": "$t(shipment.cooPdf.importer) $t(shipment.cooPdf.sectionDetails)",
+      "taxIdentificationNumber": "税务识别号",
+      "descriptionOfGoods": "商品说明",
+      "originCriterion": "原产地标准",
+      "producerYesNo": "$t(shipment.cooPdf.producer) （是/否）",
+      "methodOfQualification": "资格认定方法",
+      "cointryOfOrigin": "原产国",
+      "certificateAssuranceDescription": "我保证本文件中描述的商品符合原产地条件，并且本文件中包含的信息真实准确。",
+      "certificateAttachmentDescription": "本证书由包含所有附件的页面组成。",
+      "dateWithFormat": "日期（月/日/年）",
+      "documentCompliantDescription": "本文件符合 USMCA 标准"
+    }
+  },
+  "claims": {
+    "spotBidSearch": "现货竞价搜索",
+    "spotBidSearchOriginDestination": "按出发地和目的地进行 SpotBid 搜索",
+    "chooseColumns": "选择用于导出的列。",
+    "selectMinOneField": "请至少选择一个要导出的字段。",
+    "emailToTransportationProvider": "发送电子邮件至运输提供商",
+    "printOverchargeClaim": "打印超额收费索赔",
+    "indemnificationClause": " 赔偿条款：索赔人同意保护因不交出原始运费单而达成和解而提出索赔的运输提供商，并且我们明确保证赔偿。",
+    "dateSubmitted": "提交日期",
+    "contractAuthority": "合同授权",
+    "claimTariff": "索赔关税",
+    "reasonForOvercharge": "超额收费原因",
+    "correctAmount": "正确的金额",
+    "totalPaid": "总支付",
+    "correctCharges": "正确收费",
+    "paidAmount": "已付金额",
+    "billedAmount": "计费金额",
+    "chargeableWeight": "计费重量",
+    "detailedOverchrgeClaimStatement": "详细的超额收费索赔声明",
+    "freightBill": "运费单",
+    "attachedDocumentation": "随附文件",
+    "yourClaimNumber": "您的索赔号码",
+    "ourClaimNumber": "我们的索赔号码",
+    "refer": "请参阅上述所有信件的索赔编号",
+    "forwardCorrespondence": "将信件转发至上述地址并支票抬头： ",
+    "presentation": "多收费索赔的介绍",
+    "printResults": "打印结果",
+    "totalClaims": "索赔总额",
+    "openClaims": "公开索赔",
+    "closedClaims": "已结案的索赔",
+    "onHoldClaims": "搁置索赔",
+    "totalAmountFiled": "提交的总金额",
+    "totalAmountPaid": "支付总额",
+    "byAge": "按年龄：",
+    "daysOld": "岁月如梭",
+    "pleaseEnterDaysOld": "请输入旧日",
+    "claimsNumber": "索赔号码",
+    "pleaseEnterClaimsNumber": "请输入索赔编号",
+    "freightBillProNumber": "运费单/专业编号",
+    "pleaseEnterFreightBillProNumber": "请输入运费单/专业编号",
+    "pleaseEnterInvoiceNumber": "请输入发票号码",
+    "pleaseEnterPackageNumber": "请输入包裹号码",
+    "Details": "细节",
+    "overchargeClaimItems": "多收费索赔项目",
+    "overchargeClaimNotes": "超额收费索赔说明",
+    "overchargeUploadViewFiles": "上传/查看文件过多",
+    "overchargeClaimSettlements": "多收费索赔和解",
+    "addNewNote": "添加新注释",
+    "selectCommentType": "选择评论类型",
+    "commentType": "评论类型",
+    "comments": "评论",
+    "enterComments": "输入评论",
+    "createdBy": "由...制作",
+    "yourClaim": "您的索赔",
+    "enterYourClaim": "输入您的索赔",
+    "noData": "没有数据",
+    "houseBillOfLadingNumber": "房屋提单号码",
+    "others": "其他的",
+    "othersPleaseMention": "其他请提及",
+    "recoverySum": "回收金额",
+    "dateClosed": "关闭日期",
+    "dateRefundedToCustomer": "退款给客户的日期",
+    "checkNumberFromTransportationProvider": "运输提供商提供的支票号码",
+    "pleaseSelectCurrency": "请选择A币种",
+    "ourClaim": "我们的主张",
+    "claimant": "索赔",
+    "overchargeSum": "超额充值金额",
+    "preClaims": "预索赔",
+    "reports": "报告",
+    "overCharge": "过度充电",
+    "lossAndDamage": "损失和损坏",
+    "claimsSettings": "理赔设置",
+    "overchargeClaims": "多收费索赔",
+    "mailTo": "邮寄至",
+    "checkNumberToCustomer": "检查号码给客户"
+  },
+  "routingGuide": {
+    "generalSearch": "一般搜索",
+    "searchByOrigin": "按来源搜索",
+    "searchByDestination": "按目的地搜索",
+    "routingKey": "路由键",
+    "routingGuideID": "路由指南 ID",
+    "routingName": "路由名称",
+    "createdBy": "由...制作",
+    "hazmat": {
+      "label": "危险品",
+      "placeholder": "选择危险品"
+    },
+    "pieces": {
+      "label": "件"
+    },
+    "piecesUOM": {
+      "label": "件",
+      "placeholder": "选择件数计量单位"
+    }
+  },
+  "auction": {
+    "title": "拍卖",
+    "card": "卡片",
+    "noOfStops": "经停次数",
+    "locationId": "地点编号：",
+    "stopType": "停止类型：",
+    "stopNo": "停靠站号：",
+    "companyDetails": "公司详情",
+    "appointmentNumber": "预约号码",
+    "contactPersonName": "联系人姓名",
+    "pickup": "取件请求日期",
+    "pickupAppointmentDateTime": "预约取件日期",
+    "contactNo": "联系方式",
+    "actualPickupDateTime": "实际提货日期",
+    "dockConfirmationNumber": "码头/确认号码",
+    "taxIdVAT": "税号/增值税",
+    "approvalNumber": "批准文号",
+    "spotBIDTypes": "现货投标类型",
+    "selectSpotBIDTypes": "选择出价类型",
+    "consigneeStateProvience": "收货人所在州/省",
+    "BIDExpiryDateTime": "出价到期日",
+    "BIDExpiry": "出价到期",
+    "totalBIDS": "总出价",
+    "openBIDS": "公开投标",
+    "expiredBIDS": "过期的出价",
+    "expiringSoonBIDS": "即将到期的出价",
+    "grossWeight": "总重量",
+    "weightUnitOfMeasure": "重量计量单位",
+    "viewAllStops": "查看所有站点",
+    "viewProductDetails": "查看产品详情",
+    "viewUploadFiles": "查看/上传文件",
+    "shipmentDetails": "物流信息",
+    "shipperDetails": "托运人详细信息",
+    "consigneeDetails": "收货人详情",
+    "frightClass": "惊吓级",
+    "package": "包裹",
+    "delieryDateAndTime": "交货日期和时间",
+    "customerBIDExpiryDateTime": "客户 BID 到期日",
+    "BIDDetails": "出价详情",
+    "equipmentTypeDetails": "设备类型详细信息",
+    "enterEquipmentType": "输入设备类型",
+    "expiryDate": "到期日",
+    "expiryDateIsRequired": "有效期为必填项",
+    "expiryTime": "到期时间",
+    "expiryTimeIsRequired": "需要过期时间",
+    "spotQuoteNumber": "现货报价编号",
+    "enterQuoteNumber": "输入报价单编号",
+    "BIDSubmittedBy": "投标人提交者",
+    "BIDPriceAndCurrency": "投标价格和货币",
+    "BIDPrice": "竞价",
+    "enterPrice": "输入价格",
+    "priceIsRequired": "价格为必填项",
+    "pleaseEnterTheNumber": "请输入号码",
+    "pleaseEnterLowerTheNumber": "请输入低于当前出价的出价",
+    "BIDCurrency": "出价货币",
+    "BIDComment": "出价评论",
+    "enterComment": "输入评论",
+    "submitBID": "提交投标书"
+  }
+}

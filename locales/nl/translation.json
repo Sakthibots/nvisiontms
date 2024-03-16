@@ -1,0 +1,3487 @@
+{
+  "default": {
+    "navMenu": {
+      "home": "Thuis",
+      "dashboard": "Dashboard",
+      "contractManagement": "Contract management",
+      "shipmentsModule": "Verzendingsmodule",
+      "shipmentTracking": "Verzending volgen",
+      "activities": "Activiteiten",
+      "reports": "Rapporten",
+      "pricing": "Prijzen",
+      "procurement": "Inkoop",
+      "purchaseOrderView": "Inkooporderweergave",
+      "routingGuide": "Routegids",
+      "settings": "Instellingen",
+      "companySettings": "Bedrijfsinstellingen",
+      "tmsSettings": "TMS-instellingen",
+      "clientNameGoesHere": "Klantnaam komt hier",
+      "shipment": "Verzending",
+      "visibility": "Zichtbaarheid",
+      "claims": "Claims",
+      "freightBill": "Vrachtbrief",
+      "adminSettings": "Beheerdersinstellingen"
+    },
+    "loading": "Bezig met laden...",
+    "date": "Datum",
+    "captcha": {
+      "placeholder": "Voer de captcha-code in.",
+      "message": "Vul de captcha",
+      "invalid": "Onjuiste captcha."
+    },
+    "buttons": {
+      "save": "Redden",
+      "cancel": "Annuleren",
+      "rateShop": "Beoordeel winkel",
+      "delete": "Verwijderen",
+      "export": "Exporteren",
+      "clear": "Duidelijk",
+      "search": "Zoekopdracht",
+      "mileageCalculator": "Kilometercalculator",
+      "addProduct": "Product toevoegen",
+      "deleteProduct": "Product verwijderen",
+      "edit": "Bewerking",
+      "viewMoreStatus": "Bekijk meer status",
+      "track": "Spoor",
+      "add": "Toevoegen",
+      "update": "Update",
+      "sendEmail": "Verzend mail",
+      "restoreToDefault": "Beginwaarden herstellen",
+      "clearSelection": "Duidelijke selectie",
+      "newStatus": "Nieuwe status",
+      "select": "Selecteer",
+      "close": "Dichtbij",
+      "exportToExcel": "Exporteren naar Excel",
+      "addPO": "PO toevoegen",
+      "addShipper": "Verzender toevoegen",
+      "copy": "Kopiëren",
+      "closed": "Gesloten",
+      "updateSelectedRecords": "Geselecteerde records bijwerken",
+      "viewMoreDetails": "Bekijk meer details",
+      "viewStatus": "Bekijk status",
+      "download": "Downloaden",
+      "addNewLocation": "Adresboek",
+      "addNewZone": "Nieuwe zone toevoegen",
+      "sendRFI": "Stuur RFI",
+      "sendRFQ": "Offerteaanvraag verzenden",
+      "sendRFIRFQ": "Stuur RFI",
+      "stops": "Stopt",
+      "hide": "Verbergen",
+      "view": "Weergave",
+      "viewOrderInformation": "Bekijk bestelinformatie"
+    },
+    "documentManager": {
+      "fileUpdatingIssuccess": "Het bijwerken van bestanden is gelukt.",
+      "title": "Documentbeheerder",
+      "noFoundText": "Geen verslagen gevonden",
+      "addNewFile": "Nieuw bestand toevoegen",
+      "addNewLane": "Nieuwe rijstrook toevoegen",
+      "addNewParameter": "Voeg nieuwe parameter toe",
+      "chooseFile": "Kies bestand",
+      "fileName": "Bestandsnaam : ",
+      "chooseFileMessage": "Selecteer een bestand",
+      "docDescMessage": " wordt al gebruikt.",
+      "supportingDocumentNumber": "Ondersteunend documentnummer",
+      "only": "alleen",
+      "filesAreAllowed": "bestanden zijn toegestaan",
+      "documentTypeMessage": "Selecteer een documenttype",
+      "notificationUploadingFailed": "Het uploaden van bestanden is mislukt.",
+      "documentManager": {
+        "label": "type document",
+        "placeholder": "Selecteer Documenttype",
+        "message": "Selecteer een type"
+      },
+      "docType": {
+        "label": "type document",
+        "placeholder": "Selecteer Documenttype",
+        "message": "Selecteer een type"
+      },
+      "fileComments": {
+        "label": "Bestandsopmerkingen",
+        "placeholder": "Voer bestandsopmerkingen in"
+      },
+      "referenceNo": {
+        "label": "Ondersteunend documentreferentienummer",
+        "placeholder": "Voer het referentienummer van het ondersteunende document in",
+        "title": "Referentienummer"
+      },
+      "notificationUploadingError": "Het uploaden van bestanden is een succes. ",
+      "notificationUploadingSuccess": "Het uploaden van bestanden is een succes",
+      "notificationUpdatingSuccess": "Het bijwerken van bestanden is gelukt",
+      "notificationDeleteSuccess": "Bestanden verwijderen is succes.",
+      "notificationDeleteError": "Het verwijderen van bestanden is mislukt."
+    },
+    "popConfirm": {
+      "title": "Weet je het zeker?"
+    },
+    "weekDays": {
+      "sun": "Zondag",
+      "mon": "Maandag",
+      "tue": "Dinsdag",
+      "wed": "Woensdag",
+      "thu": "Donderdag",
+      "fri": "Vrijdag",
+      "sat": "Zaterdag"
+    },
+    "options": {
+      "and": "En",
+      "all": "Alle",
+      "enable": "Inschakelen",
+      "disable": "Uitzetten",
+      "yes": "Ja",
+      "no": "Nee",
+      "cargo": "Lading",
+      "passenger": "Passagier",
+      "new": "Nieuw",
+      "spotBidEnd": "SpotBidEnd",
+      "spotBid": "SpotBid",
+      "blind": "Blind",
+      "reverseBlind": "Omgekeerd blind",
+      "purchaseOrder": "Bestelling",
+      "na": "NA",
+      "routingGuide": "Routegids",
+      "draftShipment": "Conceptverzending",
+      "finalShipment": "Laatste verzending",
+      "сurrent": "Huidig",
+      "historical": "Historisch (rood)"
+    },
+    "language": {
+      "en": "Engels",
+      "es": "Spaans",
+      "es-cr": "Spaans (Castiliaans)",
+      "es-mx": "Spaans (Mexicaans)",
+      "it": "Italiaans",
+      "ch": "Chinese",
+      "zh-tw": "Chinese",
+      "fr": "Frans",
+      "nl": "Nederlands",
+      "pt": "Portugees",
+      "pt-br": "Portugees (Braziliaans)",
+      "de": "Duits",
+      "pl": "Pools",
+      "fi": "Fins",
+      "ko": "Koreaans",
+      "ja": "Japans"
+    },
+    "fields": {
+      "shipmentAdditionalInformation": "Verzending Aanvullende informatie",
+      "shipmentInformation": "Verzendingsinformatie",
+      "rateDetails": "Tariefdetails",
+      "selectState": {
+        "label": "Selecteer staat",
+        "placeholder": "Selecteer staat"
+      },
+      "productDetails": "Productdetails",
+      "distributor": "Distributeur",
+      "costName": "Naam van de kosten",
+      "tender": "Teder",
+      "pending": "In behandeling",
+      "selectTime": "Selecteer Tijd",
+      "enter": "Binnenkomen",
+      "profile": "Profiel",
+      "addressBook": "Adresboek",
+      "productCode": {
+        "label": "Productcode",
+        "message": "Voer de productcode in",
+        "placeholder": "Voer de productcode in",
+        "tooltip": "Stelt de standaardproductcode in op de accordeon met productdetails"
+      },
+      "addNewProduct": " Nieuw product toevoegen",
+      "number": "Nummer",
+      "code": "Code",
+      "contactNumber": "Contact nummer",
+      "carrier": "Vervoerder",
+      "vendor": "Leverancier",
+      "popconfirmFreightClass": "Wilt u de vrachtklasse berekenen?",
+      "quoteNo": "Citaat nr",
+      "approvalNo": "Goedkeuring nr",
+      "claimType": "Claimtype",
+      "closedDate": "Gesloten datum",
+      "claimStatus": "Claimstatus",
+      "amendmentDate": "Wijzigingsdatum",
+      "submittedDate": "Ingediende datum",
+      "submittedBy": "Ingezonden door",
+      "preparedBy": "Voorbereid door",
+      "auditedBy": "Gecontroleerd door",
+      "recoveryAmount": "Herstelbedrag",
+      "overchargeAmount": "Overbelastingsbedrag",
+      "packageNumber": "Pakketnummer",
+      "claimNumber": "Claimnummer",
+      "updateDraft": "updateConcept",
+      "saveAsDraft": "Opslaan als concept",
+      "deleteVendorSuccessfully": "Leverancier succesvol verwijderen",
+      "portSearch": "Haven zoeken",
+      "transportationProviderSearch": "Transportaanbieder zoeken",
+      "viewCI": "Bekijk CI",
+      "viewPL": "Bekijk PL",
+      "viewBOL": "Bekijk BOL",
+      "viewCOO": "Bekijk COO",
+      "viewShipping": "Bekijk Verzending",
+      "signature": "Handtekening",
+      "statusType": "Statustype",
+      "updateReceivedEST": "Update ontvangen in EST",
+      "plannedDeliveryDate": "Geplande leverdatum",
+      "plannedShipDate": "Geplande verzenddatum",
+      "shipperReqDeliveryDate": "Door de verzender gevraagde leverdatum",
+      "shipperReqShipDate": "Verzenddatum verzoek verzender",
+      "conReferenceNo": "Referentienummer van de ontvanger",
+      "eventOccurrenceLocalTime": "Voorval van gebeurtenis Lokale tijd",
+      "unitMeasure": "Hoeveelheidseenheid",
+      "displayAllTrackingStatus": "Geef alle trackingstatus weer",
+      "itemQuantity": "Artikelhoeveelheid",
+      "billQtyUOM": "Pakket/gefactureerde hoeveelheid Eenheid",
+      "quantityUOM": "Hoeveelheid Eenheid",
+      "orderQuantity": "Bestelhoeveelheid",
+      "mode": "Modus",
+      "businessSegment": "Bedrijfssegment",
+      "poNumber": "Postbus nummer",
+      "lineNo": "Lijn nr",
+      "itnNumber": "ITN-nummer",
+      "distributorName": "Naam distributeur",
+      "rateStatus": "Beoordeelstatus",
+      "showAllSpotBidCarrier": "Toon alle SpotBid-aanbieder",
+      "costCurrency": "Kostenvaluta",
+      "cost": "Kosten",
+      "rateSubmittedOn": "Tarief ingediend op",
+      "partNumberDescription": "Onderdeelnummer Beschrijving",
+      "salesOrderNumber": "Ordernummer",
+      "purchaseOrderNumber": "Aankoop order nummer",
+      "displayStopOffs": "Stop-offs weergeven",
+      "freightBillNumber": "Vrachtfactuurnummer",
+      "transportationProviderAppointmentNumber": "Afspraaknummer van transportaanbieder",
+      "masterShipmentNo": "Hoofdverzending nr",
+      "houseBOLNo": "Huis BOL Nr",
+      "masterBOLNo": "Master BOL-nr",
+      "modifiedBy": "Aangepast door",
+      "modifiedOn": "Gewijzigd Aan",
+      "printedBillOfLading": "Gedrukte vrachtbrief",
+      "billOfLanding": "COGNOSSEMENT",
+      "billOfLandingContent": "Cognossement",
+      "countryOdOrigin": "Land van herkomst",
+      "dataFetchingError": "Fout bij het ophalen van gegevens",
+      "shipFrom": "VERSCHEPEN VAN",
+      "shipTo": "VERZEND NAAR",
+      "totalMileage": "Totaal aantal kilometers",
+      "shipmentCost": "Verzendkosten",
+      "shipmentCounts": "Verzending telt",
+      "shipmentTransportationProvider": "Aanbieder van verzendingsvervoer",
+      "shipmentCargoType": "Verzending Ladingstype",
+      "packageBilledQuantityunitOfMeasure": "Maateenheid pakket/gefactureerde hoeveelheid",
+      "chargebleWeight": "Oplaadbaar gewicht",
+      "consigneePortType": "Haventype ontvanger",
+      "shipmentStatus": "Verzending status",
+      "shipmentNotes": "Verzendingsnotities",
+      "shipmentDetails": "verzendingsdetails",
+      "shipmentNo": "Verzendingsnummer",
+      "shipmentDate": "Datum van verzending",
+      "consignee": "Geadresseerde",
+      "carrierName": "Naam vervoerder",
+      "billQ": "Factuurhoeveelheid",
+      "trailerNumber": "Trailernummer:",
+      "sealNumber": "Zegelnummer(s):",
+      "shipperReferenceNo": "Referentienummer verzender",
+      "email": "E-mail",
+      "phoneExt": "Telefoon ext",
+      "phone": "Telefoon",
+      "contact": "Contact",
+      "zip": "Ritssluiting",
+      "name": "Naam",
+      "drop": "Druppel",
+      "terminal": "Terminal",
+      "pickUp": "Ophalen",
+      "fileName": "Bestandsnaam",
+      "specialInstructions": "speciale instructies",
+      "specialInstructionsSecondary": "SPECIALE INSTRUCTIES:",
+      "customerOrderInformation": "KLANTBESTELLINGINFORMATIE",
+      "customerOrderNumber": "KLANT BESTELNUMMER",
+      "additionalShipperInfo": "AANVULLENDE INFO VOOR DE VERZENDER",
+      "carrierInfo": "VERVOERSINFORMATIE",
+      "additionalUnit": "EXTRA EENHEID",
+      "handlingUnit": "BEHANDELINGSEENHEID",
+      "commodityDescription": "BESCHRIJVING VAN GOEDEREN",
+      "commodityText": "Goederen die speciale of extra zorg of aandacht vereisen bij het hanteren of opbergen, moeten zo worden gemarkeerd en verpakt dat veilig transport met gewone zorg wordt gegarandeerd. ",
+      "package": "PAKKET",
+      "weightTable": "GEWICHT",
+      "palletSlip": "PALLET/SLIP",
+      "grandTotal": "EINDTOTAAL",
+      "commercialInvoice": "COMMERCIELE FACTUUR",
+      "commercialInvoiceContents": "Commerciele factuur",
+      "identificationNumber": "Identificatie Nummer:",
+      "noteLiability": "OPMERKING Aansprakelijkheidsbeperking voor verlies of schade in deze zending kan van toepassing zijn. ",
+      "received": "ONTVANGEN, met inachtneming van individueel bepaalde tarieven of contracten die schriftelijk zijn overeengekomen tussen de vervoerder en de verzender, indien van toepassing, en anders de tarieven, classificaties en regels die door de vervoerder zijn vastgesteld en die op verzoek beschikbaar zijn voor de verzender, ",
+      "carrierShall": "De vervoerder zal deze zending niet afleveren zonder betaling van de vrachtkosten en alle andere wettelijke kosten.",
+      "certify": "Hiermee wordt verklaard dat de hierboven genoemde materialen op de juiste manier zijn geclassificeerd, verpakt, gemarkeerd en geëtiketteerd, en in goede staat zijn voor transport volgens de toepasselijke regelgeving van de DOT.",
+      "classTable": "KLAS",
+      "type": "TYPE",
+      "shipperSignatureDate": "HANDTEKENING / DATUM VAN DE VERZENDER",
+      "trailerLoaded": "Aanhangwagen geladen:",
+      "freightCounted": "Getelde vracht:",
+      "freight": "Vracht:",
+      "byShipper": "Door verzender",
+      "byDriver": "Door chauffeur",
+      "byDriverPallets": "Per chauffeur/pallets die naar verluidt bevatten",
+      "byDriverPieces": "Per chauffeur/stukken",
+      "carrierPickupDate": "HANDTEKENING VAN DE VERVOERDER / OPHAALDATUM",
+      "carrierAcknowledges": "De vervoerder bevestigt de ontvangst van pakketten en vereiste plakkaten. ",
+      "hazmat": "Hazmat",
+      "ltlOnly": "ALLEEN LTL",
+      "invoiceNumber": "Factuurnummer",
+      "shipperSignature": "Handtekening van de verzender",
+      "houseBillOfLandingNumber": "Landingsnummer van het huis",
+      "billQty": "Pakket/gefactureerde hoeveelheid",
+      "packageWeight": "pakket gewicht",
+      "unitOfMeasure": "Maateenheid",
+      "height": "Hoogte",
+      "width": "Breedte",
+      "length": "Lengte",
+      "currencyCode": "Valuta code",
+      "eccnNumber": "ECCN-nummer",
+      "htcCode": "HTC-code",
+      "unitPrice": "Eenheid prijs",
+      "totalQuantity": "Totale kwantiteit",
+      "consigneePortName": "Naam van de haven van de ontvanger",
+      "consigneeHoursOfOperations": "Openingstijden van de ontvanger",
+      "consigneeDaysTo": "Geadresseerde dagen van de week tot",
+      "consigneeDaysFrom": "Geadresseerde dagen van de week vanaf",
+      "consigneeAppointmentType": "Afspraaktype ontvanger",
+      "consigneeWarehouseEmail": "E-mail van het magazijn van de geadresseerde",
+      "consigneeWarehouseTelephone": "Telefoon van het magazijn van de geadresseerde",
+      "consigneeWarehouseContact": "Contactpersoon magazijn geadresseerde",
+      "shipperPortName": "Havennaam verzender",
+      "hoursOfOperations": "Openingstijden",
+      "warehouseEmail": "Magazijn E-mail",
+      "warehouseTelephone": "Magazijn Telefoon",
+      "warehouseContact": "Magazijncontactpersoon",
+      "shipperPortType": "Poorttype verzender",
+      "countryOfOrigin": "Land van herkomst",
+      "hts": "HTS",
+      "eccn": "ECCN",
+      "coo": "COO",
+      "ciNo": "CI-nr.:",
+      "description": "Beschrijving",
+      "newShipDate": "Nieuwe verzenddatum",
+      "quantityLeft": "Aantal over",
+      "consigneePostal": "Geadresseerde post",
+      "shipperPostal": "Verzender post",
+      "percentageLeft": "Percentage over",
+      "weight": "Gewicht",
+      "expectedDeliveryDate": "Verwachte leverdatum",
+      "destination": "Bestemming",
+      "origin": "Oorsprong",
+      "bolNumber": "BOL-nummer",
+      "comparativeRate": "Vergelijkend tarief",
+      "actualCarrierRate": "Werkelijk vervoerdertarief",
+      "bidStatus": "BID-status",
+      "spotBidHistory": "Spot-bodgeschiedenis",
+      "allSpotBids": "Alle spotbiedingen",
+      "openSpotBids": "Open spotbiedingen",
+      "paymentTerms": "Betaalvoorwaarden",
+      "partNumber": "Onderdeel nummer",
+      "povStatus": "POV-status",
+      "orderDeliveryDate": "Leveringsdatum bestelling",
+      "orderShipDate": "Bestel verzenddatum",
+      "conStateState": "Geadresseerde staat",
+      "consigneeZip": "Geadresseerde zip",
+      "shipperState": "Staat van verzender",
+      "shipperZip": "Verzender ritssluiting",
+      "orderNumber": "Bestellingsnummer",
+      "transitDays": "Transitdagen",
+      "transitDaysAreRequired": "Transitdagen zijn vereist",
+      "emailAddress": "E-mailadres",
+      "currencyName": "Valutanaam",
+      "price": "Prijs",
+      "packageQuantity": "hoeveelheid verpakkingen",
+      "packageUOMQuantity": "Verpakkingseenheid Hoeveelheid",
+      "weightUOM": "Gewicht eenheid",
+      "selectWeightUOM": "Selecteer Gewichtseenheid",
+      "totalWeight": "Totale gewicht",
+      "totalItemQty": "Totaal artikelaantal",
+      "packageDimensions": "pakketafmetingen",
+      "consigneeAddress": "Adres van de ontvanger",
+      "shipperAddress": "Adres verzender",
+      "shipperPostalCode": "Postcode verzender",
+      "pickupDate": "Ophaaldatum",
+      "effectiveDueDate": "Effectieve vervaldatum",
+      "totalCube": "Totaal Kubus",
+      "total": "TOTAAL",
+      "bid": "BOD",
+      "open": "Open",
+      "multiStop": "Multi-stop",
+      "notes": "Opmerkingen",
+      "shipmentCount": "Aantal verzendingen",
+      "quantityShipped": "Verscheepte hoeveelheid",
+      "daysOfWeek": "Dagen van de week",
+      "tenderEmailAddress": "E-mailadres offerte",
+      "selectAll": "Selecteer alles",
+      "spotBid": "Spot-BOD",
+      "mapView": "Kaartweergave",
+      "changesWillBeLost": "Wijzigingen gaan verloren.",
+      "quoteNumber": "Quote nummer",
+      "failedToExportShipmentDetails": "Kan de verzendgegevens niet exporteren.",
+      "createdByFullName": "Gemaakt door(volledige naam)",
+      "createByEmailAddress": "Aanmaken door (e-mailadres)",
+      "purchaseOrderNo": "Bestelnummer.",
+      "milageCalculator": "Kilometercalculator",
+      "create": "Creëren",
+      "reset": "Opnieuw instellen",
+      "shipper": "Verzender",
+      "totalDistance": "Totale afstand",
+      "attachedDocuments": "Bijgevoegde documenten",
+      "print": "Afdrukken",
+      "unsavedChanges": "Niet-opgeslagen wijzigingen gaan verloren. ",
+      "alert": "Waarschuw",
+      "logout": "Uitloggen",
+      "approvalRejectionMessage": "Goedkeuring/afwijzingsbericht",
+      "validatingPleaseWait": "Valideren, even geduld a.u.b....",
+      "redirectURL": "De omgeleide URL is momenteel niet geldig. Controleer de URL.",
+      "filter": "Filter",
+      "manageCompany": "Beheer bedrijf",
+      "thePageYouVisitedDoesNotExist": "Sorry, de pagina die u bezocht heeft bestaat niet.",
+      "backHome": "Thuis",
+      "page": "Bladzijde",
+      "kindlyTryAgain": "Probeer het alstublieft opnieuw",
+      "hasBeenCreated": " Is gemaakt. ",
+      "toCopyError": "Een projectfout kopiëren",
+      "shipmentConsolidationFailed": "Consolidatie van zendingen is mislukt.",
+      "failedToCopyShipmentNo": "Kan verzendingsnr. niet kopiëren",
+      "shipmentDeletedSuccessfully": "Verzending succesvol verwijderd.",
+      "shipmentCreatedSuccessfully": "Verzending succesvol aangemaakt.",
+      "shipmentCreationSuccessfully": "Het maken van de verzending is mislukt.",
+      "shipmentSend": "Verzending verzonden voor spotbod is succesvol.",
+      "shipmentSendFailed": "Verzending voor spotbod is mislukt.",
+      "bidderAddedSuccessfully": "Bieder succesvol toegevoegd.",
+      "failedToAddBidder": "Kan bieder niet toevoegen",
+      "failedToLoadRate": "Kan de winkellijst met tarieven niet laden.",
+      "yourSpotBidHasEnded": "Succes! ",
+      "failedYourSpotBid": "Mislukt! ",
+      "failedToDeleteShipments": "Kan zendingen niet verwijderen.",
+      "shipmentTenderProcessSuccess": "Verzending Tenderproces succesvol.",
+      "shipmentTenderProcessError": "Fout in het proces van verzendingsofferte.",
+      "successfullyCalculated": "De nieuwe kilometerstand is succesvol berekend",
+      "failedToCalculateTheMileage": "Kan de kilometerstand niet berekenen.",
+      "successfullySavedRateShopResults": "Rate Shop-resultaten succesvol opgeslagen.",
+      "failedToSaveRateShopResults": "Kan de resultaten van de Rate Shop niet opslaan!",
+      "failedToGetAuditLogs": "Kan auditlogboeken niet ophalen!",
+      "tmsSettingsSuccessfullySaved": "TMS-instellingen succesvol opgeslagen.",
+      "copyProjectSuccessfully": "Kopieer het project succesvol",
+      "failedToSave": "Kan TMS-instellingen niet opslaan. ",
+      "currentlyRatingResults": "Momenteel beoordelingsresultaten of niet beschikbaar.",
+      "failedToGetShipment": "Kan de verzendgegevens niet ophalen. Probeer het later opnieuw.",
+      "successfullySavedAddressBook": "Adresboek succesvol opgeslagen!",
+      "failedToSaveAddressBook": "Kan adresboek niet opslaan!",
+      "successfullyDeletedAddressBook": "succesvol verwijderd Adresboek!",
+      "failedToDeleteAddressBook": "Kan adresboek niet verwijderen!",
+      "successfullySavedProduct": "succesvol opgeslagen product!",
+      "failedToSaveProduct": "Kan product niet opslaan!",
+      "failedToGetTracking": "Kan geen tracking verkrijgen",
+      "failedToGetExcelData": "Kan Excel-gegevens niet ophalen",
+      "failedToGetExcelDataDetails": "Kan Excel-gegevensdetails niet ophalen",
+      "documentEmailsSuccessfullySent": "Document-e-mails zijn succesvol verzonden.",
+      "failedToSendDocumentEmail": "Kan document-e-mail niet verzenden!",
+      "documentDownloadedSuccessfully": "Document succesvol gedownload",
+      "failedDocumentRequest": "Mislukt documentverzoek",
+      "updateTheReferenceAndDockNumberSuccess": "Update het referentie- en docknummersucces",
+      "failedToUpdateTheReferenceAndDockNumber": "Het is niet gelukt om de referentie en het docknummer bij te werken!",
+      "successfullySavedITrackDetails": "iTrack-gegevens succesvol opgeslagen.",
+      "failedToSaveITrackDetails": "Kan iTrack-gegevens niet opslaan!",
+      "updateShipmentNoteSuccess": "Update vrachtbrief succesvol",
+      "failedToUpdateShipmentNote": "Kan de verzendbon niet bijwerken!",
+      "failedToUpdateShipmentDetails": "Kan de verzendgegevens niet bijwerken!",
+      "updatedShipmentDetailsSuccessfully": "Verzendgegevens succesvol bijgewerkt",
+      "successfullyDeletedDistributorDetails": "Distributiegegevens zijn succesvol verwijderd.",
+      "failedToDeleteDistributorDetails": "Kan distributeurgegevens niet verwijderen.",
+      "successfullyDeletedRoutingDetails": "Routegegevens zijn verwijderd.",
+      "failedToDeleteRoutingDetails": "Kan routegegevens niet verwijderen.",
+      "currentlyNotAbleToGet": "Momenteel kunnen de adresboekgegevens niet worden opgehaald. Probeer het later opnieuw.",
+      "successfullySavedTheQuoted": "De opgegeven verzendgegevens zijn succesvol opgeslagen met Verzendnummer:",
+      "failedSaveTheQuoteShipmentDetails": "Kan de verzendgegevens van de offerte niet opslaan!",
+      "theUpdatingDataAreInvalid": "De updategegevens zijn ongeldig",
+      "successfullyUpdatedTheAccounting": "De boekhouding is bijgewerkt",
+      "successfullyUpdatedTheAccountingDetails": "De boekhoudgegevens zijn bijgewerkt",
+      "failedToSaveAccounting": "Kan boekhouding niet opslaan",
+      "failedToSaveAccountingDetails": "Kan boekhoudgegevens niet opslaan",
+      "shipmentHasBeenCreatedSuccessfullyWith": "Zending is succesvol aangemaakt met zendingsnummer:",
+      "failedCreateShipment": "Het maken van de verzending is mislukt.",
+      "failedToGetMilageDetails": "Het is niet gelukt om de kilometergegevens op te halen!",
+      "failedToGetRatesData": "Kan tariefgegevens niet ophalen!",
+      "failedToValidateApproval": "Kan de goedkeuring niet valideren.",
+      "failedToGetApproversList": "Kan de lijst met goedkeurders niet ophalen.",
+      "somethingWentWrong": "Er is iets fout gegaan!",
+      "shippingLabelHasBeenCreatedSuccessfully": "Verzendlabel is succesvol aangemaakt met zendingsnummer:",
+      "failedToCreateShippingLabel": "Het is niet gelukt om een ​​verzendlabel aan te maken! Controleer uw gegevens en probeer het opnieuw!",
+      "newChildShipmentIsCreated": "Er wordt een nieuwe subzending aangemaakt met goedkeuringsnr.:",
+      "successfullySentTheApprovalRequestToTheCustomers": "Het goedkeuringsverzoek is met succes naar de klanten verzonden.",
+      "failedToSendTheApprovalRequest": "Kan het goedkeuringsverzoek niet verzenden!",
+      "successfullyAssignedTheTransportationProvider": "De transportaanbieder is succesvol toegewezen.",
+      "failedToAssignTheTransportationProvider": "Kan de transportaanbieder niet toewijzen.",
+      "successfullyAddedRateEntry": "Tariefinvoer succesvol toegevoegd.",
+      "failedToAddRateEntry": "Kan tarief niet toevoegen.",
+      "failedToValidateRateEntry": "Kan tariefinvoer niet valideren.",
+      "successfullyDeletedRateEntry": "Tariefinvoer succesvol verwijderd.",
+      "failedToRemoveRateEntry": "Kan tariefinvoer niet verwijderen.",
+      "failedToGetMasterChilde": "Kan Master/Childe-verzendgegevens niet ophalen!",
+      "successfullyUpdatedRateEntry": "Tariefinvoer succesvol bijgewerkt.",
+      "failedToUpdateRateEntry": "Kan tariefinvoer niet bijwerken.",
+      "successfullySavedAsShipment": "Succesvol opgeslagen als verzending",
+      "failedToSaveAsShipment": "Opslaan als verzending mislukt!",
+      "failedToGetBranchAddress": "Kan het filiaaladres niet ophalen.",
+      "failedToGetShipmentsStopsDetails": "Kan de details van de zendingsstops niet ophalen!",
+      "packingList": "PAKLIJST",
+      "packingListContents": "Paklijst",
+      "billTo": "REKENING NAAR",
+      "vendorAdress": "VERKOPER ADRES",
+      "supplierAddress": "LEVERANCIERADRES",
+      "packageQty": "Pakketaantal",
+      "customRelease": "Douanevrijgavereferentie:",
+      "referenceDate": "Referentie datum:",
+      "releaseDate": "Datum van publicatie:",
+      "soldTo": "VERKOCHT AAN",
+      "legalText": "Juridische tekst.",
+      "totalInvoice": "Totaal factuurbedrag:",
+      "insurance": "Verzekering:",
+      "invoiceLine": "Totaal factuurregel:",
+      "totalAmount": "Totaalbedrag",
+      "license": "Licentie",
+      "htsCode": "HTS-code",
+      "totals": "TOTALEN",
+      "generatedPackingList": "Met succes gegenereerd paklijstbestand.",
+      "generateAllSupporting": "Genereer alle ondersteunende documenten",
+      "sendCopyTo": "Kopie sturen naar:",
+      "myEmailAddress": "Mijn e-mailadres",
+      "otherEmailAddress": "Ander e-mailadres",
+      "typeEmailComma": "Typ het e-mailadres gescheiden door een komma",
+      "successfullyLadingPDF": "Met succes gegenereerd vrachtbrief pdf-bestand.",
+      "failedBillLadingPDFFile": "Kan geen pdf-bestand met vrachtbrief genereren.",
+      "commoditiesRequiring": "Goederen die speciale of extra zorg of aandacht vereisen bij het hanteren of opbergen, moeten zo gemarkeerd en verpakt zijn dat veilig transport met gewone zorg gegarandeerd is",
+      "whereTheRate": "Wanneer het tarief afhankelijk is van de waarde, zijn verladers verplicht om de overeengekomen of aangegeven waarde van het onroerend goed als volgt specifiek schriftelijk te vermelden:",
+      "agreedOrDeclared": "De overeengekomen of aangegeven waarde van het onroerend goed wordt door de verzender uitdrukkelijk vermeld als niet hoger",
+      "cid": "CID",
+      "emailID": "E-mail identiteit",
+      "modal": {
+        "label": "Veranderingen gaan verloren!",
+        "labelTwo": "Zeker verwijderen?",
+        "okText": "OK"
+      },
+      "shipmentsByServiceType": "Verzendingen per servicetype",
+      "startDateAndTime": "Startdatum en -tijd",
+      "updateShipmentSummary": "Verzendsamenvatting bijwerken",
+      "pleaseSelectAnyItem": "Selecteer een item.",
+      "pleaseEnterPackageWeight": "Voer het pakketgewicht in",
+      "location": {
+        "label": "Plaats",
+        "message": "Voer Locatie in",
+        "messageMax": "Locatie mag niet langer zijn dan 13 tekens."
+      },
+      "contactEmailAddress": {
+        "label": "E-mailadres voor contact"
+      },
+      "portCode": {
+        "label": "Havencode",
+        "placeholderSelect": "Selecteer Poortcode",
+        "placeholderEnter": "Voer de poortcode in"
+      },
+      "customer": {
+        "label": "Klant",
+        "message": "Selecteer een klant"
+      },
+      "scac": {
+        "label": "SCAC",
+        "placeholder": "Voer SCAC in"
+      },
+      "shipDate": {
+        "label": "Verzenddatum",
+        "message": "Selecteer een verzenddatum"
+      },
+      "deleteConfirm": {
+        "title": "Weet je zeker dat je dit wilt verwijderen?"
+      },
+      "internalNotes": {
+        "label": "Interne opmerkingen",
+        "placeholder": "Voer interne notities in"
+      },
+      "pickUpReference": {
+        "label": "Ophaalreferentie",
+        "message": "Voer de ophaalreferentie in"
+      },
+      "dimUnitOfMeasure": {
+        "label": "DIM-maateenheid",
+        "message": "Selecteer maateenheid"
+      },
+      "packageType": {
+        "label": "Pakkettype",
+        "message": "Selecteer pakkettype"
+      },
+      "packageID": {
+        "label": "Pakket-ID",
+        "placeholder": "Voer pakket-ID in"
+      },
+      "quantity": {
+        "label": "Hoeveelheid",
+        "placeholder": "Voer hoeveelheid in",
+        "message": "Voer het aantal in",
+        "error": "Het aantal moet minimaal 1 zijn",
+        "number": "Hoeveelheid moet een getal zijn."
+      },
+      "receiptNumber": {
+        "label": "Selecteer Ontvangstnummer",
+        "placeholder": "Ontvangstnummer"
+      },
+      "cube": {
+        "label": "Kubus",
+        "placeholder": "Voer Kubus in",
+        "message": "Voer de kubus in",
+        "errorNegative": "Kubus mag geen negatieve waarden hebben"
+      },
+      "expectedShipDate": {
+        "label": "Verwachte verzenddatum"
+      },
+      "productDesc": {
+        "label": "Productomschrijving",
+        "placeholder": "Selecteer Productcode",
+        "message": "Selecteer Productcode",
+        "enter": "Voer de productbeschrijving in",
+        "tooltip": "Stelt de standaardproductbeschrijving in op de accordeon met productdetails"
+      },
+      "lineNumber": {
+        "label": "Lijnnummer"
+      },
+      "incoTerm": {
+        "label": "IncoTerm",
+        "placeholder": "Selecteer IncoTerm",
+        "tooltip": "Vooraf ingestelde IncoTerm in de verzendmodule. "
+      },
+      "consigneeCity": {
+        "label": "Geadresseerde stad",
+        "placeholder": "Selecteer Plaats van ontvanger"
+      },
+      "consigneeState": {
+        "label": "Staat/provincie van de ontvanger",
+        "placeholder": "Selecteer Staat/Provincie van de ontvanger"
+      },
+      "consigneePostalCode": {
+        "label": "Postcode van de ontvanger"
+      },
+      "consigneeCountry": {
+        "label": "Land van ontvanger",
+        "placeholder": "Selecteer Land van ontvanger"
+      },
+      "consigneeName": {
+        "label": "Naam geadresseerde",
+        "placeholder": "Selecteer Naam geadresseerde",
+        "message": "Selecteer Naam geadresseerde"
+      },
+      "shipperCity": {
+        "label": "Verlader stad",
+        "placeholder": "Selecteer Stad verzender",
+        "message": "Voer de stad van de verzender in"
+      },
+      "shipperStateProvince": {
+        "label": "Staat/provincie van de verzender",
+        "placeholder": "Selecteer Staat/provincie verzender"
+      },
+      "shipperCountry": {
+        "label": "Land van verzender",
+        "placeholder": "Selecteer Land van verzender",
+        "message": "Selecteer het land van de verzender"
+      },
+      "deliveryDate": {
+        "label": "Bezorgdatum",
+        "message": "Selecteer een bezorgdatum"
+      },
+      "freightClass": {
+        "label": "Vrachtklasse",
+        "placeholder": "Selecteer vrachtklasse",
+        "tooltip": "Stelt de standaardvrachtklasse in op de accordeon met productdetails"
+      },
+      "shipmentNumber": {
+        "label": "Verschepingsnummer",
+        "placeholder": "Voer het verzendnummer in"
+      },
+      "shipmentTerms": {
+        "label": "Verzendingsvoorwaarden",
+        "message": "Selecteer een Verzendvoorwaarden",
+        "option_c": "Verzamelen",
+        "option_p": "Vooraf betaald",
+        "option_t": "Derde partij",
+        "placeholder": "Selecteer Verzendvoorwaarden",
+        "tooltip": "Stelt standaard verzendvoorwaarden in voor de verzending"
+      },
+      "transportationProvider": {
+        "label": "Transportaanbieder",
+        "selectPlaceholder": "Selecteer Transportaanbieder",
+        "message": "Transportaanbieder is vereist",
+        "select": "Selecteer Transportaanbieder",
+        "email": "E-mail succesvol verzonden naar transportaanbieder",
+        "emailError": "Mislukte e-mailverzending naar vervoersaanbieder"
+      },
+      "vendorName": {
+        "label": "Naam van de leverancier",
+        "placeholder": "Selecteer Leveranciersnaam",
+        "message": "Selecteer Leverancier"
+      },
+      "companyName": {
+        "label": "Bedrijfsnaam",
+        "placeholder": "Voer bedrijfsnaam in",
+        "selectPlaceholder": "Selecteer Bedrijfsnaam",
+        "message": "Voer bedrijfsnaam in"
+      },
+      "companyAddress": {
+        "label": "bedrijfsadres",
+        "placeholder": "Voer bedrijfsadres in",
+        "message": "Voer het bedrijfsadres in"
+      },
+      "country": {
+        "label": "Land",
+        "placeholder": "Selecteer land",
+        "message": "Selecteer Land"
+      },
+      "address": {
+        "label": "Adres",
+        "message": "Voer adres in"
+      },
+      "postalCode": {
+        "label": "Postcode",
+        "placeholder": "Voer postcode in",
+        "selectPlaceholder": "Selecteer Postcode",
+        "message": "Voer postcode in",
+        "selectMessage": "Selecteer postcode",
+        "error": "Ingevoerde post is ongeldig of kon niet worden gevonden in het geselecteerde land!",
+        "invalid": "Ongeldige postcode!",
+        "zip": "Voer een postcode in",
+        "zipPostal": "Postcode",
+        "enter": "Voer postcode in."
+      },
+      "stateProvince": {
+        "label": "Staat/Provincie",
+        "placeholder": "Selecteer Staat/Provincie",
+        "message": "Selecteer Staat/Provincie"
+      },
+      "from": {
+        "label": "Van",
+        "placeholder": "Selecteer Dag"
+      },
+      "to": {
+        "label": "Naar",
+        "placeholder": "Selecteer Dag"
+      },
+      "city": {
+        "label": "Stad",
+        "placeholder": "Selecteer stad",
+        "message": "Voer de stad in",
+        "enter": "Stad invoeren",
+        "select": "Selecteer een stad"
+      },
+      "state": {
+        "label": "Staat",
+        "message": "Selecteer een staat",
+        "placeholder": "Selecteer een staat",
+        "city": "Stad"
+      },
+      "contactName": {
+        "label": "contactnaam",
+        "message": "Voer de naam van de contactpersoon in"
+      },
+      "contactEmail": {
+        "label": "contact email",
+        "required": "Voer het e-mailadres voor contact in",
+        "message": "Voer de waarde in is niet in e-mailformaat!"
+      },
+      "containerNumber": {
+        "label": "Containernummer"
+      },
+      "trackingNumber": {
+        "label": "Volg nummer",
+        "placeholder": "Voer trackingnummer in"
+      },
+      "createdOn": {
+        "title": "Gemaakt op",
+        "placeholder": "Selecteer een datum",
+        "shipmentCreatedOn": "Zending aangemaakt op"
+      },
+      "branch": {
+        "label": "Tak",
+        "message": "Selecteer een filiaal",
+        "placeholder": "Selecteer Filiaal"
+      },
+      "sortBy": {
+        "label": "Sorteer op",
+        "select": "Selecteer Sorteren op"
+      },
+      "reason": {
+        "label": "Reden",
+        "placeholder": "Selecteer Reden",
+        "message": "Selecteer een reden"
+      },
+      "shipmentType": {
+        "placeholder": "Selecteer Verzendtype",
+        "label": "Verzendingstype",
+        "message": "Selecteer het verzendtype"
+      },
+      "accessorial": {
+        "label": "Accessoire",
+        "placeholder": "Selecteer Accessoire"
+      },
+      "product": {
+        "label": "Product",
+        "placeholder": "Selecteer product"
+      },
+      "locationID": {
+        "label": "Locatie-ID",
+        "placeholder": "Selecteer Locatie-ID"
+      },
+      "serviceLevel": {
+        "label": "Service Level",
+        "placeholder": "Selecteer Serviceniveau"
+      },
+      "appointmentType": {
+        "label": "Afspraaktype",
+        "placeholder": "Selecteer Afspraaktype",
+        "message": "Voer het afspraaktype in",
+        "choose": "Kies een afspraaktype."
+      },
+      "cargoType": {
+        "label": "Soort vracht",
+        "placeholder": "Selecteer vrachttype",
+        "message": "Selecteer een vrachttype",
+        "required": "Vrachttype is vereist"
+      },
+      "accountNumber": {
+        "label": "Rekeningnummer",
+        "placeholder": "Selecteer Accountnummer",
+        "message": "Voer het rekeningnummer in",
+        "select": "Selecteer Accountnr"
+      },
+      "shipmentBranch": {
+        "label": "Verzendingsfiliaal",
+        "placeholder": "Selecteer Verzendfiliaal",
+        "message": "Selecteer een verzendfiliaal"
+      },
+      "portName": {
+        "label": "Poortnaam",
+        "placeholder": "Zoek poortnaam",
+        "select": "Selecteer Poortnaam",
+        "message": "Selecteer een poortnaam",
+        "enter": "Voer de poortnaam in"
+      },
+      "currency": {
+        "label": "Munteenheid",
+        "placeholder": "selecteer valuta",
+        "message": "Valuta is vereist"
+      },
+      "customerName": {
+        "label": "klantnaam",
+        "placeholder": "Selecteer Klantnaam",
+        "placeholderEnter": "Selecteer klantnaam"
+      },
+      "equipmentType": {
+        "label": "Uitrustingstype",
+        "placeholder": "Selecteer apparatuurtype",
+        "message": "Apparatuurtype is vereist"
+      },
+      "linerType": {
+        "label": "Voeringstype",
+        "placeholder": "Selecteer Linertype"
+      },
+      "measurementUit": {
+        "label": "Meeteenheid",
+        "placeholder": "Selecteer Meeteenheid"
+      },
+      "packageLoadType": {
+        "label": "Type pakketlading",
+        "placeholder": "Selecteer Pakketladingstype",
+        "message": "Selecteer het type pakketlading"
+      },
+      "palletLoadType": {
+        "label": "Type palletlading",
+        "placeholder": "Selecteer Type palletlading",
+        "option": "Stapelbaar",
+        "optionNon": "Niet stapelbaar"
+      },
+      "paymentType": {
+        "label": "Betalingswijze",
+        "placeholder": "Selecteer Betalingstype"
+      },
+      "portType": {
+        "label": "Poorttype",
+        "placeholder": "Selecteer Poorttype",
+        "search": "Zoek poorttype",
+        "message": "Selecteer Poorttype"
+      },
+      "pricingBasis": {
+        "label": "Prijsbasis",
+        "placeholder": "Selecteer Prijsbasis"
+      },
+      "pricingType": {
+        "label": "Prijstype",
+        "placeholder": "Selecteer Prijstype",
+        "message": "Selecteer het prijstype"
+      },
+      "unitOfMeasurement": {
+        "label": "Meet eenheid",
+        "placeholder": "Selecteer maateenheid"
+      },
+      "projectName": {
+        "label": "Naam van het project",
+        "placeholder": "Selecteer Projectnaam",
+        "messageError": "Voer de projectnaam in",
+        "messageExist": "Projectnaam bestaat al!"
+      },
+      "poStatus": {
+        "label": "PO-status",
+        "placeholder": "Selecteer PO-status",
+        "option_o": "Open",
+        "option_c": "Voltooid",
+        "option_d": "Verwijderd"
+      },
+      "ratingPreferences": {
+        "label": "Beoordelingsvoorkeuren",
+        "placeholder": "Selecteer Beoordelingsvoorkeuren"
+      },
+      "category": {
+        "label": "Categorie",
+        "placeholder": "selecteer categorie"
+      },
+      "categoryType": {
+        "label": "Categorietype",
+        "placeholder": "Selecteer Categorietype",
+        "message": "Selecteer Categorietype"
+      },
+      "userName": {
+        "label": "Gebruikersnaam",
+        "placeholder": "Selecteer Gebruikersnaam",
+        "message": "Selecteer Gebruikersnaam"
+      },
+      "shipmentCreatedBy": {
+        "email": "Selecteer E-mail"
+      },
+      "shipperName": {
+        "label": "Naam verzender",
+        "placeholder": "Selecteer Naam verzender",
+        "message": "Selecteer Naam verzender"
+      },
+      "exceptionType": {
+        "label": "Uitzonderingstype",
+        "placeholder": "Selecteer Uitzonderingstype"
+      },
+      "status": {
+        "label": "Toestand",
+        "placeholder": "Selecteer Status",
+        "message": "Selecteer een status"
+      },
+      "locationType": {
+        "label": "Locatietype",
+        "placeholder": "Selecteer Locatietype"
+      },
+      "class": {
+        "label": "Klas",
+        "placeholder": "Selecteer Klasse"
+      },
+      "hazmatClass": {
+        "label": "HAZMAT-klasse",
+        "placeholder": "Selecteer HAZMAT-klasse"
+      },
+      "routingType": {
+        "label": "Routeringstype",
+        "placeholder": "Selecteer Routeringstype"
+      },
+      "hours": {
+        "label": "Uur",
+        "placeholder": "Selecteer Uren",
+        "message": "Selecteer Uren"
+      },
+      "supplier": {
+        "label": "Leverancier",
+        "placeholder": "Leverancier selecteren"
+      },
+      "taxType": {
+        "label": "Belastingtype",
+        "placeholder": "Selecteer Belastingsoort"
+      },
+      "tenderName": {
+        "label": "Naam van de aanbesteding",
+        "placeholder": "Selecteer Naam van aanbesteding"
+      },
+      "timeZone": {
+        "label": "Tijdzone",
+        "placeholder": "Selecteer Tijdzone",
+        "message": "Selecteer Uren"
+      },
+      "userType": {
+        "label": "Gebruikerstype",
+        "placeholder": "Selecteer Gebruikerstype",
+        "enter": "Voer het gebruikerstype in."
+      },
+      "weightMeasurement": {
+        "label": "Gewichtsmeting",
+        "placeholder": "Selecteer Gewichtsmeting"
+      },
+      "authorisedSignature": "Geautoriseerde handtekening",
+      "company": "Bedrijf",
+      "title": "Titel",
+      "telephoneNumber": "TELEFOON NUMMER"
+    },
+    "notification": {
+      "messages": "Berichten",
+      "recentActivities": "Recente activiteiten",
+      "errorMessages": "Foutmeldingen",
+      "failedUpdateClaimsDetails": "Kan claimdetails niet updaten",
+      "sessionExpired": "Sessie is verlopen!, Meld u alstublieft opnieuw aan.",
+      "failedTrackingDetails": "Kan trackinggegevens niet ophalen",
+      "failedCarrierDetails": "Kan de gegevens van de provider niet ophalen.",
+      "shipmentCancelled": "De verzending is succesvol geannuleerd",
+      "timeoutIssue": "Time-outprobleem",
+      "parcelExpressSaga": "Pakket express-saga",
+      "failedToGetData": "Kan gegevens niet ophalen!",
+      "routingDetails": "routegegevens",
+      "failedTo": "Het is niet gelukt",
+      "distributorDetails": "gegevens van de distributeur",
+      "updated": "bijgewerkt",
+      "created": "gemaakt",
+      "successfully": "Met succes",
+      "successfullyUpdated": "succesvol geüpdatet",
+      "errorWithCode0": "Fout met code 0",
+      "shipmentsFollowing": "zendingen worden geconsolideerd met het volgende zendingsnummer:",
+      "successfullyCopied": "is succesvol gekopieerd met",
+      "failed": "mislukt",
+      "success": "succes",
+      "copyTender": "Kopieer de aanbesteding succesvol",
+      "copyTenderError": "Een aanbestedingsfout kopiëren",
+      "purchaseOrderCreated": "Bevestig dat de inkooporder is aangemaakt",
+      "claimsDetailsFailed": "Kan claimdetails niet ophalen",
+      "claimsDeletedFailed": "Kan claims niet verwijderen.",
+      "claimsDeleted": "Claims zijn succesvol verwijderd.",
+      "failedShippingLabelPDF": "Kan het PDF-bestand met verzendlabel niet genereren.",
+      "failedGgeneratePDF": "Kan geen PDF genereren",
+      "shippingLabelPDF": "Succesvol gegenereerd verzendlabel PDF-bestand.",
+      "carrierDataFailed": "Kan providergegevens niet ophalen.",
+      "portDataFailed": "Kan gegevens niet overbrengen.",
+      "postalDataFailed": "Kan gegevens niet posten.",
+      "userProfileImage": "Gebruikersprofiel Afbeelding is bijgewerkt",
+      "shipmentStatusFailed": "Kan de verzendstatus niet controleren!",
+      "userPreferenceFailed": "Kan gebruikersvoorkeur niet ophalen",
+      "preferenceUpdatedFailed": "Kan voorkeur niet updaten",
+      "preferenceUpdated": "Voorkeur is succesvol bijgewerkt",
+      "passwordUpdatedFailed": "Kan wachtwoord niet updaten",
+      "passwordUpdated": "Wachtwoord is succesvol bijgewerkt",
+      "userProfileUpdated": "Gebruikersprofiel is bijgewerkt",
+      "bidSubmitted": "Het bod is succesvol ingediend.",
+      "bidNotSubmitted.": "Er is geen bod ingediend.",
+      "email": "Vul een geldig emailadres in.",
+      "numeric": "Voer alleen numeriek in",
+      "problemWithDownloading": "Probleem met downloaden!",
+      "emptyList": "Lege lijst",
+      "leastOneItem": "Typ ten minste één item om door te gaan.",
+      "emptySelect": "Zoek iets om gegevens op te halen...",
+      "noRecondfound": "Geen Recond gevonden.",
+      "itSeems": "Het lijkt",
+      "trackingNumber": " is geen geldig trackingnummer",
+      "successfulyGeneratedCommercial": "Succesvol gegenereerd handelsfactuurbestand.",
+      "failedToGenerateCommercialInvoiceFile.": "Kan handelsfactuurbestand niet genereren.",
+      "COOPDF": "Succesvol gegenereerd COO PDF-bestand.",
+      "failedCOOPDF": "Kan COO PDF-bestand niet genereren."
+    },
+    "emptyRecords": {
+      "title": "Probeer de filters aan te passen. ",
+      "descriptionOne": "Er waren geen gegevens op basis van de door u ingevoerde gegevens.",
+      "descriptionTwo": "Probeer de filters aan te passen."
+    }
+  },
+  "parcelExpress": {
+    "serviceType": "Dienst Type",
+    "transitTime": "Transittijd (dag)",
+    "billingWeight": "Factureringsgewicht",
+    "charges": "Kosten",
+    "action": "Actie",
+    "baseCharges": "Basiskosten",
+    "totalSurcharges": "Totaal toeslagen",
+    "totalDiscount": "Totale korting",
+    "netCharges": "Netto kosten",
+    "savePrintLabel": "Redden",
+    "note": "Opmerking",
+    "severity": "Ernst",
+    "alertMessage": "Waarschuwingsbericht",
+    "triggerNotification": {
+      "default": "Selecteer een vervoerder om de tarieven te ontvangen.",
+      "packages": "Pakketten zijn leeg. Probeer het opnieuw met minimaal één pakket!",
+      "reject": "Vervoerders niet geselecteerd",
+      "packagesReject": "Pakketten zijn leeg!"
+    },
+    "titles": {
+      "parcelExpress": "Pakket Express",
+      "shipmentInformation": "Verzendingsinformatie",
+      "shipmentsByService": "Verzendingen per servicetype",
+      "originDestinationInformation": "Informatie over herkomst/bestemming",
+      "packageDetails": "Pakket details",
+      "additionalServices": "Aanvullende diensten",
+      "total": "Totale uitgaven dit jaar",
+      "service": "Servicestoringen"
+    },
+    "buttons": {
+      "addPackage": "Pakket toevoegen",
+      "deletePackage": "Pakket verwijderen"
+    },
+    "locationForm": {
+      "datePickerMessage": "Selecteer de verzenddatum",
+      "countryCallingCode": {
+        "label": "Landnummer"
+      },
+      "number": {
+        "required": "Voer het contactnummer in",
+        "number_error": "Het contactnummer mag alleen uit cijfers bestaan!",
+        "digits_error": "Het contactnummer mag slechts uit 10 cijfers bestaan!"
+      },
+      "ext": "Ext"
+    },
+    "packageForm": {
+      "itemNo": "Item nr",
+      "noOfPackages": {
+        "label": "Aantal pakketten",
+        "message": "Voer het aantal pakketten in"
+      },
+      "chargeableWeight": {
+        "label": "Betaalbaar gewicht",
+        "message": "Voer het belastbare gewicht in"
+      },
+      "unit": {
+        "label": "Eenheid",
+        "message": "Selecteer Eenheidseenheid",
+        "dimension_message": "Selecteer Afmetingen Eenheid"
+      },
+      "length": {
+        "message": "Voer lengte in"
+      },
+      "width": {
+        "message": "Voer de breedte in"
+      },
+      "height": {
+        "message": "Voer de hoogte in"
+      }
+    },
+    "additionalForm": {
+      "residentialDelivery": "Residentiële levering",
+      "insurance": "Verzekering",
+      "declaredValue": {
+        "label": "Aangegeven waarde",
+        "placeholder": "Voer de aangegeven waarde in"
+      }
+    },
+    "serviceBarChart": "Dienst",
+    "totalSpend": " Totale uitgaven dit jaar door vervoersaanbieders"
+  },
+  "visibility": {
+    "filters": {
+      "titles": {
+        "shipmentSearch": "Verzending zoeken",
+        "byOrigin": "Verzending zoeken op herkomst en bestemming",
+        "byOrder": "Verzending zoeken op bestelgegevens"
+      },
+      "shipmentSearch": {
+        "shipmentType": {
+          "label": "Verzendingstypen",
+          "optionOpen": "Open",
+          "optionClosed": "Gesloten"
+        },
+        "pickupDate": {
+          "title": "Ophaaldatum",
+          "placeholder": "Selecteer een datum"
+        },
+        "itnNumber": {
+          "label": "ITN/ISF/AES-nummer"
+        }
+      }
+    },
+    "header": {
+      "title": "Zichtbaarheid",
+      "errorNotification": "Kan document-e-mail niet verzenden!",
+      "downloadLabel": "Download PDF",
+      "printLabel": "Afdrukken / PDF",
+      "emailLabel": "E-mail pdf",
+      "sendEmailTitle": "Stuur een e-mail naar de transportaanbieder",
+      "sendEmailSubtitle": "Trackinggegevens voor ",
+      "documents": "Documenten",
+      "sendEmailSubject": {
+        "label": "Onderwerp"
+      },
+      "sendEmailAddress": {
+        "placeholder": "E-mailadres*",
+        "errorMessage": "Voer een e-mailadres in."
+      },
+      "sendEmailComments": {
+        "label": "Opmerkingen",
+        "placeholder": "Opmerkingen"
+      },
+      "notificationSendEmailError": "Kan document-e-mail niet verzenden!",
+      "exportForm": {
+        "title": "Zichtbaarheidsinformatie",
+        "createOn": "Maken Aan",
+        "exportExcel": "Zichtbaarheid Exporteren Excel"
+      },
+      "exportPDF": {
+        "shipment": {
+          "title": "verzendingsdetails",
+          "transitServiceStandard": "Transitservicestandaard: ",
+          "actualTransitDays": " Werkelijke transitdagen: ",
+          "shipmentIdentifier": "Verzendingsidentificatie: ",
+          "billOfLadingNumber": "Vrachtbriefnummer: ",
+          "flightVoyageNumber": "Vlucht-/reisnummer: ",
+          "expShipDate": "Exp verzenddatum: ",
+          "vessel": "Schip: ",
+          "xpDeliveryDate": "Exp-leveringsdatum: ",
+          "sealNumber": "Zegelnummer: ",
+          "vendorName": "Naam van de leverancier: ",
+          "itNisFaeSNo": "ITN/ISF/AES-nummer: ",
+          "carrierName": "Naam vervoerder: ",
+          "shipmentNote": "Verzending Opmerking: ",
+          "po": "PO "
+        },
+        "product": {
+          "title": "Productinformatie",
+          "productDescription": " Productomschrijving",
+          "billedQty": "Gefactureerd aantal",
+          "l": "L",
+          "w": "W",
+          "h": "H",
+          "dimUOM": "Dim eenheid",
+          "soNumber": "ZO nummer"
+        },
+        "shipper": {
+          "title": "Informatie over de verzender",
+          "address1": "Adres 1",
+          "address2": "Adres 2",
+          "postal": "Post",
+          "contact": "Contactnaam/telefoon",
+          "appointmentNumber": "Afspraaknummer",
+          "dockNumber": "Docknummer"
+        },
+        "consignee": {
+          "title": "Informatie van de geadresseerde",
+          "address1": "Adres 1",
+          "address2": "Adres 2",
+          "postal": "Post",
+          "contact": " Contactnaam/telefoon",
+          "appointmentNumber": " Afspraaknummer",
+          "dockNumber": "Docknummer",
+          "totalPalletCount": "Totaal aantal pallets"
+        },
+        "tracking": {
+          "title": "Trackingstatusdetails",
+          "date": "Datum/tijd bij Status",
+          "location": "Plaats",
+          "etaDate": "Eta-datum"
+        }
+      },
+      "visibilityExport": "Zichtbaarheid exporteren"
+    },
+    "minCard": {
+      "trackingStatusType": "Type trackingstatus",
+      "shipDate": "Door de verzender gevraagde verzenddatum"
+    },
+    "detailCard": {
+      "tabs": {
+        "general": "Algemeen",
+        "tracking": "Trackingstatusdetails",
+        "details": "Details",
+        "productInfo": "Productinformatie"
+      },
+      "generalTab": {
+        "title": "Algemeen",
+        "shipmentDetail": "Verzendingsdetails",
+        "shipmentMode": "Verzendingsmodus",
+        "multiShop": "Multi-winkel",
+        "shipperDetails": "Details van de verzender",
+        "shipperContact": "Contactgegevens verzender",
+        "appointmentNo": "Afspraaknummer",
+        "dockNo": "Docknr./bevestigingsnr",
+        "consigneeDetails": "Gegevens van de geadresseerde",
+        "consigneeContact": "Contactgegevens van de ontvanger",
+        "shipmentLocation": "Verzendingslocatie",
+        "trackingDetails": "Trackingdetails",
+        "trackingStatus": "Volgstatus",
+        "trackingStatusType": "Type trackingstatus",
+        "transporterPlannedShipDate": "Geplande verzenddatum transporteur",
+        "transporterPlannedDeliveryDate": "Geplande leverdatum door transporteur",
+        "eventOccurrence": "Datum en tijd van gebeurtenis",
+        "shipperRequestedShipDate": "Door de verzender gevraagde verzenddatum",
+        "shipmentDetails": "verzendingsdetails",
+        "shipperRequstedShipDate": "Door de verzender gevraagde verzenddatum",
+        "shipperRequstedDeliveryDate": "Door de verzender gevraagde leverdatum",
+        "eventOccurrenceDate": " Datum en tijd van gebeurtenis"
+      },
+      "notesTab": {
+        "createdBy": "Gemaakt door :",
+        "createdOn": "Gemaakt op :",
+        "editedBy": "Bewerkt door :",
+        "editedOn": "Bewerkt op:"
+      },
+      "detailsTab": {
+        "title": "Details",
+        "portOfOrigin": "Haven van herkomst",
+        "portOfDischarge": "Loshaven",
+        "houseBill": "Landingsnummer van het huis",
+        "actualTransitDays": "Werkelijke transitdagen",
+        "interlineRoutingSequence": "Interline-routeringsvolgorde",
+        "interlineSCAC": "Interline SCAC",
+        "vessel": "Schip",
+        "flightVoyageNumber": "Vlucht-/reisnummer",
+        "sealNumber": "Zegelnummer",
+        "itNisFaeSNumber": "ITN/ISF/AES-nummer"
+      },
+      "productInfoTab": {
+        "title": "Productinformatie",
+        "productCode": "Productcode :",
+        "productDescription": "Product beschrijving",
+        "grossWeight": "Bruto gewicht"
+      },
+      "fileDetailsTab": {
+        "fileComments": {
+          "label": "Bestandsopmerkingen",
+          "placeholder": "Bestandsopmerkingen"
+        },
+        "referenceNo": {
+          "label": "Ondersteunend documentreferentienummer",
+          "placeholder": "Ondersteunend documentreferentienummer"
+        }
+      }
+    },
+    "footer": {
+      "totalShipments": "Totaal aantal verzendingen",
+      "openShipments": "Verzendingen openen",
+      "closedShipments": "Gesloten zendingen",
+      "exceptions": "Uitzonderingen"
+    },
+    "trackingStatusInfo": {
+      "trackingStatus": {
+        "label": "Volgstatus",
+        "placeholder": "Selecteer Volgstatus",
+        "message": "Selecteer Trackingstatus"
+      },
+      "trackingStatusType": {
+        "label": "Type trackingstatus",
+        "placeholder": "Selecteer Trackingstatustype"
+      }
+    },
+    "containerNumbershouldbe": " is geen containernummer, het zou moeten zijn als XXXU1234567",
+    "youOnlyhave": "Dat heb je alleen",
+    "charactersRequired": " maar er zijn minimaal 5 tekens vereist",
+    "invalidProvider": "Ongeldige aanbieder"
+  },
+  "shipmentAdd": {
+    "totalPieces": "Totaal aantal stukken",
+    "consolidate": "Consolideren",
+    "shipmentToDisplayOnMap": "Verzendingen die op de kaart moeten worden weergegeven",
+    "productRepository": {
+      "title": "Toevoegen aan productrepository",
+      "description": "Wilt u dat dit product wordt opgeslagen in de Product Repository?"
+    },
+    "titles": {
+      "details": "verzendingsdetails",
+      "transportation": "Transportdetails",
+      "vendor": "Leveranciersgegevens",
+      "bill": "Rekening naar",
+      "category": "Categoriedetails",
+      "accounting": "Accessoires en belastingen"
+    },
+    "notifications": {
+      "barcodeElementNotfound": "Barcode-element niet gevonden",
+      "generatedBarcodeOnly": "Alleen gegenereerde streepjescode",
+      "costIsRequired": "Kosten zijn vereist",
+      "standardTransitDaysIsRequired": "Standaard transitdagen zijn vereist",
+      "pickupDeliveryLocations": "Verzendingstransport moet minimaal één ophaal- en afleverlocatie hebben.",
+      "pickupLocation": "Verzendingstransport moet minimaal één ophaallocatie hebben.",
+      "minimumDeliveryLocation": "Verzendingstransport moet minimaal één bezorglocatie hebben.",
+      "productRequired": "Productdetails vereist minimaal één product.",
+      "fixAccountingSection": "Los de validatieproblemen op in de sectie Boekhouding."
+    },
+    "shipmentScreen": {
+      "checkingApproval": "Verzending controleren Goedkeuringsproces...",
+      "approvalNumber": "Goedkeuringsnummer",
+      "masterShipment": "Hoofdverzending"
+    },
+    "shipmentDetails": {
+      "rateShopResults": "Beoordeel winkelresultaten",
+      "iTrack": "iTrack",
+      "trackingDetails": "Trackingdetails",
+      "warningModalInternalTracking": "Momenteel bestaan ​​er geen trackinggegevens voor dit record. ",
+      "emptyRecords": "Wees geduldig voordat u een update van de provider ontvangt.",
+      "checking": "Controleren op zichtbaarheid van PO, SO en PaidBy...",
+      "freightBillProNumber": {
+        "label": "Vrachtfactuur/Pro-nummer"
+      },
+      "masterBillOfLandingNumber": {
+        "label": "Masterlandingsnummer"
+      },
+      "purchaseOrders": {
+        "label": "Inkooporders",
+        "message": "Voer inkooporders in!"
+      },
+      "salesOrders": {
+        "label": "Verkooporders"
+      },
+      "paidBy": {
+        "label": "Betaald door",
+        "placeholder": "Selecteer A betaald door"
+      },
+      "amount": {
+        "label": "Hoeveelheid",
+        "placeholder": "Hoeveelheid"
+      },
+      "paidPercentage": {
+        "label": "Betaald percentage:",
+        "placeholder": "Percentage"
+      },
+      "of": {
+        "placeholder": "% Van"
+      },
+      "freeOnBoard": {
+        "label": "Gratis aan boord",
+        "placeholder": "Selecteer Gratis aan boord"
+      },
+      "customerAccountNumber": {
+        "label": "Klantrekeningnummer"
+      },
+      "incotermNamedPlace": {
+        "label": "Incoterm-genoemde plaats"
+      }
+    },
+    "transportationDetails": {
+      "addingNewStopIs": "Nieuwe stop toevoegen is",
+      "modifyingStopIs": "Stop wijzigen is",
+      "deletingStopIs": "Stop verwijderen is",
+      "trackContainer": "Volgcontainer",
+      "shipmentCity": "Verzending stad",
+      "shipmentStateProvince": "Staat/provincie van verzending",
+      "shipmentCountry": "Land van verzending",
+      "receivedDateEST": "Ontvangen datum",
+      "selectDate": "Selecteer een datum",
+      "eventOccurrenceDateLocal": "Datum en tijd van gebeurtenisvoorval in lokaal",
+      "transporterRequestedDeliveryDate": "Door transporteur gevraagde leverdatum",
+      "transporterRequestedShipDate": "Door de transporteur gevraagde verzenddatum",
+      "shipperRequestedDeliveryDate": "Door de verzender gevraagde leverdatum",
+      "shipperRequestedShipDate": "Door de verzender gevraagde verzenddatum",
+      "transportationProviderReferenceNo": "Referentienummer transportaanbieder",
+      "actual": "Werkelijk",
+      "dateTime": "Datum",
+      "requestedDateTime": "Gevraagde datum",
+      "appointmentDateTime": "Afspraakdatum",
+      "delivery": "Levering",
+      "totalMiles": "Totaal aantal kilometers",
+      "addStops": "Tussenstops toevoegen",
+      "addressBookDescription": "Wilt u dat dit adres in het Adresboek wordt opgeslagen?",
+      "addToAddressBook": "Toevoegen aan adresboek",
+      "number": {
+        "placeholder": "Nummer"
+      },
+      "ext": {
+        "placeholder": "Ext"
+      },
+      "stopType": {
+        "label": "Stoptype",
+        "placeholder": "Selecteer Stoptype",
+        "message": "Selecteer Stoptype"
+      },
+      "stopNo": {
+        "label": "Halte nr",
+        "placeholder": "Selecteer Stopnr",
+        "message": "Selecteer een stoplocatie"
+      },
+      "appointmentNumber": {
+        "label": "Afspraaknummer",
+        "placeholder": "Voer afspraaknr."
+      },
+      "dockConfirmationNumber": {
+        "label": "Dock-/bevestigingsnummer"
+      },
+      "taxIdVat": {
+        "label": "Belastingnummer/BTW"
+      }
+    },
+    "productDetails": {
+      "freightClassCalculator": "Berekening van de vrachtklasse",
+      "copyLastProduct": "Kopieer de laatste productgegevensinvoer",
+      "createNewProduct": "Nieuw product maken",
+      "chargeableWeight": {
+        "label": "Betaalbaar gewicht",
+        "message": "Voer het belastbare gewicht in",
+        "error": "Het belastbare gewicht moet een getal zijn.",
+        "minError": "Het belastbare gewicht moet minimaal 1 zijn"
+      },
+      "packageBilledQuantity": {
+        "message": "Voer het pakket/gefactureerde aantal in",
+        "error": "Pakket/gefactureerde hoeveelheid moet een getal zijn.",
+        "minError": "Pakket/gefactureerde hoeveelheid moet minimaal 1 zijn"
+      },
+      "length": {
+        "message": "Voer lengte in",
+        "error": "Lengte moet een getal zijn.",
+        "minError": "De lengte moet minimaal 1 zijn"
+      },
+      "width": {
+        "message": "Voer de breedte in",
+        "error": "Breedte moet een getal zijn.",
+        "minError": "De breedte moet minimaal 1 zijn"
+      },
+      "height": {
+        "message": "Voer de hoogte in",
+        "error": "Hoogte moet een getal zijn.",
+        "minError": "De hoogte moet minimaal 1 zijn"
+      },
+      "hazmatUnNumber": {
+        "label": "HAZMAT VN-nummer"
+      },
+      "saidToContain": {
+        "label": "Gezegd om te bevatten"
+      },
+      "purchaseOrders": {
+        "label": "Inkooporders",
+        "message": "Voer inkooporders in!"
+      },
+      "salesOrders": {
+        "label": "Verkooporders"
+      },
+      "lineItemNumber": {
+        "label": "Regelitemnummer"
+      },
+      "htsCode": {
+        "label": "HTS-code"
+      },
+      "nmfcNumber": {
+        "label": "NMFC-nummer"
+      }
+    },
+    "rateShopDetails": {
+      "assignTransportationProvider": "Vervoersaanbieder toewijzen",
+      "preferredTransportationProvider": {
+        "label": "Voorkeursvervoersaanbieder",
+        "placeholder": "Selecteer de gewenste vervoersaanbieder",
+        "message": "Selecteer uw voorkeursvervoersaanbieder"
+      },
+      "warningModalFilter": "Producthoeveelheid, gefactureerde hoeveelheid en belastbaar gewicht mogen niet leeg of 0 zijn",
+      "standrardTransitDays": "Standaard transitdagen",
+      "rateEntry": "Tariefinvoer",
+      "rateShopResults": "Beoordeel winkelresultaten",
+      "tenderEmail": "Selecteer ten minste één aanbestedings-e-mail om door te gaan.",
+      "adminEmail": "E-mailadres beheerder",
+      "doNotSendTenderEmail": "Stuur geen aanbestedings-e-mail",
+      "doNotSendBillOfLading": "Stuur geen vrachtbrief",
+      "tenderList": "Aanbestedingslijst",
+      "shipperInformation": "Informatie over de verzender",
+      "shipperEmailAddress": "E-mailadres van de verzender",
+      "sendEmailToShipper": "Stuur een e-mail naar de verzender",
+      "assignTansportationProvider": "Wijs vóór de aanbesteding vriendelijk een transporteur toe",
+      "ratesCantBe": "Tarieven mogen niet ouder zijn dan",
+      "rateShipment": "dagen tot inschrijving. ",
+      "failedRateShopResults": "Kan de resultaten van de Rate Shop niet ophalen.",
+      "filedTosaveRatingDetails": "Kan beoordelingsgegevens niet opslaan.",
+      "selectTransportationProvider": "Selecteer eerst een transportaanbieder",
+      "failedAssignTransportationProvider": "Kan de vervoersaanbieder niet toewijzen.",
+      "warningModal": "Verzending is al aanbesteed. ",
+      "tenderInformation": "Aanbestedingsinformatie",
+      "rateShopSearch": "Beoordeel winkel zoeken",
+      "rateShopDetails": "Beoordeel winkeldetails",
+      "emptyRecords": {
+        "title": "Beoordelingsdetails zijn momenteel niet beschikbaar. Probeer het later opnieuw."
+      },
+      "standardTransitDays": "Standaard transitdagen",
+      "bidExpiryDate": "Vervaldatum van bod",
+      "days": "Dagen",
+      "convertedCost": "Omgerekende kosten",
+      "serviceDescription": {
+        "label": "Dienstbeschrijving"
+      },
+      "equipmentTypeDetail": {
+        "label": "Details van het uitrustingstype"
+      },
+      "userSubmitted": {
+        "label": "Gebruiker ingediend"
+      },
+      "bidComment": {
+        "label": "Biedcommentaar"
+      },
+      "spotQuoteNumber": {
+        "label": "Spot offertenummer"
+      }
+    },
+    "vendorDetails": {
+      "title": "Leveranciersgegevens",
+      "addNewVendor": "Nieuwe leverancier toevoegen",
+      "confirmationModal": {
+        "okText": "OK",
+        "updateToDelivered": "Wilt u de trackingstatus van de zending bijwerken naar Afgeleverd?",
+        "deliveredConfirmation": "Bevestiging afgeleverd",
+        "acknowledgedConfirmation": "Bevestigde bevestiging",
+        "updateToShipmentAcknowledged": "Wilt u de trackingstatus van de zending bijwerken naar Verzending bevestigd?"
+      },
+      "updateToShipmentAcknowledged": {
+        "acknowledgedConfirmation": "Bevestigde bevestiging",
+        "description": "Wilt u de trackingstatus van de zending bijwerken naar Verzending bevestigd?",
+        "okText": "OK"
+      },
+      "alertModalDescription": {
+        "notStatus": "heeft niet de status Aanbesteding of Automatische aanbesteding",
+        "unableToUpdateShipmentNew": "Kan de zending met de status In-Transit of Geannuleerd om vast te houden niet bijwerken. ",
+        "shipmentNoUpdatedNew": "De zending kan niet worden bijgewerkt naar Nieuw als deze de status Automatisch aangeboden, Aangeboden, Bevestigd, In transit heeft. ",
+        "shipmentNoUpdatedPlanning": "De zending kan niet worden bijgewerkt naar Planning als deze de status Automatisch aangeboden, Aanbesteding, Bevestigd, In transit heeft. ",
+        "unableToUpdateShipmentAutoRoute": "Kan de zending niet updaten naar de Auto-Route-status als de zendingsstatus 'Aanbesteding', 'Automatisch aangeboden', 'In transit', 'Bevestigd', 'Gesloten' is. ",
+        "unableToUpdateShipmentRateError": "Kan de verzending niet bijwerken naar Rate-Error als deze niet de status Nieuw, Spot Bid of SpotBidEnd heeft. ",
+        "shipmentStatusAutoTendered": "De zending moet de status Automatisch aangeboden, Aangeboden, Bevestigd, Vastgehouden, In transit of Planning voor annulering hebben. "
+      },
+      "statusMessage": "Status bericht",
+      "addingNewVendorIs": "Het toevoegen van een nieuwe leverancier is",
+      "modifyingVendorIs": "Leverancier wijzigen is",
+      "deletingVendorIs": "Leverancier verwijderen is"
+    },
+    "billingDetails": {
+      "vatNumber": {
+        "label": "Btw-nummer",
+        "placeholder": "BTW-nummer invoeren"
+      }
+    },
+    "categoryDetails": {
+      "addNewCategory": "Voeg een nieuwe categorie toe",
+      "subCategory": {
+        "label": "Subcategorie",
+        "placeholder": "Selecteer Subcategorie"
+      }
+    },
+    "accountingDetails": {
+      "showItem": "Toon items met waarde die",
+      "startWith": "Beginnen met",
+      "isEqualto": "Is gelijk aan",
+      "taxDetails": "Belastinggegevens",
+      "addNewTax": "Nieuwe belasting toevoegen",
+      "addNewAccessorial": "Voeg nieuwe aanvullende kosten toe",
+      "accessorialDetails": "Bijkomende details",
+      "taxAmount": {
+        "label": "Belastingbedrag"
+      }
+    },
+    "documentDetails": {
+      "fileName": "Bestandsnaam :",
+      "supportingDocument": {
+        "label": "Ondersteunend documentreferentienummer",
+        "placeholder": "Voer het referentienummer van het ondersteunende document in"
+      }
+    },
+    "spotBid": {
+      "selectDate": "Selecteer Datum",
+      "doNotSendEmail": "Stuur geen e-mail",
+      "resetSpotBid": "Spotbod opnieuw instellen",
+      "routingSpotBidList": "Routing Spot-biedingslijst",
+      "addBidder": "Bieder toevoegen",
+      "submitSpotBidTocarriers": "Probeer een spotbod in te dienen bij vervoerders",
+      "expirationTime": {
+        "label": "Vervaltijd",
+        "message": "Selecteer Vervaltijd"
+      },
+      "dateHours": "Datum",
+      "submitSpotBid": "Spotbod indienen",
+      "distributors": "Distributeurs",
+      "shipmentForSpotBid": "Uw zending is verzonden voor een spotbod",
+      "endSpotBid": "Spotbod beëindigen"
+    }
+  },
+  "getQuote": {
+    "notesHere": "Opmerkingen hier",
+    "characters": "van 2000 tekens over",
+    "triggerNotification": "Stops moeten minimaal één Origin hebben!",
+    "destionationTriggerNotification": "Haltes moeten minimaal één bestemming hebben!",
+    "productTriggerNotification": "Voeg minimaal één product toe.",
+    "emptyRecords": {
+      "title": "Beoordelingsgegevens zijn momenteel niet beschikbaar.",
+      "desc": "Probeer het later opnieuw!"
+    },
+    "titles": {
+      "getQuote": "Ontvang een offerte",
+      "quoteDetails": "Offertedetails",
+      "transportationDetails": "Transportdetails",
+      "quoteNotes": "Citaatnotities",
+      "additionalServices": "Aanvullende diensten",
+      "rateShopResults": "RateShop-resultaten"
+    },
+    "quoteDetails": {
+      "projectNo": {
+        "label": "Projectnr.",
+        "placeholder": "Voer projectnr."
+      },
+      "quoteCost": {
+        "label": "Offerte kosten"
+      },
+      "quoteTransportationProvider": {
+        "label": "Offerte transportaanbieder"
+      },
+      "createdBy": {
+        "label": "Gemaakt door"
+      }
+    },
+    "transportationDetails": {
+      "delivery": "Levering",
+      "totalDistanceMiles": "Totale afstand (mijlen)",
+      "totalDistanceKm": "Totale afstand (KM's)",
+      "buttons": {
+        "addStop": "Stop toevoegen",
+        "deleteStop": "Stop verwijderen"
+      },
+      "stopType": {
+        "label": "Stoptype",
+        "message": "Selecteer een stoptype"
+      },
+      "stopNo": {
+        "label": "Halte nr",
+        "message": "Voer stopnummer in",
+        "error_integer": "Stop Nee moet een geheel getal zijn!",
+        "error_max": "Maximaal toegestane stopnummers 1 tot"
+      }
+    },
+    "productDetails": {
+      "productInformation": "Productinformatie",
+      "itemNo": "Item nr",
+      "numberOfPackages": {
+        "label": "Aantal pakketten",
+        "message": "Voer het aantal pakketten in"
+      },
+      "chargeableWeight": {
+        "label": "Betaalbaar gewicht",
+        "message": "Voer het productgewicht in"
+      },
+      "unit": {
+        "label": "Eenheid"
+      }
+    },
+    "transportationProviderSearch": {
+      "shipmentType": {
+        "label": "zendingType"
+      },
+      "rateDetails": {
+        "title": "Beoordelingsgegevens zijn momenteel niet beschikbaar.",
+        "description_one": "Probeer het later opnieuw!"
+      }
+    },
+    "rateShopDetails": {
+      "convertedCost": "Omgerekende kosten",
+      "convertedCurrencyCode": "Omgerekende valutacode",
+      "standardTransitDays": "Standaard transitdagen"
+    },
+    "additionalDetails": {
+      "addNewAccessorialCharges": "Voeg nieuwe aanvullende kosten toe",
+      "error": "Selecteer een accessoire",
+      "accessorialName": {
+        "label": "Bijkomende naam"
+      }
+    }
+  },
+  "notificationSettings": {
+    "title": "Notificatie instellingen",
+    "distributorContainer": {
+      "title": "Distributiedetails",
+      "button": "Nieuw record toevoegen",
+      "recordNo": "Recordnummer:",
+      "distributionName": {
+        "label": "Distributienaam",
+        "message": "Voer de distributienaam in"
+      }
+    },
+    "routingContainer": {
+      "title": "Notificatierouteringsdetails",
+      "addNewNotificationRouting": "Voeg nieuwe meldingsroutering toe",
+      "customerName": "Klantnaam :",
+      "selected": "Geselecteerd",
+      "emailList": {
+        "label": "E-maillijst",
+        "message": "E-mail kan worden vermeld met komma's gescheiden."
+      },
+      "distributionName": {
+        "label": "Distributienaam",
+        "message": "Selecteer Distributienaam"
+      },
+      "chargeableWeight": {
+        "label": "Betaalbaar gewicht",
+        "placeholder": "Voer het belastbare gewicht in"
+      }
+    }
+  },
+  "rateShop": {
+    "tabs": {
+      "rateShopResults": "Beoordeel winkelresultaten"
+    },
+    "buttons": {
+      "viewRateShopResults": "Bekijk Rate Shop-resultaten",
+      "stops": "Stopt"
+    },
+    "rateShop": {
+      "general": "Algemeen",
+      "optional": "Optioneel",
+      "laneDetails": "Lane-details",
+      "addLane": "Voeg Laan toe",
+      "deleteLane": "Verwijder rijstrook",
+      "actualCarrierRateShopping": "(Werkelijke vervoerder) Tarief winkelen",
+      "stopsDetails": "Stopdetails",
+      "Add Stop": "Stop toevoegen",
+      "deleteStop": "Stop verwijderen",
+      "itemDetails": "onderdeel details",
+      "addItem": "Voeg item toe",
+      "deleteItem": "Verwijder item",
+      "addStop": "Stop toevoegen",
+      "legDistance": "Been afstand",
+      "tripDistance": "Reisafstand",
+      "totalPieces": "Totaal aantal stukken",
+      "totalPiecesEqual": "in stops moet gelijk zijn aan het totale aantal stukken",
+      "inDetails": "in detail",
+      "port": "Haven",
+      "location": "Plaats",
+      "pieces": {
+        "label": "Stukken",
+        "message": "Gelieve stukken in te voeren"
+      },
+      "numberOfPieces": {
+        "label": "Aantal stukken",
+        "message": "Aantal stukken mag geen negatieve waarden hebben"
+      },
+      "currencyCode": {
+        "message": "Selecteer een valuta"
+      },
+      "pricingType": {
+        "message": "Selecteer een prijstype"
+      },
+      "pricingBasis": {
+        "message": "Selecteer een prijsbasis"
+      },
+      "rateSelection": {
+        "label": "Tariefselectie",
+        "message": "Selecteer een tariefselectie"
+      },
+      "measurementUit": {
+        "label": "Meting verenig",
+        "message": "Selecteer een maateenheid"
+      },
+      "shipmentDate": {
+        "message": "Selecteer Verzenddatum"
+      },
+      "account": {
+        "label": "Rekening",
+        "placeholder": "Voer Account in"
+      },
+      "declaredValue": {
+        "label": "Aangegeven waarde"
+      },
+      "codValue": {
+        "label": "COD-waarde"
+      },
+      "ldmValue": {
+        "label": "LDM-waarde"
+      },
+      "length": {
+        "errorLength": "Lengte mag geen negatieve waarden hebben"
+      },
+      "width": {
+        "errorLength": "Breedte mag geen negatieve waarden hebben"
+      },
+      "weight": {
+        "message": "Voer gewichten in",
+        "errorWeight": "Gewicht mag geen negatieve waarden hebben",
+        "errorZero": "Het gewicht moet groter zijn dan nul"
+      },
+      "height": {
+        "errorNegative": "Hoogte mag geen negatieve waarden hebben"
+      },
+      "billedQuantity": {
+        "label": "Gefactureerde hoeveelheid",
+        "errorNegative": "Gefactureerde hoeveelheid mag geen negatieve waarden hebben"
+      },
+      "ratingClass": {
+        "label": "Beoordelingsklasse",
+        "message": "Selecteer een beoordelingsklasse"
+      }
+    },
+    "rateShopResult": {
+      "shippingDate": "Datum van verzending",
+      "measurementType": "Metingstype",
+      "imperial": "Imperiaal",
+      "metric": "Metriek",
+      "emptyRecords": "Beoordelingsdetails zijn momenteel niet beschikbaar. Probeer het later opnieuw.",
+      "noRatesFound": "Geen tarieven gevonden!",
+      "code": "Code",
+      "calculationType": "Berekeningstype",
+      "effectiveFrom": "Effectief vanaf",
+      "charge": "Aanval",
+      "accessorialDiscount": "Bijkomende korting",
+      "fuel": "Brandstof",
+      "note": "Opmerking",
+      "accessorialBasis": "Bijkomende basis",
+      "effectiveTo": "Effectief tot",
+      "deficitWeight": "Tekort gewicht",
+      "deficitRate": "Tekortpercentage",
+      "itemsTotalCharge": "Artikelen Totale kosten",
+      "deficitCharge": "Tekortheffing",
+      "grossCharge": "Bruto kosten",
+      "totalDiscount": "Totale korting",
+      "baseCharge": "Basislading",
+      "itemNo": "Item nr",
+      "piece": "Deel",
+      "absMin": "ABS-min",
+      "rateCostPer": "Tarief/kosten per",
+      "discount": "Korting",
+      "uom": "Eenheid",
+      "actualClass": "Werkelijke klasse",
+      "absMax": "ABS-max",
+      "amount": "Hoeveelheid",
+      "totalTaxCharge": "Totale belastinglast",
+      "taxBasis": "Belastinggrondslag",
+      "discountAmount": "Korting hoeveelheid",
+      "discountPercentage": "Kortingspercentage",
+      "mileage": "Kilometerstand (mijlen)",
+      "totalAcc": "Totaal acc",
+      "totalTax": "Totale belasting",
+      "totalCost": "Totale prijs",
+      "bureauMC": "Bureau MC",
+      "directPoint": "Direct punt",
+      "totalShipmentCost": "Totale verzendkosten",
+      "service": "Dienst",
+      "equipment": "Apparatuur",
+      "distance": "Afstand (mijl/km)",
+      "miles": "Mijlen",
+      "kms": "km",
+      "tariffName": "Tariefnaam",
+      "pricingEffectiveDate": "Ingangsdatum prijs",
+      "to": "naar",
+      "tariffEffectiveDate": "Tariefingangsdatum",
+      "pricingKey": "Prijssleutel",
+      "tariffKey": "Tariefsleutel",
+      "liner": "Voering",
+      "laneCode": "Rijstrookcode",
+      "laneAlias": "Lane Alias",
+      "rateShopResult": "Beoordeel winkelresultaat",
+      "accessorials": "Accessoires",
+      "taxes": "Belastingen"
+    },
+    "globalRateShope": "Wereldwijde tariefwinkel",
+    "taxDetails": "Belastinggegevens",
+    "totalAccessorialCharge": "Totale aanvullende kosten",
+    "addNew": "Geen tussenstops. Probeer nieuwe toe te voegen!",
+    "stop": "Stop"
+  },
+  "procurement": {
+    "createProject": "Project maken",
+    "createTender": "Maak een offerte",
+    "download": "Downloaden",
+    "projectName": {
+      "label": "Naam van het project",
+      "placeholder": "Naam van het project"
+    },
+    "tenderName": {
+      "label": "Naam van de aanbesteding",
+      "placeholder": "Naam van de aanbesteding"
+    },
+    "subMenu": {
+      "project": "Project",
+      "tender": "Teder",
+      "bidAnalysis": "Biedanalyse",
+      "routeConfiguration": "Routeconfiguratie"
+    },
+    "routeConfigurationTabs": {
+      "location": "Plaats",
+      "lane": "rijbaan",
+      "zone": "Zone"
+    },
+    "filters": {
+      "projectSearch": "Zoeken naar projecten",
+      "tenderSearch": "Offerte zoeken",
+      "searchCriteria": "Zoekcriteria",
+      "tender": "Teder",
+      "admin": "beheerder",
+      "generalDetails": "algemene details",
+      "rank": "Rang",
+      "summarizeCritria": "Critria samenvatten",
+      "includeHistorical": "Historisch opnemen",
+      "laneSearch": "Rijstrook zoeken",
+      "zoneSearch": "Zone zoeken"
+    },
+    "projectTabs": {
+      "projectDetails": "Project details",
+      "tenderDetails": "Aanbestedingsdetails"
+    },
+    "tenderTabs": {
+      "tenderInformation": "Aanbestedingsinformatie",
+      "documentation": "Documentatie",
+      "laneInformation": "Rijstrookinformatie",
+      "bidParameters": "Biedparameters"
+    },
+    "fields": {
+      "service": "Dienst",
+      "addDestination": "Bestemming toevoegen",
+      "destinationDetails": "Bestemmingsgegevens",
+      "region": "Regio",
+      "addOrigin": "Oorsprong toevoegen",
+      "originDetails": "Herkomstdetails",
+      "destinationStucuture": "Bestemmingsstructuur (sectie)",
+      "originStucuture": "Herkomststructuur (hoofd)",
+      "bidTransportationProvider": "BID Transportaanbieder",
+      "baseBIDPrice": "Basis BOD-prijs",
+      "bidRankBidTransportationProvider": "BID Rang BID Transportaanbieder",
+      "currentBIDPrice": "Huidige biedprijs",
+      "bidRankBaseTransportationProvider": "BID Rang Basis Transportaanbieder",
+      "lanesNotCovered": "Rijbanen Niet overdekt",
+      "lanesCovered": "Lanen bedekt",
+      "numberOfLanes": "Aantal rijstroken",
+      "currentBIDTransportationProvider": "Huidige BID-vervoersaanbieder",
+      "baseTransportationProvider": "Basistransportaanbieder",
+      "parameterType": {
+        "label": "Parametertype"
+      },
+      "projectStatus": {
+        "label": "Project status",
+        "placeholder": "Selecteer Projectstatus",
+        "message": "Selecteer de projectstatus",
+        "true": "Actief",
+        "false": "Inactief"
+      },
+      "tenderStatus": {
+        "label": "Aanbestedingsstatus:",
+        "true": "Actief",
+        "false": "Inactief"
+      },
+      "projectApproved": {
+        "label": "Goedkeuringsstatus van projecten",
+        "message": "Selecteer de goedkeuringsstatus van het project"
+      },
+      "projectApprovedBy": {
+        "label": "Project goedgekeurd door"
+      },
+      "projectLead": {
+        "label": "Projectleider",
+        "message": "Selecteer een projectleider"
+      },
+      "tecSupport": {
+        "label": "Technische hulp",
+        "message": "Selecteer technische ondersteuning"
+      },
+      "tecLead": {
+        "label": "Technische leiding",
+        "message": "Selecteer technische ondersteuning"
+      },
+      "projectSupport": {
+        "label": "Projectondersteuning",
+        "message": "Selecteer projectondersteuning"
+      },
+      "groupBy": {
+        "label": "Groepeer op"
+      },
+      "formulaName": {
+        "label": "Formulenaam",
+        "placeholder": "Totale prijs"
+      },
+      "parameters": {
+        "label": "Parameters",
+        "placeholder": "Voer parameters in"
+      },
+      "formula": {
+        "label": "Formule",
+        "placeholder": "Basiskosten verzending"
+      },
+      "summarizeCritria": {
+        "label": "Vat Critria samen"
+      },
+      "actualName": {
+        "label": "Werkelijke projectnaam"
+      },
+      "description": {
+        "placeholderDesc": "Beschrijving van de aanbesteding",
+        "message": "Voeg een beschrijving toe"
+      },
+      "modeOfTender": {
+        "label": "Wijze van aanbesteding"
+      },
+      "tecSupServicePort": {
+        "label": "Technische SupportService Categorie Poort"
+      },
+      "reference": {
+        "label1": "Referentie 1",
+        "label2": "Referentie 2",
+        "placeholder": "Referentie"
+      },
+      "transportationMode": {
+        "label": "Transportmodus"
+      },
+      "prameterDisplayName": {
+        "label": "Weergavenaam prameter:"
+      },
+      "locationName": {
+        "title": "Locatie naam",
+        "label": "Locatie naam:",
+        "placeholder": "Voer locatienaam in"
+      },
+      "originType": {
+        "label": "Oorsprong soort",
+        "placeholder": "Selecteer Herkomsttype"
+      },
+      "originName": {
+        "label": "Herkomst naam",
+        "placeholder": "Voer de herkomstnaam in"
+      },
+      "destinationType": {
+        "label": "Bestemmingstype",
+        "placeholder": "Selecteer Bestemmingstype"
+      },
+      "destinationName": {
+        "label": "Bestemmingsnaam",
+        "placeholder": "Voer de bestemmingsnaam in"
+      },
+      "zoneName": {
+        "label": "Zonenaam",
+        "placeholder": "Zonenaam"
+      },
+      "date": {
+        "startDate": "Begin datum",
+        "endDate": "Einddatum",
+        "projectStartDate": "Startdatum van het project",
+        "projectEndDate": "Einddatum project",
+        "tenderStartDate": "Startdatum aanbesteding",
+        "tenderEndDate": "Einddatum aanbesteding",
+        "startDateTime": "Startdatum en -tijd",
+        "placeholder": "Selecteer een datum",
+        "endDateAndTime": "Einddatum en -tijd"
+      }
+    },
+    "projectCard": {
+      "details": "Project details",
+      "information": "project informatie",
+      "projectDescription": "Projectbeschrijving",
+      "projectStartDate": "Startdatum van het project",
+      "projectEndDate": "Einddatum project",
+      "mileStones": "Mijlpalen",
+      "startDate": "Begin datum",
+      "endDate": "Einddatum",
+      "actualName": "Werkelijke projectnaam",
+      "preparationFiles": "Voorbereidingsbestanden",
+      "bidCollectionPhase": "Fase voor het verzamelen van biedingen",
+      "selectionPhase": "Selectie Fase",
+      "currentRound": "Huidige ronde:",
+      "modeOfTender": "Wijze van aanbesteding",
+      "transportationMode": "Transportmodus",
+      "serviceCategory": "Servicecategorie",
+      "notificationSuccess": "Creëer een project met succes",
+      "notificationError": "Projectfout maken"
+    },
+    "tenderCard": {
+      "trackingStatus": "Volgstatus",
+      "modeOfTender": "Wijze van aanbesteding",
+      "tenderStartDate": "Startdatum aanbesteding",
+      "laneCovered": "Laan bedekt",
+      "tenderEndDate": "Einddatum aanbesteding",
+      "currentRound": "Huidige ronde",
+      "bidCollectionStartDateTime": "Begindatum en -tijd voor het verzamelen van biedingen",
+      "bidCollectionEndDateTime": "Einddatum en -tijd voor het verzamelen van biedingen",
+      "laneName": "Naam van de steeg:",
+      "dellasLocation": "Dellas Locatie",
+      "prameterDisplayName": "Weergavenaam prameter:",
+      "prameterType": "Prameter-type",
+      "required": "Vereist/niet vereist",
+      "parameterDataType": "Parametergegevenstype",
+      "value": "Waarde",
+      "repeated": "Herhaald",
+      "historicalOnly": "Alleen historisch",
+      "rflStatus": "RFL-status",
+      "rfqStatus": "Offerteaanvraagstatus",
+      "rfiRequestDate": "RFI-aanvraagdatum",
+      "rfqRequestDate": "Datum offerteaanvraag",
+      "rfiRespondDate": "RFI-antwoorddatum",
+      "rfqRespondDate": "Datum van antwoord op offerteaanvraag"
+    },
+    "modalTransportationProvider": {
+      "title": "Transportaanbieder zoeken/toevoegen",
+      "shortName": "Korte naam",
+      "countryCallingCode": "Landnummer",
+      "number": "Nummer",
+      "ext": "Ext",
+      "fax": "Fax",
+      "modeType": "Modustype"
+    },
+    "bigAnalysisCard": {
+      "rankAndCost": "Rang en kosten",
+      "laneCoverage": "Lane-dekking",
+      "details": "Details",
+      "laneCoverageAnalysis": "Analyse van rijstrookdekking",
+      "combinationAnalysis": "Combinatieanalyse",
+      "bidRank": "BID-rang",
+      "winningLanes": "Winnende rijstroken",
+      "chart": "Grafiek",
+      "bidLane": "BID-laan",
+      "totalLanes": "Totaal rijstroken",
+      "percentageCoverage": "Percentage dekking",
+      "includeHistorical": "Historisch opnemen",
+      "orgin": "Org",
+      "shipment": "Verzending",
+      "bidedUnitPrice": "Geboden eenheidsprijs",
+      "baseCost": "Basiskosten",
+      "rank": "Rang",
+      "savingPercentage": "Besparingspercentage",
+      "liftGate": "Liftpoort",
+      "savingAmount": "Bedrag sparen",
+      "trackingStatus": "Volgstatus",
+      "trackingStatusType": "Type trackingstatus",
+      "shipperShipDate": "Door de verzender gevraagde verzenddatum"
+    },
+    "routeConfigurationCard": {
+      "lane": "rijbaan",
+      "zoneName": "Zonenaam"
+    },
+    "footer": {
+      "totalActive": "Totaal actief project",
+      "totalApproved": "Totaal goedgekeurd project",
+      "total": "Totaal project",
+      "totalShipments": "Totaal aantal verzendingen",
+      "openShipments": "Verzendingen openen",
+      "closedShipments": "Gesloten zendingen",
+      "exceptions": "Uitzonderingen"
+    }
+  },
+  "purchase-order-view": {
+    "shipmentLandingList": "Landingslijst voor verzending",
+    "filterTitle": "Inkooporder zoeken",
+    "pageTitle": "Informatie over inkooporders",
+    "draftOrderSearch": "Conceptbestelling zoeken",
+    "shipmentSearch": "Verzending zoeken",
+    "vendorAddressSearch": "Leveranciersadres zoeken",
+    "regularOrders": "Reguliere bestellingen",
+    "releaseOrders": "Bestellingen vrijgeven",
+    "originDetails": "Herkomstdetails",
+    "shipperDetails": "Details van de verzender",
+    "destinationDetails": "Bestemmingsgegevens",
+    "consigneeDetails": "Gegevens van de geadresseerde",
+    "wareHouseContactDetails": "Contactgegevens van Magazijn",
+    "wareHouseDetails": "Magazijndetails",
+    "suzhouDousonDrillingProdu": "Suzhou Douson-boringen",
+    "contactPerson": "Contactpersoon",
+    "telephoneNo": "Telefoon Nee.",
+    "extension": "Verlenging",
+    "otherDetails": "Andere details",
+    "htsCode": "HTS-code",
+    "sureToReset": "Zeker om te resetten?",
+    "quanityLeft": "Hoeveelheid links",
+    "quantityShippeError": "waarde moet kleiner zijn dan de resterende hoeveelheid!",
+    "originDestinationDetails": "Herkomst- en bestemmingsdetails",
+    "warehouseContactInfoDetails": "Contactgegevens en details van het magazijn",
+    "appointmentIsRequired": "Afspraak is vereist",
+    "warehouseContactMsg": "Voer een magazijncontact in",
+    "shipperAddressMsg": "Voer het adres van de verzender in",
+    "warehouseTelephoneMsg": "Voer het magazijntelefoonnummer in",
+    "emailMsg": "Voer een e-mailadres in",
+    "checkboxMsg": "Door dit selectievakje in te schakelen, krijgt u de geselecteerde postcodelocatieresultaten van de geadresseerde",
+    "NoOfItems": "Aantal artikelen",
+    "itemShipDate": "Verzenddatum van item",
+    "addPackageID": "Pakket-ID toevoegen",
+    "newShipDateError": "De nieuwe verzenddatum kan niet langer zijn dan een jaar.",
+    "newShipPastDateError": "Nieuwe verzenddatum kan niet in het verleden liggen.",
+    "totalNoOfProducts": "Totaal aantal producten",
+    "releaseQuantity": "Vrijgavehoeveelheid",
+    "createShipment": "Verzending aanmaken",
+    "updateShipment": "Verzending bijwerken",
+    "locationDetails": "Locatiedetails",
+    "locationCity": "Locatie stad",
+    "warehouseDetails": "Magazijngegevens",
+    "enterQuantityLeft": "Voer het resterende aantal in",
+    "action": "Actie",
+    "sureToDelete": "Zeker verwijderen?",
+    "copyLastPackageId": "Kopieer laatste pakket-ID",
+    "resetPurchaseOrder": "Inkooporder opnieuw instellen",
+    "percentageLeftItems": "Percentage over (resterende artikelen)",
+    "orderStatus": "Bestelstatus",
+    "topVendors": "Topverkopers",
+    "topCustomers": "Topklanten",
+    "shipmentsStatus": "Verzendingsstatus",
+    "topLocationsOrderWise": "Toplocaties (bestel verstandig)",
+    "topProducts": "Topproducten",
+    "shipmentInformation": "Verzendingsinformatie",
+    "shipperStateProvience": "Staat/provincie van de verzender",
+    "consigneeStateProvience": "Staat/provincie van geadresseerde",
+    "totalOrders": "Totaal aantal bestellingen",
+    "openOrders": "Openstaande bestellingen",
+    "dueinNext7Days": "Te verwachten in de komende 7 dagen",
+    "delayedOrders": "Vertraagde bestellingen",
+    "closedOrders": "Gesloten bestellingen",
+    "lastCreatedShipmentNumber": "Laatst aangemaakte zendingsnummer",
+    "vendorsInformation": "Verkopersinformatie",
+    "date": "Datum",
+    "addNewRecord": "Nieuw record toevoegen",
+    "confirmPurchaseOrder": "BEVESTIG AANKOOPBESTELLING",
+    "resetReleaseOrder": "RESET VRIJGAVEORDER",
+    "purchaseItemInformation": "Informatie over aankoopartikelen",
+    "vendorAddressSearchExport": "Leveranciersadres zoeken Exporteren",
+    "purchaseOrderExport": "Inkooporder exporteren",
+    "addNewPackageId": "Nieuwe pakket-ID toevoegen",
+    "applyCountryButton": "Pas land van herkomst toe op alle lijnen",
+    "shipmentEntry": "Verzendingsinvoer",
+    "shipmentItemDetails": "Details van verzendingsitems",
+    "shipmentSummary": "Verzendingssamenvatting",
+    "totalMiles": "Totaal aantal kilometers",
+    "chargableWeight": "Oplaadbaar gewicht",
+    "shipmentCreatedDate": "Aanmaakdatum van verzending",
+    "shipmentNumbers": "Verzendingsnummers",
+    "draftOrderSearchExport": "Conceptbestelling zoeken exporteren",
+    "shipmentCreateDate": "Aanmaakdatum verzending",
+    "shipmentSearchExport": "Verzending zoeken exporteren",
+    "chargeableWeight": "Betaalbaar gewicht",
+    "createFinalShipment": "Maak de definitieve verzending aan",
+    "unSelectAll": "Deselecteer alles",
+    "shipmentSearchInformation": "Informatie over het zoeken naar zendingen",
+    "draftOrderSearchInformation": "Conceptbestelling zoekinformatie",
+    "pleaseEnterLocationAddress": "Voer het locatieadres in",
+    "pleaseSelectCountry": "Selecteer Land.",
+    "pleaseChooseState": "Kies Staat",
+    "pleaseEnterLocationName": "Voer de locatienaam in",
+    "warehouseEmailAddress": "E-mailadres magazijn",
+    "kindlyFillAllRequiredFields": "Vul alle verplichte velden in",
+    "approver": "Goedkeurder",
+    "pleaseEnterTheAir": "Voer de goedkeurder van luchtverzendingen in",
+    "shipmentConfirmationNumber": "Verzendingsbevestigingsnummer",
+    "kindlyEnterConfirmationNumber": "Gelieve het bevestigingsnummer in te voeren",
+    "createShipmentExport": "MAAK ZENDINGEXPORT",
+    "noRoutingDataAvailable": "Geen routeringsgegevens beschikbaar",
+    "clickToContinueShipment": "Klik om door te gaan met verzending",
+    "failedToGenerate": "Kan het paklijstbestand niet genereren.",
+    "pleaseChooseTheCustomer": "Kies de klant",
+    "addingPO": {
+      "description": "Het toevoegen van een inkooporder is alleen toegestaan ​​voor conceptverzending",
+      "title": "Waarschuw",
+      "okText": "OK"
+    },
+    "confirmationModal": {
+      "description": "De inkooporder moet hetzelfde land en dezelfde postcode hebben om in dezelfde zending te kunnen worden gecombineerd.",
+      "okText": "OK"
+    },
+    "error": {
+      "emtyDate": "Voer de datum in",
+      "shipdateYear": "De verwachte verzenddatum kan niet ouder zijn dan het jaar.",
+      "shipmentPastDate": "U kunt geen verzending op een eerdere datum aanmaken. ",
+      "shippedQuantity": "De verzonden hoeveelheid moet kleiner zijn dan de resterende hoeveelheid",
+      "similarConsigneelocationOrders": "We halen vergelijkbare bestellingen voor de locatie van de geadresseerde op!"
+    },
+    "fields": {
+      "purchasePartNumber": {
+        "label": "Aankooponderdeelnummer"
+      },
+      "purchasePartDescription": {
+        "label": "Beschrijving aankooponderdeel"
+      },
+      "date": {
+        "createdDate": "Aanmaakdatum",
+        "placeholder": "Selecteer een datum",
+        "messageFromCreateOnDate": "Selecteer 'maken op vanaf'-datum",
+        "messageToCreateOnDate": "Selecteer creëren op tot datum",
+        "messageFromShipnDate": "Selecteer een verzenddatum",
+        "messageToShipDate": "Selecteer een verzenddatum"
+      },
+      "length": {
+        "message": "Voer lengte in"
+      },
+      "width": {
+        "message": "Voer de breedte in"
+      },
+      "height": {
+        "message": "Voer de hoogte in"
+      },
+      "houseBillofLadingNumber": {
+        "label": "Landingsnummer van het huis"
+      },
+      "packageWeigh": {
+        "label": "Pakket wegen",
+        "message": "Voer het pakketgewicht in"
+      },
+      "weightUnitOfMeasure": {
+        "label": "Gewicht maateenheid"
+      },
+      "packagedId": {
+        "placeholder": "Voer de verpakte ID in",
+        "message": "Voer pakket-ID in"
+      },
+      "quantityShipped": {
+        "placeholder": "Voer het verzonden aantal in",
+        "error": "De waarde moet kleiner zijn dan de resterende hoeveelheid",
+        "errorOr": "waarde moet kleiner zijn dan of gelijk zijn aan de resterende hoeveelheid!",
+        "message": "Voer de verzonden hoeveelheid in"
+      },
+      "locationName": {
+        "label": "Locatie naam"
+      },
+      "locationAddress": {
+        "label": "Locatie adres"
+      },
+      "locationCountry": {
+        "label": "Locatie Land"
+      },
+      "locationPostalCode": {
+        "label": "Locatie Postcode"
+      },
+      "locationStateProvince": {
+        "label": "Locatie Staat/Provincie"
+      },
+      "countryOfOrigin": {
+        "placeholder": "Selecteer Land van herkomst",
+        "message": "Selecteer land van herkomst"
+      },
+      "class": {
+        "label": "Klas"
+      },
+      "containerNumber": {
+        "label": "Containernummer",
+        "placeholder": "Voer containernummer in"
+      },
+      "locationCity": {
+        "label": "Locatie Stad"
+      }
+    }
+  },
+  "tms-settings": {
+    "title": "TMS-instellingen",
+    "companySettings": "Bedrijfsinstellingen",
+    "shipmentSettings": "Verzendingsinstellingen",
+    "auctionSettings": "Veilinginstellingen",
+    "povSettings": "POV-instellingen",
+    "generalSettings": "Algemene instellingen",
+    "defaultShipmentPageValues": "Standaardwaarden voor verzendingspagina's",
+    "shipmentApprovalProcess": "Goedkeuringsproces voor verzending",
+    "emailDistribution": "E-maildistributie",
+    "additionalSettings": "Aanvullende instellingen",
+    "autoRouteProcess": "Automatisch routeproces",
+    "shipmentEntryPageSettings": "Instellingen invoerpagina zending",
+    "fields": {
+      "purchaseOrderNumber": {
+        "placeholder": "Voer het inkoopordernummer in"
+      },
+      "emailMessage": "Voer een geldig e-mailformaat in.",
+      "statusInTMS": {
+        "label": "Status in TMS",
+        "placeholder": "Selecteer status",
+        "message": "Status in TMS is vereist.",
+        "optionActive": "Actief",
+        "optionInActive": "Inactief",
+        "tooltip": "Actief als de klant in TMS zit, anders Inactief."
+      },
+      "brokerageCustomer": {
+        "label": "Bedrijfstype",
+        "message": "Bedrijfstype is vereist.",
+        "placeholder": "Selecteer bedrijfstype",
+        "optionTMS": "TMS",
+        "optionBrokerage": "Makelaardij",
+        "tooltip": "Deze instelling bepaalt of de klant die de gebruiker toevoegt een gewone TMS-klant of makelaarsklant is"
+      },
+      "shipmentNoCounter": {
+        "label": "Zendingnummerteller",
+        "message": "Voer de zendingsnummerteller in",
+        "error": "De zendingsnummerteller moet uit 8 cijfers bestaan.",
+        "tooltip": "Nummer vanaf waar de telling van het zendingsnummer begint wanneer een nieuwe zending wordt aangemaakt"
+      },
+      "masterChildShipment": {
+        "label": "Hoofd-/kindverzending",
+        "placeholder": "Selecteer Hoofd-/kindverzending",
+        "tooltip": "Schakelt het hoofd-/onderliggende verzendproces in voor de klant"
+      },
+      "pricingType": {
+        "optionCarrierRate": "Vervoerdertarief",
+        "tooltip": "Definieert op basis van welk prijstype een beoordeling moet worden uitgevoerd. "
+      },
+      "displayPaidBY": {
+        "label": "Toon 'Betaald DOOR'",
+        "placeholder": "Selecteer Weergave 'Betaald DOOR'",
+        "tooltip": "Opent het veld 'Betaald door' op de pagina Verzendingsonderhoud"
+      },
+      "shipmentApprovalProcess": {
+        "label": "Goedkeuringsproces voor verzending",
+        "placeholder": "Selecteer Verzendingsgoedkeuringsproces",
+        "tooltip": "Schakelt het goedkeuringsproces voor verzending in voor de klant"
+      },
+      "validateCategoryDetails": {
+        "label": "Categoriedetails valideren",
+        "placeholder": "Selecteer Categoriedetails valideren",
+        "tooltip": "Als Categorie moet worden ingevuld door de gebruiker op de pagina Verzendingsonderhoud, dan wordt deze instelling gevalideerd als deze niet wordt opgegeven."
+      },
+      "calculateChargeableWeight": {
+        "label": "Bereken het belastbare gewicht",
+        "placeholder": "Selecteer Bereken het belastbare gewicht",
+        "tooltip": "Op de pagina Verzendingsonderhoud Productdetails accordeon wanneer productgegevens door de gebruiker worden ingevoerd, wordt het belastbare gewicht automatisch berekend als deze instelling is ingeschakeld."
+      },
+      "routingGuideMatch": {
+        "label": "Routing Gids Match",
+        "placeholder": "Selecteer Routing Guide Match",
+        "tooltip": "Als de instelling is ingesteld op 'Ja', wordt de verzendbeoordeling uitgevoerd voor vervoerders die zich op de instellingenpagina van de Routing Guide bevinden."
+      },
+      "shipmentCategoryVisible": {
+        "label": "Verzendcategorie zichtbaar",
+        "placeholder": "Selecteer Verzendcategorie zichtbaar",
+        "tooltip": "Schakelt de zichtbaarheid van het categoriegedeelte in de schermen Verzending toevoegen en Verzending bewerken in."
+      },
+      "shipmentBillToVisible": {
+        "label": "Verzendingsfactuur zichtbaar",
+        "placeholder": "Selecteer Verzendfactuur naar Zichtbaar",
+        "tooltip": "Schakelt de zichtbaarheid in van de sectie Factureren aan in de schermen Verzending toevoegen en Verzending bewerken."
+      },
+      "shipmentVendorVisible": {
+        "label": "Verzendingsleverancier zichtbaar",
+        "placeholder": "Selecteer Verzendingsleverancier zichtbaar",
+        "tooltip": "Schakelt de zichtbaarheid van de sectie Leverancier in in de schermen Verzending toevoegen en Verzending bewerken."
+      },
+      "branch": {
+        "tooltip": "Hierdoor wordt een standaardfiliaal bij verzending ingesteld als een filiaal niet kan worden gedefinieerd"
+      },
+      "defaultSpotBidEndStatus": {
+        "label": "Standaard Eindstatus spotbod",
+        "placeholder": "Selecteer Standaard Eindstatus spotbod",
+        "tooltip": "Wanneer de Spot Bid-tijd voor verzending verstrijkt, kan de verzendstatus weer worden gewijzigd naar Nieuw of SpotBIdEnd of blijven zoals deze is in de Spot Bid-status."
+      },
+      "displayPOSOShipmentLevel": {
+        "label": "Geef het PO/SO-verzendniveau weer",
+        "placeholder": "Selecteer Weergave PO/SO-verzendingsniveau",
+        "tooltip": "Als de instelling is ingesteld op ‘Ja’, verschijnen er 2 velden ‘Inkooporder’ en ‘Verkooporder’ op de pagina Verzendingsonderhoud. "
+      },
+      "shipmentTypes": {
+        "label": "Verzendingstypen",
+        "tooltip": "Met deze instelling wordt het standaard verzendtype ingesteld voor zendingen die op basis van POV en handmatig zijn aangemaakt.",
+        "option_i": "Inkomend",
+        "option_c": "Intercompany",
+        "option_o": "Uitgaande",
+        "option_t": "Derde partij"
+      },
+      "displayRatingDetailsAccordion": {
+        "label": "Beoordeling weergeven Details Accordeon",
+        "placeholder": "Selecteer Weergave Beoordeling Details Accordeon",
+        "tooltip": "Beoordeling weergeven Details Accordeon"
+      },
+      "hazmat": {
+        "label": "Hazmat",
+        "placeholder": "Selecteer Hazmat",
+        "tooltip": "Stelt Hazmat in de productdetails op de verzendpagina standaard in op Ja of Nee"
+      },
+      "ratingPreference": {
+        "label": "Beoordelingsvoorkeur",
+        "placeholder": "Selecteer Beoordelingsvoorkeur",
+        "tooltip": "Standaardwaarderingsvoorkeur op de pagina Verzendonderhoud",
+        "option_a": "Alle vervoerders",
+        "option_l": "Goedkoopste",
+        "option_r": "Vereist"
+      },
+      "length": {
+        "tooltip": "Stelt de standaardlengte in op de accordeon met productdetails"
+      },
+      "width": {
+        "tooltip": "Stelt de standaardbreedte in op de accordeon met productdetails"
+      },
+      "height": {
+        "tooltip": "Stelt de standaardhoogte in op de accordeon met productdetails"
+      },
+      "defaultInternalNotes": {
+        "label": "Standaard interne notities",
+        "placeholder": "Standaard interne notities..."
+      },
+      "shipmentApprovalCount": {
+        "label": "Aantal goedkeuringszendingen",
+        "tooltip": "Deze instelling bepaalt het maximale aantal goedkeurders dat nodig is voor het goedkeuringsproces"
+      },
+      "requireApprovalNumber": {
+        "label": "Goedkeuringsnummer vereisen",
+        "placeholder": "Selecteer Goedkeuringsnummer vereisen",
+        "tooltip": "Als deze instelling is ingeschakeld, wordt het goedkeuringsnummer gegenereerd wanneer de zending wordt aangemaakt. "
+      },
+      "adminEmail": {
+        "label": "E-mailadres beheerder",
+        "messageRequired": "Voer het e-mailadres van de beheerder in",
+        "tooltip": "Hiermee wordt een e-mailadres ingesteld waarnaar alle automatisch gegenereerde e-mails worden verzonden. "
+      },
+      "supportEmail": {
+        "label": "Ondersteuning e-mailadres",
+        "messageRequired": "Voer het e-mailadres voor ondersteuning in",
+        "tooltip": "Wanneer e-mailmeldingen zoals Tender of Spot bis naar de vervoerder worden verzonden, is er een e-mailadres van het ondersteuningsteam van de klant waarmee de vervoerder contact kan opnemen in geval van vragen."
+      },
+      "fromEmail": {
+        "label": "E-mailadres ‘Van’-e-mailadres",
+        "messageRequired": "Voer het e-mailadres 'Van' in",
+        "tooltip": "E-mail die in het veld 'Van' in het e-mailonderwerp wordt geplaatst."
+      },
+      "attachSupportingDoc": {
+        "label": "Voeg ondersteunende documentatie toe aan e-mails",
+        "placeholder": "Selecteer Ondersteunende documentatie bij e-mails voegen",
+        "tooltip": "Voeg ondersteunende documentatie toe aan e-mails"
+      },
+      "childShipment": {
+        "label": "Tolerantie % onderliggende zending",
+        "message": "Voer het tolerantiepercentage voor het aantal onderliggende zendingen in",
+        "tooltip": "Hiermee wordt een validatie van het hoeveelheidsveld ingesteld voor het proces Master/Child-zendingen. "
+      },
+      "autoRateProcess": {
+        "label": "Automatisch tariefproces",
+        "placeholder": "Selecteer Automatisch tariefproces",
+        "tooltip": "Kan automatisch beoordelingsproces niet inschakelen"
+      },
+      "autoTenderProcess": {
+        "label": "Automatisch aanbestedingsproces",
+        "placeholder": "Selecteer aanbestedingsproces",
+        "tooltip": "Kan automatisch aanbestedingsproces op klantniveau niet inschakelen"
+      },
+      "maxAutoTenderAmount": {
+        "label": "Maximaal bedrag voor automatische aanbesteding",
+        "placeholder": "Selecteer het maximale automatische betalingsbedrag",
+        "tooltip": "Stelt maximaal toegestaan ​​bedrag in. Automatisch betaald bedrag"
+      },
+      "recalculateFreightClass": {
+        "label": "Bereken de vrachtklasse opnieuw",
+        "tooltip": "Als de instelling op ‘Ja’ staat, wordt de vrachtklasse voor de zending opnieuw berekend door het Auto-Route-proces, ongeacht of deze al op de zending is vermeld of niet."
+      },
+      "autoTenderSpecificCargoType": {
+        "label": "Specifiek vrachttype voor automatische aanbesteding",
+        "tooltip": "Auto Tender Specifiek vrachttype"
+      },
+      "defaultEquipmentType": {
+        "label": "Standaard uitrustingstype",
+        "tooltip": "Met deze instelling kan de gebruiker het type apparatuur presenteren dat voor alle zendingen aan de vervoerder in de veiling wordt getoond."
+      },
+      "defaultCargoType": {
+        "label": "Standaard vrachttype",
+        "placeholder": "Standaard vrachttype",
+        "tooltip": "Standaard vrachttype in Veilingmodule voor Transportaanbieder"
+      },
+      "populateBidExpiryDate": {
+        "label": "Vul de vervaldatum van het bod in",
+        "placeholder": "Selecteer Vul de vervaldatum van het bod in",
+        "tooltip": "Als de instelling is ingesteld op 'Ja', kunnen spotbiedingen van de vervoerder die al zijn verlopen op basis van de vervaldatum van het spotbod, niet beschikbaar zijn voor de klantgebruiker om te selecteren in het winkelresultaat Verzendtarieven. "
+      },
+      "addDaysBidExpiryDate": {
+        "label": "Voeg dagen toe aan de vervaldatum van het bod",
+        "placeholder": "Voeg dagen toe aan de vervaldatum van het bod",
+        "tooltip": "Voeg dagen toe aan de vervaldatum van het bod"
+      },
+      "auctionType": {
+        "label": "Veilingtype",
+        "placeholder": "Selecteer veilingtype",
+        "tooltip": "Kan omgekeerde veiling niet inschakelen, wat betekent dat vervoerders elkaars biedingen moeten onderbieden."
+      },
+      "maximumBidHours": {
+        "maximumBidHours": "Maximale bieduren",
+        "message": "Voer de maximale bieduren in",
+        "error": "Het maximale bieduur is groter dan het maximaal toegestane bieduur.",
+        "tooltip": "Wanneer de gebruiker in de Verzendingsmodule een verzending naar Spot Bid verzendt, mag hij de tijd voor het Spot Bid instellen. "
+      },
+      "turnONPOVModule": {
+        "label": "Schakel de POV-module in",
+        "placeholder": "Selecteer POV-module inschakelen",
+        "message": "Selecteer POV-module inschakelen.",
+        "tooltip": "Indien 'Ja' dan kunnen zendingen via POV worden aangemaakt, indien 'Nee' dan kunnen er geen zendingen via POV worden aangemaakt."
+      },
+      "shipmentStartingNumber": {
+        "label": "Startnummer van verzending",
+        "tooltip": "Hiermee wordt het verzendnummer ingesteld dat begint met een geheel getal dat na Alpha Prefix komt. "
+      },
+      "shipmentNumberPrefix": {
+        "label": "Voorvoegsel zendingsnummer",
+        "tooltip": "Hiermee wordt het voorvoegsel van het zendingsnummer ingesteld. "
+      },
+      "noRoutingGuideCarriersReturned": {
+        "label": "Aantal geretourneerde routegidsvervoerders",
+        "tooltip": "Als 'Routingmethode' = 'Routinggids' dan is het aantal geretourneerde vervoerders uit de routeringsgids beperkt tot het opgegeven aantal."
+      },
+      "shipmentTermsAllowed": {
+        "label": "Verzendingsvoorwaarden toegestaan",
+        "placeholder": "Selecteer Verzendvoorwaarden toegestaan",
+        "option_all": "--Alle--",
+        "option_c": "Verzamelen",
+        "option_p": "Vooraf betaald",
+        "option_t": "DERDE PARTIJ",
+        "tooltip": "Deze instelling bepaalt welke Verzendvoorwaarden mogen worden gebruikt voor Zendingen"
+      },
+      "povDestinationMethod": {
+        "label": "POV-bestemmingsmethode",
+        "placeholder": "Selecteer POV-bestemmingsmethode",
+        "message": "Selecteer POV-module inschakelen.",
+        "tooltip": "Op de pagina Verzendingsinvoer is het bestemmingsadres vooraf ingesteld voor de leveranciergebruiker. "
+      },
+      "routingMethod": {
+        "label": "Routeringsmethode",
+        "placeholder": "Selecteer Routeringsmethode",
+        "tooltip": "Wanneer de leveranciergebruiker een verzending via POV aanmaakt, zijn er verschillende manieren waarop de leveranciergebruiker een vervoerder voor de verzending kan verkrijgen. "
+      },
+      "allowDraftShipment": {
+        "label": "Conceptverzending toestaan",
+        "placeholder": "Selecteer Conceptverzending toestaan",
+        "tooltip": "Als de instelling is ingesteld op 'Ja', mogen leveranciersgebruikers conceptzendingen maken in de POV-module."
+      },
+      "packageUnitMeasure": {
+        "label": "Pakket maateenheid",
+        "tooltip": "Hierdoor wordt de standaardpakketeenheid ingesteld op de pagina Verzendingsinvoer in POV"
+      },
+      "weightUnitMeasure": {
+        "label": "Gewicht maateenheid",
+        "option_p": "Pond",
+        "option_k": "Kilogram",
+        "placeholder": "Selecteer de maateenheid Gewicht",
+        "tooltip": "Hierdoor wordt de standaardmaateenheid ingesteld op de pagina Verzendingsinvoer in de POV-module"
+      },
+      "freeOnBoardCode": {
+        "label": "Gratis boordcode",
+        "tooltip": "Hierdoor wordt de standaard gratis on-board-code ingesteld op de zending die via POV is aangemaakt"
+      },
+      "frightClass": {
+        "label": "Angst klasse",
+        "placeholder": "Selecteer Angstklasse",
+        "tooltip": "Hierdoor wordt de standaardklasse toegewezen aan de zending die via POV is aangemaakt."
+      },
+      "minimumDays": {
+        "label": "Minimale dagen",
+        "placeholder": "Voer het minimum aantal dagen in",
+        "tooltip": "Wanneer de leverancier een PO in POV selecteert, moet hij 'Nieuwe verzenddatum' opgeven. "
+      },
+      "maximumDays": {
+        "label": "Maximale dagen",
+        "placeholder": "Voer het maximale aantal dagen in",
+        "tooltip": "Wanneer de leverancier een PO in POV selecteert, moet hij 'Nieuwe verzenddatum' opgeven. "
+      },
+      "minimumDaysError": {
+        "label": "Foutmelding minimaal aantal dagen",
+        "placeholder": "Voer het foutbericht voor het minimum aantal dagen in",
+        "tooltip": "Als de regel 'Minimum Dagen' wordt overtreden, wordt 'Minimum Dagen Foutbericht' aan de Gebruiker getoond op de gebruikersinterface",
+        "message": "Verzending is niet toegestaan ​​3 dagen vóór de verwachte verzenddatum"
+      },
+      "maximumDaysError": {
+        "label": "Foutmelding Maximaal aantal dagen",
+        "placeholder": "Voer het foutbericht voor het maximale aantal dagen in",
+        "tooltip": "Als de regel 'Maximum Dagen' wordt overtreden, wordt 'Maximum Dagen Foutbericht' aan de Gebruiker getoond op de gebruikersinterface",
+        "message": "De verwachte verzenddatum mag niet langer zijn dan een jaar."
+      }
+    },
+    "notificationSuccess": "TMS-instellingen succesvol opgeslagen.",
+    "notificationError": "Kan TMS-instellingen niet opslaan. "
+  },
+  "login": {
+    "authLeft": {
+      "title": "Heeft u nog geen account?",
+      "link": "Meld u nu aan!"
+    },
+    "authRight": {
+      "title": "Welkom terug",
+      "desc": "Log in om door te gaan"
+    },
+    "form": {
+      "email": {
+        "placeholder": "E-mailadres / gebruikersnaam",
+        "enter": "Voer een gebruikersnaam in."
+      },
+      "password": {
+        "placeholder": "Wachtwoord",
+        "enter": "Voer wachtwoord in alstublieft."
+      },
+      "link": "Wachtwoord vergeten?",
+      "button": "Log in"
+    }
+  },
+  "forgotPassword": {
+    "authLeft": {
+      "title": "Heeft u nog geen account?",
+      "link": "Meld u nu aan!"
+    },
+    "authRight": {
+      "title": "Wachtwoord vergeten",
+      "desc": "Voer het e-mailadres in waarnaar u uw inloggegevens wilt verzenden"
+    },
+    "form": {
+      "email": {
+        "placeholder": "E-mailadres / gebruikersnaam",
+        "enter": "Voer een gebruikersnaam in."
+      },
+      "warning": {
+        "okText": "Log in",
+        "desc": "Het nieuwe wachtwoord is naar uw e-mailadres verzonden. Controleer uw e-mail en log in met het nieuwe wachtwoord."
+      },
+      "backToLogin": "Terug naar Inloggen",
+      "button": "Indienen"
+    }
+  },
+  "signUp": {
+    "authLeft": {
+      "title": "Heeft u al een account?",
+      "link": "Meld u nu aan!"
+    },
+    "authRight": {
+      "title": "nieuwe gebruiker registratie",
+      "desc": "Registreer nu om verder te gaan"
+    },
+    "form": {
+      "email": {
+        "enter": "Voer een gebruikersnaam in."
+      },
+      "password": {
+        "label": "Wachtwoord",
+        "enter": "Voer wachtwoord in alstublieft."
+      },
+      "confirmPassword": {
+        "label": "bevestig wachtwoord",
+        "enter": "Voer het wachtwoord in. Bevestig het wachtwoord."
+      },
+      "firstName": {
+        "label": "Voornaam",
+        "enter": "Voer uw voornaam in."
+      },
+      "middleName": {
+        "label": "Midden-naam"
+      },
+      "lastName": {
+        "label": "Achternaam",
+        "enter": "Voer een achternaam in.",
+        "invalid": "Voer een geldige achternaam in."
+      },
+      "addressLineFirst": {
+        "label": "Adres 1",
+        "enter": "Voer Adres1 in."
+      },
+      "addressLineSecond": {
+        "label": "Adres 2",
+        "enter": "Voer Adres2 in."
+      },
+      "jobType": {
+        "label": "Soort baan"
+      },
+      "department": {
+        "label": "Afdeling"
+      },
+      "phoneWork": {
+        "label": "Telefoon(Werk)"
+      },
+      "phoneCell": {
+        "label": "Telefooncel)"
+      },
+      "reference": {
+        "label": "Referentie"
+      },
+      "comments": {
+        "label": "Opmerkingen"
+      },
+      "capcha": "Controleer de samenvatting.",
+      "submit": "Indienen",
+      "warning": {
+        "okText": "Log in",
+        "desc": "Het gebruikersregistratieproces is voltooid. Log in met uw e-mailadres en het juiste wachtwoord. "
+      }
+    }
+  },
+  "verifyUser": {
+    "authLeft": {
+      "title": "Heeft u nog geen account?",
+      "link": "Meld u nu aan!"
+    },
+    "authRight": {
+      "title": "Twee-factor-authenticatie"
+    },
+    "notification": "Kan authenticatietoken niet verzenden!",
+    "pickMethod": "Kies uw authenticatiemethode",
+    "securityCode": "Beveiligingscode via e-mail ",
+    "link": "Jij niet? ",
+    "send": "Authenticatiecode verzenden"
+  },
+  "verifyToken": {
+    "authLeft": {
+      "title": "Heeft u nog geen account?",
+      "link": "Meld u nu aan!"
+    },
+    "authRight": {
+      "title": "Check je mail"
+    },
+    "notification": "Kan authenticatietoken niet verifiëren!",
+    "enter": "Voer de 6-cijferige authenticatiecode in die is verzonden naar",
+    "verify": "Controleer de authenticatiecode",
+    "receive": "Geen code ontvangen? "
+  },
+  "user": {
+    "userProfileManagement": "Beheer van gebruikersprofielen",
+    "belowCurrentProfile": " Hieronder vindt u het huidige profiel dat wij voor u in ons systeem hebben. ",
+    "imgAlt": "Gebruikersprofiel",
+    "active": "Actief",
+    "userTabs": {
+      "personal": "Persoonlijk",
+      "password": "Verander wachtwoord",
+      "themes": "Thema's"
+    },
+    "buttons": {
+      "updateProfile": "Profiel bijwerken",
+      "updatePassword": "Vernieuw wachtwoord",
+      "preview": "Voorbeeld",
+      "saveTheme": "Thema opslaan",
+      "restoreToDefault": "Beginwaarden herstellen"
+    },
+    "notification": {
+      "imageInterrupted": "Het selecteren van afbeeldingen is onderbroken. Probeer het later opnieuw.",
+      "userPreference": "Gebruikersvoorkeur is succesvol aangevraagd voor tijdelijk."
+    },
+    "fields": {
+      "firstName": {
+        "label": "Voornaam",
+        "message": "Voer uw voornaam in."
+      },
+      "lastName": {
+        "label": "Achternaam",
+        "message": "Voer een achternaam in."
+      },
+      "address1": {
+        "label": "adres 1",
+        "message": "Voer de adresregel in."
+      },
+      "address2": {
+        "label": "Adres 2"
+      },
+      "mobileNumber": {
+        "label": "Mobiel nummer",
+        "message": "Vul alsjeblieft het mobiele nummer in"
+      },
+      "phoneHome": {
+        "label": "Bel naar huis",
+        "placeholder": "Telefoonnummer thuis"
+      },
+      "phoneOffice": {
+        "label": "Telefoon kantoor",
+        "placeholder": "Telefoonnummer kantoor"
+      },
+      "currentPassword": {
+        "label": "huidig ​​wachtwoord",
+        "message": "Voer het huidige wachtwoord in."
+      },
+      "password": {
+        "label": "Wachtwoord",
+        "messageString": "Voer het wachtwoord in String-formaat in.",
+        "messageTrue": "Voer wachtwoord in alstublieft.",
+        "messageSymbol": "Het wachtwoord moet minimaal één cijfer, kleine letter, hoofdletter en symbolen bevatten.",
+        "messageMin": "Wachtwoord moet minimaal 12 tekens bevatten.",
+        "short": "kort",
+        "weak": "zwak",
+        "okay": "Oké",
+        "good": "Goed",
+        "strong": "sterk"
+      },
+      "confirmPassword": {
+        "label": "bevestig wachtwoord",
+        "message": "Voer het wachtwoord in. Bevestig het wachtwoord.",
+        "error": "Bevestig dat het wachtwoord niet overeenkomt met het wachtwoord"
+      },
+      "color": {
+        "topMenuColor": "Kleur van het bovenste menu",
+        "bottomMenuColor": "Kleur onderste menu",
+        "topMenuTextColor": "Tekstkleur van het bovenste menu",
+        "bottomMenuTextColor": "Tekstkleur van het onderste menu",
+        "message": "Kies een kleur"
+      },
+      "date": {
+        "label": "Datumnotatie",
+        "placeholder": "Selecteer een datumformaat",
+        "message": "Selecteer een datumformaat"
+      },
+      "fontFamily": {
+        "label": "Lettertypefamilie",
+        "placeholder": "Selecteer een lettertypefamilie",
+        "message": "Selecteer een lettertypefamilie"
+      },
+      "language": {
+        "label": "Selecteer Taal",
+        "message": "Selecteer een taal"
+      },
+      "fontSize": {
+        "label": "Lettertypegrootte"
+      }
+    }
+  },
+  "shipment": {
+    "title": "Verzending",
+    "filter": {
+      "shipperFiltered": "Verzender kan worden gefilterd op klantnaam, locatie-ID of zoek-ID",
+      "consigneeFiltered": "Geadresseerde kan worden gefilterd op klantnaam, locatie-ID of zoek-ID",
+      "checkingApproval": "Verzending controleren Goedkeuringsproces...",
+      "titles": {
+        "shipmentSearch": "Verzending zoeken",
+        "additional": "Extra zoekopties"
+      },
+      "additionalSearchOptions": {
+        "salesOrderNo": {
+          "label": "Verkoopordernr."
+        },
+        "masterHouseBill": {
+          "label": "Master/House Bill of Landing nr",
+          "placeholder": "Master/House Bill of Landing nr"
+        },
+        "projectNo": {
+          "label": "Projectnr.",
+          "placeholder": "Projectnr."
+        },
+        "quoteNo": {
+          "label": "Citaat nr.",
+          "placeholder": "Citaat nr."
+        },
+        "createdBy": {
+          "label": "Gemaakt door",
+          "radioEmail": "E-mail identiteit",
+          "placeholderEmail": "Selecteer E-mail"
+        }
+      }
+    },
+    "header": {
+      "title": "Verzending beheren",
+      "addShipment": "Verzending aanmaken",
+      "delete": "Verwijderen",
+      "consolidate": "Consolideren",
+      "audit": "Auditlogboek",
+      "updateShipmentStatus": "Verzendstatus bijwerken",
+      "confirmationModal": {
+        "title": "Consolidatie van verzendingen",
+        "description": "Geselecteerde zendingen worden gecombineerd tot één zending en de status van de oorspronkelijke zending wordt gewijzigd in Gesloten. Bevestig!",
+        "okText": "Bevestigen!"
+      },
+      "commonUpdateModal": {
+        "title": "Verzendingsstatusupdate"
+      },
+      "commonExportModal": {
+        "title": "Zending exporteren"
+      }
+    },
+    "footer": {
+      "totalRecords": "Totaal aantal records",
+      "latePickup": "Laat ophalen",
+      "lateDelivery": "Late levering",
+      "trackingFailure": "Volgfout",
+      "missingDocuments": "Missende documenten",
+      "pickupFailed": "Ophalen mislukt"
+    },
+    "dashboard": {
+      "title": "Dashboard",
+      "topTransportation": "Top 10 transportaanbieders",
+      "orderStatistics": "Bestelstatistieken",
+      "total": "Totaal aantal zendingen per maand",
+      "shipmentByMode": "Verzending per vervoerswijze/vrachttype",
+      "shipmentByBound": "Verzending per gebonden"
+    },
+    "card": {
+      "totalMiles": "Totaal aantal kilometers",
+      "weight": "Gewicht (kg)",
+      "weightUtilization": "Gewichtsgebruik",
+      "printedBolFlag": "Gedrukte BOL-vlag",
+      "masterBol": "Meester Bol",
+      "volumeUtilization": "Volumegebruik",
+      "bidExpiry": "BID vervalt",
+      "title": "Kopieer verzending",
+      "description": "Maakt u een kopie van International Transload Shipment?"
+    },
+    "drawer": {
+      "header": {
+        "mastShipment": "Hoofdverzending",
+        "childShipment": "Kindverzending",
+        "approvalNumber": "Goedkeuringsnummer",
+        "inconterm": "Inconterm",
+        "houseBillOfLading": "Cognossement",
+        "freightBillProNumber": "Vrachtfactuur/Pro-nummer",
+        "createAsShipment": "Aanmaken als verzending",
+        "approve": "Goedkeuren",
+        "printView": "Afdrukken/bekijken",
+        "commonModalLabel": "Documenten",
+        "commonModalApprovalTitle": "Verzendingsgoedkeuring",
+        "saveAsShipment": "Opslaan als verzending"
+      },
+      "tabs": {
+        "masterChildShipmentDetails": "Details van hoofd-/kindverzending",
+        "transportationDetails": "Transportdetails",
+        "vendorDetails": "Leveranciersgegevens",
+        "billTo": "Rekening naar",
+        "categoryDetails": "Categoriedetails",
+        "auditLog": "Auditlogboek",
+        "accounting": "Accessoires en belastingen",
+        "trackingDetails": "Trackingdetails",
+        "iTrack": "iTrack",
+        "rateShopResults": "Beoordeel winkelresultaten",
+        "addStop": "Stop toevoegen",
+        "deleteStop": "Stop verwijderen"
+      },
+      "details": {
+        "delivery": "Levering",
+        "distanceKm": "Afstand (KM)",
+        "distanceMiles": "Afstand (mijl)",
+        "totalWeight": "Totaal gewicht (pond)",
+        "freightBill": "Vrachtfactuur/Pro-nummer",
+        "masterBillOfLandingNumber": "Masterlandingsnummer",
+        "freightAllowances": "Vrachtrechten",
+        "customerAccountNumber": "Klantrekeningnummer",
+        "freeOnBoard": "Gratis aan boord",
+        "incotermNamedPlace": "Incoterm-genoemde plaats",
+        "createdBy": "Gemaakt door",
+        "cube": {
+          "label": "Kubus"
+        }
+      },
+      "product": {
+        "houseBillOfLandingNumber": "Landingsnummer van het huis",
+        "unitOfMeasure": {
+          "placeholder": "Selecteer Maateenheid",
+          "message": "Selecteer een maateenheid"
+        },
+        "chargeableWeight": {
+          "label": "Betaalbaar gewicht",
+          "placeholder": "Voer het belastbare gewicht in",
+          "message": "Voer het belastbare gewicht in",
+          "error": "Het belastbare gewicht moet een getal zijn."
+        },
+        "packageBilled": {
+          "placeholder": "Voer pakket/gefactureerde hoeveelheid in",
+          "message": "Voer het pakket/gefactureerde aantal in",
+          "error": "Pakket/gefactureerde hoeveelheid moet een getal zijn."
+        },
+        "length": {
+          "placeholder": "Voer lengte in",
+          "message": "Voer lengte in",
+          "error": "De lengte moet minimaal 1 zijn"
+        },
+        "width": {
+          "placeholder": "Voer breedte in",
+          "message": "Voer de breedte in",
+          "error": "De breedte moet minimaal 1 zijn"
+        },
+        "height": {
+          "placeholder": "Voer Hoogte in",
+          "message": "Voer de hoogte in",
+          "error": "De hoogte moet minimaal 1 zijn"
+        },
+        "purchaseOrders": {
+          "label": "Inkooporders",
+          "placeholder": "Inkooporders invoeren"
+        },
+        "lineItemNumber": {
+          "label": "Regelitemnummer",
+          "placeholder": "Voer het regelitemnummer in"
+        },
+        "NMFCNumber": {
+          "label": "NMFC-nummer",
+          "placeholder": "Voer het NMFC-nummer in"
+        }
+      },
+      "notes": {
+        "shipmentNotes": {
+          "placeholder": "Voer verzendnotities in"
+        }
+      },
+      "vendorDetails": {
+        "addNewVendor": "Nieuwe leverancier toevoegen"
+      },
+      "billTo": {
+        "VATNumber": {
+          "label": "Btw-nummer",
+          "placeholder": "BTW-nummer invoeren"
+        }
+      },
+      "categoryDetails": {
+        "addNewCategory": "Voeg een nieuwe categorie toe",
+        "subCategory": {
+          "label": "Subcategorie",
+          "placeholder": "Selecteer Subcategorie"
+        }
+      },
+      "auditLog": {
+        "database": "Database",
+        "tableName": "Tafel naam",
+        "tableSchema": "Tabelschema",
+        "hostName": "Hostnaam",
+        "applicationName": "Naam van de toepassing",
+        "columnName": "Kolomnaam",
+        "oldValue": "Oude waarde",
+        "newValue": "Nieuwe waarde"
+      },
+      "shipmentTransport": {
+        "stopType": {
+          "label": "Stoptype",
+          "placeholder": "Selecteer Stoptype",
+          "message": "Selecteer Stoptype"
+        },
+        "stopNo": {
+          "label": "Halte nr",
+          "placeholder": "Selecteer Stopnr",
+          "message": "Selecteer een stoplocatie"
+        },
+        "requestedDateTime": {
+          "label": "Gevraagde datum",
+          "date_message": "Selecteer Datum",
+          "time_message": "Selecteer Tijd"
+        },
+        "actual": "Werkelijk",
+        "dateTime": "Datum",
+        "contactPersonName": {
+          "label": "Naam contactpersoon",
+          "placeholder": "Voer naam in"
+        },
+        "emailId": {
+          "label": "E-mail identiteit",
+          "placeholder": "Voer e-mailadres in"
+        },
+        "contactNo": {
+          "label": "Contactnr.",
+          "placeholder": "Voer het contactnummer in",
+          "message": "Het contactnummer moet uit 10 cijfers bestaan"
+        },
+        "ext": {
+          "label": "Ext",
+          "placeholder": "Voer Ext"
+        },
+        "dockConfirmationNumber": "Dock-/bevestigingsnummer",
+        "taxIdVat": "Belastingnummer/BTW",
+        "iTrackDetails": "iTrack-details",
+        "emptyRecords": "Wees geduldig voordat u een update van de provider ontvangt."
+      }
+    },
+    "print": {
+      "plNo": "PL-nr",
+      "seeSection2": "Zie Sectie 2(e) van NMFC Item 360"
+    },
+    "hazmat": "Hazmat(X)",
+    "qty": "AANTAL",
+    "saveAsPartial": "Opslaan als gedeeltelijk",
+    "shipmentExportSFiled": "Het exporteren van de zending is mislukt.",
+    "consigneeAppointmentNumber": "Afspraaknummer van de ontvanger",
+    "shipperAppointmentNumber": "Afspraaknummer verzender",
+    "approverName": "Naam van de goedkeurder",
+    "approverEmail": "E-mailadres van goedkeurder",
+    "priority": {
+      "label": "Prioriteit",
+      "placeholder": "Selecteer Prioriteit",
+      "message": "Kies prioriteit",
+      "error": "Prioriteit moet uniek zijn."
+    },
+    "of": "van",
+    "pallet": "Pallet(s)",
+    "proNo": "PRO-NR",
+    "bolNo": "BOL NR",
+    "FOB": "FOB",
+    "SID": "SID",
+    "location": "Plaats",
+    "thirdParty": "VRACHTKOSTEN VAN DERDEN NAAR:",
+    "billOfLadingNumber": "Vrachtbriefnummer",
+    "proNumber": "Pro-nummer:",
+    "serviceDescription": "Servicebeschrijving:",
+    "freightChargeTerms": "Voorwaarden voor vrachtkosten:",
+    "freightChargesArePrepaid": "(vrachtkosten zijn vooraf betaald, tenzij anders aangegeven)",
+    "docNumberConfirmationNumber": "Documentnummer/bevestigingsnummer:",
+    "masterBillOfLading": "Master Bill of Lading: met bijgevoegde onderliggende cognossementen",
+    "countryCityStateZip": "Land/stad/staat/postcode:",
+    "freightCharges": "(vrachtkosten zijn vooraf betaald, tenzij anders aangegeven)",
+    "masterBill": "Master Bill of Lading: met bijgevoegde onderliggende cognossementen",
+    "customerCheck": "Klantcontrole acceptabel",
+    "feeTerms": "Tariefvoorwaarden:",
+    "whereTheRate": "Wanneer het tarief afhankelijk is van de waarde, zijn verladers verplicht om de overeengekomen of aangegeven waarde van het onroerend goed als volgt specifiek schriftelijk te vermelden:",
+    "theAgreed": "De overeengekomen of aangegeven waarde van het onroerend goed wordt door de verzender uitdrukkelijk vermeld als niet hoger",
+    "poNo": "PO-NR(S)",
+    "soNo": "DUS NEE(EN)",
+    "codAmount": "COD-bedrag:",
+    "pleaseSelect": "Selecteer alstublieft",
+    "approvers": "Goedkeurders",
+    "searchEmail": "Zoek email",
+    "searchByEmail": "Zoek per e-mail",
+    "shipmentRequire": "Voor deze zending is geen goedkeuring vereist",
+    "approversList": "Goedkeurderslijst",
+    "sendApprovalRequest": "Goedkeuringsverzoek verzenden",
+    "savingAdditionalDetailsIs": "Aanvullende gegevens opslaan is",
+    "maxCharacter": "Maximaal toegestaan ​​teken 25",
+    "checkingPO": "Controleren op zichtbaarheid van PO en SO",
+    "visitBack": "Kom terug nadat u deze verzending heeft gewijzigd.",
+    "savingBillingDetailsIs": "Factuurgegevens opslaan is dat wel",
+    "addingNewCategoryIs": "Het toevoegen van een nieuwe categorie is",
+    "modifyingCategoryIs": "Categorie wijzigen is",
+    "deletingCategoryIs": "Categorie verwijderen is",
+    "createSomeData": "enkele gegevens creëren.",
+    "masterChildShipment": "Hoofd-/kindverzending",
+    "childShipment": "Kindverzending",
+    "convertingAs": "Converteren als",
+    "regularShipment": "Reguliere verzending",
+    "progressHas": "vooruitgang heeft",
+    "masterChildShipmentDetails": "Details van hoofd-/kindverzending",
+    "masterQuantityLeft": "Masterhoeveelheid over",
+    "masterWeightLeft": "Mastergewicht links",
+    "childShipmentDetails": "Details van subverzending",
+    "addChildShipment": "Voeg subzending toe",
+    "noMasterChildshipments!": "Er zijn geen Master/Child-zendingen!",
+    "failedToUpdate": "Kan niet updaten",
+    "enter": "Binnenkomen",
+    "copyingLastProductIs": "Het kopiëren van het laatste product is",
+    "addingNewProductIs": "Een nieuw product toevoegen is",
+    "modifyingProductIs": "Het wijzigen van een product wel",
+    "deletingProductIs": "Een product verwijderen is",
+    "freightClassSuccessfully": "Vrachtklasse succesvol berekend.",
+    "addNewProductDetails": "Voeg nieuwe productdetails toe",
+    "copyLastProductDetailsEntry": "Kopieer de laatste productgegevensinvoer",
+    "freightClassCalculator": "Berekening van de vrachtklasse",
+    "totalChargableWeight": "Totaal oplaadbaar gewicht",
+    "weightUnitOfMeasure": "Gewicht maateenheid",
+    "pleaseSelectUnitOfMeasure": "lease selecteer Maateenheid",
+    "cooPdf": {
+      "certificationOfOrigin": "CERTIFICERING VAN OORSPRONG",
+      "certificateType": "CERTIFIERTYPE (VUL 'X' AAN)",
+      "importer": "IMPORTEUR",
+      "exporter": "EXPORTEUR",
+      "producer": "PRODUCENT",
+      "blanketPeriod": "DEKENPERIODE (MM/DD/JJJ J)",
+      "sectionDetails": "NAAM, ADRES, TELEFOON EN E-MAIL",
+      "certifierSectionDetails": "CERTIFICEERDER $t(shipment.cooPdf.sectionDetails)",
+      "producerSectionDetails": "PRODUCENT $t(shipment.cooPdf.sectionDetails)",
+      "exporterSectionDetails": "$t(shipment.cooPdf.exporter) $t(shipment.cooPdf.sectionDetails)",
+      "importerSectionDetails": "$t(shipment.cooPdf.importer) $t(shipment.cooPdf.sectionDetails)",
+      "taxIdentificationNumber": "IDENTIFICATIENUMMER VAN DE BELASTING",
+      "descriptionOfGoods": "BESCHRIJVING VAN GOEDEREN",
+      "originCriterion": "OORSPRONG CRITERIUM",
+      "producerYesNo": "$t(shipment.cooPdf.producer) (JA NEE)",
+      "methodOfQualification": "WIJZE VAN KWALIFICATIE",
+      "cointryOfOrigin": "COINTRIE VAN HERKOMST",
+      "certificateAssuranceDescription": "IK VERKLAART DAT DE IN DIT DOCUMENT BESCHREVEN GOEDEREN KWALIFICEREN ALS OORSPRONG EN DAT DE INFORMATIE IN DIT DOCUMENT WAAR EN NAUWKEURIG IS. ",
+      "certificateAttachmentDescription": "DIT CERTIFICAAT BESTAAT UIT PAGINA'S INCLUSIEF ALLE BIJLAGEN.",
+      "dateWithFormat": "DATUM(MM/DD/JJJJ)",
+      "documentCompliantDescription": "DIT DOCUMENT VOLDOET AAN USMCA"
+    }
+  },
+  "claims": {
+    "spotBidSearch": "SpotBid-zoekopdracht",
+    "spotBidSearchOriginDestination": "SpotBid Zoeken op herkomst en bestemming",
+    "chooseColumns": "Kies kolommen voor exporteren.",
+    "selectMinOneField": "Selecteer minimaal één veld om te exporteren.",
+    "emailToTransportationProvider": "E-mail naar transportaanbieder",
+    "printOverchargeClaim": "Claim overbelasting afdrukken",
+    "indemnificationClause": " VRIJWARINGSCLAUSULE: De eiser stemt ermee in de Vervoersaanbieder bij wie deze claim is ingediend te beschermen op grond van verrekening zonder overgave van de originele vrachtbrief en wij garanderen ondubbelzinnig terugbetaling.",
+    "dateSubmitted": "Datum ingediend",
+    "contractAuthority": "Contractautoriteit",
+    "claimTariff": "Claimtarief",
+    "reasonForOvercharge": "Reden voor overbelasting",
+    "correctAmount": "Correcte hoeveelheid",
+    "totalPaid": "Totaal betaald",
+    "correctCharges": "Correcte kosten",
+    "paidAmount": "Betaald bedrag",
+    "billedAmount": "Gefactureerd bedrag",
+    "chargeableWeight": "Betaalbaar gewicht",
+    "detailedOverchrgeClaimStatement": "GEDETAILLEERDE CLAIMVERKLARING",
+    "freightBill": "Vrachtrekening(en)",
+    "attachedDocumentation": "Bijgevoegde documentatie",
+    "yourClaimNumber": "Uw claimnummer",
+    "ourClaimNumber": "Ons claimnummer",
+    "refer": "RAADPLEEG HET BOVENSTAANDE CLAIMNUMMER IN ALLE CORRESPONDENTIE",
+    "forwardCorrespondence": "STUUR CORRESPONDENTIE NAAR BOVENSTAAND ADRES EN BETAAL DE CHEQUE BETAALD AAN: ",
+    "presentation": "PRESENTATIE VAN MEERCLAIMCLAIM",
+    "printResults": "Resultaten afdrukken",
+    "totalClaims": "Totaal aantal claims",
+    "openClaims": "Open claims",
+    "closedClaims": "Gesloten claims",
+    "onHoldClaims": "Claims in de wacht",
+    "totalAmountFiled": "Totaal ingediend bedrag",
+    "totalAmountPaid": "Totaal betaald bedrag",
+    "byAge": "Op leeftijd:",
+    "daysOld": "Dagen oud",
+    "pleaseEnterDaysOld": "Voer dagen oud in",
+    "claimsNumber": "Claimnummer",
+    "pleaseEnterClaimsNumber": "Voer het claimnummer in",
+    "freightBillProNumber": "Vrachtfactuur/Pro-nummer",
+    "pleaseEnterFreightBillProNumber": "Voer het vrachtbrief-/pro-nummer in",
+    "pleaseEnterInvoiceNumber": "Voer het factuurnummer in",
+    "pleaseEnterPackageNumber": "Voer het pakketnummer in",
+    "Details": "Details",
+    "overchargeClaimItems": "Claimitems te veel in rekening brengen",
+    "overchargeClaimNotes": "Claimnota's voor overbelasting",
+    "overchargeUploadViewFiles": "Overbelasting Bestanden uploaden/bekijken",
+    "overchargeClaimSettlements": "Claimafwikkelingen voor teveel in rekening gebrachte claims",
+    "addNewNote": "Nieuwe notitie toevoegen",
+    "selectCommentType": "Selecteer een commentaartype",
+    "commentType": "Type opmerking",
+    "comments": "Opmerkingen",
+    "enterComments": "Voer opmerkingen in",
+    "createdBy": "Gemaakt door",
+    "yourClaim": "Jouw bewering",
+    "enterYourClaim": "Voer uw claim in",
+    "noData": "Geen gegevens",
+    "houseBillOfLadingNumber": "Landingsnummer van het huis",
+    "others": "Anderen",
+    "othersPleaseMention": "Anderen graag vermelden",
+    "recoverySum": "Herstelsom",
+    "dateClosed": "Datum gesloten",
+    "dateRefundedToCustomer": "Datum terugbetaald aan klant",
+    "checkNumberFromTransportationProvider": "Controleer het nummer van de vervoersaanbieder",
+    "pleaseSelectCurrency": "Selecteer een valuta",
+    "ourClaim": "Onze claim",
+    "claimant": "Eiser",
+    "overchargeSum": "Overbelasting som",
+    "preClaims": "Pre-claims",
+    "reports": "Rapporten",
+    "overCharge": "Overbelasting",
+    "lossAndDamage": "Verlies en schade",
+    "claimsSettings": "Claiminstellingen",
+    "overchargeClaims": "Claims voor overbelasting",
+    "mailTo": "Mail naar",
+    "checkNumberToCustomer": "Controleer nummer naar klant"
+  },
+  "routingGuide": {
+    "generalSearch": "Algemeen zoeken",
+    "searchByOrigin": "Zoek op herkomst",
+    "searchByDestination": "Zoeken op bestemming",
+    "routingKey": "Routeringssleutel",
+    "routingGuideID": "Routegids-ID",
+    "routingName": "Routeringsnaam",
+    "createdBy": "Gemaakt door",
+    "hazmat": {
+      "label": "Hazmat",
+      "placeholder": "Selecteer Hazmat"
+    },
+    "pieces": {
+      "label": "Stukken"
+    },
+    "piecesUOM": {
+      "label": "Stukken",
+      "placeholder": "Selecteer Stukseenheid"
+    }
+  },
+  "auction": {
+    "title": "Veiling",
+    "card": "Kaart",
+    "noOfStops": "Aantal haltes",
+    "locationId": "Locatie-ID:",
+    "stopType": "Stoptype:",
+    "stopNo": "Stopnummer:",
+    "companyDetails": "Bedrijfsgegevens",
+    "appointmentNumber": "Afspraaknummer",
+    "contactPersonName": "Naam contactpersoon",
+    "pickup": "Datum van ophaalverzoek",
+    "pickupAppointmentDateTime": "Afspraakdatum voor ophalen",
+    "contactNo": "Contactnr",
+    "actualPickupDateTime": "Werkelijke ophaaldatum",
+    "dockConfirmationNumber": "Dock-/bevestigingsnummer",
+    "taxIdVAT": "Belastingnummer/BTW",
+    "approvalNumber": "Goedkeuringsnummer",
+    "spotBIDTypes": "Spot BID-typen",
+    "selectSpotBIDTypes": "Selecteer BID-type",
+    "consigneeStateProvience": "Staat/provincie van geadresseerde",
+    "BIDExpiryDateTime": "BOD Vervaldatum",
+    "BIDExpiry": "BID vervalt",
+    "totalBIDS": "Totaal BIEDEN",
+    "openBIDS": "BIEDEN openen",
+    "expiredBIDS": "Verlopen biedingen",
+    "expiringSoonBIDS": "BIEDINGEN verlopen binnenkort",
+    "grossWeight": "Bruto gewicht",
+    "weightUnitOfMeasure": "Gewicht maateenheid",
+    "viewAllStops": "Bekijk alle haltes",
+    "viewProductDetails": "Bekijk productdetails",
+    "viewUploadFiles": "Bestanden bekijken/uploaden",
+    "shipmentDetails": "verzendingsdetails",
+    "shipperDetails": "Details van de verzender",
+    "consigneeDetails": "Gegevens van de geadresseerde",
+    "frightClass": "Angst klasse",
+    "package": "Pakket",
+    "delieryDateAndTime": "Leveringsdatum en -tijd",
+    "customerBIDExpiryDateTime": "Vervaldatum klantbod",
+    "BIDDetails": "BID-details",
+    "equipmentTypeDetails": "Details van het uitrustingstype",
+    "enterEquipmentType": "Voer het apparatuurtype in",
+    "expiryDate": "Vervaldatum",
+    "expiryDateIsRequired": "Vervaldatum is vereist",
+    "expiryTime": "Vervaldatum",
+    "expiryTimeIsRequired": "Vervaltijd is vereist",
+    "spotQuoteNumber": "Spot offertenummer",
+    "enterQuoteNumber": "Voer het offertenummer in",
+    "BIDSubmittedBy": "BOD ingediend door",
+    "BIDPriceAndCurrency": "BID-prijs en valuta",
+    "BIDPrice": "Biedprijs",
+    "enterPrice": "Voer prijs in",
+    "priceIsRequired": "Prijs is vereist",
+    "pleaseEnterTheNumber": "Voer het nummer in",
+    "pleaseEnterLowerTheNumber": "Voer een lager bod in dan het huidige bod",
+    "BIDCurrency": "BID-valuta",
+    "BIDComment": "BID-opmerking",
+    "enterComment": "Voer commentaar in",
+    "submitBID": "BOD indienen"
+  }
+}

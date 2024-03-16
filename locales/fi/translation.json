@@ -1,0 +1,3486 @@
+{
+  "default": {
+    "navMenu": {
+      "home": "Koti",
+      "dashboard": "Kojelauta",
+      "contractManagement": "Sopimusten hallinta",
+      "shipmentsModule": "Lähetysmoduuli",
+      "shipmentTracking": "Lähetyksen seuranta",
+      "activities": "Aktiviteetit",
+      "reports": "Raportit",
+      "pricing": "Hinnoittelu",
+      "procurement": "Hankinta",
+      "purchaseOrderView": "Ostotilausnäkymä",
+      "routingGuide": "RoutingGuide",
+      "settings": "asetukset",
+      "companySettings": "Yrityksen asetukset",
+      "tmsSettings": "TMS-asetukset",
+      "clientNameGoesHere": "Asiakkaan nimi tulee tänne",
+      "shipment": "Lähetys",
+      "visibility": "Näkyvyys",
+      "claims": "Väitteet",
+      "freightBill": "Rahtilasku",
+      "adminSettings": "Järjestelmänvalvojan asetukset"
+    },
+    "loading": "Ladataan...",
+    "date": "Päivämäärä",
+    "captcha": {
+      "placeholder": "Anna captcha-koodi.",
+      "message": "Anna captcha",
+      "invalid": "Virheellinen captcha."
+    },
+    "buttons": {
+      "save": "Tallentaa",
+      "cancel": "Peruuttaa",
+      "rateShop": "Arvostele kauppa",
+      "delete": "Poistaa",
+      "export": "Viedä",
+      "clear": "Asia selvä",
+      "search": "Hae",
+      "mileageCalculator": "Ajokilometrilaskuri",
+      "addProduct": "Lisää tuote",
+      "deleteProduct": "Poista tuote",
+      "edit": "Muokata",
+      "viewMoreStatus": "Näytä lisää tila",
+      "track": "Seurata",
+      "add": "Lisätä",
+      "update": "Päivittää",
+      "sendEmail": "Lähetä postia",
+      "restoreToDefault": "Palauta oletusarvoon",
+      "clearSelection": "Tyhjennä valinta",
+      "newStatus": "Uusi tila",
+      "select": "Valitse",
+      "close": "kiinni",
+      "exportToExcel": "Vie Exceliin",
+      "addPO": "Lisää PO",
+      "addShipper": "Lisää lähettäjä",
+      "copy": "Kopio",
+      "closed": "Suljettu",
+      "updateSelectedRecords": "Päivitä valitut tietueet",
+      "viewMoreDetails": "Katso lisätietoja",
+      "viewStatus": "Näytä tila",
+      "download": "ladata",
+      "addNewLocation": "Osoitekirja",
+      "addNewZone": "Lisää uusi vyöhyke",
+      "sendRFI": "Lähetä RFI",
+      "sendRFQ": "Lähetä tarjouspyyntö",
+      "sendRFIRFQ": "Lähetä RFI",
+      "stops": "Pysähtyy",
+      "hide": "Piilottaa",
+      "view": "Näytä",
+      "viewOrderInformation": "Näytä tilaustiedot"
+    },
+    "documentManager": {
+      "fileUpdatingIssuccess": "Tiedostojen päivitys onnistui.",
+      "title": "Asiakirjanhallinta",
+      "noFoundText": "Merkintöjä ei löydy",
+      "addNewFile": "Lisää uusi tiedosto",
+      "addNewLane": "Lisää uusi kaista",
+      "addNewParameter": "Lisää uusi parametri",
+      "chooseFile": "Valitse tiedosto",
+      "fileName": "Tiedoston nimi : ",
+      "chooseFileMessage": "Valitse tiedosto",
+      "docDescMessage": " on jo käytössä.",
+      "supportingDocumentNumber": "Tukiasiakirjan numero",
+      "only": "vain",
+      "filesAreAllowed": "tiedostot ovat sallittuja",
+      "documentTypeMessage": "Valitse asiakirjan tyyppi",
+      "notificationUploadingFailed": "Tiedoston lataus epäonnistui.",
+      "documentManager": {
+        "label": "dokumentti tyyppi",
+        "placeholder": "Valitse Asiakirjan tyyppi",
+        "message": "Valitse tyyppi"
+      },
+      "docType": {
+        "label": "dokumentti tyyppi",
+        "placeholder": "Valitse Asiakirjan tyyppi",
+        "message": "Valitse tyyppi"
+      },
+      "fileComments": {
+        "label": "Tiedoston kommentit",
+        "placeholder": "Kirjoita tiedoston kommentit"
+      },
+      "referenceNo": {
+        "label": "Tukiasiakirjan viitenumero",
+        "placeholder": "Anna tukiasiakirjan viitenumero",
+        "title": "Viitenumero"
+      },
+      "notificationUploadingError": "Tiedostojen lataaminen onnistui. ",
+      "notificationUploadingSuccess": "Tiedostojen lataaminen onnistui",
+      "notificationUpdatingSuccess": "Tiedostojen päivitys onnistui",
+      "notificationDeleteSuccess": "Tiedoston poistaminen onnistui.",
+      "notificationDeleteError": "Tiedoston poistaminen epäonnistui."
+    },
+    "popConfirm": {
+      "title": "Oletko varma?"
+    },
+    "weekDays": {
+      "sun": "sunnuntai",
+      "mon": "maanantai",
+      "tue": "tiistai",
+      "wed": "keskiviikko",
+      "thu": "torstai",
+      "fri": "perjantai",
+      "sat": "lauantai"
+    },
+    "options": {
+      "and": "ja",
+      "all": "Kaikki",
+      "enable": "ota käyttöön",
+      "disable": "Poista käytöstä",
+      "yes": "Joo",
+      "no": "Ei",
+      "cargo": "Rahti",
+      "passenger": "Matkustaja",
+      "new": "Uusi",
+      "spotBidEnd": "SpotBidEnd",
+      "spotBid": "SpotBid",
+      "blind": "Sokea",
+      "reverseBlind": "Reverse Blind",
+      "purchaseOrder": "Ostotilaus",
+      "na": "NA",
+      "routingGuide": "Reititysopas",
+      "draftShipment": "Lähetysluonnos",
+      "finalShipment": "Lopullinen lähetys",
+      "сurrent": "Nykyinen",
+      "historical": "Historiallinen (punainen)"
+    },
+    "language": {
+      "en": "Englanti",
+      "es": "Espanja",
+      "es-cr": "espanja (kastilia)",
+      "es-mx": "espanja (meksikolainen)",
+      "it": "italialainen",
+      "ch": "Kiinalainen",
+      "zh-tw": "Kiinalainen",
+      "fr": "Ranskan kieli",
+      "nl": "Hollannin kieli",
+      "pt": "Portugalin kieli",
+      "pt-br": "portugali (Brasilia)",
+      "de": "Saksan kieli",
+      "pl": "Kiillottaa",
+      "fi": "Suomalainen",
+      "ko": "Korealainen",
+      "ja": "apanilainen"
+    },
+    "fields": {
+      "shipmentAdditionalInformation": "Lähetyksen lisätiedot",
+      "shipmentInformation": "Lähetystiedot",
+      "rateDetails": "Hintatiedot",
+      "selectState": {
+        "label": "Valitse Osavaltio",
+        "placeholder": "Valitse Osavaltio"
+      },
+      "productDetails": "Tuotteen yksityiskohdat",
+      "distributor": "Jakelija",
+      "costName": "Kustannusnimi",
+      "tender": "Tarjous",
+      "pending": "Odottaa",
+      "selectTime": "Valitse Aika",
+      "enter": "Tulla sisään",
+      "profile": "Profiili",
+      "addressBook": "Osoitekirja",
+      "productCode": {
+        "label": "Tuotekoodi",
+        "message": "Anna tuotekoodi",
+        "placeholder": "Anna tuotekoodi",
+        "tooltip": "Asettaa oletustuotekoodin Tuotetiedot haitariin"
+      },
+      "addNewProduct": " Lisää uusi tuote",
+      "number": "Määrä",
+      "code": "Koodi",
+      "contactNumber": "Yhteysnumero",
+      "carrier": "Kuljettaja",
+      "vendor": "Myyjä",
+      "popconfirmFreightClass": "Haluatko laskea rahtiluokan?",
+      "quoteNo": "Lainaus nro",
+      "approvalNo": "Hyväksyntä nro",
+      "claimType": "Vaatimuksen tyyppi",
+      "closedDate": "Sulkemispäivä",
+      "claimStatus": "Vaatimuksen tila",
+      "amendmentDate": "Muutospäivämäärä",
+      "submittedDate": "Lähetyspäivämäärä",
+      "submittedBy": "Lähettäjä",
+      "preparedBy": "Valmistelija",
+      "auditedBy": "Tarkastaja",
+      "recoveryAmount": "Palautussumma",
+      "overchargeAmount": "Ylihinnan määrä",
+      "packageNumber": "Paketin numero",
+      "claimNumber": "Lunastus numero",
+      "updateDraft": "päivitä luonnos",
+      "saveAsDraft": "Tallenna luonnoksena",
+      "deleteVendorSuccessfully": "Toimittajan poistaminen onnistui",
+      "portSearch": "Portin haku",
+      "transportationProviderSearch": "Kuljetuspalveluntarjoajan haku",
+      "viewCI": "Näytä CI",
+      "viewPL": "Näytä PL",
+      "viewBOL": "Näytä BOL",
+      "viewCOO": "Näytä COO",
+      "viewShipping": "Katso Toimitus",
+      "signature": "Allekirjoitus",
+      "statusType": "Tilan tyyppi",
+      "updateReceivedEST": "Päivitys vastaanotettu EST:ssä",
+      "plannedDeliveryDate": "Suunniteltu toimituspäivä",
+      "plannedShipDate": "Suunniteltu toimituspäivämäärä",
+      "shipperReqDeliveryDate": "Lähettäjän pyytämä toimituspäivä",
+      "shipperReqShipDate": "Lähettäjän pyyntö lähetyspäivämäärä",
+      "conReferenceNo": "Vastaanottajan viitenumero",
+      "eventOccurrenceLocalTime": "Tapahtuman esiintyminen paikallista aikaa",
+      "unitMeasure": "Määrän mittayksikkö",
+      "displayAllTrackingStatus": "Näytä kaikki seurannan tila",
+      "itemQuantity": "Tuotteen määrä",
+      "billQtyUOM": "Paketti/laskutettu määrä UOM",
+      "quantityUOM": "Määrä UOM",
+      "orderQuantity": "Tilausmäärä",
+      "mode": "tila",
+      "businessSegment": "Liiketoimintasegmentti",
+      "poNumber": "postinumero",
+      "lineNo": "Rivi nro",
+      "itnNumber": "ITN-numero",
+      "distributorName": "Jakelijan nimi",
+      "rateStatus": "Arvon tila",
+      "showAllSpotBidCarrier": "Näytä kaikki SpotBid Carrier",
+      "costCurrency": "Kustannusvaluutta",
+      "cost": "Kustannus",
+      "rateSubmittedOn": "Hinta lähetetty",
+      "partNumberDescription": "Osanumeron kuvaus",
+      "salesOrderNumber": "Myyntitilausnumero",
+      "purchaseOrderNumber": "Tilausnumero",
+      "displayStopOffs": "Näyttö pysähtyy",
+      "freightBillNumber": "Rahtilaskun numero",
+      "transportationProviderAppointmentNumber": "Kuljetuspalveluntarjoajan ajanvarausnumero",
+      "masterShipmentNo": "Päälähetys nro",
+      "houseBOLNo": "Talo BOL No",
+      "masterBOLNo": "Master BOL No",
+      "modifiedBy": "Muokannut",
+      "modifiedOn": "Muokattu Päällä",
+      "printedBillOfLading": "Painettu konossementti",
+      "billOfLanding": "RAHTIKIRJA",
+      "billOfLandingContent": "Rahtikirja",
+      "countryOdOrigin": "Alkuperämaa",
+      "dataFetchingError": "Tietojen noutovirhe",
+      "shipFrom": "LÄHETÄ",
+      "shipTo": "LÄHETTÄÄ",
+      "totalMileage": "Kokonaiskilometrimäärä",
+      "shipmentCost": "Lähetyskulut",
+      "shipmentCounts": "Lähetysmäärät",
+      "shipmentTransportationProvider": "Lähetyskuljetusten tarjoaja",
+      "shipmentCargoType": "Lähetyksen rahtityyppi",
+      "packageBilledQuantityunitOfMeasure": "Paketti/laskutettu määrä Mittayksikkö",
+      "chargebleWeight": "Ladattava paino",
+      "consigneePortType": "Vastaanottajan portin tyyppi",
+      "shipmentStatus": "Lähetyksen tila",
+      "shipmentNotes": "Lähetystiedot",
+      "shipmentNo": "Lähetysnro",
+      "shipmentDate": "Toimituspäivä",
+      "consignee": "Vastaanottaja",
+      "carrierName": "Kuljetuspalvelun nimi",
+      "billQ": "Laskun määrä",
+      "trailerNumber": "Trailerin numero:",
+      "sealNumber": "Sinetin numero(t):",
+      "shipperReferenceNo": "Lähettäjän viitenumero",
+      "email": "Sähköposti",
+      "phoneExt": "Puhelin alanumero",
+      "phone": "Puhelin",
+      "contact": "Ottaa yhteyttä",
+      "zip": "Postinumero",
+      "name": "Nimi",
+      "drop": "Pudota",
+      "terminal": "Terminaali",
+      "pickUp": "Noukkia",
+      "fileName": "Tiedoston nimi",
+      "specialInstructions": "erityisohjeet",
+      "specialInstructionsSecondary": "ERITYISOHJEET:",
+      "customerOrderInformation": "ASIAKASTILAUSTIEDOT",
+      "customerOrderNumber": "ASIAKAS TILAUSNUMERO",
+      "additionalShipperInfo": "LÄHETTÄJÄN LISÄTIEDOT",
+      "carrierInfo": "KULJETTAJAN TIEDOT",
+      "additionalUnit": "LISÄYKSIKKÖ",
+      "handlingUnit": "KÄSITTELYYKSIKKÖ",
+      "commodityDescription": "TUOTEKUVAUS",
+      "commodityText": "Tavarat, jotka vaativat erityistä tai lisähoitoa tai huomiota käsittelyssä tai varastoinnissa, on merkittävä ja pakattava siten, että niiden turvallinen kuljetus tavanomaisella huolellisuudella on varmistettu. ",
+      "package": "PAKETTI",
+      "weightTable": "PAINO",
+      "palletSlip": "LAVA/LIIKKA",
+      "grandTotal": "LOPPUSUMMA",
+      "commercialInvoice": "KAUPPALASKU",
+      "commercialInvoiceContents": "Kaupallinen lasku",
+      "identificationNumber": "Tunnusnumero:",
+      "noteLiability": "HUOM. Vastuurajoitus tämän lähetyksen katoamiseen tai vaurioitumiseen saattaa olla voimassa. ",
+      "received": "VASTAANOTTO, jollei rahdinkuljettajan ja rahdinantajan välillä ole kirjallisesti sopinut erikseen määritellyistä hinnoista tai sopimuksista, muutoin rahdinkuljettajan vahvistamien hintojen, luokittelujen ja sääntöjen mukaisesti, jotka ovat pyynnöstä lähettäjän saatavilla, ",
+      "carrierShall": "Kuljettaja ei toimita tätä lähetystä maksamatta rahtia ja kaikkia muita laillisia maksuja.",
+      "certify": "Tämä todistaa, että yllä mainitut materiaalit on luokiteltu, pakattu, merkitty ja merkitty asianmukaisesti ja että ne ovat asianmukaisessa kuljetuskunnossa DOT:n sovellettavien määräysten mukaisesti.",
+      "classTable": "LUOKKA",
+      "type": "TYYPPI",
+      "shipperSignatureDate": "LÄHETTÄJÄN ALLEKIRJOITUS / PÄIVÄMÄÄRÄ",
+      "trailerLoaded": "Traileri ladattu:",
+      "freightCounted": "Rahti laskettu:",
+      "freight": "Rahti:",
+      "byShipper": "Lähettäjän toimesta",
+      "byDriver": "Kuljettajan toimesta",
+      "byDriverPallets": "Kuljettajan / kuormalavojen sanotaan sisältävän",
+      "byDriverPieces": "Driver/Pieces",
+      "carrierPickupDate": "KULJETTAJAN ALLEKIRJOITUS/NOUTTOPÄIVÄMÄÄRÄ",
+      "carrierAcknowledges": "Rahdinkuljettaja kuittaa vastaanottaneensa paketit ja vaaditut kyltit. ",
+      "hazmat": "Hazmat",
+      "ltlOnly": "VAIN LTL",
+      "invoiceNumber": "Laskun numero",
+      "shipperSignature": "Lähettäjän allekirjoitus",
+      "houseBillOfLandingNumber": "Talon laskutusnumero",
+      "billQty": "Paketti / laskutettu määrä",
+      "packageWeight": "paketin paino",
+      "unitOfMeasure": "Mittayksikkö",
+      "height": "Korkeus",
+      "width": "Leveys",
+      "length": "Pituus",
+      "currencyCode": "Valuutta koodi",
+      "eccnNumber": "ECCN-numero",
+      "htcCode": "HTC koodi",
+      "unitPrice": "Yksikköhinta",
+      "totalQuantity": "Kokonaismäärä",
+      "consigneePortName": "Vastaanottajan sataman nimi",
+      "consigneeHoursOfOperations": "Vastaanottajan aukioloajat",
+      "consigneeDaysTo": "Vastaanottaja Viikonpäivät To",
+      "consigneeDaysFrom": "Vastaanottaja Viikonpäivät Alkaen",
+      "consigneeAppointmentType": "Vastaanottajan nimitystyyppi",
+      "consigneeWarehouseEmail": "Vastaanottajan varastosähköposti",
+      "consigneeWarehouseTelephone": "Vastaanottajan varastopuhelin",
+      "consigneeWarehouseContact": "Vastaanottaja Varaston yhteystiedot",
+      "shipperPortName": "Lähettäjän sataman nimi",
+      "hoursOfOperations": "Aukioloajat",
+      "warehouseEmail": "Varaston sähköposti",
+      "warehouseTelephone": "Varaston puhelin",
+      "warehouseContact": "Varaston yhteystiedot",
+      "shipperPortType": "Lähettäjäportin tyyppi",
+      "countryOfOrigin": "Alkuperämaa",
+      "hts": "HTS",
+      "eccn": "ECCN",
+      "coo": "KUJERTAA",
+      "ciNo": "CI-nro:",
+      "description": "Kuvaus",
+      "newShipDate": "Uusi toimituspäivämäärä",
+      "quantityLeft": "Määrä jäljellä",
+      "consigneePostal": "Vastaanottaja Posti",
+      "shipperPostal": "Lähettäjä Posti",
+      "percentageLeft": "Prosenttia jäljellä",
+      "weight": "Paino",
+      "expectedDeliveryDate": "Oletettu toimituspäivä",
+      "destination": "Kohde",
+      "origin": "Alkuperä",
+      "bolNumber": "BOL-numero",
+      "comparativeRate": "Vertailukorko",
+      "actualCarrierRate": "Todellinen operaattorin hinta",
+      "bidStatus": "BID-tila",
+      "spotBidHistory": "Spot-tarjoushistoria",
+      "allSpotBids": "Kaikki Spot-tarjoukset",
+      "openSpotBids": "Avoimet spot-tarjoukset",
+      "paymentTerms": "Maksuehdot",
+      "partNumber": "Osa numero",
+      "povStatus": "POV-tila",
+      "orderDeliveryDate": "Tilauksen toimituspäivä",
+      "orderShipDate": "Tilauksen toimituspäivämäärä",
+      "conStateState": "Vastaanottajavaltio",
+      "consigneeZip": "Vastaanottaja Zip",
+      "shipperState": "Lähettäjävaltio",
+      "shipperZip": "Lähettäjä vetoketju",
+      "orderNumber": "Tilausnumero",
+      "transitDays": "Kuljetuspäivät",
+      "transitDaysAreRequired": "Kuljetuspäivät vaaditaan",
+      "emailAddress": "Sähköpostiosoite",
+      "currencyName": "Valuutan nimi",
+      "price": "Hinta",
+      "packageQuantity": "Paketin määrä",
+      "packageUOMQuantity": "Paketin UOM-määrä",
+      "weightUOM": "Paino UOM",
+      "selectWeightUOM": "Valitse Paino UOM",
+      "totalWeight": "Kokonaispaino",
+      "totalItemQty": "Nimikkeiden kokonaismäärä",
+      "packageDimensions": "Pakkauksen mitat",
+      "consigneeAddress": "Vastaanottajan osoite",
+      "shipperAddress": "Lähettäjän osoite",
+      "shipperPostalCode": "Lähettäjän postinumero",
+      "pickupDate": "Noutopäivä",
+      "effectiveDueDate": "Voimassa eräpäivä",
+      "totalCube": "Yhteensä kuutio",
+      "total": "KAIKKI YHTEENSÄ",
+      "bid": "BID",
+      "open": "Avata",
+      "multiStop": "Multi Stop",
+      "notes": "Huomautuksia",
+      "shipmentCount": "Lähetysmäärä",
+      "quantityShipped": "Lähetetty määrä",
+      "daysOfWeek": "Viikonpäivät",
+      "tenderEmailAddress": "Tarjouksen sähköpostiosoite",
+      "selectAll": "Valitse kaikki",
+      "spotBid": "Spot BID",
+      "mapView": "Karttanäkymä",
+      "changesWillBeLost": "Muutokset menetetään.",
+      "quoteNumber": "Lainausnumero",
+      "failedToExportShipmentDetails": "Lähetyksen vienti epäonnistui Tiedot.",
+      "createdByFullName": "Tekijä(FullName)",
+      "createByEmailAddress": "Luoja (sähköpostiosoite)",
+      "purchaseOrderNo": "Ostotilausnro.",
+      "milageCalculator": "Kilometrilaskuri",
+      "create": "Luoda",
+      "reset": "Nollaa",
+      "shipper": "Lähettäjä",
+      "totalDistance": "Kokonaismatka",
+      "attachedDocuments": "Liitetyt asiakirjat",
+      "print": "Tulosta",
+      "unsavedChanges": "Tallentamattomat muutokset menetetään. ",
+      "alert": "Varoitus",
+      "logout": "Kirjautua ulos",
+      "approvalRejectionMessage": "Hyväksymis-/hylkäysviesti",
+      "validatingPleaseWait": "Vahvistetaan, odota...",
+      "redirectURL": "Uudelleenohjattu URL-osoite ei ole tällä hetkellä kelvollinen. Tarkista URL-osoite.",
+      "filter": "Suodattaa",
+      "manageCompany": "Hallitse yritystä",
+      "thePageYouVisitedDoesNotExist": "Valitettavasti sivua, jolla kävit, ei ole olemassa.",
+      "backHome": "Takaisin kotiin",
+      "page": "Sivu",
+      "kindlyTryAgain": "Yritä ystävällisesti uudelleen",
+      "hasBeenCreated": " on luotu. ",
+      "toCopyError": "Projektivirheen kopioiminen",
+      "shipmentConsolidationFailed": "Toimituksen yhdistäminen epäonnistui.",
+      "failedToCopyShipmentNo": "Lähetyksen nro. kopiointi epäonnistui",
+      "shipmentDeletedSuccessfully": "Lähetyksen poistaminen onnistui.",
+      "shipmentCreatedSuccessfully": "Lähetyksen luominen onnistui.",
+      "shipmentCreationSuccessfully": "Lähetyksen luominen epäonnistui.",
+      "shipmentSend": "Toimituksen lähetys Spot Bidille onnistui.",
+      "shipmentSendFailed": "Spot-tarjouksen lähetys epäonnistui.",
+      "bidderAddedSuccessfully": "Tarjoaja lisätty onnistuneesti.",
+      "failedToAddBidder": "Tarjoajan lisääminen epäonnistui",
+      "failedToLoadRate": "Korkokauppaluettelon lataaminen epäonnistui.",
+      "yourSpotBidHasEnded": "Menestys! ",
+      "failedYourSpotBid": "Epäonnistui! ",
+      "failedToDeleteShipments": "Lähetysten poistaminen epäonnistui.",
+      "shipmentTenderProcessSuccess": "Lähetys Tarjousprosessi onnistui.",
+      "shipmentTenderProcessError": "Lähetystarjousprosessivirhe.",
+      "successfullyCalculated": "Uuden kilometrimäärän laskeminen onnistui",
+      "failedToCalculateTheMileage": "Kilometrejä ei voitu laskea.",
+      "successfullySavedRateShopResults": "Hintakaupan tulosten tallennus onnistui.",
+      "failedToSaveRateShopResults": "Arvostelukaupan tulosten tallentaminen epäonnistui!",
+      "failedToGetAuditLogs": "Tarkastuslokien hakeminen epäonnistui!",
+      "tmsSettingsSuccessfullySaved": "TMS-asetukset tallennettu onnistuneesti.",
+      "copyProjectSuccessfully": "Projektin kopioiminen onnistui",
+      "failedToSave": "TMS-asetusten tallentaminen epäonnistui. ",
+      "currentlyRatingResults": "Tällä hetkellä luokitustulokset tai eivät ole saatavilla.",
+      "failedToGetShipment": "Lähetystietojen hakeminen epäonnistui. Yritä myöhemmin uudelleen.",
+      "successfullySavedAddressBook": "Osoitekirjan tallennus onnistui!",
+      "failedToSaveAddressBook": "Osoitekirjan tallennus epäonnistui!",
+      "successfullyDeletedAddressBook": "Osoitekirjan poistaminen onnistui!",
+      "failedToDeleteAddressBook": "Osoitekirjan poistaminen epäonnistui!",
+      "successfullySavedProduct": "onnistuneesti tallennettu tuote!",
+      "failedToSaveProduct": "Tuotteen tallennus epäonnistui!",
+      "failedToGetTracking": "Seurannan hakeminen epäonnistui",
+      "failedToGetExcelData": "Excel-tietojen hakeminen epäonnistui",
+      "failedToGetExcelDataDetails": "Excel-tietojen hakeminen epäonnistui",
+      "documentEmailsSuccessfullySent": "Asiakirjasähköpostien lähetys onnistui.",
+      "failedToSendDocumentEmail": "Asiakirjan sähköpostin lähettäminen epäonnistui!",
+      "documentDownloadedSuccessfully": "Asiakirjan lataus onnistui",
+      "failedDocumentRequest": "Asiakirjapyyntö epäonnistui",
+      "updateTheReferenceAndDockNumberSuccess": "Päivitä viite ja telakointinumero onnistui",
+      "failedToUpdateTheReferenceAndDockNumber": "Viitteen ja telakan numeron päivittäminen epäonnistui!",
+      "successfullySavedITrackDetails": "iTrack-tietojen tallennus onnistui.",
+      "failedToSaveITrackDetails": "iTrack-tietojen tallentaminen epäonnistui!",
+      "updateShipmentNoteSuccess": "Lähetysilmoituksen päivittäminen onnistui",
+      "failedToUpdateShipmentNote": "Lähetysilmoituksen päivitys epäonnistui!",
+      "failedToUpdateShipmentDetails": "Lähetystietojen päivittäminen epäonnistui!",
+      "updatedShipmentDetailsSuccessfully": "Lähetystietojen päivitys onnistui",
+      "successfullyDeletedDistributorDetails": "Jakelijan tietojen poistaminen onnistui.",
+      "failedToDeleteDistributorDetails": "Jakelijatietojen poistaminen epäonnistui.",
+      "successfullyDeletedRoutingDetails": "Reititystietojen poistaminen onnistui.",
+      "failedToDeleteRoutingDetails": "Reititystietojen poistaminen epäonnistui.",
+      "currentlyNotAbleToGet": "Osoitekirjan tietoja ei tällä hetkellä voi saada. Yritä myöhemmin uudelleen.",
+      "successfullySavedTheQuoted": "Tarjottujen lähetystietojen tallennus lähetysnumerolla:",
+      "failedSaveTheQuoteShipmentDetails": "Tarjouksen lähetystietojen tallennus epäonnistui!",
+      "theUpdatingDataAreInvalid": "Päivitystiedot ovat virheellisiä",
+      "successfullyUpdatedTheAccounting": "Kirjanpito päivitetty onnistuneesti",
+      "successfullyUpdatedTheAccountingDetails": "Kirjanpitotiedot päivitetty onnistuneesti",
+      "failedToSaveAccounting": "Tilikirjan tallentaminen epäonnistui",
+      "failedToSaveAccountingDetails": "Kirjanpitotietojen tallentaminen epäonnistui",
+      "shipmentHasBeenCreatedSuccessfullyWith": "Lähetys on luotu onnistuneesti lähetysnumerolla:",
+      "failedCreateShipment": "Lähetyksen luominen epäonnistui.",
+      "failedToGetMilageDetails": "Kilometritietojen saaminen epäonnistui!",
+      "failedToGetRatesData": "Hintatietojen hakeminen epäonnistui!",
+      "failedToValidateApproval": "Hyväksynnän vahvistaminen epäonnistui.",
+      "failedToGetApproversList": "Hyväksyntäluettelon hakeminen epäonnistui.",
+      "somethingWentWrong": "Jotain meni pieleen!",
+      "shippingLabelHasBeenCreatedSuccessfully": "Lähetystarra on luotu onnistuneesti lähetysnumerolla:",
+      "failedToCreateShippingLabel": "Lähetystarran luominen epäonnistui!, Tarkista tietosi ja yritä uudelleen!",
+      "newChildShipmentIsCreated": "Uusi lapsilähetys luodaan hyväksyntänumerolla:",
+      "successfullySentTheApprovalRequestToTheCustomers": "Hyväksyntäpyynnön lähettäminen asiakkaille onnistui.",
+      "failedToSendTheApprovalRequest": "Hyväksyntäpyynnön lähettäminen epäonnistui!",
+      "successfullyAssignedTheTransportationProvider": "Kuljetuspalveluntarjoajan määritys onnistui.",
+      "failedToAssignTheTransportationProvider": "Kuljetuspalvelun tarjoajan määrittäminen epäonnistui.",
+      "successfullyAddedRateEntry": "Korkomerkinnän lisäys onnistui.",
+      "failedToAddRateEntry": "Hintamerkinnän lisääminen epäonnistui.",
+      "failedToValidateRateEntry": "Hintamerkinnän vahvistaminen epäonnistui.",
+      "successfullyDeletedRateEntry": "Arvosanamerkinnän poistaminen onnistui.",
+      "failedToRemoveRateEntry": "Hintamerkinnän poistaminen epäonnistui.",
+      "failedToGetMasterChilde": "Master/Childe-lähetystietojen saaminen epäonnistui!",
+      "successfullyUpdatedRateEntry": "Korkomerkintä päivitetty onnistuneesti.",
+      "failedToUpdateRateEntry": "Hintamerkinnän päivittäminen epäonnistui.",
+      "successfullySavedAsShipment": "Tallennus onnistui lähetyksenä",
+      "failedToSaveAsShipment": "Lähetys ei onnistunut!",
+      "failedToGetBranchAddress": "Sivukonttorin osoitteen saaminen epäonnistui.",
+      "failedToGetShipmentsStopsDetails": "Lähetyspysähdystietojen saaminen epäonnistui!",
+      "packingList": "PAKKAUSLISTA",
+      "packingListContents": "Pakkauslista",
+      "billTo": "BILL TO",
+      "vendorAdress": "MYYJÄN OSOITE",
+      "supplierAddress": "TOIMITTAJAN OSOITE",
+      "packageQty": "Paketin määrä",
+      "customRelease": "Tullin luovutusviite:",
+      "referenceDate": "Viitepäivämäärä:",
+      "releaseDate": "Julkaisupäivä:",
+      "soldTo": "MYYTY",
+      "legalText": "Lakiteksti.",
+      "totalInvoice": "Laskun kokonaissumma:",
+      "insurance": "Vakuutus:",
+      "invoiceLine": "Laskun rivi yhteensä:",
+      "totalAmount": "Kokonaismäärä",
+      "license": "Lisenssi",
+      "htsCode": "HTS koodi",
+      "totals": "YHTEENSÄ",
+      "generatedPackingList": "Pakkausluettelotiedoston luominen onnistui.",
+      "generateAllSupporting": "Luo kaikki tukiasiakirjat",
+      "sendCopyTo": "Lähetä kopio osoitteeseen:",
+      "myEmailAddress": "Minun sähköpostiosoitteeni",
+      "otherEmailAddress": "Muu sähköpostiosoite",
+      "typeEmailComma": "Kirjoita sähköpostiosoite pilkulla erotettuna",
+      "successfullyLadingPDF": "Konossementin PDF-tiedosto luotu onnistuneesti.",
+      "failedBillLadingPDFFile": "Konossementin PDF-tiedoston luominen epäonnistui.",
+      "commoditiesRequiring": "Tavarat, jotka vaativat erityistä tai lisähoitoa tai huomiota käsittelyssä tai varastoinnissa, on merkittävä ja pakattava siten, että niiden turvallinen kuljetus tavanomaisella huolella",
+      "whereTheRate": "Jos hinta riippuu arvosta, lähettäjien on ilmoitettava erikseen kirjallisesti omaisuuden sovittu tai ilmoitettu arvo seuraavasti:",
+      "agreedOrDeclared": "Lähettäjä on nimenomaisesti ilmoittanut, että omaisuuden sovittu tai ilmoitettu arvo ei ylitä",
+      "cid": "CID",
+      "emailID": "Sähköposti tunnus",
+      "modal": {
+        "label": "Muutokset häviävät!",
+        "labelTwo": "Haluatko varmasti poistaa?",
+        "okText": "Ok"
+      },
+      "shipmentsByServiceType": "Toimitukset palvelutyypin mukaan",
+      "startDateAndTime": "Aloituspäivämäärä ja -aika",
+      "updateShipmentSummary": "Päivitä lähetysyhteenveto",
+      "pleaseSelectAnyItem": "Valitse mikä tahansa kohde.",
+      "pleaseEnterPackageWeight": "Anna pakkauksen paino",
+      "location": {
+        "label": "Sijainti",
+        "message": "Anna sijainti",
+        "messageMax": "Sijainti saa olla enintään 13 merkkiä pitkä."
+      },
+      "contactEmailAddress": {
+        "label": "Yhteyssähköpostiosoite"
+      },
+      "portCode": {
+        "label": "Portin koodi",
+        "placeholderSelect": "Valitse Port Code",
+        "placeholderEnter": "Syötä porttikoodi"
+      },
+      "customer": {
+        "label": "Asiakas",
+        "message": "Valitse asiakas"
+      },
+      "scac": {
+        "label": "SCAC",
+        "placeholder": "Syötä SCAC"
+      },
+      "shipDate": {
+        "label": "Lähetyspäivä",
+        "message": "Valitse lähetyspäivä"
+      },
+      "deleteConfirm": {
+        "title": "Haluatko varmasti poistaa?"
+      },
+      "internalNotes": {
+        "label": "Sisäiset huomautukset",
+        "placeholder": "Kirjoita sisäiset huomautukset"
+      },
+      "pickUpReference": {
+        "label": "Noudon viite",
+        "message": "Anna noutoviite"
+      },
+      "dimUnitOfMeasure": {
+        "label": "DIM-mittayksikkö",
+        "message": "Valitse mittayksikkö"
+      },
+      "packageType": {
+        "label": "Pakkaustyyppi",
+        "message": "Valitse Pakettityyppi"
+      },
+      "packageID": {
+        "label": "Paketin tunnus",
+        "placeholder": "Anna paketin tunnus"
+      },
+      "quantity": {
+        "label": "Määrä",
+        "placeholder": "Syötä määrä",
+        "message": "Ole hyvä ja syötä määrä",
+        "error": "Määrän tulee olla vähintään 1",
+        "number": "Määrän on oltava numero."
+      },
+      "receiptNumber": {
+        "label": "Valitse Kuitin numero",
+        "placeholder": "Kuitin numero"
+      },
+      "cube": {
+        "label": "Kuutio",
+        "placeholder": "Syötä Cube",
+        "message": "Anna kuutio",
+        "errorNegative": "Kuutiolla ei voi olla negatiivisia arvoja"
+      },
+      "expectedShipDate": {
+        "label": "Arvioitu toimituspäivämäärä"
+      },
+      "productDesc": {
+        "label": "Tuotteen Kuvaus",
+        "placeholder": "Valitse Tuotekoodi",
+        "message": "Valitse tuotekoodi",
+        "enter": "Anna tuotteen kuvaus",
+        "tooltip": "Asettaa oletustuotekuvauksen tuotetietoihin harmonikka"
+      },
+      "lineNumber": {
+        "label": "Rivin numero"
+      },
+      "incoTerm": {
+        "label": "IncoTerm",
+        "placeholder": "Valitse IncoTerm",
+        "tooltip": "Esiasettaa IncoTermin lähetysmoduulissa. "
+      },
+      "consigneeCity": {
+        "label": "vastaanottajan kaupunki",
+        "placeholder": "Valitse vastaanottajan kaupunki"
+      },
+      "consigneeState": {
+        "label": "Vastaanottajavaltio/provinssi",
+        "placeholder": "Valitse vastaanottajan osavaltio/provinssi"
+      },
+      "consigneePostalCode": {
+        "label": "Vastaanottajan postinumero"
+      },
+      "consigneeCountry": {
+        "label": "Vastaanottajan maa",
+        "placeholder": "Valitse vastaanottajan maa"
+      },
+      "consigneeName": {
+        "label": "Vastaanottajan nimi",
+        "placeholder": "Valitse vastaanottajan nimi",
+        "message": "Valitse vastaanottajan nimi"
+      },
+      "shipperCity": {
+        "label": "Lähettäjän kaupunki",
+        "placeholder": "Valitse lähettäjän kaupunki",
+        "message": "Anna lähettäjän kaupunki"
+      },
+      "shipperStateProvince": {
+        "label": "Lähettäjän osavaltio/provinssi",
+        "placeholder": "Valitse lähettäjän osavaltio/provinssi"
+      },
+      "shipperCountry": {
+        "label": "Lähettäjän maa",
+        "placeholder": "Valitse lähettäjän maa",
+        "message": "Valitse lähettäjän maa"
+      },
+      "deliveryDate": {
+        "label": "Toimituspäivä",
+        "message": "Valitse toimituspäivä"
+      },
+      "freightClass": {
+        "label": "Rahtiluokka",
+        "placeholder": "Valitse rahtiluokka",
+        "tooltip": "Asettaa oletusrahtiluokan tuotetietoihin harmonikka"
+      },
+      "shipmentNumber": {
+        "label": "Lähetysnumero",
+        "placeholder": "Syötä lähetysnumero"
+      },
+      "shipmentTerms": {
+        "label": "Toimitusehdot",
+        "message": "Valitse toimitusehdot",
+        "option_c": "Kerätä",
+        "option_p": "Prepaid",
+        "option_t": "Kolmas osapuoli",
+        "placeholder": "Valitse Toimitusehdot",
+        "tooltip": "Asettaa lähetykselle oletuslähetysehdot"
+      },
+      "transportationProvider": {
+        "label": "Kuljetuksen tarjoaja",
+        "selectPlaceholder": "Valitse Kuljetuspalveluntarjoaja",
+        "message": "Kuljetuspalveluntarjoaja vaaditaan",
+        "select": "Valitse Kuljetuspalveluntarjoaja",
+        "email": "Sähköpostin lähetys onnistui kuljetuspalveluntarjoajalle",
+        "emailError": "Sähköpostin lähetys kuljetuspalveluntarjoajalle epäonnistui"
+      },
+      "vendorName": {
+        "label": "Toimittajan nimi",
+        "placeholder": "Valitse Toimittajan nimi",
+        "message": "Valitse Toimittaja"
+      },
+      "companyName": {
+        "label": "Yrityksen nimi",
+        "placeholder": "Anna Yrityksen nimi",
+        "selectPlaceholder": "Valitse Yrityksen nimi",
+        "message": "Anna Yrityksen nimi"
+      },
+      "companyAddress": {
+        "label": "yritys osoite",
+        "placeholder": "Anna Yrityksen osoite",
+        "message": "Anna Yrityksen osoite"
+      },
+      "country": {
+        "label": "Maa",
+        "placeholder": "Valitse maa",
+        "message": "Valitse maa"
+      },
+      "address": {
+        "label": "Osoite",
+        "message": "Anna osoite"
+      },
+      "postalCode": {
+        "label": "postinumero",
+        "placeholder": "Anna postinumero",
+        "selectPlaceholder": "Valitse Postinumero",
+        "message": "Anna postinumero",
+        "selectMessage": "Valitse postinumero",
+        "error": "Annettu posti on virheellinen tai sitä ei löydy valitusta maasta!",
+        "invalid": "Virheellinen postinumero!",
+        "zip": "Anna zip",
+        "zipPostal": "Postinumero",
+        "enter": "Anna postinumero."
+      },
+      "stateProvince": {
+        "label": "Osavaltio/maakunta",
+        "placeholder": "Valitse osavaltio/provinssi",
+        "message": "Valitse osavaltio/maakunta"
+      },
+      "from": {
+        "label": "From",
+        "placeholder": "Valitse Päivä"
+      },
+      "to": {
+        "label": "Vastaanottaja",
+        "placeholder": "Valitse Päivä"
+      },
+      "city": {
+        "label": "Kaupunki",
+        "placeholder": "Valitse Kaupunki",
+        "message": "Anna kaupunki",
+        "enter": "Anna kaupunki",
+        "select": "Valitse kaupunki"
+      },
+      "state": {
+        "label": "Osavaltio",
+        "message": "Valitse osavaltio",
+        "placeholder": "Valitse osavaltio",
+        "city": "Kaupunki"
+      },
+      "contactName": {
+        "label": "Yhteyshenkilön nimi",
+        "message": "Anna yhteyshenkilön nimi"
+      },
+      "contactEmail": {
+        "label": "Yhteydenotto Sähköposti",
+        "required": "Anna yhteyssähköpostiosoite",
+        "message": "Anna arvo ei ole sähköpostimuodossa!"
+      },
+      "containerNumber": {
+        "label": "Säiliön numero"
+      },
+      "trackingNumber": {
+        "label": "Seurantanumero",
+        "placeholder": "Anna seurantanumero"
+      },
+      "createdOn": {
+        "title": "Luotu",
+        "placeholder": "Valitse Päivämäärä",
+        "shipmentCreatedOn": "Lähetys luotu"
+      },
+      "branch": {
+        "label": "Haara",
+        "message": "Valitse Haara",
+        "placeholder": "Valitse Haara"
+      },
+      "sortBy": {
+        "label": "Järjestä",
+        "select": "Valitse Lajitteluperuste"
+      },
+      "reason": {
+        "label": "Syy",
+        "placeholder": "Valitse Syy",
+        "message": "Valitse syy"
+      },
+      "shipmentType": {
+        "placeholder": "Valitse Lähetystyyppi",
+        "label": "Lähetyksen tyyppi",
+        "message": "Valitse lähetystyyppi"
+      },
+      "accessorial": {
+        "label": "Lisävaruste",
+        "placeholder": "Valitse Lisävaruste"
+      },
+      "product": {
+        "label": "Tuote",
+        "placeholder": "Valitse Tuote"
+      },
+      "locationID": {
+        "label": "Sijainnin tunnus",
+        "placeholder": "Valitse Sijainnin tunnus"
+      },
+      "serviceLevel": {
+        "label": "Palvelutaso",
+        "placeholder": "Valitse Palvelutaso"
+      },
+      "appointmentType": {
+        "label": "Tapaamisen tyyppi",
+        "placeholder": "Valitse Tapaamistyyppi",
+        "message": "Anna tapaamisen tyyppi",
+        "choose": "Valitse Tapaamistyyppi."
+      },
+      "cargoType": {
+        "label": "Lastin tyyppi",
+        "placeholder": "Valitse rahtityyppi",
+        "message": "Ole hyvä ja valitse rahtityyppi",
+        "required": "Rahtityyppi vaaditaan"
+      },
+      "accountNumber": {
+        "label": "Tilinumero",
+        "placeholder": "Valitse tilinumero",
+        "message": "Anna tilinumero",
+        "select": "Valitse tilinumero"
+      },
+      "shipmentBranch": {
+        "label": "Lähetyskonttori",
+        "placeholder": "Valitse Lähetyskonttori",
+        "message": "Valitse lähetyskonttori"
+      },
+      "portName": {
+        "label": "Portin nimi",
+        "placeholder": "Etsi portin nimi",
+        "select": "Valitse Portin nimi",
+        "message": "Valitse portin nimi",
+        "enter": "Anna portin nimi"
+      },
+      "currency": {
+        "label": "Valuutta",
+        "placeholder": "Valitse Valuutta",
+        "message": "Valuutta vaaditaan"
+      },
+      "customerName": {
+        "label": "Asiakkaan nimi",
+        "placeholder": "Valitse Asiakkaan nimi",
+        "placeholderEnter": "Valitse asiakkaan nimi"
+      },
+      "equipmentType": {
+        "label": "Laitteen tyyppi",
+        "placeholder": "Valitse laitetyyppi",
+        "message": "Laitetyyppi vaaditaan"
+      },
+      "linerType": {
+        "label": "Liner tyyppi",
+        "placeholder": "Valitse Liner Type"
+      },
+      "measurementUit": {
+        "label": "Mittayksikkö",
+        "placeholder": "Valitse Mittayksikkö"
+      },
+      "packageLoadType": {
+        "label": "Paketin kuormatyyppi",
+        "placeholder": "Valitse paketin lataustyyppi",
+        "message": "Valitse paketin lataustyyppi"
+      },
+      "palletLoadType": {
+        "label": "Lavakuormatyyppi",
+        "placeholder": "Valitse lavan kuormaustyyppi",
+        "option": "Pinottava",
+        "optionNon": "Ei pinottava"
+      },
+      "paymentType": {
+        "label": "Maksutapa",
+        "placeholder": "Valitse Maksutapa"
+      },
+      "portType": {
+        "label": "Portin tyyppi",
+        "placeholder": "Valitse Portin tyyppi",
+        "search": "Etsi portin tyyppi",
+        "message": "Valitse Portin tyyppi"
+      },
+      "pricingBasis": {
+        "label": "Hinnoitteluperuste",
+        "placeholder": "Valitse Hinnoitteluperuste"
+      },
+      "pricingType": {
+        "label": "Hinnoittelutyyppi",
+        "placeholder": "Valitse Hinnoittelutyyppi",
+        "message": "Valitse hinnoittelutyyppi"
+      },
+      "unitOfMeasurement": {
+        "label": "Mittayksikkö",
+        "placeholder": "Valitse Mittayksikkö"
+      },
+      "projectName": {
+        "label": "projektin nimi",
+        "placeholder": "Valitse Projektin nimi",
+        "messageError": "Anna projektin nimi",
+        "messageExist": "Projektin nimi on jo olemassa!"
+      },
+      "poStatus": {
+        "label": "PO tila",
+        "placeholder": "Valitse tilauksen tila",
+        "option_o": "Avata",
+        "option_c": "Valmis",
+        "option_d": "Poistettu"
+      },
+      "ratingPreferences": {
+        "label": "Luokitusasetukset",
+        "placeholder": "Valitse Luokitusasetukset"
+      },
+      "category": {
+        "label": "Kategoria",
+        "placeholder": "Valitse kategoria"
+      },
+      "categoryType": {
+        "label": "Luokan tyyppi",
+        "placeholder": "Valitse Luokan tyyppi",
+        "message": "Valitse luokkatyyppi"
+      },
+      "userName": {
+        "label": "Käyttäjänimi",
+        "placeholder": "Valitse Käyttäjänimi",
+        "message": "Valitse Käyttäjänimi"
+      },
+      "shipmentCreatedBy": {
+        "email": "Valitse Sähköposti"
+      },
+      "shipperName": {
+        "label": "Lähettäjän nimi",
+        "placeholder": "Valitse lähettäjän nimi",
+        "message": "Valitse lähettäjän nimi"
+      },
+      "exceptionType": {
+        "label": "Poikkeustyyppi",
+        "placeholder": "Valitse Poikkeustyyppi"
+      },
+      "status": {
+        "label": "Tila",
+        "placeholder": "Valitse Tila",
+        "message": "Valitse tila"
+      },
+      "locationType": {
+        "label": "Sijaintityyppi",
+        "placeholder": "Valitse Sijainnin tyyppi"
+      },
+      "class": {
+        "label": "Luokka",
+        "placeholder": "Valitse Luokka"
+      },
+      "hazmatClass": {
+        "label": "HAZMAT-luokka",
+        "placeholder": "Valitse HAZMAT-luokka"
+      },
+      "routingType": {
+        "label": "Reitityksen tyyppi",
+        "placeholder": "Valitse Reititystyyppi"
+      },
+      "hours": {
+        "label": "Tuntia",
+        "placeholder": "Valitse Tunnit",
+        "message": "Valitse Tunnit"
+      },
+      "supplier": {
+        "label": "Toimittaja",
+        "placeholder": "Valitse Toimittaja"
+      },
+      "taxType": {
+        "label": "Verotyyppi",
+        "placeholder": "Valitse Verotyyppi"
+      },
+      "tenderName": {
+        "label": "Tarjouksen nimi",
+        "placeholder": "Valitse Tarjouksen nimi"
+      },
+      "timeZone": {
+        "label": "Aikavyöhyke",
+        "placeholder": "Valitse Aikavyöhyke",
+        "message": "Valitse Aukioloajat"
+      },
+      "userType": {
+        "label": "Käyttäjätyyppi",
+        "placeholder": "Valitse Käyttäjätyyppi",
+        "enter": "Anna käyttäjätyyppi."
+      },
+      "weightMeasurement": {
+        "label": "Painon mittaus",
+        "placeholder": "Valitse Painonmittaus"
+      },
+      "authorisedSignature": "Valtuutettu allekirjoitus",
+      "company": "Yhtiö",
+      "title": "Otsikko",
+      "telephoneNumber": "PUHELINNUMERO"
+    },
+    "notification": {
+      "messages": "Viestit",
+      "recentActivities": "Viimeaikaiset toimet",
+      "errorMessages": "Virheilmoitukset",
+      "failedUpdateClaimsDetails": "Vaatimustietojen päivittäminen epäonnistui",
+      "sessionExpired": "Istunto on vanhentunut!, Ole hyvä ja kirjaudu uudelleen.",
+      "failedTrackingDetails": "Seurantatietojen hakeminen epäonnistui",
+      "failedCarrierDetails": "Operaattorin tietojen hakeminen epäonnistui.",
+      "shipmentCancelled": "Toimitus on peruutettu onnistuneesti",
+      "timeoutIssue": "Aikakatkaisuongelma",
+      "parcelExpressSaga": "Paketti pikasaga",
+      "failedToGetData": "Datan hakeminen epäonnistui!",
+      "routingDetails": "reititystiedot",
+      "failedTo": "Epäonnistui",
+      "distributorDetails": "jakelijan tiedot",
+      "updated": "päivitetty",
+      "created": "luotu",
+      "successfully": "Onnistuneesti",
+      "successfullyUpdated": "päivitetty onnistuneesti",
+      "errorWithCode0": "Virhe koodilla 0",
+      "shipmentsFollowing": "lähetykset yhdistetään seuraaviin lähetysnumeroihin:",
+      "successfullyCopied": "kopioidaan onnistuneesti",
+      "failed": "epäonnistunut",
+      "success": "menestys",
+      "copyTender": "Kopioi tarjous onnistuneesti",
+      "copyTenderError": "Tarjousvirheen kopioiminen",
+      "purchaseOrderCreated": "Vahvista ostotilauksen luominen onnistuneesti",
+      "claimsDetailsFailed": "Vaatimustietojen hakeminen epäonnistui",
+      "claimsDeletedFailed": "Vaatimusten poistaminen epäonnistui.",
+      "claimsDeleted": "Vaatimusten poistaminen onnistui.",
+      "failedShippingLabelPDF": "Lähetystarran PDF-tiedoston luominen epäonnistui.",
+      "failedGgeneratePDF": "PDF:n luominen epäonnistui",
+      "shippingLabelPDF": "Lähetystarran PDF-tiedosto luotu onnistuneesti.",
+      "carrierDataFailed": "Operaattorin tiedot epäonnistuivat.",
+      "portDataFailed": "Tietojen siirtäminen epäonnistui.",
+      "postalDataFailed": "Postitustietojen lähetys epäonnistui.",
+      "userProfileImage": "Käyttäjäprofiili Kuva on päivitetty",
+      "shipmentStatusFailed": "Lähetyksen tilan tarkistaminen epäonnistui!",
+      "userPreferenceFailed": "Käyttäjäasetusten saaminen epäonnistui",
+      "preferenceUpdatedFailed": "Asetuksen päivittäminen epäonnistui",
+      "preferenceUpdated": "Asetuksen päivitys onnistui",
+      "passwordUpdatedFailed": "Salasanan päivitys epäonnistui",
+      "passwordUpdated": "Salasana on päivitetty onnistuneesti",
+      "userProfileUpdated": "Käyttäjäprofiili on päivitetty",
+      "bidSubmitted": "Tarjous on lähetetty onnistuneesti.",
+      "bidNotSubmitted.": "Tarjousta ei ole jätetty.",
+      "email": "Anna kelvollinen sähköpostiosoite.",
+      "numeric": "Anna vain numero",
+      "problemWithDownloading": "Ongelma latauksen kanssa!",
+      "emptyList": "Tyhjä lista",
+      "leastOneItem": "Kirjoita vähintään yksi kohde jatkaaksesi.",
+      "emptySelect": "Hae jotain saadaksesi tietoja...",
+      "noRecondfound": "Recondia ei löytynyt.",
+      "itSeems": "Näyttää",
+      "trackingNumber": " ei ole kelvollinen seurantanumero",
+      "successfulyGeneratedCommercial": "Kauppalaskutiedosto luotu onnistuneesti.",
+      "failedToGenerateCommercialInvoiceFile.": "Kauppalaskutiedoston luominen epäonnistui.",
+      "COOPDF": "COO PDF -tiedosto luotu onnistuneesti.",
+      "failedCOOPDF": "COO PDF-tiedoston luominen epäonnistui."
+    },
+    "emptyRecords": {
+      "title": "Yritä säätää suodattimia. ",
+      "descriptionOne": "Antamiisi tietoihin perustuvia tietoja ei ollut.",
+      "descriptionTwo": "Yritä säätää suodattimia."
+    }
+  },
+  "parcelExpress": {
+    "serviceType": "palvelutyyppi",
+    "transitTime": "Kulkuaika (päivä)",
+    "billingWeight": "Laskutuksen paino",
+    "charges": "Maksut",
+    "action": "Toiminta",
+    "baseCharges": "Perusmaksut",
+    "totalSurcharges": "Lisämaksut yhteensä",
+    "totalDiscount": "Yhteensä alennus",
+    "netCharges": "Nettokulut",
+    "savePrintLabel": "Tallentaa",
+    "note": "Huomautus",
+    "severity": "Vakavuus",
+    "alertMessage": "Varoitusviesti",
+    "triggerNotification": {
+      "default": "Valitse A operaattori saadaksesi hinnat.",
+      "packages": "Paketit ovat tyhjiä, yritä uudelleen vähintään yhdellä paketilla!",
+      "reject": "Operaattoria ei ole valittu",
+      "packagesReject": "Paketit ovat tyhjiä!"
+    },
+    "titles": {
+      "parcelExpress": "Paketti Express",
+      "shipmentInformation": "Lähetystiedot",
+      "shipmentsByService": "Toimitukset palvelutyypin mukaan",
+      "originDestinationInformation": "Alkuperä/Kohdetiedot",
+      "packageDetails": "Paketin tiedot",
+      "additionalServices": "Lisäpalvelut",
+      "total": "Kokonaiskulutus tänä vuonna",
+      "service": "Palveluhäiriöt"
+    },
+    "buttons": {
+      "addPackage": "Lisää paketti",
+      "deletePackage": "Poista paketti"
+    },
+    "locationForm": {
+      "datePickerMessage": "Ole hyvä ja valitse toimituspäivä",
+      "countryCallingCode": {
+        "label": "Maanumero"
+      },
+      "number": {
+        "required": "Anna yhteysnumero",
+        "number_error": "Yhteysnumeron tulee olla vain numeroita!",
+        "digits_error": "Yhteysnumeron tulee olla vain 10-numeroinen numero!"
+      },
+      "ext": "Alanumero"
+    },
+    "packageForm": {
+      "itemNo": "Tuote nro",
+      "noOfPackages": {
+        "label": "Pakettien määrä",
+        "message": "Anna pakettien lukumäärä"
+      },
+      "chargeableWeight": {
+        "label": "Ladattava paino",
+        "message": "Anna ladattava paino"
+      },
+      "unit": {
+        "label": "Yksikkö",
+        "message": "Valitse yksikkö UOM",
+        "dimension_message": "Valitse Mitat UOM"
+      },
+      "length": {
+        "message": "Anna pituus"
+      },
+      "width": {
+        "message": "Anna leveys"
+      },
+      "height": {
+        "message": "Anna korkeus"
+      }
+    },
+    "additionalForm": {
+      "residentialDelivery": "Toimitus kotiin",
+      "insurance": "Vakuutus",
+      "declaredValue": {
+        "label": "Ilmoitettu arvo",
+        "placeholder": "Syötä ilmoitettu arvo"
+      }
+    },
+    "serviceBarChart": "Palvelu",
+    "totalSpend": " Kuljetuspalvelujen tarjoajien kokonaiskulutus tänä vuonna"
+  },
+  "visibility": {
+    "filters": {
+      "titles": {
+        "shipmentSearch": "Lähetyshaku",
+        "byOrigin": "Lähetyshaku alkuperän ja määränpään mukaan",
+        "byOrder": "Lähetyshaku tilaustietojen perusteella"
+      },
+      "shipmentSearch": {
+        "shipmentType": {
+          "label": "Lähetystyypit",
+          "optionOpen": "Avata",
+          "optionClosed": "Suljettu"
+        },
+        "pickupDate": {
+          "title": "Noutopäivä",
+          "placeholder": "Valitse Päivämäärä"
+        },
+        "itnNumber": {
+          "label": "ITN/ISF/AES-numero"
+        }
+      }
+    },
+    "header": {
+      "title": "Näkyvyys",
+      "errorNotification": "Asiakirjan sähköpostin lähetys epäonnistui!",
+      "downloadLabel": "Lataa PDF",
+      "printLabel": "Tulosta PDF",
+      "emailLabel": "Sähköposti PDF",
+      "sendEmailTitle": "Lähetä sähköpostia kuljetuspalveluntarjoajalle",
+      "sendEmailSubtitle": "Seurantatiedot ",
+      "documents": "Asiakirjat",
+      "sendEmailSubject": {
+        "label": "Aihe"
+      },
+      "sendEmailAddress": {
+        "placeholder": "Sähköpostiosoite*",
+        "errorMessage": "Anna sähköpostiosoite."
+      },
+      "sendEmailComments": {
+        "label": "Kommentit",
+        "placeholder": "Kommentit"
+      },
+      "notificationSendEmailError": "Asiakirjan lähettäminen Sähköposti epäonnistui!",
+      "exportForm": {
+        "title": "Näkyvyystiedot",
+        "createOn": "Luo päälle",
+        "exportExcel": "Näkyvyys Vie Excel"
+      },
+      "exportPDF": {
+        "shipment": {
+          "title": "kuljetus yksityiskohdat",
+          "transitServiceStandard": "Julkisen liikenteen standardi: ",
+          "actualTransitDays": " Todelliset kuljetuspäivät: ",
+          "shipmentIdentifier": "Lähetyksen tunniste: ",
+          "billOfLadingNumber": "Konossementin numero: ",
+          "flightVoyageNumber": "Lennon/matkan numero: ",
+          "expShipDate": "Viimeinen toimituspäivä: ",
+          "vessel": "Alus: ",
+          "xpDeliveryDate": "Viimeinen toimituspäivä: ",
+          "sealNumber": "Sinetin numero: ",
+          "vendorName": "Toimittajan nimi: ",
+          "itNisFaeSNo": "ITN/ISF/AES-numero: ",
+          "carrierName": "Kuljetuspalvelun nimi: ",
+          "shipmentNote": "Lähetyshuomautus: ",
+          "po": "PO "
+        },
+        "product": {
+          "title": "Tuotetiedot",
+          "productDescription": " Tuotteen Kuvaus",
+          "billedQty": "Laskutettu määrä",
+          "l": "L",
+          "w": "W",
+          "h": "H",
+          "dimUOM": "Himmeä UOM",
+          "soNumber": "SO Numero"
+        },
+        "shipper": {
+          "title": "Lähettäjän tiedot",
+          "address1": "Osoite 1",
+          "address2": "Osoite 2",
+          "postal": "Posti",
+          "contact": "Yhteyshenkilön nimi/puhelin",
+          "appointmentNumber": "Tapaaminen numero",
+          "dockNumber": "Telakan numero"
+        },
+        "consignee": {
+          "title": "Vastaanottajan tiedot",
+          "address1": "Osoite 1",
+          "address2": "Osoite 2",
+          "postal": "Posti",
+          "contact": " Yhteyshenkilön nimi/puhelin",
+          "appointmentNumber": " Tapaaminen numero",
+          "dockNumber": "Telakan numero",
+          "totalPalletCount": "Lavojen kokonaismäärä"
+        },
+        "tracking": {
+          "title": "Seurannan tilan tiedot",
+          "date": "Päivämäärä/aika tilassa",
+          "location": "Sijainti",
+          "etaDate": "Eta päivämäärä"
+        }
+      },
+      "visibilityExport": "Näkyvyyden vienti"
+    },
+    "minCard": {
+      "trackingStatusType": "Seurantatilan tyyppi",
+      "shipDate": "Lähettäjän pyytämä lähetyspäivä"
+    },
+    "detailCard": {
+      "tabs": {
+        "general": "Kenraali",
+        "tracking": "Seurannan tilan tiedot",
+        "details": "Yksityiskohdat",
+        "productInfo": "Tuotetiedot"
+      },
+      "generalTab": {
+        "title": "Kenraali",
+        "shipmentDetail": "Lähetyksen tiedot",
+        "shipmentMode": "Lähetystila",
+        "multiShop": "Monikauppa",
+        "shipperDetails": "Lähettäjän tiedot",
+        "shipperContact": "Lähettäjän yhteystiedot",
+        "appointmentNo": "Tapaaminen numero",
+        "dockNo": "Telakan nro / vahvistusnro",
+        "consigneeDetails": "Vastaanottajan tiedot",
+        "consigneeContact": "Vastaanottajan yhteystiedot",
+        "shipmentLocation": "Lähetyspaikka",
+        "trackingDetails": "Seurantatiedot",
+        "trackingStatus": "Seurannan tila",
+        "trackingStatusType": "Seurantatilan tyyppi",
+        "transporterPlannedShipDate": "Kuljettajan suunniteltu lähetyspäivä",
+        "transporterPlannedDeliveryDate": "Kuljettajan suunniteltu toimituspäivä",
+        "eventOccurrence": "Tapahtuman päivämäärä ja aika",
+        "shipperRequestedShipDate": "Lähettäjän pyytämä lähetyspäivä",
+        "shipmentDetails": "kuljetus yksityiskohdat",
+        "shipperRequstedShipDate": "Lähettäjän pyytämä toimituspäivämäärä",
+        "shipperRequstedDeliveryDate": "Lähettäjän pyytämä toimituspäivä",
+        "eventOccurrenceDate": " Tapahtuman päivämäärä ja aika"
+      },
+      "notesTab": {
+        "createdBy": "Luonut :",
+        "createdOn": "Luotu :",
+        "editedBy": "Muokannut :",
+        "editedOn": "Muokattu:"
+      },
+      "detailsTab": {
+        "title": "Yksityiskohdat",
+        "portOfOrigin": "Alkuperäsatama",
+        "portOfDischarge": "Purkaussatama",
+        "houseBill": "Talon laskutusnumero",
+        "actualTransitDays": "Todelliset kuljetuspäivät",
+        "interlineRoutingSequence": "Linjojen välinen reitityssekvenssi",
+        "interlineSCAC": "Interline SCAC",
+        "vessel": "Alus",
+        "flightVoyageNumber": "Lennon/matkan numero",
+        "sealNumber": "Sinetin numero",
+        "itNisFaeSNumber": "ITN/ISF/AES-numero"
+      },
+      "productInfoTab": {
+        "title": "Tuotetiedot",
+        "productCode": "Tuotekoodi :",
+        "productDescription": "Tuotteen Kuvaus",
+        "grossWeight": "Bruttopaino"
+      },
+      "fileDetailsTab": {
+        "fileComments": {
+          "label": "Tiedoston kommentit",
+          "placeholder": "Tiedoston kommentit"
+        },
+        "referenceNo": {
+          "label": "Tukiasiakirjan viitenumero",
+          "placeholder": "Tukiasiakirjan viitenumero"
+        }
+      }
+    },
+    "footer": {
+      "totalShipments": "Lähetykset yhteensä",
+      "openShipments": "Avaa Toimitukset",
+      "closedShipments": "Suljetut lähetykset",
+      "exceptions": "Poikkeukset"
+    },
+    "trackingStatusInfo": {
+      "trackingStatus": {
+        "label": "Seurannan tila",
+        "placeholder": "Valitse Seurannan tila",
+        "message": "Valitse Seurannan tila"
+      },
+      "trackingStatusType": {
+        "label": "Seurantatilan tyyppi",
+        "placeholder": "Valitse Seurannan tilan tyyppi"
+      }
+    },
+    "containerNumbershouldbe": " ei ole kontin numero, sen pitäisi olla muotoa XXXU1234567",
+    "youOnlyhave": "Sinulla on vain",
+    "charactersRequired": " mutta vähintään 5 merkkiä vaaditaan",
+    "invalidProvider": "Virheellinen palveluntarjoaja"
+  },
+  "shipmentAdd": {
+    "totalPieces": "Yhteensä kappaletta",
+    "consolidate": "Lujittaa",
+    "shipmentToDisplayOnMap": "Toimitukset näytettäväksi kartalla",
+    "productRepository": {
+      "title": "Lisää tuotevarastoon",
+      "description": "Haluatko, että tämä tuote tallennetaan tuotevarastoon?"
+    },
+    "titles": {
+      "details": "kuljetus yksityiskohdat",
+      "transportation": "Kuljetustiedot",
+      "vendor": "Myyjän tiedot",
+      "bill": "Bill To",
+      "category": "Luokan tiedot",
+      "accounting": "Lisävarusteet ja verot"
+    },
+    "notifications": {
+      "barcodeElementNotfound": "Viivakoodielementtiä ei löydy",
+      "generatedBarcodeOnly": "Vain luotu viivakoodi",
+      "costIsRequired": "Kustannus vaaditaan",
+      "standardTransitDaysIsRequired": "Normaalit kuljetuspäivät vaaditaan",
+      "pickupDeliveryLocations": "Lähetyskuljetuksissa tulee olla vähintään yksi nouto- ja toimituspaikka.",
+      "pickupLocation": "Lähetyskuljetuksessa tulee olla vähintään yksi noutopaikka.",
+      "minimumDeliveryLocation": "Lähetyskuljetuksessa tulee olla vähintään yksi toimituspaikka.",
+      "productRequired": "Tuotetiedot vaativat vähintään yhden tuotteen.",
+      "fixAccountingSection": "Korjaa vahvistusongelmat Kirjanpito-osiossa."
+    },
+    "shipmentScreen": {
+      "checkingApproval": "Tarkistetaan lähetyksen hyväksymisprosessia...",
+      "approvalNumber": "Hyväksyntänumero",
+      "masterShipment": "Päälähetys"
+    },
+    "shipmentDetails": {
+      "rateShopResults": "Arvioi Kaupan tulokset",
+      "iTrack": "iTrack",
+      "trackingDetails": "Seurantatiedot",
+      "warningModalInternalTracking": "Tällä tietueella ei ole tällä hetkellä seurantatietoja. ",
+      "emptyRecords": "Ole kärsivällinen saadaksesi päivityksen operaattorilta.",
+      "checking": "Tarkistetaan PO-, SO- ja PaidBy-näkyvyyttä...",
+      "freightBillProNumber": {
+        "label": "Rahtilasku/Pro-numero"
+      },
+      "masterBillOfLandingNumber": {
+        "label": "Päälaskukirjan numero"
+      },
+      "purchaseOrders": {
+        "label": "Tilaukset",
+        "message": "Ole hyvä ja syötä ostotilaukset!"
+      },
+      "salesOrders": {
+        "label": "Myyntitilaukset"
+      },
+      "paidBy": {
+        "label": "Maksanut",
+        "placeholder": "Valitse A maksaja"
+      },
+      "amount": {
+        "label": "Määrä",
+        "placeholder": "Määrä"
+      },
+      "paidPercentage": {
+        "label": "Maksettu prosentti:",
+        "placeholder": "Prosenttiosuus"
+      },
+      "of": {
+        "placeholder": "% of"
+      },
+      "freeOnBoard": {
+        "label": "Vapaasti laivassa",
+        "placeholder": "Valitse Ilmainen laivalla"
+      },
+      "customerAccountNumber": {
+        "label": "Asiakastilinumero"
+      },
+      "incotermNamedPlace": {
+        "label": "Incoterm nimetty paikka"
+      }
+    },
+    "transportationDetails": {
+      "addingNewStopIs": "Uuden pysäkin lisääminen on",
+      "modifyingStopIs": "Pysäkin muokkaaminen on",
+      "deletingStopIs": "Pysähdyksen poistaminen on",
+      "trackContainer": "Track Container",
+      "shipmentCity": "Lähetyskaupunki",
+      "shipmentStateProvince": "Lähetysvaltio/maakunta",
+      "shipmentCountry": "Lähetysmaa",
+      "receivedDateEST": "Vastaanottopäivämäärä",
+      "selectDate": "Valitse päivämäärä",
+      "eventOccurrenceDateLocal": "Tapahtuman päivämäärä ja aika paikallisesti",
+      "transporterRequestedDeliveryDate": "Kuljettajan pyytämä toimituspäivä",
+      "transporterRequestedShipDate": "Kuljettajan pyytämä toimituspäivämäärä",
+      "shipperRequestedDeliveryDate": "Lähettäjän pyytämä toimituspäivä",
+      "shipperRequestedShipDate": "Lähettäjän pyytämä lähetyspäivä",
+      "transportationProviderReferenceNo": "Kuljetuspalveluntarjoajan viitenumero",
+      "actual": "Todellinen",
+      "dateTime": "Päivämäärä",
+      "requestedDateTime": "Pyydetty päivämäärä",
+      "appointmentDateTime": "Nimityspäivämäärä",
+      "delivery": "Toimitus",
+      "totalMiles": "Mailit yhteensä",
+      "addStops": "Lisää pysäkkejä",
+      "addressBookDescription": "Haluatko, että tämä osoite tallennetaan osoitekirjaan?",
+      "addToAddressBook": "Lisää osoitekirjaan",
+      "number": {
+        "placeholder": "Määrä"
+      },
+      "ext": {
+        "placeholder": "Alanumero"
+      },
+      "stopType": {
+        "label": "Pysäytystyyppi",
+        "placeholder": "Valitse Pysäytystyyppi",
+        "message": "Valitse Pysäytystyyppi"
+      },
+      "stopNo": {
+        "label": "Pysähdys nro",
+        "placeholder": "Valitse Stop No",
+        "message": "Valitse pysäkin sijainti"
+      },
+      "appointmentNumber": {
+        "label": "Tapaaminen numero",
+        "placeholder": "Syötä tapaaminen nro."
+      },
+      "dockConfirmationNumber": {
+        "label": "Telakka/vahvistusnumero"
+      },
+      "taxIdVat": {
+        "label": "TaxID/alv"
+      }
+    },
+    "productDetails": {
+      "freightClassCalculator": "Rahtiluokkalaskin",
+      "copyLastProduct": "Kopioi viimeinen tuotetiedot",
+      "createNewProduct": "Luo uusi tuote",
+      "chargeableWeight": {
+        "label": "Ladattava paino",
+        "message": "Anna maksullinen paino",
+        "error": "Ladattavan painon on oltava numero.",
+        "minError": "Ladattavan painon tulee olla vähintään 1"
+      },
+      "packageBilledQuantity": {
+        "message": "Anna paketti/laskutettu määrä",
+        "error": "Paketin/laskutetun määrän on oltava numero.",
+        "minError": "Paketin/laskutettavan määrän tulee olla vähintään 1"
+      },
+      "length": {
+        "message": "Anna pituus",
+        "error": "Pituuden on oltava numero.",
+        "minError": "Pituuden tulee olla vähintään 1"
+      },
+      "width": {
+        "message": "Anna leveys",
+        "error": "Leveyden on oltava numero.",
+        "minError": "Leveyden tulee olla vähintään 1"
+      },
+      "height": {
+        "message": "Anna korkeus",
+        "error": "Korkeuden on oltava numero.",
+        "minError": "Korkeuden tulee olla vähintään 1"
+      },
+      "hazmatUnNumber": {
+        "label": "HAZMAT YK-numero"
+      },
+      "saidToContain": {
+        "label": "Sanotaan sisältävän"
+      },
+      "purchaseOrders": {
+        "label": "Tilaukset",
+        "message": "Ole hyvä ja syötä ostotilaukset!"
+      },
+      "salesOrders": {
+        "label": "Myyntitilaukset"
+      },
+      "lineItemNumber": {
+        "label": "Rivikohdan numero"
+      },
+      "htsCode": {
+        "label": "HTS koodi"
+      },
+      "nmfcNumber": {
+        "label": "NMFC-numero"
+      }
+    },
+    "rateShopDetails": {
+      "assignTransportationProvider": "Määritä kuljetuspalveluntarjoaja",
+      "preferredTransportationProvider": {
+        "label": "Ensisijainen kuljetuspalveluntarjoaja",
+        "placeholder": "Valitse Ensisijainen kuljetuspalvelu",
+        "message": "Valitse ensisijainen kuljetuspalvelu"
+      },
+      "warningModalFilter": "Tuotteen määrä, laskutettu määrä ja laskutettava paino eivät voi olla tyhjiä tai 0",
+      "standrardTransitDays": "Normaalit kauttakulkupäivät",
+      "rateEntry": "Arvioi merkintä",
+      "rateShopResults": "Arvioi Kaupan tulokset",
+      "tenderEmail": "Valitse vähintään yksi tarjouksen sähköposti jatkaaksesi.",
+      "adminEmail": "Admin Sähköpostiosoite",
+      "doNotSendTenderEmail": "Älä lähetä tarjoussähköpostia",
+      "doNotSendBillOfLading": "Älä lähetä konossementtia",
+      "tenderList": "Tarjousluettelo",
+      "shipperInformation": "Lähettäjän tiedot",
+      "shipperEmailAddress": "Lähettäjän sähköpostiosoite",
+      "sendEmailToShipper": "Lähetä sähköpostia lähettäjälle",
+      "assignTansportationProvider": "Ennen tarjousta, ole hyvä ja valitse kuljetuspalvelu",
+      "ratesCantBe": "Hinnat eivät voi olla vanhempia kuin",
+      "rateShipment": "päivää Tarjoukseen. ",
+      "failedRateShopResults": "Hintakaupan tulosten hakeminen epäonnistui.",
+      "filedTosaveRatingDetails": "Arviointitietojen tallentaminen epäonnistui.",
+      "selectTransportationProvider": "Valitse ensin kuljetuspalvelu",
+      "failedAssignTransportationProvider": "Kuljetuspalvelun tarjoajan määrittäminen epäonnistui.",
+      "warningModal": "Lähetys on jo tarjouskilpailutettu. ",
+      "tenderInformation": "Tarjoustiedot",
+      "rateShopSearch": "Arvostele Shop Search",
+      "rateShopDetails": "Hinta Kaupan tiedot",
+      "emptyRecords": {
+        "title": "Luokituksen tiedot eivät ole saatavilla tällä hetkellä. Yritä myöhemmin uudelleen."
+      },
+      "standardTransitDays": "Normaalit kuljetuspäivät",
+      "bidExpiryDate": "Tarjouksen viimeinen voimassaolopäivä",
+      "days": "päivää",
+      "convertedCost": "Muunnetut kustannukset",
+      "serviceDescription": {
+        "label": "palvelun kuvaus"
+      },
+      "equipmentTypeDetail": {
+        "label": "Laitetyypin tiedot"
+      },
+      "userSubmitted": {
+        "label": "Käyttäjä lähetetty"
+      },
+      "bidComment": {
+        "label": "Kommentti tarjous"
+      },
+      "spotQuoteNumber": {
+        "label": "Paikallinen lainausnumero"
+      }
+    },
+    "vendorDetails": {
+      "title": "Myyjän tiedot",
+      "addNewVendor": "Lisää uusi toimittaja",
+      "confirmationModal": {
+        "okText": "Ok",
+        "updateToDelivered": "Haluatko päivittää lähetyksen seurannan tilaksi Toimitettu?",
+        "deliveredConfirmation": "Toimitettu vahvistus",
+        "acknowledgedConfirmation": "Hyväksytty vahvistus",
+        "updateToShipmentAcknowledged": "Haluatko päivittää lähetyksen seurannan tilaksi Lähetys kuitattu?"
+      },
+      "updateToShipmentAcknowledged": {
+        "acknowledgedConfirmation": "Hyväksytty vahvistus",
+        "description": "Haluatko päivittää lähetyksen seurannan tilaksi Lähetys kuitattu?",
+        "okText": "Ok"
+      },
+      "alertModalDescription": {
+        "notStatus": "ei ole Tarjous- tai Automaattitarjoustilassa",
+        "unableToUpdateShipmentNew": "Lähetystä ei voida päivittää tilassa In-Transit tai Canceled to Hold. ",
+        "shipmentNoUpdatedNew": "Lähetystä ei voi päivittää uuteen, jos se on tilassa Auto-Tended, Tender, Confirmed, In-Transit. ",
+        "shipmentNoUpdatedPlanning": "Lähetystä ei voi päivittää Suunnitteluun, jos se on tilassa Auto-Tended, Tender, Confirmed, In-Transit. ",
+        "unableToUpdateShipmentAutoRoute": "Lähetystä ei voida päivittää automaattisen reitin tilaan, jos lähetyksen tila on \"Tarjous\", \"Automaattinen tarjous\", \"Kuljetusmatka\", \"Vahvistettu\", \"Suljettu\". ",
+        "unableToUpdateShipmentRateError": "Lähetystä ei voida päivittää arvoon Rate-Error, jos se ei ole tilassa Uusi, Spot Bid tai SpotBidEnd. ",
+        "shipmentStatusAutoTendered": "Lähetyksen on oltava tilassa Auto-Tendered, Tendered, Confirmed, Hold, In-Transit tai Suunniteltu peruutettavaksi. "
+      },
+      "statusMessage": "Status viesti",
+      "addingNewVendorIs": "Uuden toimittajan lisääminen on",
+      "modifyingVendorIs": "Myyjän muuttaminen on",
+      "deletingVendorIs": "Toimittajan poistaminen on"
+    },
+    "billingDetails": {
+      "vatNumber": {
+        "label": "ALV-numero",
+        "placeholder": "Anna ALV-numero"
+      }
+    },
+    "categoryDetails": {
+      "addNewCategory": "Lisää uusi luokka",
+      "subCategory": {
+        "label": "Alaluokka",
+        "placeholder": "Valitse alaluokka"
+      }
+    },
+    "accountingDetails": {
+      "showItem": "Näytä kohteet, joilla on arvo",
+      "startWith": "Aloita",
+      "isEqualto": "On yhtä suuri kuin",
+      "taxDetails": "Verotiedot",
+      "addNewTax": "Lisää uusi vero",
+      "addNewAccessorial": "Lisää uusia lisäkuluja",
+      "accessorialDetails": "Lisävarusteet",
+      "taxAmount": {
+        "label": "Vero määrä"
+      }
+    },
+    "documentDetails": {
+      "fileName": "Tiedoston nimi :",
+      "supportingDocument": {
+        "label": "Tukiasiakirjan viitenumero",
+        "placeholder": "Anna tukiasiakirjan viitenumero"
+      }
+    },
+    "spotBid": {
+      "selectDate": "Valitse päivämäärä",
+      "doNotSendEmail": "Älä lähetä sähköpostia",
+      "resetSpotBid": "Nollaa spot-hinta",
+      "routingSpotBidList": "Reititys Spot Bid List",
+      "addBidder": "Lisää tarjoaja",
+      "submitSpotBidTocarriers": "Yritä lähettää spot-tarjous liikenteenharjoittajille",
+      "expirationTime": {
+        "label": "Vanhenemisaika",
+        "message": "Valitse vanhenemisaika"
+      },
+      "dateHours": "Päivämäärä",
+      "submitSpotBid": "Lähetä spot-tarjous",
+      "distributors": "Jakelijat",
+      "shipmentForSpotBid": "Toimituksesi on lähetetty Spot Bid -palveluun",
+      "endSpotBid": "Lopeta spot-tarjous"
+    }
+  },
+  "getQuote": {
+    "notesHere": "Huomautuksia tästä",
+    "characters": "2000 merkkiä jäljellä",
+    "triggerNotification": "Pysähdyksissä tulee olla vähintään yksi Origin!",
+    "destionationTriggerNotification": "Pysähdyksissä tulee olla vähintään yksi kohde!",
+    "productTriggerNotification": "Ole hyvä ja lisää vähintään yksi tuote.",
+    "emptyRecords": {
+      "title": "Luokituksen tiedot eivät ole tällä hetkellä saatavilla.",
+      "desc": "Yritä uudelleen myöhemmin!"
+    },
+    "titles": {
+      "getQuote": "Pyydä tarjous",
+      "quoteDetails": "Lainauksen tiedot",
+      "transportationDetails": "Kuljetustiedot",
+      "quoteNotes": "Lainausmuistiinpanot",
+      "additionalServices": "Lisäpalvelut",
+      "rateShopResults": "RateShopin tulokset"
+    },
+    "quoteDetails": {
+      "projectNo": {
+        "label": "Projekti nro",
+        "placeholder": "Anna projektinro."
+      },
+      "quoteCost": {
+        "label": "Tarjouksen hinta"
+      },
+      "quoteTransportationProvider": {
+        "label": "Lainaus kuljetuspalveluntarjoajalta"
+      },
+      "createdBy": {
+        "label": "Luonut"
+      }
+    },
+    "transportationDetails": {
+      "delivery": "Toimitus",
+      "totalDistanceMiles": "Kokonaisetäisyys (mailia)",
+      "totalDistanceKm": "Kokonaismatka (KM)",
+      "buttons": {
+        "addStop": "Lisää Stop",
+        "deleteStop": "Poista Stop"
+      },
+      "stopType": {
+        "label": "Pysäytystyyppi",
+        "message": "Valitse A Stop Type"
+      },
+      "stopNo": {
+        "label": "Pysähdys nro",
+        "message": "Anna pysäkin numero",
+        "error_integer": "Stop No:n tulee olla kokonaislukuna!",
+        "error_max": "Suurin sallittu pysähdysnumero 1 -"
+      }
+    },
+    "productDetails": {
+      "productInformation": "Tuotetiedot",
+      "itemNo": "Tuote nro",
+      "numberOfPackages": {
+        "label": "Pakettien määrä",
+        "message": "Anna Pakettien määrä"
+      },
+      "chargeableWeight": {
+        "label": "Ladattava paino",
+        "message": "Anna tuotteen paino"
+      },
+      "unit": {
+        "label": "Yksikkö"
+      }
+    },
+    "transportationProviderSearch": {
+      "shipmentType": {
+        "label": "lähetystyyppi"
+      },
+      "rateDetails": {
+        "title": "Luokituksen tiedot eivät ole tällä hetkellä saatavilla.",
+        "description_one": "Yritä uudelleen myöhemmin!"
+      }
+    },
+    "rateShopDetails": {
+      "convertedCost": "Muunnetut kustannukset",
+      "convertedCurrencyCode": "Muunnettu valuuttakoodi",
+      "standardTransitDays": "Normaalit kuljetuspäivät"
+    },
+    "additionalDetails": {
+      "addNewAccessorialCharges": "Lisää uusia lisäkuluja",
+      "error": "Valitse lisävaruste",
+      "accessorialName": {
+        "label": "Lisävarustenimi"
+      }
+    }
+  },
+  "notificationSettings": {
+    "title": "Ilmoitusasetukset",
+    "distributorContainer": {
+      "title": "Jakelun tiedot",
+      "button": "Lisää uusi tietue",
+      "recordNo": "Tietueen nro:",
+      "distributionName": {
+        "label": "Jakelun nimi",
+        "message": "Anna jakelun nimi"
+      }
+    },
+    "routingContainer": {
+      "title": "Ilmoitusreitityksen tiedot",
+      "addNewNotificationRouting": "Lisää uusi ilmoitusreititys",
+      "customerName": "Asiakkaan nimi :",
+      "selected": "Valittu",
+      "emailList": {
+        "label": "Sähköpostilista",
+        "message": "Sähköpostit voidaan luetella pilkuilla erotettuina."
+      },
+      "distributionName": {
+        "label": "Jakelun nimi",
+        "message": "Valitse jakelunimi"
+      },
+      "chargeableWeight": {
+        "label": "Ladattava paino",
+        "placeholder": "Anna ladattava paino"
+      }
+    }
+  },
+  "rateShop": {
+    "tabs": {
+      "rateShopResults": "Arvioi Kaupan tulokset"
+    },
+    "buttons": {
+      "viewRateShopResults": "Näytä hintakaupan tulokset",
+      "stops": "Pysähtyy"
+    },
+    "rateShop": {
+      "general": "Kenraali",
+      "optional": "Valinnainen",
+      "laneDetails": "Kaistan tiedot",
+      "addLane": "Lisää kaista",
+      "deleteLane": "Poista Lane",
+      "actualCarrierRateShopping": "(Todellinen operaattori) Rate Shopping",
+      "stopsDetails": "Pysähdystiedot",
+      "Add Stop": "Lisää Stop",
+      "deleteStop": "Poista Stop",
+      "itemDetails": "Tuotteen tiedot",
+      "addItem": "Lisää tavara",
+      "deleteItem": "Poista kohde",
+      "addStop": "Lisää Stop",
+      "legDistance": "Jalkojen etäisyys",
+      "tripDistance": "Matkan pituus",
+      "totalPieces": "Yhteensä kappaletta",
+      "totalPiecesEqual": "pysähdyksissä on oltava yhtä suuria kappaleita yhteensä",
+      "inDetails": "yksityiskohdissa",
+      "port": "Portti",
+      "location": "Sijainti",
+      "pieces": {
+        "label": "Kappaleita",
+        "message": "Anna kappaleet"
+      },
+      "numberOfPieces": {
+        "label": "Palojen lukumäärä",
+        "message": "Kappaleiden määrällä ei voi olla negatiivisia arvoja"
+      },
+      "currencyCode": {
+        "message": "Valitse valuutta"
+      },
+      "pricingType": {
+        "message": "Valitse hinnoittelutyyppi"
+      },
+      "pricingBasis": {
+        "message": "Valitse hinnoitteluperuste"
+      },
+      "rateSelection": {
+        "label": "Rate Valinta",
+        "message": "Valitse hintavalinta"
+      },
+      "measurementUit": {
+        "label": "Measurement Unite",
+        "message": "Valitse mittayksikkö"
+      },
+      "shipmentDate": {
+        "message": "Valitse lähetyspäivä"
+      },
+      "account": {
+        "label": "Tili",
+        "placeholder": "Anna tili"
+      },
+      "declaredValue": {
+        "label": "Ilmoitettu arvo"
+      },
+      "codValue": {
+        "label": "COD-arvo"
+      },
+      "ldmValue": {
+        "label": "LDM-arvo"
+      },
+      "length": {
+        "errorLength": "Pituudella ei voi olla negatiivisia arvoja"
+      },
+      "width": {
+        "errorLength": "Leveydellä ei voi olla negatiivisia arvoja"
+      },
+      "weight": {
+        "message": "Anna painot",
+        "errorWeight": "Painolla ei voi olla negatiivisia arvoja",
+        "errorZero": "Painon tulee olla suurempi kuin nolla"
+      },
+      "height": {
+        "errorNegative": "Korkeudella ei voi olla negatiivisia arvoja"
+      },
+      "billedQuantity": {
+        "label": "Laskutettu määrä",
+        "errorNegative": "Laskutetulla määrällä ei voi olla negatiivisia arvoja"
+      },
+      "ratingClass": {
+        "label": "Luokitusluokka",
+        "message": "Valitse luokitusluokka"
+      }
+    },
+    "rateShopResult": {
+      "shippingDate": "Lähetyspäivä",
+      "measurementType": "Mittaustyyppi",
+      "imperial": "Keisarillinen",
+      "metric": "Metrinen",
+      "emptyRecords": "Luokituksen tiedot eivät ole saatavilla tällä hetkellä. Yritä myöhemmin uudelleen.",
+      "noRatesFound": "Hintoja ei löytynyt!",
+      "code": "Koodi",
+      "calculationType": "Laskentatyyppi",
+      "effectiveFrom": "Voimassa alkaen",
+      "charge": "Lataa",
+      "accessorialDiscount": "Lisävaruste alennus",
+      "fuel": "Polttoaine",
+      "note": "Huomautus",
+      "accessorialBasis": "Lisävarusteet",
+      "effectiveTo": "Tehokasta",
+      "deficitWeight": "Alijäämäpaino",
+      "deficitRate": "Alijäämäaste",
+      "itemsTotalCharge": "Kohteet Kokonaismaksu",
+      "deficitCharge": "Alijäämämaksu",
+      "grossCharge": "Bruttomaksu",
+      "totalDiscount": "Yhteensä alennus",
+      "baseCharge": "Perusmaksu",
+      "itemNo": "Tuote nro",
+      "piece": "Pala",
+      "absMin": "ABS min",
+      "rateCostPer": "Hinta/kustannus per",
+      "discount": "Alennus",
+      "uom": "UOM",
+      "actualClass": "Todellinen luokka",
+      "absMax": "ABS Max",
+      "amount": "Määrä",
+      "totalTaxCharge": "Kokonaisveromaksu",
+      "taxBasis": "Veroperuste",
+      "discountAmount": "Alennuksen määrä",
+      "discountPercentage": "Alennusprosentti",
+      "mileage": "Kilometrimäärä (mailia)",
+      "totalAcc": "Yhteensä Acc",
+      "totalTax": "Yhteensä vero",
+      "totalCost": "Kokonaiskustannukset",
+      "bureauMC": "Bureau MC",
+      "directPoint": "Suora piste",
+      "totalShipmentCost": "Lähetyskulut yhteensä",
+      "service": "Palvelu",
+      "equipment": "Laitteet",
+      "distance": "Etäisyys (mailia/km)",
+      "miles": "Mailia",
+      "kms": "Kms",
+      "tariffName": "Tariffin nimi",
+      "pricingEffectiveDate": "Hinnoittelun voimaantulopäivä",
+      "to": "to",
+      "tariffEffectiveDate": "Tariffin voimaantulopäivä",
+      "pricingKey": "Hinnoitteluavain",
+      "tariffKey": "Tariffiavain",
+      "liner": "Liner",
+      "laneCode": "Kaistakoodi",
+      "laneAlias": "Lane Alias",
+      "rateShopResult": "Arvioi Kaupan tulos",
+      "accessorials": "Lisävarusteet",
+      "taxes": "Verot"
+    },
+    "globalRateShope": "Global Rate Shop",
+    "taxDetails": "Verotiedot",
+    "totalAccessorialCharge": "Lisävarustemaksu yhteensä",
+    "addNew": "Ei pysähdyksiä, yritä lisätä uutta!",
+    "stop": "Lopettaa"
+  },
+  "procurement": {
+    "createProject": "Luo projekti",
+    "createTender": "Luo tarjous",
+    "download": "ladata",
+    "projectName": {
+      "label": "projektin nimi",
+      "placeholder": "projektin nimi"
+    },
+    "tenderName": {
+      "label": "Tarjouksen nimi",
+      "placeholder": "Tarjouksen nimi"
+    },
+    "subMenu": {
+      "project": "Projekti",
+      "tender": "Tarjous",
+      "bidAnalysis": "Hintatarjousanalyysi",
+      "routeConfiguration": "Reitin määritys"
+    },
+    "routeConfigurationTabs": {
+      "location": "Sijainti",
+      "lane": "kaista",
+      "zone": "Alue"
+    },
+    "filters": {
+      "projectSearch": "Projektihaku",
+      "tenderSearch": "Tarjoushaku",
+      "searchCriteria": "Hakukriteerit",
+      "tender": "Tarjous",
+      "admin": "Admin",
+      "generalDetails": "Yleiset tiedot",
+      "rank": "Sijoitus",
+      "summarizeCritria": "Yhteenveto kriteerit",
+      "includeHistorical": "Sisällytä historiallinen",
+      "laneSearch": "Kaistan haku",
+      "zoneSearch": "Aluehaku"
+    },
+    "projectTabs": {
+      "projectDetails": "Projektin tiedot",
+      "tenderDetails": "Tarjouksen tiedot"
+    },
+    "tenderTabs": {
+      "tenderInformation": "Tarjoustiedot",
+      "documentation": "Dokumentointi",
+      "laneInformation": "Kaistatiedot",
+      "bidParameters": "Tarjousparametrit"
+    },
+    "fields": {
+      "service": "Palvelu",
+      "addDestination": "Lisää kohde",
+      "destinationDetails": "Kohteen tiedot",
+      "region": "Alue",
+      "addOrigin": "Lisää alkuperä",
+      "originDetails": "Alkuperätiedot",
+      "destinationStucuture": "Kohderakenne (osio)",
+      "originStucuture": "Alkuperärakenne (pää)",
+      "bidTransportationProvider": "BID Kuljetuspalveluntarjoaja",
+      "baseBIDPrice": "BID-perushinta",
+      "bidRankBidTransportationProvider": "BID Sijoitus BID Kuljetuspalveluntarjoaja",
+      "currentBIDPrice": "Nykyinen BID-hinta",
+      "bidRankBaseTransportationProvider": "BID Rank Base Kuljetuspalveluntarjoaja",
+      "lanesNotCovered": "Kaistoja Ei katettu",
+      "lanesCovered": "Kaistat peitetty",
+      "numberOfLanes": "Kaistojen määrä",
+      "currentBIDTransportationProvider": "Nykyinen BID-kuljetuspalveluntarjoaja",
+      "baseTransportationProvider": "Peruskuljetusten tarjoaja",
+      "parameterType": {
+        "label": "Parametrin tyyppi"
+      },
+      "projectStatus": {
+        "label": "Projektin tila",
+        "placeholder": "Valitse Projektin tila",
+        "message": "Valitse projektin tila",
+        "true": "Aktiivinen",
+        "false": "Epäaktiivinen"
+      },
+      "tenderStatus": {
+        "label": "Tarjouksen tila:",
+        "true": "Aktiivinen",
+        "false": "Epäaktiivinen"
+      },
+      "projectApproved": {
+        "label": "Projektin hyväksymistila",
+        "message": "Valitse projektin hyväksymistila"
+      },
+      "projectApprovedBy": {
+        "label": "Hankkeen hyväksyjä"
+      },
+      "projectLead": {
+        "label": "Projektin johtaja",
+        "message": "Valitse projektipäällikkö"
+      },
+      "tecSupport": {
+        "label": "Tekninen tuki",
+        "message": "Valitse tekninen tuki"
+      },
+      "tecLead": {
+        "label": "Tekninen johtaja",
+        "message": "Valitse tekninen tuki"
+      },
+      "projectSupport": {
+        "label": "Projektin tuki",
+        "message": "Valitse projektituki"
+      },
+      "groupBy": {
+        "label": "Ryhmäperuste"
+      },
+      "formulaName": {
+        "label": "Kaavan nimi",
+        "placeholder": "Kokonaiskustannukset"
+      },
+      "parameters": {
+        "label": "Parametrit",
+        "placeholder": "Anna parametrit"
+      },
+      "formula": {
+        "label": "Kaava",
+        "placeholder": "Lähetyksen peruskustannukset"
+      },
+      "summarizeCritria": {
+        "label": "Yhteenveto Critriasta"
+      },
+      "actualName": {
+        "label": "Projektin todellinen nimi"
+      },
+      "description": {
+        "placeholderDesc": "Tarjouksen kuvaus",
+        "message": "Lisää kuvaus"
+      },
+      "modeOfTender": {
+        "label": "Tarjoustapa"
+      },
+      "tecSupServicePort": {
+        "label": "Tekninen tukipalvelukategorian portti"
+      },
+      "reference": {
+        "label1": "Viite 1",
+        "label2": "Viite 2",
+        "placeholder": "Viite"
+      },
+      "transportationMode": {
+        "label": "Kuljetusmuoto"
+      },
+      "prameterDisplayName": {
+        "label": "Prametrin näyttönimi:"
+      },
+      "locationName": {
+        "title": "Paikannimi",
+        "label": "Paikannimi:",
+        "placeholder": "Anna sijainnin nimi"
+      },
+      "originType": {
+        "label": "Alkuperätyyppi",
+        "placeholder": "Valitse Origin Type"
+      },
+      "originName": {
+        "label": "Alkuperän nimi",
+        "placeholder": "Anna alkuperänimi"
+      },
+      "destinationType": {
+        "label": "Kohteen tyyppi",
+        "placeholder": "Valitse määränpään tyyppi"
+      },
+      "destinationName": {
+        "label": "Kohteen nimi",
+        "placeholder": "Syötä kohteen nimi"
+      },
+      "zoneName": {
+        "label": "Alueen nimi",
+        "placeholder": "Alueen nimi"
+      },
+      "date": {
+        "startDate": "Aloituspäivämäärä",
+        "endDate": "Päättymispäivä",
+        "projectStartDate": "Projektin aloituspäivä",
+        "projectEndDate": "Projektin päättymispäivä",
+        "tenderStartDate": "Tarjouksen alkamispäivä",
+        "tenderEndDate": "Tarjouksen päättymispäivä",
+        "startDateTime": "Aloituspäivämäärä ja -aika",
+        "placeholder": "Valitse Päivämäärä",
+        "endDateAndTime": "Päättymispäivämäärä ja -aika"
+      }
+    },
+    "projectCard": {
+      "details": "Projektin tiedot",
+      "information": "Hankkeen tiedot",
+      "projectDescription": "Hankkeen kuvaus",
+      "projectStartDate": "Projektin aloituspäivä",
+      "projectEndDate": "Projektin päättymispäivä",
+      "mileStones": "Mile Stones",
+      "startDate": "Aloituspäivämäärä",
+      "endDate": "Päättymispäivä",
+      "actualName": "Projektin todellinen nimi",
+      "preparationFiles": "Valmistelutiedostot",
+      "bidCollectionPhase": "Tarjousten keruuvaihe",
+      "selectionPhase": "Valintavaihe",
+      "currentRound": "Nykyinen kierros:",
+      "modeOfTender": "Tarjoustapa",
+      "transportationMode": "Kuljetusmuoto",
+      "serviceCategory": "Palveluluokka",
+      "notificationSuccess": "Projektin luominen onnistui",
+      "notificationError": "Luo projektivirhe"
+    },
+    "tenderCard": {
+      "trackingStatus": "Seurannan tila",
+      "modeOfTender": "Tarjoustapa",
+      "tenderStartDate": "Tarjouksen alkamispäivä",
+      "laneCovered": "Kaista katettu",
+      "tenderEndDate": "Tarjouksen päättymispäivä",
+      "currentRound": "Nykyinen kierros",
+      "bidCollectionStartDateTime": "Tarjousten keräämisen alkamispäivä ja -aika",
+      "bidCollectionEndDateTime": "Tarjousten keräämisen päättymispäivä ja -aika",
+      "laneName": "Kaistan nimi:",
+      "dellasLocation": "Dellas Sijainti",
+      "prameterDisplayName": "Prametrin näyttönimi:",
+      "prameterType": "Prametrin tyyppi",
+      "required": "Pakollinen/Ei vaadittu",
+      "parameterDataType": "Parametrin tietotyyppi",
+      "value": "Arvo",
+      "repeated": "Toistettu",
+      "historicalOnly": "Vain historiallinen",
+      "rflStatus": "RFL-tila",
+      "rfqStatus": "RFQ-tila",
+      "rfiRequestDate": "RFI-pyynnön päivämäärä",
+      "rfqRequestDate": "RFQ-pyynnön päivämäärä",
+      "rfiRespondDate": "RFI-vastauspäivämäärä",
+      "rfqRespondDate": "Tarjouspyyntöjen vastauspäivä"
+    },
+    "modalTransportationProvider": {
+      "title": "Etsi/lisää kuljetuspalveluntarjoaja",
+      "shortName": "Lyhyt nimi",
+      "countryCallingCode": "Maanumero",
+      "number": "Määrä",
+      "ext": "Alanumero",
+      "fax": "Faksi",
+      "modeType": "Tilan tyyppi"
+    },
+    "bigAnalysisCard": {
+      "rankAndCost": "Sijoitus ja kustannukset",
+      "laneCoverage": "Kaistan peitto",
+      "details": "Yksityiskohdat",
+      "laneCoverageAnalysis": "Kaistan peittoanalyysi",
+      "combinationAnalysis": "Yhdistelmäanalyysi",
+      "bidRank": "BID-sijoitus",
+      "winningLanes": "Voittokaistat",
+      "chart": "Kartoittaa",
+      "bidLane": "BID Lane",
+      "totalLanes": "Kaistoja yhteensä",
+      "percentageCoverage": "Kattavuusprosentti",
+      "includeHistorical": "Sisällytä historiallinen",
+      "orgin": "Alkuperä",
+      "shipment": "Lähetys",
+      "bidedUnitPrice": "Tarjottu yksikköhinta",
+      "baseCost": "Peruskustannukset",
+      "rank": "Sijoitus",
+      "savingPercentage": "Säästöprosentti",
+      "liftGate": "Nostoportti",
+      "savingAmount": "Säästösumma",
+      "trackingStatus": "Seurannan tila",
+      "trackingStatusType": "Seurantatilan tyyppi",
+      "shipperShipDate": "Lähettäjän pyytämä lähetyspäivä"
+    },
+    "routeConfigurationCard": {
+      "lane": "kaista",
+      "zoneName": "Alueen nimi"
+    },
+    "footer": {
+      "totalActive": "Aktiivinen projekti yhteensä",
+      "totalApproved": "Yhteensä hyväksytty projekti",
+      "total": "Koko projekti",
+      "totalShipments": "Lähetykset yhteensä",
+      "openShipments": "Avaa Toimitukset",
+      "closedShipments": "Suljetut lähetykset",
+      "exceptions": "Poikkeukset"
+    }
+  },
+  "purchase-order-view": {
+    "shipmentLandingList": "Lähetysten laskeutumisluettelo",
+    "filterTitle": "Ostotilaushaku",
+    "pageTitle": "Ostotilaustiedot",
+    "draftOrderSearch": "Luonnostilaushaku",
+    "shipmentSearch": "Lähetyshaku",
+    "vendorAddressSearch": "Toimittajan osoitehaku",
+    "regularOrders": "Säännölliset tilaukset",
+    "releaseOrders": "Vapauta tilaukset",
+    "originDetails": "Alkuperätiedot",
+    "shipperDetails": "Lähettäjän tiedot",
+    "destinationDetails": "Kohteen tiedot",
+    "consigneeDetails": "Vastaanottajan tiedot",
+    "wareHouseContactDetails": "Varaston yhteystiedot",
+    "wareHouseDetails": "Varaston tiedot",
+    "suzhouDousonDrillingProdu": "Suzhou Dousonin poraus",
+    "contactPerson": "Yhteyshenkilö",
+    "telephoneNo": "Puhelinnumero.",
+    "extension": "Laajennus",
+    "otherDetails": "Muut yksityiskohdat",
+    "htsCode": "HTS koodi",
+    "sureToReset": "Nollataanko varmasti?",
+    "quanityLeft": "Määrä jäljellä",
+    "quantityShippeError": "arvon on oltava pienempi kuin jäljellä oleva määrä!",
+    "originDestinationDetails": "Alkuperä- ja kohdetiedot",
+    "warehouseContactInfoDetails": "Varaston yhteystiedot ja lisätiedot",
+    "appointmentIsRequired": "Ajanvaraus vaaditaan",
+    "warehouseContactMsg": "Anna varaston yhteyshenkilö",
+    "shipperAddressMsg": "Anna lähettäjän osoite",
+    "warehouseTelephoneMsg": "Anna varastopuhelinnumero",
+    "emailMsg": "Anna sähköpostiosoite",
+    "checkboxMsg": "Valitsemalla tämän valintaruudun saat valitut vastaanottajan zip-sijaintitulokset",
+    "NoOfItems": "Kohteiden määrä",
+    "itemShipDate": "Tuotteen toimituspäivämäärä",
+    "addPackageID": "Lisää paketin tunnus",
+    "newShipDateError": "Uusi toimituspäivä ei voi olla yli vuosi.",
+    "newShipPastDateError": "Uusi toimituspäivä ei voi olla mennyt.",
+    "totalNoOfProducts": "Tuotteiden kokonaismäärä",
+    "releaseQuantity": "Julkaisun määrä",
+    "createShipment": "Luo lähetys",
+    "updateShipment": "Päivitä lähetys",
+    "locationDetails": "Sijaintitiedot",
+    "locationCity": "Sijainti Kaupunki",
+    "warehouseDetails": "Varaston tiedot",
+    "enterQuantityLeft": "Anna jäljellä oleva määrä",
+    "action": "Toiminta",
+    "sureToDelete": "Haluatko varmasti poistaa?",
+    "copyLastPackageId": "Kopioi viimeinen paketin tunnus",
+    "resetPurchaseOrder": "Nollaa ostotilaus",
+    "percentageLeftItems": "Prosenttiosuus jäljellä (kohteita jäljellä)",
+    "orderStatus": "Tilauksen tila",
+    "topVendors": "Huipputoimittajat",
+    "topCustomers": "Huippuasiakkaat",
+    "shipmentsStatus": "Lähetysten tila",
+    "topLocationsOrderWise": "Parhaat paikat (järjestää viisaasti)",
+    "topProducts": "Huipputuotteet",
+    "shipmentInformation": "Lähetystiedot",
+    "shipperStateProvience": "Lähettäjävaltio/province",
+    "consigneeStateProvience": "Vastaanottajavaltio/maakunta",
+    "totalOrders": "Tilaukset yhteensä",
+    "openOrders": "Avaa tilaukset",
+    "dueinNext7Days": "Eräpäivä seuraavan 7 päivän sisällä",
+    "delayedOrders": "Myöhästyneet tilaukset",
+    "closedOrders": "Suljetut tilaukset",
+    "lastCreatedShipmentNumber": "Viimeksi luotu lähetysnumero",
+    "vendorsInformation": "Myyjien tiedot",
+    "date": "Päivämäärä",
+    "addNewRecord": "Lisää uusi tietue",
+    "confirmPurchaseOrder": "VAHVISTA OSTOTILAUS",
+    "resetReleaseOrder": "NOLLAA JULKAISUTILAUS",
+    "purchaseItemInformation": "Ostotuotteen tiedot",
+    "vendorAddressSearchExport": "Toimittajan osoitehaun vienti",
+    "purchaseOrderExport": "Ostotilausten vienti",
+    "addNewPackageId": "Lisää uusi pakettitunnus",
+    "applyCountryButton": "Käytä alkuperämaata kaikilla riveillä",
+    "shipmentEntry": "Lähetyksen sisääntulo",
+    "shipmentItemDetails": "Lähetyskohteen tiedot",
+    "shipmentSummary": "Lähetyksen yhteenveto",
+    "totalMiles": "Mailit yhteensä",
+    "chargableWeight": "Ladattava paino",
+    "shipmentCreatedDate": "Lähetyksen luomispäivämäärä",
+    "shipmentNumbers": "Lähetysnumerot",
+    "draftOrderSearchExport": "Luonnostilaushaun vienti",
+    "shipmentCreateDate": "Lähetyksen luomispäivämäärä",
+    "shipmentSearchExport": "Lähetyshaun vienti",
+    "chargeableWeight": "Ladattava paino",
+    "createFinalShipment": "Luo lopullinen lähetys",
+    "unSelectAll": "Poista valinta kaikista",
+    "shipmentSearchInformation": "Lähetyshakutiedot",
+    "draftOrderSearchInformation": "Tilausluonnoksen hakutiedot",
+    "pleaseEnterLocationAddress": "Anna Sijainnin osoite",
+    "pleaseSelectCountry": "Valitse maa.",
+    "pleaseChooseState": "Valitse osavaltio",
+    "pleaseEnterLocationName": "Anna Sijainnin nimi",
+    "warehouseEmailAddress": "Varaston sähköpostiosoite",
+    "kindlyFillAllRequiredFields": "Täytä ystävällisesti kaikki vaaditut kentät",
+    "approver": "Hyväksyjä",
+    "pleaseEnterTheAir": "Anna lentolähetyksen hyväksyjä",
+    "shipmentConfirmationNumber": "Lähetyksen vahvistusnumero",
+    "kindlyEnterConfirmationNumber": "Anna ystävällisesti vahvistusnumero",
+    "createShipmentExport": "LUO LÄHETYKSEN VIENTI",
+    "noRoutingDataAvailable": "Reititystietoja ei ole saatavilla",
+    "clickToContinueShipment": "Napsauta jatkaaksesi toimitusta",
+    "failedToGenerate": "Pakkausluettelotiedoston luominen epäonnistui.",
+    "pleaseChooseTheCustomer": "Ole hyvä ja valitse asiakas",
+    "addingPO": {
+      "description": "Tilauksen lisääminen sallittu vain lähetysluonnokselle",
+      "title": "Varoitus",
+      "okText": "Ok"
+    },
+    "confirmationModal": {
+      "description": "Ostotilauksella on oltava sama maa ja postinumero, jotta se voidaan yhdistää samaan lähetykseen.",
+      "okText": "Ok"
+    },
+    "error": {
+      "emtyDate": "Anna päivämäärä",
+      "shipdateYear": "Odotettu toimituspäivä ei voi olla vuotta pidempi.",
+      "shipmentPastDate": "Et voi luoda lähetystä menneen päivämäärän mukaan. ",
+      "shippedQuantity": "Lähetettävän määrän tulee olla pienempi kuin jäljellä",
+      "similarConsigneelocationOrders": "Haemme vastaavia vastaanottajan sijaintitilauksia!"
+    },
+    "fields": {
+      "purchasePartNumber": {
+        "label": "Osta osanumero"
+      },
+      "purchasePartDescription": {
+        "label": "Osta osan kuvaus"
+      },
+      "date": {
+        "createdDate": "Luomispäivämäärä",
+        "placeholder": "Valitse Päivämäärä",
+        "messageFromCreateOnDate": "Valitse Luo alkaen päivämäärästä",
+        "messageToCreateOnDate": "Valitse Luo tähän päivään mennessä",
+        "messageFromShipnDate": "Valitse lähetyspäivämäärästä",
+        "messageToShipDate": "Valitse lähetyspäivä"
+      },
+      "length": {
+        "message": "Anna pituus"
+      },
+      "width": {
+        "message": "Anna leveys"
+      },
+      "height": {
+        "message": "Anna korkeus"
+      },
+      "houseBillofLadingNumber": {
+        "label": "Talon laskutusnumero"
+      },
+      "packageWeigh": {
+        "label": "Paketin punnitus",
+        "message": "Anna pakkauksen paino"
+      },
+      "weightUnitOfMeasure": {
+        "label": "Painon mittayksikkö"
+      },
+      "packagedId": {
+        "placeholder": "Anna paketin tunnus",
+        "message": "Anna paketin tunnus"
+      },
+      "quantityShipped": {
+        "placeholder": "Anna lähetetty määrä",
+        "error": "Arvon on oltava pienempi kuin jäljellä oleva määrä",
+        "errorOr": "arvon on oltava pienempi tai yhtä suuri kuin jäljellä oleva määrä!",
+        "message": "Anna lähetetty määrä"
+      },
+      "locationName": {
+        "label": "Paikannimi"
+      },
+      "locationAddress": {
+        "label": "Sijainti Osoite"
+      },
+      "locationCountry": {
+        "label": "Sijainti Maa"
+      },
+      "locationPostalCode": {
+        "label": "Sijainti postinumero"
+      },
+      "locationStateProvince": {
+        "label": "Sijainti Osavaltio/provinssi"
+      },
+      "countryOfOrigin": {
+        "placeholder": "Valitse alkuperämaa",
+        "message": "Valitse alkuperämaa"
+      },
+      "class": {
+        "label": "Luokka"
+      },
+      "containerNumber": {
+        "label": "Säiliön numero",
+        "placeholder": "Syötä säilön numero"
+      },
+      "locationCity": {
+        "label": "Sijainti Kaupunki"
+      }
+    }
+  },
+  "tms-settings": {
+    "title": "TMS-asetukset",
+    "companySettings": "Yrityksen asetukset",
+    "shipmentSettings": "Lähetysasetukset",
+    "auctionSettings": "Huutokauppa-asetukset",
+    "povSettings": "POV-asetukset",
+    "generalSettings": "Yleiset asetukset",
+    "defaultShipmentPageValues": "Toimitussivun oletusarvot",
+    "shipmentApprovalProcess": "Lähetyksen hyväksymisprosessi",
+    "emailDistribution": "Sähköpostin jakelu",
+    "additionalSettings": "Lisäasetukset",
+    "autoRouteProcess": "Automaattinen reittiprosessi",
+    "shipmentEntryPageSettings": "Lähetyksen syöttösivun asetukset",
+    "fields": {
+      "purchaseOrderNumber": {
+        "placeholder": "Syötä ostotilausnumero"
+      },
+      "emailMessage": "Anna kelvollinen sähköpostimuoto.",
+      "statusInTMS": {
+        "label": "Tila TMS:ssä",
+        "placeholder": "Valitse tila",
+        "message": "Tila TMS:ssä vaaditaan.",
+        "optionActive": "Aktiivinen",
+        "optionInActive": "Epäaktiivinen",
+        "tooltip": "Aktiivinen, jos asiakas on TMS:ssä, muuten Ei-aktiivinen."
+      },
+      "brokerageCustomer": {
+        "label": "Yrityksen tyyppi",
+        "message": "Yritystyyppi vaaditaan.",
+        "placeholder": "Valitse Yrityksen tyyppi",
+        "optionTMS": "TMS",
+        "optionBrokerage": "Välitys",
+        "tooltip": "Tämä asetus määrää, onko asiakas, jonka käyttäjä lisää, tavallinen TMS-asiakas vai välitysasiakas"
+      },
+      "shipmentNoCounter": {
+        "label": "Lähetysnumerolaskuri",
+        "message": "Anna lähetysnumerolaskuri",
+        "error": "Lähetysnumerolaskurissa on oltava 8 numeroa.",
+        "tooltip": "Numero, josta lähetysnumeroiden laskeminen alkaa, kun uusi lähetys luodaan"
+      },
+      "masterChildShipment": {
+        "label": "Master/Child -lähetys",
+        "placeholder": "Valitse Master/Child Shipment",
+        "tooltip": "Ottaa käyttöön Master/Child-lähetysprosessin asiakkaalle"
+      },
+      "pricingType": {
+        "optionCarrierRate": "Operaattorin hinta",
+        "tooltip": "Määrittää sen mukaan, minkä hinnoittelutyypin luokitus on tehtävä. "
+      },
+      "displayPaidBY": {
+        "label": "Näytä 'Paid BY'",
+        "placeholder": "Valitse Näytä \"Maksannut\"",
+        "tooltip": "Avaa Lähetyksen ylläpito -sivulla Maksaja-kentän"
+      },
+      "shipmentApprovalProcess": {
+        "label": "Lähetyksen hyväksymisprosessi",
+        "placeholder": "Valitse lähetyksen hyväksymisprosessi",
+        "tooltip": "Ottaa lähetyksen hyväksymisprosessin käyttöön asiakkaalle"
+      },
+      "validateCategoryDetails": {
+        "label": "Vahvista luokan tiedot",
+        "placeholder": "Valitse Vahvista luokan tiedot",
+        "tooltip": "Jos käyttäjän on täytettävä Luokka Lähetyksen huolto -sivulla, tämä asetus vahvistetaan, jos sitä ei anneta."
+      },
+      "calculateChargeableWeight": {
+        "label": "Laske ladattava paino",
+        "placeholder": "Valitse Laske laskutettava paino",
+        "tooltip": "Lähetyksen huolto -sivulla Tuotetiedot harmonikka, kun käyttäjä syöttää tuotteen tiedot, Laskutettava paino lasketaan automaattisesti, jos tämä asetus on päällä."
+      },
+      "routingGuideMatch": {
+        "label": "Reititysopas Match",
+        "placeholder": "Valitse Routing Guide Match",
+        "tooltip": "Jos asetukseksi on asetettu \"Kyllä\", lähetyksen luokitus tehdään Reittioppaan asetussivulla oleville kuljettajille."
+      },
+      "shipmentCategoryVisible": {
+        "label": "Lähetysluokka näkyvissä",
+        "placeholder": "Valitse lähetysluokka Näkyvä",
+        "tooltip": "Ottaa käyttöön luokkaosion näkyvyyden Lisää lähetys- ja Muokkaa lähetystä -näytöissä."
+      },
+      "shipmentBillToVisible": {
+        "label": "Lähetyslasku näkyville",
+        "placeholder": "Valitse Lähetyslasku näkyville",
+        "tooltip": "Ottaa käyttöön Laskutus-osion näkyvyyden Lisää lähetys- ja Muokkaa lähetystä -näytöissä."
+      },
+      "shipmentVendorVisible": {
+        "label": "Lähetystoimittaja näkyvissä",
+        "placeholder": "Valitse Lähetystoimittaja näkyvä",
+        "tooltip": "Ottaa käyttöön Toimittaja-osion näkyvyyden Lisää lähetys- ja Muokkaa lähetystä -näytöissä."
+      },
+      "branch": {
+        "tooltip": "Tämä määrittää toimituksen oletushaaran, jos haaraa ei voida määrittää"
+      },
+      "defaultSpotBidEndStatus": {
+        "label": "Spot-tarjouksen lopetustila",
+        "placeholder": "Valitse oletusarvoisen spot-tarjouksen lopetustila",
+        "tooltip": "Kun lähetyksen Spot Bid -aika umpeutuu, lähetyksen tila voidaan muuttaa takaisin New- tai SpotBIdEnd-tilaan tai pysyä Spot Bid -tilassa."
+      },
+      "displayPOSOShipmentLevel": {
+        "label": "Näytä PO/SO Lähetystaso",
+        "placeholder": "Valitse Näytä PO/SO Lähetystaso",
+        "tooltip": "Jos asetukseksi on asetettu 'Kyllä', Lähetyksen huolto -sivulla näkyy 2 kenttää 'Ostotilaus' ja 'Myyntitilaus'. "
+      },
+      "shipmentTypes": {
+        "label": "Lähetystyypit",
+        "tooltip": "Tämä asetus määrittää oletuslähetystyypin lähetyksille, jotka on luotu POV:sta ja manuaalisesti.",
+        "option_i": "Saapuva",
+        "option_c": "Yritysten välinen",
+        "option_o": "Lähtevä",
+        "option_t": "Kolmas osapuoli"
+      },
+      "displayRatingDetailsAccordion": {
+        "label": "Näytä Luokituksen tiedot Harmonikka",
+        "placeholder": "Valitse Näytä Rating Details Harmonikka",
+        "tooltip": "Näytä Luokituksen tiedot Harmonikka"
+      },
+      "hazmat": {
+        "label": "Hazmat",
+        "placeholder": "Valitse Hazmat",
+        "tooltip": "Toimitussivun Tuotetiedot-kohdassa Hazmat on oletusarvoisesti Kyllä tai Ei"
+      },
+      "ratingPreference": {
+        "label": "Luokitusasetus",
+        "placeholder": "Valitse luokitusasetus",
+        "tooltip": "Oletusarvoinen luokitusasetus lähetyksen ylläpitosivulla",
+        "option_a": "Kaikki liikenteenharjoittajat",
+        "option_l": "Vähiten kustannukset",
+        "option_r": "Edellytetään"
+      },
+      "length": {
+        "tooltip": "Asettaa oletuspituuden Tuotetiedot harmonikka"
+      },
+      "width": {
+        "tooltip": "Asettaa tuotetietojen oletusleveyden haitariin"
+      },
+      "height": {
+        "tooltip": "Asettaa oletuskorkeuden tuotetietoihin harmonikka"
+      },
+      "defaultInternalNotes": {
+        "label": "Sisäiset oletushuomautukset",
+        "placeholder": "Sisäiset oletushuomautukset..."
+      },
+      "shipmentApprovalCount": {
+        "label": "Lähetyksen hyväksymismäärä",
+        "tooltip": "Tämä asetus määrää hyväksymisprosessiin vaadittavien hyväksyjien enimmäismäärän"
+      },
+      "requireApprovalNumber": {
+        "label": "Vaadi hyväksyntänumero",
+        "placeholder": "Valitse Vaadi hyväksyntänumero",
+        "tooltip": "Jos tämä asetus on käytössä, hyväksyntänumero luodaan lähetyksen luomisen yhteydessä. "
+      },
+      "adminEmail": {
+        "label": "Admin Sähköpostiosoite",
+        "messageRequired": "Anna järjestelmänvalvojan sähköpostiosoite",
+        "tooltip": "Tämä määrittää sähköpostiosoitteen, johon kaikki automaattisesti luodut sähköpostit lähetetään. "
+      },
+      "supportEmail": {
+        "label": "Tuen sähköpostiosoite",
+        "messageRequired": "Anna tukisähköpostiosoite",
+        "tooltip": "Kun sähköposti-ilmoitus, kuten Tender tai Spot bis, lähetetään operaattorille, asiakaspuolen tukitiimin sähköpostiosoite, johon operaattori voi ottaa yhteyttä, jos sinulla on kysyttävää."
+      },
+      "fromEmail": {
+        "label": "Sähköposti \"Lähettäjä\" Sähköpostiosoite",
+        "messageRequired": "Ole hyvä ja kirjoita sähköpostiosoite \"Lähettäjä\" -sähköpostiosoite",
+        "tooltip": "Sähköposti, joka sijoitetaan sähköpostin aiheen Lähettäjä-kenttään."
+      },
+      "attachSupportingDoc": {
+        "label": "Liitä tukiasiakirjat sähköposteihin",
+        "placeholder": "Valitse Liitä tukiasiakirjat sähköposteihin",
+        "tooltip": "Liitä tukiasiakirjat sähköposteihin"
+      },
+      "childShipment": {
+        "label": "Alatason lähetysmäärän toleranssi %",
+        "message": "Anna lapsilähetyksen määrän toleranssi %",
+        "tooltip": "Tämä asettaa määräkentän vahvistuksen Master/Child-lähetysprosessille. "
+      },
+      "autoRateProcess": {
+        "label": "Automaattinen hinnoitteluprosessi",
+        "placeholder": "Valitse automaattinen hinnoitteluprosessi",
+        "tooltip": "Automaattista luokitusprosessia ei voi käyttää"
+      },
+      "autoTenderProcess": {
+        "label": "Automaattinen tarjousprosessi",
+        "placeholder": "Valitse tarjousprosessi",
+        "tooltip": "Automaattista tarjouskilpailua ei voida tehdä asiakastasolla"
+      },
+      "maxAutoTenderAmount": {
+        "label": "Automaattisen tarjouksen enimmäismäärä",
+        "placeholder": "Valitse Automaattisen tarjouksen enimmäissumma",
+        "tooltip": "Asettaa suurimman sallitun Automaattisesti hoidetun määrän"
+      },
+      "recalculateFreightClass": {
+        "label": "Laske rahtiluokka uudelleen",
+        "tooltip": "Jos asetukseksi on asetettu 'Kyllä', lähetyksen rahtiluokka lasketaan uudelleen automaattisen reittiprosessin avulla riippumatta siitä, onko se jo annettu lähetyksessä vai ei."
+      },
+      "autoTenderSpecificCargoType": {
+        "label": "Auto Tender -kohtainen lastityyppi",
+        "tooltip": "Auto Tender Special Cargo tyyppi"
+      },
+      "defaultEquipmentType": {
+        "label": "Oletuslaitteistotyyppi",
+        "tooltip": "Tämän asetuksen avulla käyttäjä voi esittää laitetyypin, joka näytetään rahdinkuljettajalle huutokaupassa kaikista lähetyksistä."
+      },
+      "defaultCargoType": {
+        "label": "Oletusrahtityyppi",
+        "placeholder": "Oletusrahtityyppi",
+        "tooltip": "Oletusrahtityyppi kuljetuspalveluntarjoajan huutokauppamoduulissa"
+      },
+      "populateBidExpiryDate": {
+        "label": "Täytä tarjouksen viimeinen voimassaolopäivä",
+        "placeholder": "Valitse Täytä tarjouksen viimeinen voimassaolopäivä",
+        "tooltip": "Jos asetukseksi on asetettu \"Kyllä\", liikenteenharjoittajan toimittamat Spot-tarjoukset, jotka ovat jo vanhentuneet Spot-tarjouksen Vanhenemispäivämäärän perusteella, eivät ole asiakaskäyttäjän valittavissa Toimitushinta-kaupan tuloksessa. "
+      },
+      "addDaysBidExpiryDate": {
+        "label": "Lisää päiviä tarjouksen päättymispäivään",
+        "placeholder": "Lisää päiviä tarjouksen päättymispäivään",
+        "tooltip": "Lisää päiviä tarjouksen viimeiseen voimassaolopäivään"
+      },
+      "auctionType": {
+        "label": "Huutokaupan tyyppi",
+        "placeholder": "Valitse huutokauppatyyppi",
+        "tooltip": "Käänteistä huutokauppaa ei voida tehdä, mikä tarkoittaa, että operaattorien on alitettava toistensa tarjoukset."
+      },
+      "maximumBidHours": {
+        "maximumBidHours": "Maksimitarjoustunnit",
+        "message": "Anna enimmäistarjoustunnit",
+        "error": "Suurin tarjoustunti ylittää suurimman sallitun tarjoustunnit.",
+        "tooltip": "Lähetysmoduulissa, kun käyttäjä lähettää lähetyksen Spot Bid -palveluun, hän voi asettaa ajan Spot Bidille. "
+      },
+      "turnONPOVModule": {
+        "label": "Kytke POV-moduuli PÄÄLLE",
+        "placeholder": "Valitse Ota POV-moduuli käyttöön",
+        "message": "Valitse Ota POV-moduuli käyttöön.",
+        "tooltip": "Jos 'Kyllä', lähetykset voidaan luoda POV:n kautta, jos 'Ei', lähetyksiä ei voida luoda POV:n kautta."
+      },
+      "shipmentStartingNumber": {
+        "label": "Lähetyksen aloitusnumero",
+        "tooltip": "Tämä määrittää lähetysnumeron alkavan kokonaisluvun, joka tulee Alfa-etuliitteen jälkeen. "
+      },
+      "shipmentNumberPrefix": {
+        "label": "Lähetysnumeron etuliite",
+        "tooltip": "Tämä määrittää lähetysnumeron etuliitteen. "
+      },
+      "noRoutingGuideCarriersReturned": {
+        "label": "Palautettujen reititysohjaimien lukumäärä",
+        "tooltip": "Jos 'Routing Method' = 'Routing Guide', reititysoppaasta palautettujen operaattorien määrä rajoitetaan annettuun määrään."
+      },
+      "shipmentTermsAllowed": {
+        "label": "Lähetysehdot sallittu",
+        "placeholder": "Valitse Sallitut toimitusehdot",
+        "option_all": "--Kaikki--",
+        "option_c": "Kerätä",
+        "option_p": "Prepaid",
+        "option_t": "KOLMAS OSAPUOLI",
+        "tooltip": "Tämä asetus määrää, mitä lähetysehtoja saa käyttää lähetyksissä"
+      },
+      "povDestinationMethod": {
+        "label": "POV-kohdemenetelmä",
+        "placeholder": "Valitse POV Destination Method",
+        "message": "Valitse Ota POV-moduuli käyttöön.",
+        "tooltip": "Toimituksen syöttösivulla kohdeosoite on esiasetettu toimittajan käyttäjälle. "
+      },
+      "routingMethod": {
+        "label": "Reititysmenetelmä",
+        "placeholder": "Valitse Reititysmenetelmä",
+        "tooltip": "Kun toimittajan käyttäjä luo lähetyksen POV:n kautta, toimittajan käyttäjä voi hankkia lähetyksen kuljettajan useilla tavoilla. "
+      },
+      "allowDraftShipment": {
+        "label": "Salli lähetysluonnos",
+        "placeholder": "Valitse Salli luonnoslähetys",
+        "tooltip": "Jos asetukseksi on asetettu 'Kyllä', toimittajan käyttäjät voivat luoda luonnoslähetyksiä POV-moduulissa."
+      },
+      "packageUnitMeasure": {
+        "label": "Paketin mittayksikkö",
+        "tooltip": "Tämä asettaa oletuspaketin mittayksikön lähetyksen syöttösivulle POV:ssa"
+      },
+      "weightUnitMeasure": {
+        "label": "Painon mittayksikkö",
+        "option_p": "Punta",
+        "option_k": "Kilogramma",
+        "placeholder": "Valitse painon mittayksikkö",
+        "tooltip": "Tämä asettaa oletusmittayksikön Lähetyksen syöttö -sivulle POV-moduulissa"
+      },
+      "freeOnBoardCode": {
+        "label": "Ilmainen aluksella koodi",
+        "tooltip": "Tämä asettaa POV:n kautta luodun lähetyksen oletusarvoisen ilmaisen kuljetuksen koodin"
+      },
+      "frightClass": {
+        "label": "Fright Class",
+        "placeholder": "Valitse Fright Class",
+        "tooltip": "Tämä määrittää POV:n kautta luodulle lähetykselle oletusluokan."
+      },
+      "minimumDays": {
+        "label": "Minimipäivät",
+        "placeholder": "Anna vähimmäispäivät",
+        "tooltip": "Kun toimittaja valitsee tilauksen POV:ssa, hänen on ilmoitettava \"Uusi toimituspäivä\". "
+      },
+      "maximumDays": {
+        "label": "Enimmäispäivät",
+        "placeholder": "Anna enimmäispäiviä",
+        "tooltip": "Kun toimittaja valitsee tilauksen POV:ssa, hänen on ilmoitettava \"Uusi toimituspäivä\". "
+      },
+      "minimumDaysError": {
+        "label": "Vähimmäispäivien virheilmoitus",
+        "placeholder": "Anna minimipäivien virheviesti",
+        "tooltip": "Jos vähimmäispäivien sääntöä rikotaan, käyttäjälle näytetään käyttöliittymässä Päivien vähimmäismäärä -virheviesti",
+        "message": "Lähetys ei ole sallittua 3 päivää ennen odotettua toimituspäivää"
+      },
+      "maximumDaysError": {
+        "label": "Enimmäispäiviä -virheilmoitus",
+        "placeholder": "Anna enimmäispäivien virheviesti",
+        "tooltip": "Jos \"Päivien enimmäismäärä\" -sääntöä rikotaan, käyttäjälle näytetään \"Päivien enimmäismäärä -virheilmoitus\" käyttöliittymässä",
+        "message": "Odotettu lähetyspäivä ei voi olla yli vuosi."
+      }
+    },
+    "notificationSuccess": "TMS-asetukset tallennettu onnistuneesti.",
+    "notificationError": "TMS-asetusten tallentaminen epäonnistui. "
+  },
+  "login": {
+    "authLeft": {
+      "title": "Eikö sinulla ole vielä tiliä?",
+      "link": "Ilmoittaudu nyt!"
+    },
+    "authRight": {
+      "title": "Tervetuloa takaisin",
+      "desc": "Kirjaudu sisään jatkaaksesi"
+    },
+    "form": {
+      "email": {
+        "placeholder": "Sähköposti / Käyttäjätunnus",
+        "enter": "Anna käyttäjänimi."
+      },
+      "password": {
+        "placeholder": "Salasana",
+        "enter": "Anna salasana."
+      },
+      "link": "Unohtuiko salasana?",
+      "button": "Kirjaudu sisään"
+    }
+  },
+  "forgotPassword": {
+    "authLeft": {
+      "title": "Eikö sinulla ole vielä tiliä?",
+      "link": "Ilmoittaudu nyt!"
+    },
+    "authRight": {
+      "title": "Unohtuiko salasana",
+      "desc": "Anna sähköpostiosoite, johon haluat kirjautumistietosi lähetettävän"
+    },
+    "form": {
+      "email": {
+        "placeholder": "Sähköposti / Käyttäjätunnus",
+        "enter": "Anna käyttäjänimi."
+      },
+      "warning": {
+        "okText": "Kirjaudu sisään",
+        "desc": "Uusi salasana on lähetetty sähköpostiisi. Tarkista sähköpostisi ja kirjaudu sisään uudella salasanalla."
+      },
+      "backToLogin": "Takaisin sisäänkirjautumiseen",
+      "button": "Lähetä"
+    }
+  },
+  "signUp": {
+    "authLeft": {
+      "title": "Onko sinulla jo tili?",
+      "link": "Kirjaudu nyt!"
+    },
+    "authRight": {
+      "title": "Uuden käyttäjän rekisteröinti",
+      "desc": "Rekisteröidy nyt jatkaaksesi"
+    },
+    "form": {
+      "email": {
+        "enter": "Anna käyttäjänimi."
+      },
+      "password": {
+        "label": "Salasana",
+        "enter": "Anna salasana."
+      },
+      "confirmPassword": {
+        "label": "Vahvista salasana",
+        "enter": "Anna Vahvista salasana."
+      },
+      "firstName": {
+        "label": "Etunimi",
+        "enter": "Anna etunimi."
+      },
+      "middleName": {
+        "label": "Toinen nimi"
+      },
+      "lastName": {
+        "label": "Sukunimi",
+        "enter": "Anna sukunimi.",
+        "invalid": "Anna kelvollinen sukunimi."
+      },
+      "addressLineFirst": {
+        "label": "Osoite 1",
+        "enter": "Anna osoite1."
+      },
+      "addressLineSecond": {
+        "label": "Osoite 2",
+        "enter": "Anna osoite2."
+      },
+      "jobType": {
+        "label": "Työn tyyppi"
+      },
+      "department": {
+        "label": "Departmnet"
+      },
+      "phoneWork": {
+        "label": "Puhelin (työ)"
+      },
+      "phoneCell": {
+        "label": "Puhelin (matkapuhelin)"
+      },
+      "reference": {
+        "label": "Viite"
+      },
+      "comments": {
+        "label": "Kommentit"
+      },
+      "capcha": "Tarkista recapcha.",
+      "submit": "Lähetä",
+      "warning": {
+        "okText": "Kirjaudu sisään",
+        "desc": "Käyttäjän rekisteröintiprosessi on valmis. Kirjaudu sisään sähköpostiosoitteellasi ja salasanallasi. "
+      }
+    }
+  },
+  "verifyUser": {
+    "authLeft": {
+      "title": "Eikö sinulla ole vielä tiliä?",
+      "link": "Ilmoittaudu nyt!"
+    },
+    "authRight": {
+      "title": "Kaksitekijäinen todennus"
+    },
+    "notification": "Todennustunnuksen lähettäminen epäonnistui!",
+    "pickMethod": "Valitse todennustapasi",
+    "securityCode": "Turvakoodi sähköpostilla ",
+    "link": "Et sinä? ",
+    "send": "Lähetä todennuskoodi"
+  },
+  "verifyToken": {
+    "authLeft": {
+      "title": "Eikö sinulla ole vielä tiliä?",
+      "link": "Ilmoittaudu nyt!"
+    },
+    "authRight": {
+      "title": "Tarkista postisi"
+    },
+    "notification": "Todennustunnuksen vahvistaminen epäonnistui!",
+    "enter": "Anna 6-numeroinen todennuskoodi, joka lähetettiin osoitteeseen",
+    "verify": "Vahvista todennuskoodi",
+    "receive": "Etkö saanut koodia? "
+  },
+  "user": {
+    "userProfileManagement": "Käyttäjäprofiilien hallinta",
+    "belowCurrentProfile": " Alla on nykyinen profiili, joka meillä on sinulle järjestelmässämme. ",
+    "imgAlt": "Käyttäjäprofiili",
+    "active": "Aktiivinen",
+    "userTabs": {
+      "personal": "Henkilökohtainen",
+      "password": "Vaihda salasana",
+      "themes": "Teemat"
+    },
+    "buttons": {
+      "updateProfile": "Päivitä profiili",
+      "updatePassword": "Päivitä salasana",
+      "preview": "Esikatselu",
+      "saveTheme": "Tallenna teema",
+      "restoreToDefault": "Palauta oletusarvoon"
+    },
+    "notification": {
+      "imageInterrupted": "Kuvan poiminta on keskeytynyt. Yritä myöhemmin uudelleen.",
+      "userPreference": "Käyttäjäasetus on onnistuneesti hakenut väliaikaista."
+    },
+    "fields": {
+      "firstName": {
+        "label": "Etunimi",
+        "message": "Anna etunimi."
+      },
+      "lastName": {
+        "label": "Sukunimi",
+        "message": "Anna sukunimi."
+      },
+      "address1": {
+        "label": "osoite 1",
+        "message": "Anna osoiterivi."
+      },
+      "address2": {
+        "label": "Osoite 2"
+      },
+      "mobileNumber": {
+        "label": "Matkapuhelinnumero",
+        "message": "Anna matkapuhelinnumero"
+      },
+      "phoneHome": {
+        "label": "Puhelin Kotiin",
+        "placeholder": "Koti puhelin numero"
+      },
+      "phoneOffice": {
+        "label": "Puhelintoimisto",
+        "placeholder": "Toimiston puhelinnumero"
+      },
+      "currentPassword": {
+        "label": "Nykyinen salasana",
+        "message": "Anna nykyinen salasana."
+      },
+      "password": {
+        "label": "Salasana",
+        "messageString": "Anna salasana merkkijonomuodossa.",
+        "messageTrue": "Anna salasana.",
+        "messageSymbol": "Salasanan tulee sisältää vähintään yksi numero, pieni kirjain, iso kirjain ja symbolit.",
+        "messageMin": "Salasanassa on oltava vähintään 12 merkkiä.",
+        "short": "lyhyt",
+        "weak": "heikko",
+        "okay": "Okei",
+        "good": "hyvä",
+        "strong": "vahva"
+      },
+      "confirmPassword": {
+        "label": "Vahvista salasana",
+        "message": "Anna Vahvista salasana.",
+        "error": "Vahvista, että salasana ei täsmää salasanan kanssa"
+      },
+      "color": {
+        "topMenuColor": "Päävalikon väri",
+        "bottomMenuColor": "Alavalikon väri",
+        "topMenuTextColor": "Päävalikon tekstin väri",
+        "bottomMenuTextColor": "Alavalikon tekstin väri",
+        "message": "Valitse väri"
+      },
+      "date": {
+        "label": "Päivämäärämuoto",
+        "placeholder": "Valitse päivämäärän muoto",
+        "message": "Valitse päivämäärän muoto"
+      },
+      "fontFamily": {
+        "label": "Fonttiperhe",
+        "placeholder": "Valitse kirjasinperhe",
+        "message": "Valitse kirjasinperhe"
+      },
+      "language": {
+        "label": "Valitse kieli",
+        "message": "Valitse kieli"
+      },
+      "fontSize": {
+        "label": "Fonttikoko"
+      }
+    }
+  },
+  "shipment": {
+    "title": "Lähetys",
+    "filter": {
+      "shipperFiltered": "Lähettäjä voidaan suodattaa asiakkaan nimen, sijaintitunnuksen tai hakutunnuksen mukaan",
+      "consigneeFiltered": "Vastaanottaja voidaan suodattaa asiakkaan nimen, sijaintitunnuksen tai hakutunnuksen mukaan",
+      "checkingApproval": "Tarkistetaan lähetyksen hyväksymisprosessia...",
+      "titles": {
+        "shipmentSearch": "Lähetyshaku",
+        "additional": "Lisähakuasetukset"
+      },
+      "additionalSearchOptions": {
+        "salesOrderNo": {
+          "label": "Myyntitilausnro."
+        },
+        "masterHouseBill": {
+          "label": "Päällikön/talon laskutusnro",
+          "placeholder": "Päällikön/talon laskutusnro"
+        },
+        "projectNo": {
+          "label": "Projekti nro",
+          "placeholder": "Projekti nro"
+        },
+        "quoteNo": {
+          "label": "Lainaus nro",
+          "placeholder": "Lainaus nro"
+        },
+        "createdBy": {
+          "label": "Luonut",
+          "radioEmail": "Sähköposti tunnus",
+          "placeholderEmail": "Valitse Sähköposti"
+        }
+      }
+    },
+    "header": {
+      "title": "Hallinnoi lähetystä",
+      "addShipment": "Luo lähetys",
+      "delete": "Poistaa",
+      "consolidate": "Lujittaa",
+      "audit": "Tarkastusloki",
+      "updateShipmentStatus": "Päivitä lähetyksen tila",
+      "confirmationModal": {
+        "title": "Lähetysten yhdistäminen",
+        "description": "Valitut lähetykset yhdistetään yhdeksi lähetykseksi ja alkuperäisten lähetysten tilaksi vaihtuu suljettu, vahvista!",
+        "okText": "Vahvistaa!"
+      },
+      "commonUpdateModal": {
+        "title": "Lähetyksen tilan päivitys"
+      },
+      "commonExportModal": {
+        "title": "Lähetysten vienti"
+      }
+    },
+    "footer": {
+      "totalRecords": "Yhteensä Records",
+      "latePickup": "Myöhäinen nouto",
+      "lateDelivery": "Myöhäinen toimitus",
+      "trackingFailure": "Seuranta epäonnistui",
+      "missingDocuments": "Puuttuvat asiakirjat",
+      "pickupFailed": "Nouto epäonnistui"
+    },
+    "dashboard": {
+      "title": "Kojelauta",
+      "topTransportation": "Top 10 kuljetuspalveluntarjoajaa",
+      "orderStatistics": "Tilaustilastot",
+      "total": "Lähetysten kokonaismäärä kuukausittain",
+      "shipmentByMode": "Lähetys tavan/lastityypin mukaan",
+      "shipmentByBound": "Lähetys sidottuna"
+    },
+    "card": {
+      "totalMiles": "Mailit yhteensä",
+      "weight": "Paino (kg)",
+      "weightUtilization": "Painon käyttö",
+      "printedBolFlag": "Painettu BOL-lippu",
+      "masterBol": "Mestari Bol",
+      "volumeUtilization": "Volyymin käyttö",
+      "bidExpiry": "BID vanhentunut",
+      "title": "Kopioi lähetys",
+      "description": "Luotko kopion kansainvälisestä siirtolähetyksestä?"
+    },
+    "drawer": {
+      "header": {
+        "mastShipment": "Päälähetys",
+        "childShipment": "Lapsilähetys",
+        "approvalNumber": "Hyväksyntänumero",
+        "inconterm": "Inconterm",
+        "houseBillOfLading": "Rahtikirja",
+        "freightBillProNumber": "Rahtilasku / Pro numero",
+        "createAsShipment": "Luo lähetyksenä",
+        "approve": "Hyväksyä",
+        "printView": "Tulosta/Näytä",
+        "commonModalLabel": "Asiakirjat",
+        "commonModalApprovalTitle": "Lähetyksen hyväksyntä",
+        "saveAsShipment": "Tallenna lähetyksenä"
+      },
+      "tabs": {
+        "masterChildShipmentDetails": "Master/Child-lähetyksen tiedot",
+        "transportationDetails": "Kuljetustiedot",
+        "vendorDetails": "Myyjän tiedot",
+        "billTo": "Bill To",
+        "categoryDetails": "Luokan tiedot",
+        "auditLog": "Tarkastusloki",
+        "accounting": "Lisävarusteet ja verot",
+        "trackingDetails": "Seurantatiedot",
+        "iTrack": "iTrack",
+        "rateShopResults": "Arvioi Kaupan tulokset",
+        "addStop": "Lisää Stop",
+        "deleteStop": "Poista Stop"
+      },
+      "details": {
+        "delivery": "Toimitus",
+        "distanceKm": "Etäisyys (KM)",
+        "distanceMiles": "Etäisyys (mailia)",
+        "totalWeight": "Kokonaispaino (LB)",
+        "freightBill": "Rahtilasku / Pro numero",
+        "masterBillOfLandingNumber": "Päälaskukirjan numero",
+        "freightAllowances": "Rahtikorvaukset",
+        "customerAccountNumber": "Asiakastilinumero",
+        "freeOnBoard": "Vapaasti laivassa",
+        "incotermNamedPlace": "Incoterm nimetty paikka",
+        "createdBy": "Luonut",
+        "cube": {
+          "label": "Kuutio"
+        }
+      },
+      "product": {
+        "houseBillOfLandingNumber": "Talon laskutusnumero",
+        "unitOfMeasure": {
+          "placeholder": "Valitse Mittayksikkö",
+          "message": "Valitse mittayksikkö"
+        },
+        "chargeableWeight": {
+          "label": "Ladattava paino",
+          "placeholder": "Anna ladattava paino",
+          "message": "Anna maksullinen paino",
+          "error": "Ladattavan painon on oltava numero."
+        },
+        "packageBilled": {
+          "placeholder": "Anna paketti/laskettu määrä",
+          "message": "Anna paketti/laskutettu määrä",
+          "error": "Paketin/laskutetun määrän on oltava numero."
+        },
+        "length": {
+          "placeholder": "Anna pituus",
+          "message": "Anna pituus",
+          "error": "Pituuden tulee olla vähintään 1"
+        },
+        "width": {
+          "placeholder": "Syötä Leveys",
+          "message": "Anna leveys",
+          "error": "Leveyden tulee olla vähintään 1"
+        },
+        "height": {
+          "placeholder": "Anna korkeus",
+          "message": "Anna korkeus",
+          "error": "Korkeuden tulee olla vähintään 1"
+        },
+        "purchaseOrders": {
+          "label": "Tilaukset",
+          "placeholder": "Syötä ostotilaukset"
+        },
+        "lineItemNumber": {
+          "label": "Rivikohdan numero",
+          "placeholder": "Anna rivikohdan numero"
+        },
+        "NMFCNumber": {
+          "label": "NMFC-numero",
+          "placeholder": "Anna NMFCNumber"
+        }
+      },
+      "notes": {
+        "shipmentNotes": {
+          "placeholder": "Syötä lähetystiedot"
+        }
+      },
+      "vendorDetails": {
+        "addNewVendor": "Lisää uusi toimittaja"
+      },
+      "billTo": {
+        "VATNumber": {
+          "label": "ALV-numero",
+          "placeholder": "Anna ALV-numero"
+        }
+      },
+      "categoryDetails": {
+        "addNewCategory": "Lisää uusi luokka",
+        "subCategory": {
+          "label": "Alaluokka",
+          "placeholder": "Valitse alaluokka"
+        }
+      },
+      "auditLog": {
+        "database": "Tietokanta",
+        "tableName": "Taulukon nimi",
+        "tableSchema": "Taulukkokaavio",
+        "hostName": "Isäntänimi",
+        "applicationName": "sovelluksen nimi",
+        "columnName": "Sarakkeen nimi",
+        "oldValue": "Vanha arvo",
+        "newValue": "Uusi arvo"
+      },
+      "shipmentTransport": {
+        "stopType": {
+          "label": "Pysäytystyyppi",
+          "placeholder": "Valitse Pysäytystyyppi",
+          "message": "Valitse Pysäytystyyppi"
+        },
+        "stopNo": {
+          "label": "Pysähdys nro",
+          "placeholder": "Valitse Stop No",
+          "message": "Valitse pysäkin sijainti"
+        },
+        "requestedDateTime": {
+          "label": "Pyydetty päivämäärä",
+          "date_message": "Valitse päivämäärä",
+          "time_message": "Valitse aika"
+        },
+        "actual": "Todellinen",
+        "dateTime": "Päivämäärä",
+        "contactPersonName": {
+          "label": "Yhteyshenkilön nimi",
+          "placeholder": "Kirjoita Nimi"
+        },
+        "emailId": {
+          "label": "Sähköposti tunnus",
+          "placeholder": "Anna sähköpostiosoite"
+        },
+        "contactNo": {
+          "label": "Yhteystiedot nro",
+          "placeholder": "Anna yhteysnumero",
+          "message": "Yhteyshenkilön numeron tulee olla 10 numeroa pitkä"
+        },
+        "ext": {
+          "label": "Alanumero",
+          "placeholder": "Anna Ext"
+        },
+        "dockConfirmationNumber": "Telakka/vahvistusnumero",
+        "taxIdVat": "TaxID/alv",
+        "iTrackDetails": "iTrack-tiedot",
+        "emptyRecords": "Ole kärsivällinen saadaksesi päivityksen operaattorilta."
+      }
+    },
+    "print": {
+      "plNo": "PL nro",
+      "seeSection2": "Katso NMFC kohdan 360 kohta 2(e)."
+    },
+    "hazmat": "Hazmat(X)",
+    "qty": "Kpl",
+    "saveAsPartial": "Tallenna osittaiseksi",
+    "shipmentExportSFiled": "Lähetyksen vienti epäonnistui.",
+    "consigneeAppointmentNumber": "Vastaanottajan nimitysnumero",
+    "shipperAppointmentNumber": "Lähettäjän tapaamisnumero",
+    "approverName": "Hyväksyjän nimi",
+    "approverEmail": "Hyväksyjän sähköposti",
+    "priority": {
+      "label": "Prioriteetti",
+      "placeholder": "Valitse Prioriteetti",
+      "message": "Valitse prioriteetti",
+      "error": "Prioriteetti tulee olla ainutlaatuinen."
+    },
+    "of": "/",
+    "pallet": "Lava(S)",
+    "proNo": "PRO NO",
+    "bolNo": "BOL NO",
+    "FOB": "FOB",
+    "SID": "SID",
+    "location": "Sijainti",
+    "thirdParty": "KOLMANNEN OSAPUOLEN RASTIMAKSUT LASKUTTAA:",
+    "billOfLadingNumber": "Konossementin numero",
+    "proNumber": "Pro numero:",
+    "serviceDescription": "Palvelun kuvaus:",
+    "freightChargeTerms": "Rahtimaksuehdot:",
+    "freightChargesArePrepaid": "(rahtimaksut maksetaan etukäteen, ellei toisin ole merkitty)",
+    "docNumberConfirmationNumber": "Asiakirjanumero/vahvistusnumero:",
+    "masterBillOfLading": "Pääkonossementti: liitteenä olevat konossementit",
+    "countryCityStateZip": "Maa/Kaupunki/Osavaltio/Postiosoite:",
+    "freightCharges": "(rahtimaksut maksetaan etukäteen, ellei toisin ole merkitty)",
+    "masterBill": "Pääkonossementti: liitteenä olevat konossementit",
+    "customerCheck": "Asiakassekki hyväksyttävä",
+    "feeTerms": "Maksuehdot:",
+    "whereTheRate": "Jos hinta riippuu arvosta, lähettäjien on ilmoitettava erikseen kirjallisesti omaisuuden sovittu tai ilmoitettu arvo seuraavasti:",
+    "theAgreed": "Lähettäjä on nimenomaisesti ilmoittanut, että omaisuuden sovittu tai ilmoitettu arvo ei ylitä",
+    "poNo": "PO NO(T)",
+    "soNo": "EI(T)",
+    "codAmount": "COD-määrä:",
+    "pleaseSelect": "Ole hyvä ja valitse",
+    "approvers": "Hyväksyjät",
+    "searchEmail": "Etsi sähköposti",
+    "searchByEmail": "Hae sähköpostilla",
+    "shipmentRequire": "Tämä lähetys ei vaadi hyväksyntää",
+    "approversList": "Hyväksyjien luettelo",
+    "sendApprovalRequest": "Lähetä hyväksyntäpyyntö",
+    "savingAdditionalDetailsIs": "Lisätietojen tallentaminen on",
+    "maxCharacter": "Suurin sallittu merkki 25",
+    "checkingPO": "Tarkistetaan PO- ja SO-näkyvyyttä",
+    "visitBack": "Palaa takaisin, kun olet muuttanut tätä lähetystä.",
+    "savingBillingDetailsIs": "Laskutustietojen tallentaminen on",
+    "addingNewCategoryIs": "Uuden kategorian lisääminen on",
+    "modifyingCategoryIs": "Kategorian muuttaminen on",
+    "deletingCategoryIs": "Luokan poistaminen on",
+    "createSomeData": "luoda tietoja.",
+    "masterChildShipment": "Master/Child -lähetys",
+    "childShipment": "Lapsilähetys",
+    "convertingAs": "Muunnetaan nimellä",
+    "regularShipment": "Säännöllinen lähetys",
+    "progressHas": "edistystä on tapahtunut",
+    "masterChildShipmentDetails": "Master/Child-lähetyksen tiedot",
+    "masterQuantityLeft": "Päämäärä jäljellä",
+    "masterWeightLeft": "Pääpaino jäljellä",
+    "childShipmentDetails": "Lapsilähetyksen tiedot",
+    "addChildShipment": "Lisää lapsilähetys",
+    "noMasterChildshipments!": "Master/Child-lähetyksiä ei ole!",
+    "failedToUpdate": "Päivitys epäonnistui",
+    "enter": "Tulla sisään",
+    "copyingLastProductIs": "Viimeisen tuotteen kopiointi on",
+    "addingNewProductIs": "Uuden tuotteen lisääminen on",
+    "modifyingProductIs": "Tuotteen muokkaaminen on",
+    "deletingProductIs": "Tuotteen poistaminen on",
+    "freightClassSuccessfully": "Rahtiluokka laskettu onnistuneesti.",
+    "addNewProductDetails": "Lisää uusia tuotetietoja",
+    "copyLastProductDetailsEntry": "Kopioi viimeinen tuotetiedot",
+    "freightClassCalculator": "Rahtiluokkalaskin",
+    "totalChargableWeight": "Ladattava kokonaispaino",
+    "weightUnitOfMeasure": "Painon mittayksikkö",
+    "pleaseSelectUnitOfMeasure": "vuokraa valitse mittayksikkö",
+    "cooPdf": {
+      "certificationOfOrigin": "ALKUPERÄTODISTUS",
+      "certificateType": "SERTIFIOINTITYYPPI (MERKITÄ 'X')",
+      "importer": "Maahantuoja",
+      "exporter": "VIEJÄ",
+      "producer": "TUOTTAJA",
+      "blanketPeriod": "PÖYTÄAIKA (KK/PP/VVV Y)",
+      "sectionDetails": "NIMI, OSOITE, PUHELIN JA SÄHKÖPOSTI",
+      "certifierSectionDetails": "SERTIFIOINTI $t(shipment.cooPdf.sectionDetails)",
+      "producerSectionDetails": "TUOTTAJA $t(shipment.cooPdf.sectionDetails)",
+      "exporterSectionDetails": "$t(shipment.cooPdf.exporter) $t(shipment.cooPdf.sectionDetails)",
+      "importerSectionDetails": "$t(shipment.cooPdf.importer) $t(shipment.cooPdf.sectionDetails)",
+      "taxIdentificationNumber": "VEROTUNNUSNUMERO",
+      "descriptionOfGoods": "TAVARAN KUVAUS",
+      "originCriterion": "ALKUPERÄPERUSTEET",
+      "producerYesNo": "$t(shipment.cooPdf.producer) (KYLLÄ EI)",
+      "methodOfQualification": "PÄTEVYTTÄMISMENETELMÄ",
+      "cointryOfOrigin": "ALKUPERÄ",
+      "certificateAssuranceDescription": "TODISTAN, ETTÄ TÄSSÄ ASIAKIRJASSA KUVAUTETUT TAVARAT OVAT ALKUPERÄISYYDET JA TÄMÄN ASIAKIRJAN SISÄLTYMÄT TIEDOT OVAT TOSIA JA TARKKOJA. ",
+      "certificateAttachmentDescription": "TÄMÄ SERTIFIKAATTI SISÄLTÄÄ SIVUT, SISÄLTÄVÄT KAIKKI LIITTEET.",
+      "dateWithFormat": "PÄIVÄMÄÄRÄ (KK/PP/VVVV)",
+      "documentCompliantDescription": "TÄMÄ ASIAKIRJA ON USMCA-YHTEENSOPIVUUS"
+    }
+  },
+  "claims": {
+    "spotBidSearch": "SpotBid-haku",
+    "spotBidSearchOriginDestination": "SpotBid-haku alkuperän ja määränpään mukaan",
+    "chooseColumns": "Valitse vientiä varten sarakkeet.",
+    "selectMinOneField": "Valitse vietäväksi vähintään yksi kenttä.",
+    "emailToTransportationProvider": "Sähköposti kuljetuspalveluntarjoajalle",
+    "printOverchargeClaim": "Tulosta ylihintavaatimus",
+    "indemnificationClause": " KORVAUSlauseke: Kantaja sitoutuu suojelemaan Kuljetuspalveluntarjoajaa, jolle tämä vaatimus on jätetty, koska sopimus suoritetaan ilman alkuperäisen rahtilaskun luovuttamista, ja takaamme yksiselitteisesti hyvityksen.",
+    "dateSubmitted": "Lähetyspäivämäärä",
+    "contractAuthority": "Sopimusviranomainen",
+    "claimTariff": "Lunasta tariffi",
+    "reasonForOvercharge": "Ylihinnan syy",
+    "correctAmount": "Oikea määrä",
+    "totalPaid": "Maksettu yhteensä",
+    "correctCharges": "Oikeat maksut",
+    "paidAmount": "Maksettu summa",
+    "billedAmount": "Laskutettu summa",
+    "chargeableWeight": "Ladattava paino",
+    "detailedOverchrgeClaimStatement": "YKSITYISKOHTAINEN YLIMALOUSVAATIMUS",
+    "freightBill": "Rahtilasku(t)",
+    "attachedDocumentation": "Liitteenä oleva dokumentaatio",
+    "yourClaimNumber": "Vaatimusnumerosi",
+    "ourClaimNumber": "Vaatimusnumeromme",
+    "refer": "KATSO EDELLÄ KAIKKEESSA VASTUUVAATIMUKSEN NUMEROON",
+    "forwardCorrespondence": "VÄLITTÄVÄ VASTUU EDELLEEN YLLÄ OLEVAAN OSOITTEEN JA TEE SEKKI MAKSALLISEEN osoitteeseen: ",
+    "presentation": "YLIMALOUSVAATIMUKSEN ESITTELY",
+    "printResults": "Tulosta tulokset",
+    "totalClaims": "Vaatimukset yhteensä",
+    "openClaims": "Avaa vaatimukset",
+    "closedClaims": "Suljetut vaateet",
+    "onHoldClaims": "Pidätetyt vaateet",
+    "totalAmountFiled": "Arkistoitu kokonaismäärä",
+    "totalAmountPaid": "Maksettu kokonaissumma",
+    "byAge": "Iän mukaan:",
+    "daysOld": "Päivää vanha",
+    "pleaseEnterDaysOld": "Anna Days Old",
+    "claimsNumber": "Vaatimusten numero",
+    "pleaseEnterClaimsNumber": "Anna korvausvaatimusnumero",
+    "freightBillProNumber": "Rahtilasku / Pro numero",
+    "pleaseEnterFreightBillProNumber": "Syötä rahtilasku/ammattilaisen numero",
+    "pleaseEnterInvoiceNumber": "Anna laskun numero",
+    "pleaseEnterPackageNumber": "Anna paketin numero",
+    "Details": "Yksityiskohdat",
+    "overchargeClaimItems": "Yliveloittaa vaatimuskohteet",
+    "overchargeClaimNotes": "Yliveloitusilmoitukset",
+    "overchargeUploadViewFiles": "Ylihinta Lataa/katsele tiedostoja",
+    "overchargeClaimSettlements": "Ylihintakorvausratkaisut",
+    "addNewNote": "Lisää uusi huomautus",
+    "selectCommentType": "Valitse kommentin tyyppi",
+    "commentType": "Kommentin tyyppi",
+    "comments": "Kommentit",
+    "enterComments": "Kirjoita kommentit",
+    "createdBy": "Luonut",
+    "yourClaim": "Sinun vaatimus",
+    "enterYourClaim": "Kirjoita vaatimuksesi",
+    "noData": "Ei dataa",
+    "houseBillOfLadingNumber": "Talon laskutusnumero",
+    "others": "muut",
+    "othersPleaseMention": "Muut Mainitse",
+    "recoverySum": "Takaisinmaksusumma",
+    "dateClosed": "Sulkemispäivä",
+    "dateRefundedToCustomer": "Asiakkaalle palautuspäivä",
+    "checkNumberFromTransportationProvider": "Tarkista numero kuljetuspalveluntarjoajalta",
+    "pleaseSelectCurrency": "Valitse A-valuutta",
+    "ourClaim": "Meidän vaatimus",
+    "claimant": "Kantaja",
+    "overchargeSum": "Ylihintasumma",
+    "preClaims": "Ennakkovaatimukset",
+    "reports": "Raportit",
+    "overCharge": "Yli veloitettu",
+    "lossAndDamage": "Tappio ja vahinko",
+    "claimsSettings": "Vaatimusasetukset",
+    "overchargeClaims": "Ylihintavaatimukset",
+    "mailTo": "Mail To",
+    "checkNumberToCustomer": "Tarkista numero asiakkaalle"
+  },
+  "routingGuide": {
+    "generalSearch": "Yleinen haku",
+    "searchByOrigin": "Hae alkuperän mukaan",
+    "searchByDestination": "Hae kohteen mukaan",
+    "routingKey": "Reititysavain",
+    "routingGuideID": "Reittioppaan tunnus",
+    "routingName": "Reitityksen nimi",
+    "createdBy": "Luonut",
+    "hazmat": {
+      "label": "Hazmat",
+      "placeholder": "Valitse Hazmat"
+    },
+    "pieces": {
+      "label": "Kappaleita"
+    },
+    "piecesUOM": {
+      "label": "Kappaleita",
+      "placeholder": "Valitse Pieces UOM"
+    }
+  },
+  "auction": {
+    "title": "Huutokauppa",
+    "card": "Kortti",
+    "noOfStops": "Pysähdysten lukumäärä",
+    "locationId": "Sijainnin tunnus:",
+    "stopType": "Pysähdystyyppi:",
+    "stopNo": "Pysähdys nro:",
+    "companyDetails": "Yritystiedot",
+    "appointmentNumber": "Tapaaminen numero",
+    "contactPersonName": "Yhteyshenkilön nimi",
+    "pickup": "Noutopyynnön päivämäärä",
+    "pickupAppointmentDateTime": "Noutoaika",
+    "contactNo": "Yhteysnumero",
+    "actualPickupDateTime": "Todellinen noutopäivä",
+    "dockConfirmationNumber": "Telakka/vahvistusnumero",
+    "taxIdVAT": "TaxID/alv",
+    "approvalNumber": "Hyväksyntänumero",
+    "spotBIDTypes": "Spot BID -tyypit",
+    "selectSpotBIDTypes": "Valitse BID Type",
+    "consigneeStateProvience": "Vastaanottajavaltio/maakunta",
+    "BIDExpiryDateTime": "BID viimeinen voimassaolopäivä",
+    "BIDExpiry": "BID vanhentunut",
+    "totalBIDS": "Hintatarjous yhteensä",
+    "openBIDS": "Avaa BIDS",
+    "expiredBIDS": "Vanhentuneet BIDS",
+    "expiringSoonBIDS": "Vanhenee pian BIDS",
+    "grossWeight": "Bruttopaino",
+    "weightUnitOfMeasure": "Painon mittayksikkö",
+    "viewAllStops": "Näytä kaikki pysäkit",
+    "viewProductDetails": "Näytä tuotetiedot",
+    "viewUploadFiles": "Tarkastele/lähetä tiedostoja",
+    "shipmentDetails": "kuljetus yksityiskohdat",
+    "shipperDetails": "Lähettäjän tiedot",
+    "consigneeDetails": "Vastaanottajan tiedot",
+    "frightClass": "Fright Class",
+    "package": "Paketti",
+    "delieryDateAndTime": "Toimituspäivä ja -aika",
+    "customerBIDExpiryDateTime": "Asiakkaan BID:n viimeinen voimassaolopäivä",
+    "BIDDetails": "BID tiedot",
+    "equipmentTypeDetails": "Laitetyypin tiedot",
+    "enterEquipmentType": "Syötä laitetyyppi",
+    "expiryDate": "Päättymispäivä",
+    "expiryDateIsRequired": "Viimeinen voimassaolopäivä vaaditaan",
+    "expiryTime": "Vanhenemisaika",
+    "expiryTimeIsRequired": "Vanhenemisaika vaaditaan",
+    "spotQuoteNumber": "Paikallinen lainausnumero",
+    "enterQuoteNumber": "Anna tarjousnumero",
+    "BIDSubmittedBy": "BID Lähettäjä",
+    "BIDPriceAndCurrency": "BID Hinta ja valuutta",
+    "BIDPrice": "Tarjoushinta",
+    "enterPrice": "Anna hinta",
+    "priceIsRequired": "Hinta vaaditaan",
+    "pleaseEnterTheNumber": "Anna numero",
+    "pleaseEnterLowerTheNumber": "Anna nykyistä tarjousta alhaisempi hinta",
+    "BIDCurrency": "BID-valuutta",
+    "BIDComment": "BID Kommentti",
+    "enterComment": "Kirjoita kommentti",
+    "submitBID": "Lähetä BID"
+  }
+}

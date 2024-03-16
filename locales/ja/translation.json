@@ -1,0 +1,3487 @@
+{
+  "default": {
+    "navMenu": {
+      "home": "家",
+      "dashboard": "ダッシュボード",
+      "contractManagement": "契約管理",
+      "shipmentsModule": "出荷モジュール",
+      "shipmentTracking": "出荷追跡",
+      "activities": "活動内容",
+      "reports": "レポート",
+      "pricing": "価格設定",
+      "procurement": "調達",
+      "purchaseOrderView": "注文書ビュー",
+      "routingGuide": "ルーティングガイド",
+      "settings": "設定",
+      "companySettings": "会社の設定",
+      "tmsSettings": "TMS 設定",
+      "clientNameGoesHere": "ここにクライアント名が入ります",
+      "shipment": "出荷",
+      "visibility": "可視性",
+      "claims": "請求",
+      "freightBill": "運賃請求書",
+      "adminSettings": "管理者設定"
+    },
+    "loading": "読み込み中...",
+    "date": "日付",
+    "captcha": {
+      "placeholder": "キャプチャ コードを入力します。",
+      "message": "キャプチャを入力してください",
+      "invalid": "無効なキャプチャです。"
+    },
+    "buttons": {
+      "save": "保存",
+      "cancel": "キャンセル",
+      "rateShop": "料金ショップ",
+      "delete": "消去",
+      "export": "輸出",
+      "clear": "クリア",
+      "search": "検索",
+      "mileageCalculator": "走行距離計算ツール",
+      "addProduct": "製品の追加",
+      "deleteProduct": "製品の削除",
+      "edit": "編集",
+      "viewMoreStatus": "ステータスをもっと見る",
+      "track": "追跡",
+      "add": "追加",
+      "update": "アップデート",
+      "sendEmail": "メールを送信する",
+      "restoreToDefault": "デフォルトに戻す",
+      "clearSelection": "明確な選択",
+      "newStatus": "新しいステータス",
+      "select": "選択する",
+      "close": "近い",
+      "exportToExcel": "Excel にエクスポート",
+      "addPO": "発注書の追加",
+      "addShipper": "配送業者を追加",
+      "copy": "コピー",
+      "closed": "閉まっている",
+      "updateSelectedRecords": "選択したレコードを更新する",
+      "viewMoreDetails": "詳細を見る",
+      "viewStatus": "ステータスの表示",
+      "download": "ダウンロード",
+      "addNewLocation": "住所録",
+      "addNewZone": "新しいゾーンの追加",
+      "sendRFI": "RFI を送信する",
+      "sendRFQ": "見積依頼を送信する",
+      "sendRFIRFQ": "RFI を送信する",
+      "stops": "停留所",
+      "hide": "隠れる",
+      "view": "ビュー",
+      "viewOrderInformation": "注文情報の表示"
+    },
+    "documentManager": {
+      "fileUpdatingIssuccess": "ファイルの更新は成功しました。",
+      "title": "ドキュメントマネージャー",
+      "noFoundText": "レコードが見つかりませんでした",
+      "addNewFile": "新しいファイルを追加",
+      "addNewLane": "新しいレーンを追加",
+      "addNewParameter": "新しいパラメータの追加",
+      "chooseFile": "ファイルを選ぶ",
+      "fileName": "ファイル名 ： ",
+      "chooseFileMessage": "ファイルを選択してください",
+      "docDescMessage": " すでに使用されています。",
+      "supportingDocumentNumber": "サポート文書番号",
+      "only": "のみ",
+      "filesAreAllowed": "ファイルは許可されます",
+      "documentTypeMessage": "書類の種類を選択してください",
+      "notificationUploadingFailed": "ファイルのアップロードに失敗しました。",
+      "documentManager": {
+        "label": "ドキュメントタイプ",
+        "placeholder": "ドキュメントの種類を選択してください",
+        "message": "タイプを選択してください"
+      },
+      "docType": {
+        "label": "ドキュメントタイプ",
+        "placeholder": "ドキュメントの種類を選択してください",
+        "message": "タイプを選択してください"
+      },
+      "fileComments": {
+        "label": "ファイルのコメント",
+        "placeholder": "ファイルのコメントを入力してください"
+      },
+      "referenceNo": {
+        "label": "サポート文書参照番号",
+        "placeholder": "サポート文書参照番号を入力してください",
+        "title": "参照番号"
+      },
+      "notificationUploadingError": "ファイルのアップロードは成功しました。",
+      "notificationUploadingSuccess": "ファイルのアップロードは成功しました",
+      "notificationUpdatingSuccess": "ファイルの更新は成功しました",
+      "notificationDeleteSuccess": "ファイルの削除は成功です。",
+      "notificationDeleteError": "ファイルの削除に失敗しました。"
+    },
+    "popConfirm": {
+      "title": "本気ですか？"
+    },
+    "weekDays": {
+      "sun": "日曜日",
+      "mon": "月曜日",
+      "tue": "火曜日",
+      "wed": "水曜日",
+      "thu": "木曜日",
+      "fri": "金曜日",
+      "sat": "土曜日"
+    },
+    "options": {
+      "and": "そして",
+      "all": "全て",
+      "enable": "有効にする",
+      "disable": "無効にする",
+      "yes": "はい",
+      "no": "いいえ",
+      "cargo": "貨物",
+      "passenger": "乗客",
+      "new": "新しい",
+      "spotBidEnd": "スポット入札終了",
+      "spotBid": "スポット入札",
+      "blind": "盲目",
+      "reverseBlind": "リバースブラインド",
+      "purchaseOrder": "注文書",
+      "na": "NA",
+      "routingGuide": "ルーティングガイド",
+      "draftShipment": "ドラフト出荷",
+      "finalShipment": "最終出荷",
+      "сurrent": "現在",
+      "historical": "歴史的 (赤)"
+    },
+    "language": {
+      "en": "英語",
+      "es": "スペイン語",
+      "es-cr": "スペイン語(カスティーリャ語)",
+      "es-mx": "スペイン語(メキシコ)",
+      "it": "イタリアの",
+      "ch": "中国語",
+      "zh-tw": "中国語",
+      "fr": "フランス語",
+      "nl": "オランダの",
+      "pt": "ポルトガル語",
+      "pt-br": "ポルトガル語(ブラジル)",
+      "de": "ドイツ人",
+      "pl": "研磨",
+      "fi": "フィンランド語",
+      "ko": "韓国語",
+      "ja": "日本語"
+    },
+    "fields": {
+      "shipmentAdditionalInformation": "出荷に関する追加情報",
+      "shipmentInformation": "出荷情報",
+      "rateDetails": "料金の詳細",
+      "selectState": {
+        "label": "状態の選択",
+        "placeholder": "状態の選択"
+      },
+      "productDetails": "製品詳細",
+      "distributor": "卸売業者",
+      "costName": "コスト名",
+      "tender": "入札",
+      "pending": "保留中",
+      "selectTime": "時間を選択してください",
+      "enter": "入力",
+      "profile": "プロフィール",
+      "addressBook": "住所録",
+      "productCode": {
+        "label": "製品コード",
+        "message": "製品コードを入力してください",
+        "placeholder": "製品コードを入力してください",
+        "tooltip": "製品詳細アコーディオンでデフォルトの製品コードを設定します"
+      },
+      "addNewProduct": " 新しい製品を追加",
+      "number": "番号",
+      "code": "コード",
+      "contactNumber": "連絡先番号",
+      "carrier": "キャリア",
+      "vendor": "ベンダー",
+      "popconfirmFreightClass": "貨物クラスを計算したいですか?",
+      "quoteNo": "見積書番号",
+      "approvalNo": "承認番号",
+      "claimType": "請求の種類",
+      "closedDate": "休業日",
+      "claimStatus": "請求ステータス",
+      "amendmentDate": "修正日",
+      "submittedDate": "提出日",
+      "submittedBy": "から提出された",
+      "preparedBy": "によって準備された",
+      "auditedBy": "監査者",
+      "recoveryAmount": "回復量",
+      "overchargeAmount": "超過請求金額",
+      "packageNumber": "パッケージ番号",
+      "claimNumber": "請求番号",
+      "updateDraft": "更新草案",
+      "saveAsDraft": "下書きとして保存",
+      "deleteVendorSuccessfully": "ベンダーを正常に削除しました",
+      "portSearch": "ポート検索",
+      "transportationProviderSearch": "交通機関検索",
+      "viewCI": "CI を表示する",
+      "viewPL": "PLを見る",
+      "viewBOL": "BOL を表示する",
+      "viewCOO": "COOを見る",
+      "viewShipping": "送料を見る",
+      "signature": "サイン",
+      "statusType": "ステータスの種類",
+      "updateReceivedEST": "EST でアップデートを受信しました",
+      "plannedDeliveryDate": "配達予定日",
+      "plannedShipDate": "発送予定日",
+      "shipperReqDeliveryDate": "荷送人が希望する配達日",
+      "shipperReqShipDate": "荷送人リクエストの出荷日",
+      "conReferenceNo": "荷受人参照番号",
+      "eventOccurrenceLocalTime": "イベント発生現地時間",
+      "unitMeasure": "数量の測定単位",
+      "displayAllTrackingStatus": "すべての追跡ステータスを表示",
+      "itemQuantity": "アイテムの数量",
+      "billQtyUOM": "パッケージ/請求数量単位",
+      "quantityUOM": "数量単位",
+      "orderQuantity": "注文数量",
+      "mode": "モード",
+      "businessSegment": "事業セグメント",
+      "poNumber": "PO番号",
+      "lineNo": "行番号",
+      "itnNumber": "ITN番号",
+      "distributorName": "販売代理店名",
+      "rateStatus": "レートステータス",
+      "showAllSpotBidCarrier": "すべての SpotBid キャリアを表示",
+      "costCurrency": "コスト通貨",
+      "cost": "料金",
+      "rateSubmittedOn": "レートの提出日",
+      "partNumberDescription": "部品番号の説明",
+      "salesOrderNumber": "販売注文番号",
+      "purchaseOrderNumber": "発注番号",
+      "displayStopOffs": "ストップオフの表示",
+      "freightBillNumber": "運送状番号",
+      "transportationProviderAppointmentNumber": "交通機関の予約番号",
+      "masterShipmentNo": "マスター出荷番号",
+      "houseBOLNo": "ハウス BOL 番号",
+      "masterBOLNo": "マスターBOL番号",
+      "modifiedBy": "によって変更",
+      "modifiedOn": "変更日",
+      "printedBillOfLading": "印刷された船荷証券",
+      "billOfLanding": "船荷証券",
+      "billOfLandingContent": "船荷証券",
+      "countryOdOrigin": "原産国",
+      "dataFetchingError": "データ取得エラー",
+      "shipFrom": "発送元",
+      "shipTo": "送り先",
+      "totalMileage": "総走行距離",
+      "shipmentCost": "配送料",
+      "shipmentCounts": "出荷数",
+      "shipmentTransportationProvider": "出荷輸送業者",
+      "shipmentCargoType": "出荷貨物の種類",
+      "packageBilledQuantityunitOfMeasure": "パッケージ/請求数量の測定単位",
+      "chargebleWeight": "充電可能重量",
+      "consigneePortType": "荷受人の港の種類",
+      "shipmentStatus": "出荷状況",
+      "shipmentNotes": "出荷メモ",
+      "shipmentDetails": "発送詳細",
+      "shipmentNo": "出荷番号",
+      "shipmentDate": "出荷日",
+      "consignee": "荷受人",
+      "carrierName": "キャリア名",
+      "billQ": "請求数量",
+      "trailerNumber": "トレーラー番号:",
+      "sealNumber": "シール番号:",
+      "shipperReferenceNo": "荷送人参照番号",
+      "email": "Eメール",
+      "phoneExt": "内線電話",
+      "phone": "電話",
+      "contact": "接触",
+      "zip": "ジップ",
+      "name": "名前",
+      "drop": "落とす",
+      "terminal": "ターミナル",
+      "pickUp": "選び出す",
+      "fileName": "ファイル名",
+      "specialInstructions": "特別な指示",
+      "specialInstructionsSecondary": "特別な指示:",
+      "customerOrderInformation": "顧客注文情報",
+      "customerOrderNumber": "顧客注文番号",
+      "additionalShipperInfo": "追加の配送業者情報",
+      "carrierInfo": "キャリア情報",
+      "additionalUnit": "追加ユニット",
+      "handlingUnit": "取り扱い単位",
+      "commodityDescription": "商品説明",
+      "commodityText": "取り扱いや保管に特別または追加の注意が必要な商品は、通常の注意で安全に輸送できるようにマークを付け、梱包する必要があります。 ",
+      "package": "パッケージ",
+      "weightTable": "重さ",
+      "palletSlip": "パレット/スリップ",
+      "grandTotal": "総計",
+      "commercialInvoice": "商業送り状",
+      "commercialInvoiceContents": "商業送り状",
+      "identificationNumber": "識別番号：",
+      "noteLiability": "注意事項 この発送における紛失または破損に対する責任制限が適用される場合があります。 ",
+      "received": "個別に決定された料金または運送業者と荷送人の間で書面で合意された契約（該当する場合）に従い、それ以外の場合は運送業者によって確立され、荷送人が要求に応じて利用できる料金、分類および規則に従うことを条件として、受領済み、",
+      "carrierShall": "運送業者は、運賃およびその他すべての法的料金の支払いなしに、この荷物の配達を行うことはできません。",
+      "certify": "これは、上記で指定された材料が適切に分類、梱包、マークおよびラベル付けされており、DOT の該当する規制に従って輸送に適した状態にあることを証明するものです。",
+      "classTable": "クラス",
+      "type": "タイプ",
+      "shipperSignatureDate": "配送者の署名 / 日付",
+      "trailerLoaded": "トレーラーがロードされました:",
+      "freightCounted": "貨物のカウント:",
+      "freight": "運賃:",
+      "byShipper": "荷主別",
+      "byDriver": "ドライバー別",
+      "byDriverPallets": "ドライバー別/パレットに含まれると言われているもの",
+      "byDriverPieces": "ドライバー/個数別",
+      "carrierPickupDate": "運送業者の署名 / 受取日",
+      "carrierAcknowledges": "運送業者は荷物と必要なプラカードの受領を確認します。",
+      "hazmat": "危険物",
+      "ltlOnly": "LTLのみ",
+      "invoiceNumber": "請求書番号",
+      "shipperSignature": "荷送人の署名",
+      "houseBillOfLandingNumber": "ハウスビルディングビルディング番号",
+      "billQty": "パッケージ/請求数量",
+      "packageWeight": "パッケージの重量",
+      "unitOfMeasure": "測定単位",
+      "height": "身長",
+      "width": "幅",
+      "length": "長さ",
+      "currencyCode": "通貨コード",
+      "eccnNumber": "ECCN番号",
+      "htcCode": "HTCコード",
+      "unitPrice": "単価",
+      "totalQuantity": "総量",
+      "consigneePortName": "荷受港名",
+      "consigneeHoursOfOperations": "荷受人の営業時間",
+      "consigneeDaysTo": "荷受人の曜日 宛先",
+      "consigneeDaysFrom": "荷受人の曜日から",
+      "consigneeAppointmentType": "荷受人予約タイプ",
+      "consigneeWarehouseEmail": "荷受人の倉庫メール",
+      "consigneeWarehouseTelephone": "荷受人倉庫の電話番号",
+      "consigneeWarehouseContact": "荷受人倉庫連絡先",
+      "shipperPortName": "荷主港名",
+      "hoursOfOperations": "営業時間",
+      "warehouseEmail": "倉庫の電子メール",
+      "warehouseTelephone": "倉庫電話",
+      "warehouseContact": "倉庫連絡先",
+      "shipperPortType": "荷主港のタイプ",
+      "countryOfOrigin": "原産国",
+      "hts": "HTS",
+      "eccn": "ECCN",
+      "coo": "COO",
+      "ciNo": "CI 番号 :",
+      "description": "説明",
+      "newShipDate": "新しい発送日",
+      "quantityLeft": "残り数量",
+      "consigneePostal": "荷受人郵便",
+      "shipperPostal": "荷主郵便",
+      "percentageLeft": "残りのパーセンテージ",
+      "weight": "重さ",
+      "expectedDeliveryDate": "配達予定日",
+      "destination": "行き先",
+      "origin": "起源",
+      "bolNumber": "BOL番号",
+      "comparativeRate": "比較率",
+      "actualCarrierRate": "実際のキャリアレート",
+      "bidStatus": "入札ステータス",
+      "spotBidHistory": "スポット入札履歴",
+      "allSpotBids": "すべてのスポット入札",
+      "openSpotBids": "オープンスポット入札",
+      "paymentTerms": "支払い条件",
+      "partNumber": "部品番号",
+      "povStatus": "POVステータス",
+      "orderDeliveryDate": "注文の配達日",
+      "orderShipDate": "注文の発送日",
+      "conStateState": "荷受国の州",
+      "consigneeZip": "荷受人の郵便番号",
+      "shipperState": "荷主の州",
+      "shipperZip": "配送業者のジッパー",
+      "orderNumber": "注文番号",
+      "transitDays": "乗り継ぎ日数",
+      "transitDaysAreRequired": "通過日は必須です",
+      "emailAddress": "電子メールアドレス",
+      "currencyName": "通貨名",
+      "price": "価格",
+      "packageQuantity": "梱包数量",
+      "packageUOMQuantity": "パッケージ単位数量",
+      "weightUOM": "重量単位",
+      "selectWeightUOM": "重量単位を選択してください",
+      "totalWeight": "総重量",
+      "totalItemQty": "アイテムの合計数量",
+      "packageDimensions": "パッケージの寸法",
+      "consigneeAddress": "荷受人の住所",
+      "shipperAddress": "荷送人の住所",
+      "shipperPostalCode": "荷主の郵便番号",
+      "pickupDate": "受取日",
+      "effectiveDueDate": "有効期限日",
+      "totalCube": "トータルキューブ",
+      "total": "合計",
+      "bid": "入札",
+      "open": "開ける",
+      "multiStop": "マルチストップ",
+      "notes": "ノート",
+      "shipmentCount": "出荷数",
+      "quantityShipped": "出荷数量",
+      "daysOfWeek": "曜日",
+      "tenderEmailAddress": "入札メールアドレス",
+      "selectAll": "すべて選択",
+      "spotBid": "スポット入札",
+      "mapView": "マップビュー",
+      "changesWillBeLost": "変更は失われます。",
+      "quoteNumber": "見積書番号",
+      "failedToExportShipmentDetails": "出荷詳細のエクスポートに失敗しました。",
+      "createdByFullName": "作成者(フルネーム)",
+      "createByEmailAddress": "作成者 (メールアドレス)",
+      "purchaseOrderNo": "発注書番号",
+      "milageCalculator": "マイレージ計算機",
+      "create": "作成する",
+      "reset": "リセット",
+      "shipper": "荷主",
+      "totalDistance": "総距離",
+      "attachedDocuments": "添付書類",
+      "print": "印刷する",
+      "unsavedChanges": "保存されていない変更は失われます。",
+      "alert": "アラート",
+      "logout": "ログアウト",
+      "approvalRejectionMessage": "承認/拒否メッセージ",
+      "validatingPleaseWait": "検証中です。お待​​ちください...",
+      "redirectURL": "リダイレクトされた URL は現在無効です。URL を確認してください。",
+      "filter": "フィルター",
+      "manageCompany": "会社の管理",
+      "thePageYouVisitedDoesNotExist": "申し訳ありませんが、アクセスしたページは存在しません。",
+      "backHome": "ホームに戻る",
+      "page": "ページ",
+      "kindlyTryAgain": "もう一度お試しください",
+      "hasBeenCreated": " が作成されました。",
+      "toCopyError": "プロジェクトエラーをコピーするには",
+      "shipmentConsolidationFailed": "配送の混載が失敗しました。",
+      "failedToCopyShipmentNo": "出荷番号をコピーできませんでした",
+      "shipmentDeletedSuccessfully": "出荷は正常に削除されました。",
+      "shipmentCreatedSuccessfully": "出荷が正常に作成されました。",
+      "shipmentCreationSuccessfully": "出荷の作成に失敗しました。",
+      "shipmentSend": "スポット入札の発送は成功しました。",
+      "shipmentSendFailed": "スポット入札の発送送信が失敗しました。",
+      "bidderAddedSuccessfully": "入札者が正常に追加されました。",
+      "failedToAddBidder": "入札者の追加に失敗しました",
+      "failedToLoadRate": "レートショップリストの読み込みに失敗しました。",
+      "yourSpotBidHasEnded": "成功！",
+      "failedYourSpotBid": "失敗した！",
+      "failedToDeleteShipments": "出荷の削除に失敗しました。",
+      "shipmentTenderProcessSuccess": "出荷入札プロセスが成功しました。",
+      "shipmentTenderProcessError": "出荷入札プロセスエラー。",
+      "successfullyCalculated": "新しい走行距離が正常に計算されました",
+      "failedToCalculateTheMileage": "走行距離の計算に失敗しました。",
+      "successfullySavedRateShopResults": "レートショップの結果が正常に保存されました。",
+      "failedToSaveRateShopResults": "レートショップの結果を保存できませんでした!",
+      "failedToGetAuditLogs": "監査ログの取得に失敗しました。",
+      "tmsSettingsSuccessfullySaved": "TMS 設定が正常に保存されました。",
+      "copyProjectSuccessfully": "プロジェクトが正常にコピーされました",
+      "failedToSave": "TMS 設定の保存に失敗しました。",
+      "currentlyRatingResults": "現在評価結果がないか、利用できません。",
+      "failedToGetShipment": "発送の詳細を取得できませんでした。後でもう一度お試しください。",
+      "successfullySavedAddressBook": "アドレス帳が正常に保存されました。",
+      "failedToSaveAddressBook": "アドレス帳の保存に失敗しました!",
+      "successfullyDeletedAddressBook": "アドレス帳は正常に削除されました。",
+      "failedToDeleteAddressBook": "アドレス帳の削除に​​失敗しました!",
+      "successfullySavedProduct": "製品が正常に保存されました。",
+      "failedToSaveProduct": "製品を保存できませんでした。",
+      "failedToGetTracking": "追跡の取得に失敗しました",
+      "failedToGetExcelData": "Excelデータの取得に失敗しました",
+      "failedToGetExcelDataDetails": "Excelデータの取得に失敗しました 詳細",
+      "documentEmailsSuccessfullySent": "ドキュメント電子メールが正常に送信されました。",
+      "failedToSendDocumentEmail": "文書メールの送信に失敗しました。",
+      "documentDownloadedSuccessfully": "ドキュメントが正常にダウンロードされました",
+      "failedDocumentRequest": "文書リクエストが失敗しました",
+      "updateTheReferenceAndDockNumberSuccess": "参照とドック番号の更新に成功しました",
+      "failedToUpdateTheReferenceAndDockNumber": "参照番号とドック番号を更新できませんでした。",
+      "successfullySavedITrackDetails": "iTrack の詳細が正常に保存されました。",
+      "failedToSaveITrackDetails": "iTrack の詳細を保存できませんでした。",
+      "updateShipmentNoteSuccess": "出荷通知の更新が成功しました",
+      "failedToUpdateShipmentNote": "出荷メモを更新できませんでした。",
+      "failedToUpdateShipmentDetails": "発送詳細を更新できませんでした。",
+      "updatedShipmentDetailsSuccessfully": "出荷詳細が正常に更新されました",
+      "successfullyDeletedDistributorDetails": "ディストリビューターの詳細が正常に削除されました。",
+      "failedToDeleteDistributorDetails": "ディストリビューターの詳細を削除できませんでした。",
+      "successfullyDeletedRoutingDetails": "ルーティングの詳細が正常に削除されました。",
+      "failedToDeleteRoutingDetails": "ルーティング詳細の削除に失敗しました。",
+      "currentlyNotAbleToGet": "現在アドレス帳データを取得できません。しばらくしてからもう一度お試しください。",
+      "successfullySavedTheQuoted": "見積出荷の詳細が出荷番号とともに正常に保存されました:",
+      "failedSaveTheQuoteShipmentDetails": "見積出荷の詳細を保存できませんでした。",
+      "theUpdatingDataAreInvalid": "更新データが不正です",
+      "successfullyUpdatedTheAccounting": "会計が正常に更新されました",
+      "successfullyUpdatedTheAccountingDetails": "会計の詳細が正常に更新されました",
+      "failedToSaveAccounting": "アカウンティングの保存に失敗しました",
+      "failedToSaveAccountingDetails": "会計詳細の保存に失敗しました",
+      "shipmentHasBeenCreatedSuccessfullyWith": "出荷番号: の出荷が正常に作成されました:",
+      "failedCreateShipment": "出荷の作成に失敗しました。",
+      "failedToGetMilageDetails": "マイレージの詳細を取得できませんでした。",
+      "failedToGetRatesData": "料金データの取得に失敗しました!",
+      "failedToValidateApproval": "承認を検証できませんでした。",
+      "failedToGetApproversList": "承認者リストの取得に失敗しました。",
+      "somethingWentWrong": "何か問題が発生しました!",
+      "shippingLabelHasBeenCreatedSuccessfully": "出荷ラベルは出荷番号とともに正常に作成されました:",
+      "failedToCreateShippingLabel": "配送ラベルの作成に失敗しました。情報を確認して、もう一度お試しください。",
+      "newChildShipmentIsCreated": "新しい子出荷は承認番号で作成されます:",
+      "successfullySentTheApprovalRequestToTheCustomers": "承認リクエストが顧客に正常に送信されました。",
+      "failedToSendTheApprovalRequest": "承認リクエストの送信に失敗しました。",
+      "successfullyAssignedTheTransportationProvider": "輸送プロバイダーが正常に割り当てられました。",
+      "failedToAssignTheTransportationProvider": "トランスポートプロバイダーの割り当てに失敗しました。",
+      "successfullyAddedRateEntry": "レートエントリが正常に追加されました。",
+      "failedToAddRateEntry": "レートエントリの追加に失敗しました。",
+      "failedToValidateRateEntry": "レート入力の検証に失敗しました。",
+      "successfullyDeletedRateEntry": "レートエントリが正常に削除されました。",
+      "failedToRemoveRateEntry": "レートエントリの削除に失敗しました。",
+      "failedToGetMasterChilde": "マスター/チャイルドの発送詳細を取得できませんでした。",
+      "successfullyUpdatedRateEntry": "レートエントリが正常に更新されました。",
+      "failedToUpdateRateEntry": "レートエントリの更新に失敗しました。",
+      "successfullySavedAsShipment": "出荷として正常に保存されました",
+      "failedToSaveAsShipment": "出荷として保存できませんでした。",
+      "failedToGetBranchAddress": "支店アドレスの取得に失敗しました。",
+      "failedToGetShipmentsStopsDetails": "出荷停止の詳細を取得できませんでした。",
+      "packingList": "包装内容明細書",
+      "packingListContents": "包装内容明細書",
+      "billTo": "請求先",
+      "vendorAdress": "ベンダーの住所",
+      "supplierAddress": "サプライヤーの住所",
+      "packageQty": "パッケージ数量",
+      "customRelease": "税関リリース参照:",
+      "referenceDate": "基準日:",
+      "releaseDate": "発売日：",
+      "soldTo": "に売却",
+      "legalText": "法的な文章。",
+      "totalInvoice": "合計請求額:",
+      "insurance": "保険：",
+      "invoiceLine": "請求書明細合計:",
+      "totalAmount": "合計金額",
+      "license": "ライセンス",
+      "htsCode": "HTSコード",
+      "totals": "合計",
+      "generatedPackingList": "パッキングリストファイルが正常に生成されました。",
+      "generateAllSupporting": "すべてのサポート文書を生成する",
+      "sendCopyTo": "コピーを次の宛先に送信します:",
+      "myEmailAddress": "私のメールアドレス",
+      "otherEmailAddress": "その他のメールアドレス",
+      "typeEmailComma": "電子メール アドレスをカンマで区切って入力します",
+      "successfullyLadingPDF": "船荷証券PDFファイルが正常に生成されました。",
+      "failedBillLadingPDFFile": "船荷証券 PDF ファイルの生成に失敗しました。",
+      "commoditiesRequiring": "取り扱いや保管に特別または追加の注意が必要な商品は、通常の注意で安全に輸送できるようにマークを付け、梱包する必要があります。",
+      "whereTheRate": "料金が価値に依存する場合、荷送人は次のように物件の合意または宣言された価値を書面で具体的に述べる必要があります。",
+      "agreedOrDeclared": "物件の合意または宣言された価格が、荷送人によって以下を超えないように明示されている",
+      "cid": "CID",
+      "emailID": "電子メールID",
+      "modal": {
+        "label": "変更は失われます!",
+        "labelTwo": "必ず削除しますか?",
+        "okText": "わかりました"
+      },
+      "shipmentsByServiceType": "サービスタイプ別の出荷数",
+      "startDateAndTime": "開始日時",
+      "updateShipmentSummary": "出荷概要の更新",
+      "pleaseSelectAnyItem": "任意の項目を選択してください。",
+      "pleaseEnterPackageWeight": "パッケージの重量を入力してください",
+      "location": {
+        "label": "位置",
+        "message": "場所を入力してください",
+        "messageMax": "場所は 13 文字を超えてはなりません。"
+      },
+      "contactEmailAddress": {
+        "label": "連絡先メールアドレス"
+      },
+      "portCode": {
+        "label": "ポートコード",
+        "placeholderSelect": "ポートコードの選択",
+        "placeholderEnter": "ポートコードを入力してください"
+      },
+      "customer": {
+        "label": "お客様",
+        "message": "顧客を選択してください"
+      },
+      "scac": {
+        "label": "SCAC",
+        "placeholder": "SCACに入る"
+      },
+      "shipDate": {
+        "label": "出荷日",
+        "message": "発送日を選択してください"
+      },
+      "deleteConfirm": {
+        "title": "本当に削除しますか?"
+      },
+      "internalNotes": {
+        "label": "内部メモ",
+        "placeholder": "社内メモを入力してください"
+      },
+      "pickUpReference": {
+        "label": "ピックアップリファレンス",
+        "message": "ピックアップ参照を入力してください"
+      },
+      "dimUnitOfMeasure": {
+        "label": "DIM 測定単位",
+        "message": "測定単位を選択してください"
+      },
+      "packageType": {
+        "label": "パッケージ型式",
+        "message": "パッケージタイプを選択してください"
+      },
+      "packageID": {
+        "label": "パッケージID",
+        "placeholder": "パッケージIDを入力してください"
+      },
+      "quantity": {
+        "label": "量",
+        "placeholder": "数量を入力してください",
+        "message": "数量を入力してください",
+        "error": "数量は最低 1 である必要があります",
+        "number": "数量は数値でなければなりません。"
+      },
+      "receiptNumber": {
+        "label": "受付番号を選択してください",
+        "placeholder": "受付番号"
+      },
+      "cube": {
+        "label": "キューブ",
+        "placeholder": "キューブを入力してください",
+        "message": "立方体を入力してください",
+        "errorNegative": "キューブには負の値を含めることはできません"
+      },
+      "expectedShipDate": {
+        "label": "発送予定日"
+      },
+      "productDesc": {
+        "label": "製品説明",
+        "placeholder": "製品コードを選択してください",
+        "message": "製品コードを選択してください",
+        "enter": "製品の説明を入力してください",
+        "tooltip": "製品詳細アコーディオンでデフォルトの製品説明を設定します"
+      },
+      "lineNumber": {
+        "label": "行番号"
+      },
+      "incoTerm": {
+        "label": "インコターム",
+        "placeholder": "インコタームを選択",
+        "tooltip": "出荷モジュールに IncoTerm をプリセットします。"
+      },
+      "consigneeCity": {
+        "label": "荷受都市",
+        "placeholder": "荷受人の都市を選択してください"
+      },
+      "consigneeState": {
+        "label": "荷受人の州/県",
+        "placeholder": "荷受人の州/県を選択してください"
+      },
+      "consigneePostalCode": {
+        "label": "荷受人の郵便番号"
+      },
+      "consigneeCountry": {
+        "label": "荷受国",
+        "placeholder": "荷受国を選択してください"
+      },
+      "consigneeName": {
+        "label": "荷受人の名前",
+        "placeholder": "荷受人名を選択してください",
+        "message": "荷受人名を選択してください"
+      },
+      "shipperCity": {
+        "label": "荷主都市",
+        "placeholder": "荷送都市を選択してください",
+        "message": "発送者の都市を入力してください"
+      },
+      "shipperStateProvince": {
+        "label": "荷送人の州/県",
+        "placeholder": "荷送人の州/県を選択してください"
+      },
+      "shipperCountry": {
+        "label": "荷主国",
+        "placeholder": "荷主国を選択してください",
+        "message": "発送国を選択してください"
+      },
+      "deliveryDate": {
+        "label": "配送日",
+        "message": "お届け日を選択してください"
+      },
+      "freightClass": {
+        "label": "貨物クラス",
+        "placeholder": "貨物クラスを選択してください",
+        "tooltip": "製品詳細アコーディオンでデフォルトの貨物クラスを設定します"
+      },
+      "shipmentNumber": {
+        "label": "出荷番号",
+        "placeholder": "出荷番号を入力してください"
+      },
+      "shipmentTerms": {
+        "label": "出荷条件",
+        "message": "配送条件を選択してください",
+        "option_c": "集める",
+        "option_p": "プリペイド",
+        "option_t": "第三者",
+        "placeholder": "配送条件を選択してください",
+        "tooltip": "出荷に関するデフォルトの出荷条件を設定します"
+      },
+      "transportationProvider": {
+        "label": "交通機関",
+        "selectPlaceholder": "交通機関の選択",
+        "message": "交通機関は必須です",
+        "select": "交通機関を選択してください",
+        "email": "電子メールが交通機関プロバイダーに正常に送信されました",
+        "emailError": "交通機関へのメール送信に失敗しました"
+      },
+      "vendorName": {
+        "label": "業者名",
+        "placeholder": "ベンダー名を選択してください",
+        "message": "ベンダーを選択してください"
+      },
+      "companyName": {
+        "label": "会社名",
+        "placeholder": "会社名を入力してください",
+        "selectPlaceholder": "会社名を選択してください",
+        "message": "会社名を入力してください"
+      },
+      "companyAddress": {
+        "label": "会社住所",
+        "placeholder": "会社住所を入力してください",
+        "message": "会社住所を入力してください"
+      },
+      "country": {
+        "label": "国",
+        "placeholder": "国を選択",
+        "message": "国を選択してください"
+      },
+      "address": {
+        "label": "住所",
+        "message": "住所を入力してください"
+      },
+      "postalCode": {
+        "label": "郵便番号",
+        "placeholder": "郵便番号を入力してください",
+        "selectPlaceholder": "郵便番号を選択してください",
+        "message": "郵便番号を入力してください",
+        "selectMessage": "郵便番号を選択してください",
+        "error": "入力した郵便番号が無効であるか、選択した国で見つかりませんでした。",
+        "invalid": "郵便番号が無効です!",
+        "zip": "郵便番号を入力してください",
+        "zipPostal": "郵便番号",
+        "enter": "郵便番号を入力してください。"
+      },
+      "stateProvince": {
+        "label": "州/県",
+        "placeholder": "州/県を選択してください",
+        "message": "州/県を選択してください"
+      },
+      "from": {
+        "label": "から",
+        "placeholder": "曜日を選択してください"
+      },
+      "to": {
+        "label": "に",
+        "placeholder": "曜日を選択してください"
+      },
+      "city": {
+        "label": "市",
+        "placeholder": "都市を選択してください",
+        "message": "市区町村を入力してください",
+        "enter": "都市を入力してください",
+        "select": "都市を選択してください"
+      },
+      "state": {
+        "label": "州",
+        "message": "州を選択してください",
+        "placeholder": "州を選択してください",
+        "city": "市"
+      },
+      "contactName": {
+        "label": "連絡先",
+        "message": "連絡先名を入力してください"
+      },
+      "contactEmail": {
+        "label": "連絡先メールアドレス",
+        "required": "連絡先メールアドレスを入力してください",
+        "message": "入力した値は電子メール形式ではありません。"
+      },
+      "containerNumber": {
+        "label": "コンテナ番号"
+      },
+      "trackingNumber": {
+        "label": "追跡番号",
+        "placeholder": "追跡番号を入力してください"
+      },
+      "createdOn": {
+        "title": "作成日",
+        "placeholder": "日付を選択してください",
+        "shipmentCreatedOn": "出荷の作成日"
+      },
+      "branch": {
+        "label": "支店",
+        "message": "支店を選択してください",
+        "placeholder": "ブランチの選択"
+      },
+      "sortBy": {
+        "label": "並べ替え",
+        "select": "「並べ替え基準」を選択します"
+      },
+      "reason": {
+        "label": "理由",
+        "placeholder": "理由を選択してください",
+        "message": "理由を選択してください"
+      },
+      "shipmentType": {
+        "placeholder": "出荷タイプを選択してください",
+        "label": "出荷タイプ",
+        "message": "配送タイプを選択してください"
+      },
+      "accessorial": {
+        "label": "付属品",
+        "placeholder": "付属品を選択してください"
+      },
+      "product": {
+        "label": "製品",
+        "placeholder": "製品の選択"
+      },
+      "locationID": {
+        "label": "ロケーションID",
+        "placeholder": "ロケーションIDの選択"
+      },
+      "serviceLevel": {
+        "label": "サービスレベル",
+        "placeholder": "サービスレベルの選択"
+      },
+      "appointmentType": {
+        "label": "予約の種類",
+        "placeholder": "予約の種類を選択してください",
+        "message": "予定のタイプを入力してください",
+        "choose": "予約の種類を選択してください。"
+      },
+      "cargoType": {
+        "label": "貨物の種類",
+        "placeholder": "貨物の種類を選択してください",
+        "message": "貨物の種類を選択してください",
+        "required": "貨物の種類は必須です"
+      },
+      "accountNumber": {
+        "label": "口座番号",
+        "placeholder": "口座番号を選択してください",
+        "message": "口座番号を入力してください",
+        "select": "口座番号を選択してください"
+      },
+      "shipmentBranch": {
+        "label": "出荷支店",
+        "placeholder": "出荷支店を選択してください",
+        "message": "発送支店を選択してください"
+      },
+      "portName": {
+        "label": "ポート名",
+        "placeholder": "検索ポート名",
+        "select": "ポート名の選択",
+        "message": "ポート名を選択してください",
+        "enter": "ポート名を入力してください"
+      },
+      "currency": {
+        "label": "通貨",
+        "placeholder": "通貨の選択",
+        "message": "通貨は必須です"
+      },
+      "customerName": {
+        "label": "顧客名",
+        "placeholder": "顧客名を選択してください",
+        "placeholderEnter": "顧客名を選択してください"
+      },
+      "equipmentType": {
+        "label": "機器の種類",
+        "placeholder": "機器タイプの選択",
+        "message": "機器のタイプは必須です"
+      },
+      "linerType": {
+        "label": "ライナータイプ",
+        "placeholder": "ライナーの種類を選択してください"
+      },
+      "measurementUit": {
+        "label": "測定単位",
+        "placeholder": "測定単位の選択"
+      },
+      "packageLoadType": {
+        "label": "パッケージロードタイプ",
+        "placeholder": "パッケージロードタイプの選択",
+        "message": "パッケージロードタイプを選択してください"
+      },
+      "palletLoadType": {
+        "label": "パレット積載タイプ",
+        "placeholder": "パレット積載タイプの選択",
+        "option": "積み重ね可能",
+        "optionNon": "積み重ね不可"
+      },
+      "paymentType": {
+        "label": "払いの種類",
+        "placeholder": "支払いタイプを選択してください"
+      },
+      "portType": {
+        "label": "ポートの種類",
+        "placeholder": "ポートタイプの選択",
+        "search": "検索ポートの種類",
+        "message": "ポートタイプを選択してください"
+      },
+      "pricingBasis": {
+        "label": "価格基準",
+        "placeholder": "価格基準の選択"
+      },
+      "pricingType": {
+        "label": "価格タイプ",
+        "placeholder": "価格タイプの選択",
+        "message": "価格タイプを選択してください"
+      },
+      "unitOfMeasurement": {
+        "label": "測定の単位",
+        "placeholder": "測定単位の選択"
+      },
+      "projectName": {
+        "label": "プロジェクト名",
+        "placeholder": "プロジェクト名を選択してください",
+        "messageError": "プロジェクト名を入力してください",
+        "messageExist": "プロジェクト名はすでに存在します。"
+      },
+      "poStatus": {
+        "label": "注文書ステータス",
+        "placeholder": "POステータスを選択してください",
+        "option_o": "開ける",
+        "option_c": "完了しました",
+        "option_d": "削除されました"
+      },
+      "ratingPreferences": {
+        "label": "評価設定",
+        "placeholder": "評価設定を選択します"
+      },
+      "category": {
+        "label": "カテゴリー",
+        "placeholder": "カテゴリを選んでください"
+      },
+      "categoryType": {
+        "label": "カテゴリの種類",
+        "placeholder": "カテゴリタイプの選択",
+        "message": "カテゴリタイプを選択してください"
+      },
+      "userName": {
+        "label": "ユーザー名",
+        "placeholder": "ユーザー名を選択してください",
+        "message": "ユーザー名を選択してください"
+      },
+      "shipmentCreatedBy": {
+        "email": "電子メールを選択"
+      },
+      "shipperName": {
+        "label": "荷送人名",
+        "placeholder": "配送業者名を選択してください",
+        "message": "配送業者名を選択してください"
+      },
+      "exceptionType": {
+        "label": "例外の種類",
+        "placeholder": "例外タイプの選択"
+      },
+      "status": {
+        "label": "状態",
+        "placeholder": "ステータスの選択",
+        "message": "ステータスを選択してください"
+      },
+      "locationType": {
+        "label": "場所の種類",
+        "placeholder": "場所のタイプを選択してください"
+      },
+      "class": {
+        "label": "クラス",
+        "placeholder": "クラスの選択"
+      },
+      "hazmatClass": {
+        "label": "危険物クラス",
+        "placeholder": "危険物クラスの選択"
+      },
+      "routingType": {
+        "label": "ルーティングの種類",
+        "placeholder": "ルーティングタイプの選択"
+      },
+      "hours": {
+        "label": "時間",
+        "placeholder": "時間を選択してください",
+        "message": "時間を選択してください"
+      },
+      "supplier": {
+        "label": "サプライヤー",
+        "placeholder": "サプライヤーの選択"
+      },
+      "taxType": {
+        "label": "税の種類",
+        "placeholder": "税の種類を選択してください"
+      },
+      "tenderName": {
+        "label": "入札名",
+        "placeholder": "入札者名を選択してください"
+      },
+      "timeZone": {
+        "label": "タイムゾーン",
+        "placeholder": "タイムゾーンの選択",
+        "message": "営業時間を選択してください"
+      },
+      "userType": {
+        "label": "ユーザータイプ",
+        "placeholder": "ユーザータイプの選択",
+        "enter": "ユーザータイプを入力してください。"
+      },
+      "weightMeasurement": {
+        "label": "体重測定",
+        "placeholder": "体重測定を選択"
+      },
+      "authorisedSignature": "承認された署名",
+      "company": "会社",
+      "title": "タイトル",
+      "telephoneNumber": "電話番号"
+    },
+    "notification": {
+      "messages": "メッセージ",
+      "recentActivities": "最近の活動",
+      "errorMessages": "エラーメッセージ",
+      "failedUpdateClaimsDetails": "請求の詳細を更新できませんでした",
+      "sessionExpired": "セッションの有効期限が切れました。再ログインしてください。",
+      "failedTrackingDetails": "追跡詳細の取得に失敗しました",
+      "failedCarrierDetails": "通信事業者の詳細を取得できませんでした。",
+      "shipmentCancelled": "発送は正常にキャンセルされました",
+      "timeoutIssue": "タイムアウトの問題",
+      "parcelExpressSaga": "宅配便の物語",
+      "failedToGetData": "データの取得に失敗しました!",
+      "routingDetails": "ルーティングの詳細",
+      "failedTo": "に失敗しました",
+      "distributorDetails": "販売代理店の詳細",
+      "updated": "更新しました",
+      "created": "作成した",
+      "successfully": "成功しました",
+      "successfullyUpdated": "正常に更新されました",
+      "errorWithCode0": "コード0のエラー",
+      "shipmentsFollowing": "発送は次の発送番号で混載されます。",
+      "successfullyCopied": "で正常にコピーされました",
+      "failed": "失敗した",
+      "success": "成功",
+      "copyTender": "入札書のコピーが成功しました",
+      "copyTenderError": "入札エラーをコピーするには",
+      "purchaseOrderCreated": "注文書が正常に作成されたことを確認する",
+      "claimsDetailsFailed": "請求の詳細を取得できませんでした",
+      "claimsDeletedFailed": "クレームの削除に失敗しました。",
+      "claimsDeleted": "申し立ては正常に削除されました。",
+      "failedShippingLabelPDF": "配送ラベル PDF ファイルの生成に失敗しました。",
+      "failedGgeneratePDF": "PDFの生成に失敗しました",
+      "shippingLabelPDF": "配送ラベル PDF ファイルが正常に生成されました。",
+      "carrierDataFailed": "キャリアデータに失敗しました。",
+      "portDataFailed": "データの移植に失敗しました。",
+      "postalDataFailed": "データの送信に失敗しました。",
+      "userProfileImage": "ユーザープロフィール画像が更新されました",
+      "shipmentStatusFailed": "発送状況の確認に失敗しました！",
+      "userPreferenceFailed": "ユーザー設定の取得に失敗しました",
+      "preferenceUpdatedFailed": "設定の更新に失敗しました",
+      "preferenceUpdated": "設定が正常に更新されました",
+      "passwordUpdatedFailed": "パスワードの更新に失敗しました",
+      "passwordUpdated": "パスワードが正常に更新されました",
+      "userProfileUpdated": "ユーザープロフィールが更新されました",
+      "bidSubmitted": "入札は正常に送信されました。",
+      "bidNotSubmitted.": "入札は提出されていません。",
+      "email": "有効な電子メールを入力してください。",
+      "numeric": "数字のみを入力してください",
+      "problemWithDownloading": "ダウンロードに問題があります!",
+      "emptyList": "空のリスト",
+      "leastOneItem": "続行するには少なくとも 1 つの項目を入力してください。",
+      "emptySelect": "データを取得するために何かを検索します...",
+      "noRecondfound": "Recon が見つかりません。",
+      "itSeems": "そうみたいです",
+      "trackingNumber": " 有効な追跡番号ではありません",
+      "successfulyGeneratedCommercial": "商用請求書ファイルが正常に生成されました。",
+      "failedToGenerateCommercialInvoiceFile.": "コマーシャルインボイスファイルの生成に失敗しました。",
+      "COOPDF": "COO PDF ファイルが正常に生成されました。",
+      "failedCOOPDF": "COO PDF ファイルの生成に失敗しました。"
+    },
+    "emptyRecords": {
+      "title": "フィルターを調整してみてください。",
+      "descriptionOne": "入力した詳細に基づくデータはありませんでした。",
+      "descriptionTwo": "フィルターを調整してみてください。"
+    }
+  },
+  "parcelExpress": {
+    "serviceType": "サービスの種類",
+    "transitTime": "通過時間(日)",
+    "billingWeight": "請求重量",
+    "charges": "料金",
+    "action": "アクション",
+    "baseCharges": "基本料金",
+    "totalSurcharges": "追加料金総額",
+    "totalDiscount": "合計割引",
+    "netCharges": "正味料金",
+    "savePrintLabel": "保存",
+    "note": "注記",
+    "severity": "重大度",
+    "alertMessage": "警告メッセージ",
+    "triggerNotification": {
+      "default": "料金を確認するには、運送業者を選択してください。",
+      "packages": "パッケージが空です。最低 1 つのパッケージで再試行してください。",
+      "reject": "通信事業者が選択されていません",
+      "packagesReject": "パッケージは空です！"
+    },
+    "titles": {
+      "parcelExpress": "パーセルエクスプレス",
+      "shipmentInformation": "出荷情報",
+      "shipmentsByService": "サービスタイプ別の出荷数",
+      "originDestinationInformation": "出発地・目的地情報",
+      "packageDetails": "パッケージの詳細",
+      "additionalServices": "追加サービス",
+      "total": "今年の総支出額",
+      "service": "サービス障害"
+    },
+    "buttons": {
+      "addPackage": "パッケージの追加",
+      "deletePackage": "パッケージの削除"
+    },
+    "locationForm": {
+      "datePickerMessage": "発送日を選択してください",
+      "countryCallingCode": {
+        "label": "国番号"
+      },
+      "number": {
+        "required": "連絡先番号を入力してください",
+        "number_error": "連絡先番号は数字のみにしてください。",
+        "digits_error": "連絡先番号は10桁の数字のみにしてください。"
+      },
+      "ext": "内線"
+    },
+    "packageForm": {
+      "itemNo": "商品番号",
+      "noOfPackages": {
+        "label": "パッケージ数",
+        "message": "パッケージ数を入力してください"
+      },
+      "chargeableWeight": {
+        "label": "充電可能重量",
+        "message": "充電可能な重量を入力してください"
+      },
+      "unit": {
+        "label": "ユニット",
+        "message": "単位単位を選択してください",
+        "dimension_message": "寸法単位を選択してください"
+      },
+      "length": {
+        "message": "長さを入力してください"
+      },
+      "width": {
+        "message": "幅を入力してください"
+      },
+      "height": {
+        "message": "身長を入力してください"
+      }
+    },
+    "additionalForm": {
+      "residentialDelivery": "住宅への配達",
+      "insurance": "保険",
+      "declaredValue": {
+        "label": "宣言値",
+        "placeholder": "宣言値を入力してください"
+      }
+    },
+    "serviceBarChart": "サービス",
+    "totalSpend": " 交通機関別の今年の支出総額"
+  },
+  "visibility": {
+    "filters": {
+      "titles": {
+        "shipmentSearch": "出荷検索",
+        "byOrigin": "出発地と目的地による貨物の検索",
+        "byOrder": "注文詳細による出荷検索"
+      },
+      "shipmentSearch": {
+        "shipmentType": {
+          "label": "出荷タイプ",
+          "optionOpen": "開ける",
+          "optionClosed": "閉まっている"
+        },
+        "pickupDate": {
+          "title": "受取日",
+          "placeholder": "日付を選択してください"
+        },
+        "itnNumber": {
+          "label": "ITN/ISF/AES番号"
+        }
+      }
+    },
+    "header": {
+      "title": "可視性",
+      "errorNotification": "ドキュメント電子メールの送信に失敗しました!",
+      "downloadLabel": "PDFをダウンロード",
+      "printLabel": "PDFを印刷する",
+      "emailLabel": "PDFをメールで送信",
+      "sendEmailTitle": "交通機関にメールを送信する",
+      "sendEmailSubtitle": "追跡詳細 ",
+      "documents": "書類",
+      "sendEmailSubject": {
+        "label": "主題"
+      },
+      "sendEmailAddress": {
+        "placeholder": "電子メールアドレス*",
+        "errorMessage": "メールアドレスを入力してください。"
+      },
+      "sendEmailComments": {
+        "label": "コメント",
+        "placeholder": "コメント"
+      },
+      "notificationSendEmailError": "文書の電子メールの送信に失敗しました。",
+      "exportForm": {
+        "title": "可視性情報",
+        "createOn": "作成日",
+        "exportExcel": "可視性エクスポート Excel"
+      },
+      "exportPDF": {
+        "shipment": {
+          "title": "発送詳細",
+          "transitServiceStandard": "交通サービス標準: ",
+          "actualTransitDays": " 実際の輸送日数: ",
+          "shipmentIdentifier": "出荷識別子: ",
+          "billOfLadingNumber": "船荷証券番号: ",
+          "flightVoyageNumber": "フライト/航海番号: ",
+          "expShipDate": "賞味期限発送日: ",
+          "vessel": "容器： ",
+          "xpDeliveryDate": "特急配送日: ",
+          "sealNumber": "シール番号： ",
+          "vendorName": "業者名： ",
+          "itNisFaeSNo": "ITN/ISF/AES番号: ",
+          "carrierName": "キャリア名： ",
+          "shipmentNote": "出荷メモ: ",
+          "po": "PO "
+        },
+        "product": {
+          "title": "商品情報",
+          "productDescription": " 製品説明",
+          "billedQty": "請求数量",
+          "l": "L",
+          "w": "W",
+          "h": "H",
+          "dimUOM": "ディム単位",
+          "soNumber": "SO番号"
+        },
+        "shipper": {
+          "title": "荷主情報",
+          "address1": "住所（1",
+          "address2": "アドレス2",
+          "postal": "郵便",
+          "contact": "連絡先の名前/電話番号",
+          "appointmentNumber": "予約番号",
+          "dockNumber": "ドック番号"
+        },
+        "consignee": {
+          "title": "荷受人情報",
+          "address1": "住所（1",
+          "address2": "アドレス2",
+          "postal": "郵便",
+          "contact": " 連絡先の名前/電話番号",
+          "appointmentNumber": " 予約番号",
+          "dockNumber": "ドック番号",
+          "totalPalletCount": "総パレット数"
+        },
+        "tracking": {
+          "title": "追跡ステータスの詳細",
+          "date": "ステータスの日付/時刻",
+          "location": "位置",
+          "etaDate": "イータ日"
+        }
+      },
+      "visibilityExport": "可視性のエクスポート"
+    },
+    "minCard": {
+      "trackingStatusType": "追跡ステータスの種類",
+      "shipDate": "荷送人が希望した出荷日"
+    },
+    "detailCard": {
+      "tabs": {
+        "general": "一般的な",
+        "tracking": "追跡ステータスの詳細",
+        "details": "詳細",
+        "productInfo": "商品情報"
+      },
+      "generalTab": {
+        "title": "一般的な",
+        "shipmentDetail": "発送詳細",
+        "shipmentMode": "出荷モード",
+        "multiShop": "マルチショップ",
+        "shipperDetails": "荷主の詳細",
+        "shipperContact": "荷送人の連絡先詳細",
+        "appointmentNo": "予約番号",
+        "dockNo": "ドック番号/確認番号",
+        "consigneeDetails": "荷受人の詳細",
+        "consigneeContact": "荷受人の連絡先詳細",
+        "shipmentLocation": "出荷場所",
+        "trackingDetails": "追跡の詳細",
+        "trackingStatus": "追跡ステータス",
+        "trackingStatusType": "追跡ステータスの種類",
+        "transporterPlannedShipDate": "運送業者の出荷予定日",
+        "transporterPlannedDeliveryDate": "運送業者の配達予定日",
+        "eventOccurrence": "イベント発生日時",
+        "shipperRequestedShipDate": "荷送人が希望した出荷日",
+        "shipmentDetails": "発送詳細",
+        "shipperRequstedShipDate": "荷送人が希望した出荷日",
+        "shipperRequstedDeliveryDate": "荷主希望配達日",
+        "eventOccurrenceDate": " イベント発生日時"
+      },
+      "notesTab": {
+        "createdBy": "によって作成された ：",
+        "createdOn": "作成日:",
+        "editedBy": "によって編集 ：",
+        "editedOn": "編集日:"
+      },
+      "detailsTab": {
+        "title": "詳細",
+        "portOfOrigin": "原産地",
+        "portOfDischarge": "荷揚げ港",
+        "houseBill": "下院船荷証券番号",
+        "actualTransitDays": "実際の輸送日数",
+        "interlineRoutingSequence": "インターラインルーティングシーケンス",
+        "interlineSCAC": "インターラインSCAC",
+        "vessel": "容器",
+        "flightVoyageNumber": "フライト/航海番号",
+        "sealNumber": "シール番号",
+        "itNisFaeSNumber": "ITN/ISF/AES番号"
+      },
+      "productInfoTab": {
+        "title": "商品情報",
+        "productCode": "製品コード ：",
+        "productDescription": "製品説明",
+        "grossWeight": "総重量"
+      },
+      "fileDetailsTab": {
+        "fileComments": {
+          "label": "ファイルのコメント",
+          "placeholder": "ファイルのコメント"
+        },
+        "referenceNo": {
+          "label": "サポート文書参照番号",
+          "placeholder": "サポート文書参照番号"
+        }
+      }
+    },
+    "footer": {
+      "totalShipments": "総出荷数",
+      "openShipments": "オープン出荷",
+      "closedShipments": "出荷完了",
+      "exceptions": "例外"
+    },
+    "trackingStatusInfo": {
+      "trackingStatus": {
+        "label": "追跡ステータス",
+        "placeholder": "追跡ステータスを選択してください",
+        "message": "追跡ステータスを選択してください"
+      },
+      "trackingStatusType": {
+        "label": "追跡ステータスの種類",
+        "placeholder": "追跡ステータスのタイプを選択します"
+      }
+    },
+    "containerNumbershouldbe": " はコンテナ番号ではありません。XXXU1234567 のようになります。",
+    "youOnlyhave": "あなただけが持っています",
+    "charactersRequired": " ただし少なくとも 5 文字は必要です",
+    "invalidProvider": "無効なプロバイダー"
+  },
+  "shipmentAdd": {
+    "totalPieces": "合計個数",
+    "consolidate": "統合する",
+    "shipmentToDisplayOnMap": "地図上に表示する貨物",
+    "productRepository": {
+      "title": "製品リポジトリに追加",
+      "description": "この製品を製品リポジトリに保存しますか?"
+    },
+    "titles": {
+      "details": "発送詳細",
+      "transportation": "交通詳細",
+      "vendor": "ベンダーの詳細",
+      "bill": "請求先",
+      "category": "カテゴリ詳細",
+      "accounting": "付属品と税金"
+    },
+    "notifications": {
+      "barcodeElementNotfound": "バーコード要素が見つかりません",
+      "generatedBarcodeOnly": "生成されたバーコードのみ",
+      "costIsRequired": "費用が必要です",
+      "standardTransitDaysIsRequired": "標準的な輸送日数が必要です",
+      "pickupDeliveryLocations": "出荷輸送には、少なくとも 1 つの集配場所と配送場所が必要です。",
+      "pickupLocation": "出荷輸送には少なくとも 1 つの集荷場所が必要です。",
+      "minimumDeliveryLocation": "出荷輸送には少なくとも 1 つの配送場所が必要です。",
+      "productRequired": "製品の詳細には、少なくとも 1 つの製品が必要です。",
+      "fixAccountingSection": "会計セクションの検証の問題を修正してください。"
+    },
+    "shipmentScreen": {
+      "checkingApproval": "出荷承認プロセスを確認しています...",
+      "approvalNumber": "承認番号",
+      "masterShipment": "マスター出荷"
+    },
+    "shipmentDetails": {
+      "rateShopResults": "ショップの結果を評価する",
+      "iTrack": "iTrack",
+      "trackingDetails": "追跡の詳細",
+      "warningModalInternalTracking": "現在、このレコードの追跡データは存在しません。",
+      "emptyRecords": "通信事業者からアップデートが届くまでしばらくお待ちください。",
+      "checking": "PO、SO、PaidBy の可視性をチェックしています...",
+      "freightBillProNumber": {
+        "label": "運賃請求書/プロ番号"
+      },
+      "masterBillOfLandingNumber": {
+        "label": "マスター船荷証券番号"
+      },
+      "purchaseOrders": {
+        "label": "注文書",
+        "message": "注文書を入力してください。"
+      },
+      "salesOrders": {
+        "label": "販売注文"
+      },
+      "paidBy": {
+        "label": "によって支払われました",
+        "placeholder": "Aを選択してください"
+      },
+      "amount": {
+        "label": "額",
+        "placeholder": "額"
+      },
+      "paidPercentage": {
+        "label": "支払われた割合:",
+        "placeholder": "パーセンテージ"
+      },
+      "of": {
+        "placeholder": "％ の"
+      },
+      "freeOnBoard": {
+        "label": "機内無料",
+        "placeholder": "「無料オンボード」を選択してください"
+      },
+      "customerAccountNumber": {
+        "label": "顧客口座番号"
+      },
+      "incotermNamedPlace": {
+        "label": "インコタームの名前付き場所"
+      }
+    },
+    "transportationDetails": {
+      "addingNewStopIs": "新しいストップの追加は、",
+      "modifyingStopIs": "ストップの変更は",
+      "deletingStopIs": "ストップの削除は",
+      "trackContainer": "トラックコンテナ",
+      "shipmentCity": "出荷都市",
+      "shipmentStateProvince": "出荷先の州/県",
+      "shipmentCountry": "出荷国",
+      "receivedDateEST": "受け取った日付",
+      "selectDate": "日付を選択してください",
+      "eventOccurrenceDateLocal": "ローカルでのイベント発生日時",
+      "transporterRequestedDeliveryDate": "運送業者の希望配達日",
+      "transporterRequestedShipDate": "運送業者の希望出荷日",
+      "shipperRequestedDeliveryDate": "荷送人が希望する配達日",
+      "shipperRequestedShipDate": "荷送人が希望した出荷日",
+      "transportationProviderReferenceNo": "交通機関の参照番号",
+      "actual": "実際の",
+      "dateTime": "日付",
+      "requestedDateTime": "依頼日",
+      "appointmentDateTime": "予約日",
+      "delivery": "配達",
+      "totalMiles": "総マイル数",
+      "addStops": "停留所の追加",
+      "addressBookDescription": "このアドレスをアドレス帳に保存しますか?",
+      "addToAddressBook": "アドレスブックに加える",
+      "number": {
+        "placeholder": "番号"
+      },
+      "ext": {
+        "placeholder": "内線"
+      },
+      "stopType": {
+        "label": "停止タイプ",
+        "placeholder": "停止タイプの選択",
+        "message": "停止タイプを選択してください"
+      },
+      "stopNo": {
+        "label": "停留所番号",
+        "placeholder": "ストップ番号を選択してください",
+        "message": "停止場所を選択してください"
+      },
+      "appointmentNumber": {
+        "label": "予約番号",
+        "placeholder": "予約番号を入力してください。"
+      },
+      "dockConfirmationNumber": {
+        "label": "ドック/確認番号"
+      },
+      "taxIdVat": {
+        "label": "納税者番号/付加価値税"
+      }
+    },
+    "productDetails": {
+      "freightClassCalculator": "貨物クラス計算ツール",
+      "copyLastProduct": "最後の製品詳細エントリをコピー",
+      "createNewProduct": "新しい製品を作成する",
+      "chargeableWeight": {
+        "label": "充電可能重量",
+        "message": "充電可能な重量を入力してください",
+        "error": "チャージ可能な重量は数値である必要があります。",
+        "minError": "チャージ可能な重量は最低 1 である必要があります"
+      },
+      "packageBilledQuantity": {
+        "message": "パッケージ/請求数量を入力してください",
+        "error": "パッケージ/請求数量は数値である必要があります。",
+        "minError": "パッケージ/請求数量は少なくとも 1 である必要があります"
+      },
+      "length": {
+        "message": "長さを入力してください",
+        "error": "長さは数値でなければなりません。",
+        "minError": "長さは最小 1 にする必要があります"
+      },
+      "width": {
+        "message": "幅を入力してください",
+        "error": "幅は数値でなければなりません。",
+        "minError": "幅は最小 1 にする必要があります"
+      },
+      "height": {
+        "message": "身長を入力してください",
+        "error": "高さは数値でなければなりません。",
+        "minError": "高さは最低 1 である必要があります"
+      },
+      "hazmatUnNumber": {
+        "label": "危険物国連番号"
+      },
+      "saidToContain": {
+        "label": "含まれていると言われています"
+      },
+      "purchaseOrders": {
+        "label": "注文書",
+        "message": "注文書を入力してください。"
+      },
+      "salesOrders": {
+        "label": "販売注文"
+      },
+      "lineItemNumber": {
+        "label": "品目番号"
+      },
+      "htsCode": {
+        "label": "HTSコード"
+      },
+      "nmfcNumber": {
+        "label": "NMFC番号"
+      }
+    },
+    "rateShopDetails": {
+      "assignTransportationProvider": "交通機関の割り当て",
+      "preferredTransportationProvider": {
+        "label": "優先交通機関",
+        "placeholder": "優先交通機関を選択してください",
+        "message": "ご希望の交通機関を選択してください"
+      },
+      "warningModalFilter": "製品数量、請求数量、および請求可能重量を空白または 0 にすることはできません",
+      "standrardTransitDays": "標準通過日数",
+      "rateEntry": "レートエントリー",
+      "rateShopResults": "ショップの結果を評価する",
+      "tenderEmail": "続行するには、入札メールを少なくとも 1 つ選択してください。",
+      "adminEmail": "管理者のメールアドレス",
+      "doNotSendTenderEmail": "入札メールを送信しないでください",
+      "doNotSendBillOfLading": "船荷証券を送らないでください",
+      "tenderList": "入札リスト",
+      "shipperInformation": "荷主情報",
+      "shipperEmailAddress": "配送業者のメールアドレス",
+      "sendEmailToShipper": "配送業者にメールを送信",
+      "assignTansportationProvider": "ご入札前に必ず運送業者をご指定下さい",
+      "ratesCantBe": "料金はこれより古いものにすることはできません",
+      "rateShipment": "入札までの日数。",
+      "failedRateShopResults": "レートショップの結果を取得できませんでした。",
+      "filedTosaveRatingDetails": "評価の詳細を保存できませんでした。",
+      "selectTransportationProvider": "最初に交通機関を選択してください",
+      "failedAssignTransportationProvider": "トランスポートプロバイダーの割り当てに失敗しました。",
+      "warningModal": "発送はすでに入札されています。",
+      "tenderInformation": "入札情報",
+      "rateShopSearch": "料金ショップ検索",
+      "rateShopDetails": "料金ショップの詳細",
+      "emptyRecords": {
+        "title": "現時点では評価の詳細は利用できません。後でもう一度お試しください。"
+      },
+      "standardTransitDays": "標準輸送日数",
+      "bidExpiryDate": "入札期限",
+      "days": "日々",
+      "convertedCost": "換算コスト",
+      "serviceDescription": {
+        "label": "サービスの説明"
+      },
+      "equipmentTypeDetail": {
+        "label": "機器の種類の詳細"
+      },
+      "userSubmitted": {
+        "label": "ユーザーが送信しました"
+      },
+      "bidComment": {
+        "label": "入札コメント"
+      },
+      "spotQuoteNumber": {
+        "label": "スポット見積番号"
+      }
+    },
+    "vendorDetails": {
+      "title": "ベンダーの詳細",
+      "addNewVendor": "新しいベンダーを追加",
+      "confirmationModal": {
+        "okText": "わかりました",
+        "updateToDelivered": "出荷追跡ステータスを「配達済み」に更新しますか?",
+        "deliveredConfirmation": "配信済み確認",
+        "acknowledgedConfirmation": "承認済みの確認",
+        "updateToShipmentAcknowledged": "出荷追跡ステータスを出荷確認済みに更新しますか?"
+      },
+      "updateToShipmentAcknowledged": {
+        "acknowledgedConfirmation": "承認済みの確認",
+        "description": "出荷追跡ステータスを出荷確認済みに更新しますか?",
+        "okText": "わかりました"
+      },
+      "alertModalDescription": {
+        "notStatus": "入札または自動入札ステータスではありません",
+        "unableToUpdateShipmentNew": "「輸送中」または「保留にキャンセル」ステータスの出荷を更新できません。",
+        "shipmentNoUpdatedNew": "出荷のステータスが自動入札、入札、確認済み、輸送中である場合、出荷を新規に更新することはできません。",
+        "shipmentNoUpdatedPlanning": "出荷のステータスが自動入札、入札、確認済み、輸送中である場合、出荷を計画に更新することはできません。",
+        "unableToUpdateShipmentAutoRoute": "出荷ステータスが「入札」、「自動入札」、「輸送中」、「確認済み」、「クローズ」の場合、出荷を自動ルートステータスに更新できません。",
+        "unableToUpdateShipmentRateError": "ステータスが新規、スポット入札、またはスポット入札終了でない場合、出荷をレートエラーに更新することはできません。",
+        "shipmentStatusAutoTendered": "出荷のステータスは、自動入札、入札、確認済み、保留、輸送中、またはキャンセル予定である必要があります。"
+      },
+      "statusMessage": "ステータスメッセージ",
+      "addingNewVendorIs": "新しいベンダーを追加するには、",
+      "modifyingVendorIs": "ベンダーを変更するのは、",
+      "deletingVendorIs": "ベンダーの削除は、"
+    },
+    "billingDetails": {
+      "vatNumber": {
+        "label": "VAT番号",
+        "placeholder": "VAT番号を入力してください"
+      }
+    },
+    "categoryDetails": {
+      "addNewCategory": "新しいカテゴリを追加",
+      "subCategory": {
+        "label": "サブカテゴリ",
+        "placeholder": "サブカテゴリを選択してください"
+      }
+    },
+    "accountingDetails": {
+      "showItem": "価値のある項目を表示します",
+      "startWith": "皮切りに",
+      "isEqualto": "と等しい",
+      "taxDetails": "税金の詳細",
+      "addNewTax": "新しい税金を追加する",
+      "addNewAccessorial": "新しい付属品料金の追加",
+      "accessorialDetails": "付属品の詳細",
+      "taxAmount": {
+        "label": "課税額"
+      }
+    },
+    "documentDetails": {
+      "fileName": "ファイル名 ：",
+      "supportingDocument": {
+        "label": "サポート文書参照番号",
+        "placeholder": "サポート文書参照番号を入力してください"
+      }
+    },
+    "spotBid": {
+      "selectDate": "日付を選択してください",
+      "doNotSendEmail": "電子メールを送信しないでください",
+      "resetSpotBid": "スポット入札をリセット",
+      "routingSpotBidList": "ルーティングスポット入札リスト",
+      "addBidder": "入札者の追加",
+      "submitSpotBidTocarriers": "通信事業者にスポット入札を送信してみてください",
+      "expirationTime": {
+        "label": "有効期限",
+        "message": "有効期限を選択してください"
+      },
+      "dateHours": "日付",
+      "submitSpotBid": "スポット入札を送信する",
+      "distributors": "販売代理店",
+      "shipmentForSpotBid": "あなたの貨物はスポット入札に送信されました",
+      "endSpotBid": "スポット入札の終了"
+    }
+  },
+  "getQuote": {
+    "notesHere": "注意事項はこちら",
+    "characters": "残り 2000 文字",
+    "triggerNotification": "ストップには少なくとも 1 つの起点が必要です。",
+    "destionationTriggerNotification": "ストップには少なくとも 1 つの目的地が必要です。",
+    "productTriggerNotification": "少なくとも 1 つの製品を追加してください。",
+    "emptyRecords": {
+      "title": "評価の詳細は現在入手できません。",
+      "desc": "後でもう一度試してください。"
+    },
+    "titles": {
+      "getQuote": "見積もりを取得する",
+      "quoteDetails": "見積詳細",
+      "transportationDetails": "交通詳細",
+      "quoteNotes": "引用メモ",
+      "additionalServices": "追加サービス",
+      "rateShopResults": "レートショップの結果"
+    },
+    "quoteDetails": {
+      "projectNo": {
+        "label": "プロジェクト番号",
+        "placeholder": "プロジェクト番号を入力してください"
+      },
+      "quoteCost": {
+        "label": "見積コスト"
+      },
+      "quoteTransportationProvider": {
+        "label": "交通機関の見積り"
+      },
+      "createdBy": {
+        "label": "によって作成された"
+      }
+    },
+    "transportationDetails": {
+      "delivery": "配達",
+      "totalDistanceMiles": "総距離 (マイル)",
+      "totalDistanceKm": "総距離 (KM)",
+      "buttons": {
+        "addStop": "ストップの追加",
+        "deleteStop": "ストップの削除"
+      },
+      "stopType": {
+        "label": "停止タイプ",
+        "message": "停止タイプを選択してください"
+      },
+      "stopNo": {
+        "label": "停留所番号",
+        "message": "停留所番号を入力してください",
+        "error_integer": "ストップ No は整数である必要があります。",
+        "error_max": "最大許容ストップ数 1 ～"
+      }
+    },
+    "productDetails": {
+      "productInformation": "商品情報",
+      "itemNo": "商品番号",
+      "numberOfPackages": {
+        "label": "パッケージの数",
+        "message": "パッケージ数を入力してください"
+      },
+      "chargeableWeight": {
+        "label": "充電可能重量",
+        "message": "製品重量を入力してください"
+      },
+      "unit": {
+        "label": "ユニット"
+      }
+    },
+    "transportationProviderSearch": {
+      "shipmentType": {
+        "label": "出荷タイプ"
+      },
+      "rateDetails": {
+        "title": "評価の詳細は現在入手できません。",
+        "description_other": "後でもう一度試してください。"
+      }
+    },
+    "rateShopDetails": {
+      "convertedCost": "換算コスト",
+      "convertedCurrencyCode": "換算後の通貨コード",
+      "standardTransitDays": "標準輸送日数"
+    },
+    "additionalDetails": {
+      "addNewAccessorialCharges": "新しい付属品料金の追加",
+      "error": "付属品を選択してください",
+      "accessorialName": {
+        "label": "付属品名"
+      }
+    }
+  },
+  "notificationSettings": {
+    "title": "通知設定",
+    "distributorContainer": {
+      "title": "配布内容",
+      "button": "新しいレコードの追加",
+      "recordNo": "レコード番号:",
+      "distributionName": {
+        "label": "ディストリビューション名",
+        "message": "ディストリビューション名を入力してください"
+      }
+    },
+    "routingContainer": {
+      "title": "通知ルーティングの詳細",
+      "addNewNotificationRouting": "新しい通知ルーティングの追加",
+      "customerName": "顧客名 ：",
+      "selected": "選択済み",
+      "emailList": {
+        "label": "メールリスト",
+        "message": "電子メールはカンマ区切りでリストできます。"
+      },
+      "distributionName": {
+        "label": "ディストリビューション名",
+        "message": "ディストリビューション名を選択してください"
+      },
+      "chargeableWeight": {
+        "label": "充電可能重量",
+        "placeholder": "充電可能な重量を入力してください"
+      }
+    }
+  },
+  "rateShop": {
+    "tabs": {
+      "rateShopResults": "ショップの結果を評価する"
+    },
+    "buttons": {
+      "viewRateShopResults": "レートショップの結果を表示する",
+      "stops": "停留所"
+    },
+    "rateShop": {
+      "general": "一般的な",
+      "optional": "オプション",
+      "laneDetails": "レーンの詳細",
+      "addLane": "レーンの追加",
+      "deleteLane": "レーンの削除",
+      "actualCarrierRateShopping": "(実際のキャリア) レートショッピング",
+      "stopsDetails": "停留所の詳細",
+      "Add Stop": "ストップの追加",
+      "deleteStop": "ストップの削除",
+      "itemDetails": "アイテム詳細",
+      "addItem": "アイテムの追加",
+      "deleteItem": "項目の削除",
+      "addStop": "ストップの追加",
+      "legDistance": "脚の距離",
+      "tripDistance": "走行距離",
+      "totalPieces": "合計個数",
+      "totalPiecesEqual": "ストップ数は合計個数に等しくなければなりません",
+      "inDetails": "詳細に",
+      "port": "ポート",
+      "location": "位置",
+      "pieces": {
+        "label": "ピース",
+        "message": "ピースを入力してください"
+      },
+      "numberOfPieces": {
+        "label": "個数",
+        "message": "個数には負の値を指定できません"
+      },
+      "currencyCode": {
+        "message": "通貨を選択してください"
+      },
+      "pricingType": {
+        "message": "価格タイプを選択してください"
+      },
+      "pricingBasis": {
+        "message": "価格基準を選択してください"
+      },
+      "rateSelection": {
+        "label": "レートの選択",
+        "message": "料金選択を選択してください"
+      },
+      "measurementUit": {
+        "label": "メジャメントユニット",
+        "message": "測定単位を選択してください"
+      },
+      "shipmentDate": {
+        "message": "発送日を選択してください"
+      },
+      "account": {
+        "label": "アカウント",
+        "placeholder": "アカウントを入力してください"
+      },
+      "declaredValue": {
+        "label": "宣言値"
+      },
+      "codValue": {
+        "label": "COD値"
+      },
+      "ldmValue": {
+        "label": "LDM値"
+      },
+      "length": {
+        "errorLength": "長さに負の値を指定することはできません"
+      },
+      "width": {
+        "errorLength": "幅には負の値を指定できません"
+      },
+      "weight": {
+        "message": "体重を入力してください",
+        "errorWeight": "体重に負の値を指定することはできません",
+        "errorZero": "重みはゼロより大きい必要があります"
+      },
+      "height": {
+        "errorNegative": "高さに負の値を指定することはできません"
+      },
+      "billedQuantity": {
+        "label": "請求数量",
+        "errorNegative": "請求数量には負の値を指定できません"
+      },
+      "ratingClass": {
+        "label": "評価クラス",
+        "message": "評価クラスを選択してください"
+      }
+    },
+    "rateShopResult": {
+      "shippingDate": "発送日",
+      "measurementType": "測定タイプ",
+      "imperial": "インペリアル",
+      "metric": "メトリック",
+      "emptyRecords": "現時点では評価の詳細は利用できません。後でもう一度お試しください。",
+      "noRatesFound": "料金が見つかりません!",
+      "code": "コード",
+      "calculationType": "計算の種類",
+      "effectiveFrom": "有効開始日",
+      "charge": "充電",
+      "accessorialDiscount": "付属品の割引",
+      "fuel": "燃料",
+      "note": "注記",
+      "accessorialBasis": "付属品の基礎",
+      "effectiveTo": "有効期限",
+      "deficitWeight": "不足体重",
+      "deficitRate": "赤字率",
+      "itemsTotalCharge": "アイテム合計料金",
+      "deficitCharge": "欠損金",
+      "grossCharge": "総料金",
+      "totalDiscount": "合計割引",
+      "baseCharge": "基本料金",
+      "itemNo": "商品番号",
+      "piece": "ピース",
+      "absMin": "ABS 最小値",
+      "rateCostPer": "レート/コストあたり",
+      "discount": "割引",
+      "uom": "単位",
+      "actualClass": "実際のクラス",
+      "absMax": "ABS最大値",
+      "amount": "額",
+      "totalTaxCharge": "税額合計",
+      "taxBasis": "課税ベース",
+      "discountAmount": "割引額",
+      "discountPercentage": "割引率",
+      "mileage": "走行距離 (マイル)",
+      "totalAcc": "総支払額",
+      "totalTax": "合計税額",
+      "totalCost": "総費用",
+      "bureauMC": "局MC",
+      "directPoint": "ダイレクトポイント",
+      "totalShipmentCost": "総送料",
+      "service": "サービス",
+      "equipment": "装置",
+      "distance": "距離 (マイル/キロメートル)",
+      "miles": "マイル",
+      "kms": "キロメートル",
+      "tariffName": "料金名",
+      "pricingEffectiveDate": "価格の発効日",
+      "to": "に",
+      "tariffEffectiveDate": "関税発効日",
+      "pricingKey": "価格設定のキー",
+      "tariffKey": "料金キー",
+      "liner": "ライナー",
+      "laneCode": "レーンコード",
+      "laneAlias": "レーンエイリアス",
+      "rateShopResult": "ショップ結果の評価",
+      "accessorials": "付属品",
+      "taxes": "税金"
+    },
+    "globalRateShope": "グローバルレートショップ",
+    "taxDetails": "税金の詳細",
+    "totalAccessorialCharge": "付属品合計料金",
+    "addNew": "停止はありません。新しいものを追加してみてください。",
+    "stop": "停止"
+  },
+  "procurement": {
+    "createProject": "プロジェクトの作成",
+    "createTender": "入札の作成",
+    "download": "ダウンロード",
+    "projectName": {
+      "label": "プロジェクト名",
+      "placeholder": "プロジェクト名"
+    },
+    "tenderName": {
+      "label": "入札名",
+      "placeholder": "入札名"
+    },
+    "subMenu": {
+      "project": "プロジェクト",
+      "tender": "入札",
+      "bidAnalysis": "入札分析",
+      "routeConfiguration": "ルート構成"
+    },
+    "routeConfigurationTabs": {
+      "location": "位置",
+      "lane": "レーン",
+      "zone": "ゾーン"
+    },
+    "filters": {
+      "projectSearch": "プロジェクト検索",
+      "tenderSearch": "入札検索",
+      "searchCriteria": "検索条件",
+      "tender": "入札",
+      "admin": "管理者",
+      "generalDetails": "一般的な詳細",
+      "rank": "ランク",
+      "summarizeCritria": "基準を要約する",
+      "includeHistorical": "履歴を含める",
+      "laneSearch": "レーンサーチ",
+      "zoneSearch": "ゾーン検索"
+    },
+    "projectTabs": {
+      "projectDetails": "プロジェクトの詳細",
+      "tenderDetails": "入札内容"
+    },
+    "tenderTabs": {
+      "tenderInformation": "入札情報",
+      "documentation": "ドキュメンテーション",
+      "laneInformation": "レーン情報",
+      "bidParameters": "入札パラメータ"
+    },
+    "fields": {
+      "service": "サービス",
+      "addDestination": "目的地を追加",
+      "destinationDetails": "目的地の詳細",
+      "region": "地域",
+      "addOrigin": "原点の追加",
+      "originDetails": "起源の詳細",
+      "destinationStucuture": "宛先構造（セクション）",
+      "originStucuture": "原点構造（ヘッド）",
+      "bidTransportationProvider": "BID 輸送プロバイダー",
+      "baseBIDPrice": "基本入札価格",
+      "bidRankBidTransportationProvider": "BID ランク BID 交通機関",
+      "currentBIDPrice": "現在の入札価格",
+      "bidRankBaseTransportationProvider": "BID ランク ベースの交通機関",
+      "lanesNotCovered": "レーンはカバーされていません",
+      "lanesCovered": "カバーされたレーン",
+      "numberOfLanes": "レーン数",
+      "currentBIDTransportationProvider": "現在の BID 交通プロバイダー",
+      "baseTransportationProvider": "拠点輸送プロバイダー",
+      "parameterType": {
+        "label": "パラメータの種類"
+      },
+      "projectStatus": {
+        "label": "プロジェクトのステータス",
+        "placeholder": "プロジェクトのステータスを選択してください",
+        "message": "プロジェクトのステータスを選択してください",
+        "true": "アクティブ",
+        "false": "非活性"
+      },
+      "tenderStatus": {
+        "label": "入札ステータス:",
+        "true": "アクティブ",
+        "false": "非活性"
+      },
+      "projectApproved": {
+        "label": "プロジェクトの承認ステータス",
+        "message": "プロジェクトの承認ステータスを選択してください"
+      },
+      "projectApprovedBy": {
+        "label": "プロジェクトの承認者"
+      },
+      "projectLead": {
+        "label": "プロジェクトリーダー",
+        "message": "プロジェクトリーダーを選択してください"
+      },
+      "tecSupport": {
+        "label": "テクニカルサポート",
+        "message": "テクニカルサポートを選択してください"
+      },
+      "tecLead": {
+        "label": "テクニカルリード",
+        "message": "テクニカルサポートを選択してください"
+      },
+      "projectSupport": {
+        "label": "プロジェクトサポート",
+        "message": "プロジェクトサポートを選択してください"
+      },
+      "groupBy": {
+        "label": "グループ化"
+      },
+      "formulaName": {
+        "label": "式名",
+        "placeholder": "総費用"
+      },
+      "parameters": {
+        "label": "パラメーター",
+        "placeholder": "パラメータを入力してください"
+      },
+      "formula": {
+        "label": "式",
+        "placeholder": "出荷基本コスト"
+      },
+      "summarizeCritria": {
+        "label": "基準を要約する"
+      },
+      "actualName": {
+        "label": "実際のプロジェクト名"
+      },
+      "description": {
+        "placeholderDesc": "入札説明書",
+        "message": "説明を追加してください"
+      },
+      "modeOfTender": {
+        "label": "入札方法"
+      },
+      "tecSupServicePort": {
+        "label": "テクニカル SupService カテゴリ ポート"
+      },
+      "reference": {
+        "label1": "参考1",
+        "label2": "参考資料2",
+        "placeholder": "参照"
+      },
+      "transportationMode": {
+        "label": "交通手段"
+      },
+      "prameterDisplayName": {
+        "label": "パラメータ表示名:"
+      },
+      "locationName": {
+        "title": "場所の名前",
+        "label": "場所の名前：",
+        "placeholder": "場所の名前を入力してください"
+      },
+      "originType": {
+        "label": "原点タイプ",
+        "placeholder": "原点タイプの選択"
+      },
+      "originName": {
+        "label": "由来名",
+        "placeholder": "起源名を入力してください"
+      },
+      "destinationType": {
+        "label": "宛先タイプ",
+        "placeholder": "宛先タイプの選択"
+      },
+      "destinationName": {
+        "label": "宛先名",
+        "placeholder": "宛先名を入力してください"
+      },
+      "zoneName": {
+        "label": "ゾーン名",
+        "placeholder": "ゾーン名"
+      },
+      "date": {
+        "startDate": "開始日",
+        "endDate": "終了日",
+        "projectStartDate": "プロジェクト開始日",
+        "projectEndDate": "プロジェクト終了日",
+        "tenderStartDate": "入札開始日",
+        "tenderEndDate": "入札終了日",
+        "startDateTime": "開始日時",
+        "placeholder": "日付を選択してください",
+        "endDateAndTime": "終了日時"
+      }
+    },
+    "projectCard": {
+      "details": "プロジェクトの詳細",
+      "information": "プロジェクト情報",
+      "projectDescription": "プロジェクトの説明",
+      "projectStartDate": "プロジェクト開始日",
+      "projectEndDate": "プロジェクト終了日",
+      "mileStones": "マイルストーン",
+      "startDate": "開始日",
+      "endDate": "終了日",
+      "actualName": "実際のプロジェクト名",
+      "preparationFiles": "準備ファイル",
+      "bidCollectionPhase": "入札回収フェーズ",
+      "selectionPhase": "選択フェーズ",
+      "currentRound": "現在のラウンド:",
+      "modeOfTender": "入札方法",
+      "transportationMode": "交通手段",
+      "serviceCategory": "サービスカテゴリー",
+      "notificationSuccess": "プロジェクトが正常に作成されました",
+      "notificationError": "プロジェクト作成エラー"
+    },
+    "tenderCard": {
+      "trackingStatus": "追跡ステータス",
+      "modeOfTender": "入札方法",
+      "tenderStartDate": "入札開始日",
+      "laneCovered": "カバーされたレーン",
+      "tenderEndDate": "入札終了日",
+      "currentRound": "現在のラウンド",
+      "bidCollectionStartDateTime": "入札徴収開始日時",
+      "bidCollectionEndDateTime": "入札回収終了日時",
+      "laneName": "レーン名:",
+      "dellasLocation": "デラスの場所",
+      "prameterDisplayName": "パラメータ表示名:",
+      "prameterType": "パラメータの種類",
+      "required": "必須/不要",
+      "parameterDataType": "パラメータのデータ型",
+      "value": "価値",
+      "repeated": "繰り返し",
+      "historicalOnly": "歴史的のみ",
+      "rflStatus": "RFLステータス",
+      "rfqStatus": "見積依頼ステータス",
+      "rfiRequestDate": "RFIリクエスト日",
+      "rfqRequestDate": "RFQリクエスト日",
+      "rfiRespondDate": "RFI 回答日",
+      "rfqRespondDate": "RFQ 回答日"
+    },
+    "modalTransportationProvider": {
+      "title": "交通機関の検索・追加",
+      "shortName": "ショートネーム",
+      "countryCallingCode": "国番号",
+      "number": "番号",
+      "ext": "内線",
+      "fax": "ファックス",
+      "modeType": "モードの種類"
+    },
+    "bigAnalysisCard": {
+      "rankAndCost": "ランクとコスト",
+      "laneCoverage": "レーンカバレッジ",
+      "details": "詳細",
+      "laneCoverageAnalysis": "レーンカバレッジ分析",
+      "combinationAnalysis": "組み合わせ分析",
+      "bidRank": "入札ランク",
+      "winningLanes": "勝利のレーン",
+      "chart": "チャート",
+      "bidLane": "入札レーン",
+      "totalLanes": "総レーン数",
+      "percentageCoverage": "カバレッジの割合",
+      "includeHistorical": "履歴を含める",
+      "orgin": "起源",
+      "shipment": "出荷",
+      "bidedUnitPrice": "入札単価",
+      "baseCost": "基本コスト",
+      "rank": "ランク",
+      "savingPercentage": "節約率",
+      "liftGate": "リフトゲート",
+      "savingAmount": "貯蓄額",
+      "trackingStatus": "追跡ステータス",
+      "trackingStatusType": "追跡ステータスの種類",
+      "shipperShipDate": "荷送人が希望した出荷日"
+    },
+    "routeConfigurationCard": {
+      "lane": "レーン",
+      "zoneName": "ゾーン名"
+    },
+    "footer": {
+      "totalActive": "アクティブなプロジェクトの合計",
+      "totalApproved": "承認されたプロジェクトの合計",
+      "total": "トータルプロジェクト",
+      "totalShipments": "総出荷数",
+      "openShipments": "オープン出荷",
+      "closedShipments": "出荷完了",
+      "exceptions": "例外"
+    }
+  },
+  "purchase-order-view": {
+    "shipmentLandingList": "出荷着陸リスト",
+    "filterTitle": "注文書の検索",
+    "pageTitle": "注文書情報",
+    "draftOrderSearch": "ドラフトオーダー検索",
+    "shipmentSearch": "出荷検索",
+    "vendorAddressSearch": "ベンダー住所検索",
+    "regularOrders": "定期注文",
+    "releaseOrders": "リリースオーダー",
+    "originDetails": "起源の詳細",
+    "shipperDetails": "荷主の詳細",
+    "destinationDetails": "目的地の詳細",
+    "consigneeDetails": "荷受人の詳細",
+    "wareHouseContactDetails": "倉庫の連絡先詳細",
+    "wareHouseDetails": "倉庫の詳細",
+    "suzhouDousonDrillingProdu": "蘇州道村掘削",
+    "contactPerson": "連絡担当者",
+    "telephoneNo": "電話番号",
+    "extension": "拡大",
+    "otherDetails": "その他の情報",
+    "htsCode": "HTSコード",
+    "sureToReset": "必ずリセットしますか?",
+    "quanityLeft": "残り数量",
+    "quantityShippeError": "値は残りの数量より小さくなければなりません!",
+    "originDestinationDetails": "出発地と目的地の詳細",
+    "warehouseContactInfoDetails": "倉庫の連絡先情報と詳細",
+    "appointmentIsRequired": "予約が必要です",
+    "warehouseContactMsg": "倉庫の連絡先を入力してください",
+    "shipperAddressMsg": "配送者の住所を入力してください",
+    "warehouseTelephoneMsg": "倉庫の電話番号を入力してください",
+    "emailMsg": "メールアドレスを入力してください",
+    "checkboxMsg": "このチェックボックスを選択すると、選択した荷受人の郵便番号の場所の結果が表示されます。",
+    "NoOfItems": "アイテム数",
+    "itemShipDate": "商品の発送日",
+    "addPackageID": "パッケージIDの追加",
+    "newShipDateError": "新しい出荷日は 1 年を超えることはできません。",
+    "newShipPastDateError": "新しい出荷日を過去の日付にすることはできません。",
+    "totalNoOfProducts": "総製品数",
+    "releaseQuantity": "発売数量",
+    "createShipment": "出荷の作成",
+    "updateShipment": "出荷の更新",
+    "locationDetails": "場所の詳細",
+    "locationCity": "所在地 都市",
+    "warehouseDetails": "倉庫詳細",
+    "enterQuantityLeft": "残り数量を入力してください",
+    "action": "アクション",
+    "sureToDelete": "削除しますか?",
+    "copyLastPackageId": "最後のパッケージ ID をコピーします",
+    "resetPurchaseOrder": "注文書をリセットする",
+    "percentageLeftItems": "残りのパーセンテージ (残りの項目)",
+    "orderStatus": "注文の状況",
+    "topVendors": "トップベンダー",
+    "topCustomers": "上位顧客",
+    "shipmentsStatus": "出荷状況",
+    "topLocationsOrderWise": "上位の場所 (注文別)",
+    "topProducts": "人気の製品",
+    "shipmentInformation": "出荷情報",
+    "shipperStateProvience": "荷送人の州/県",
+    "consigneeStateProvience": "荷受人の州/県",
+    "totalOrders": "総注文数",
+    "openOrders": "オープンオーダー",
+    "dueinNext7Days": "次の 7 日以内に期限が切れます",
+    "delayedOrders": "注文の遅延",
+    "closedOrders": "クローズされた注文",
+    "lastCreatedShipmentNumber": "最後に作成された出荷番号",
+    "vendorsInformation": "ベンダー情報",
+    "date": "日付",
+    "addNewRecord": "新しいレコードの追加",
+    "confirmPurchaseOrder": "注文書の確認",
+    "resetReleaseOrder": "リリース順をリセット",
+    "purchaseItemInformation": "購入商品情報",
+    "vendorAddressSearchExport": "ベンダーアドレス検索のエクスポート",
+    "purchaseOrderExport": "注文書のエクスポート",
+    "addNewPackageId": "新しいパッケージ ID を追加",
+    "applyCountryButton": "すべての明細に原産国を適用",
+    "shipmentEntry": "出荷エントリ",
+    "shipmentItemDetails": "発送商品詳細",
+    "shipmentSummary": "出荷概要",
+    "totalMiles": "総マイル数",
+    "chargableWeight": "充電可能重量",
+    "shipmentCreatedDate": "出荷作成日",
+    "shipmentNumbers": "出荷番号",
+    "draftOrderSearchExport": "ドラフト注文検索のエクスポート",
+    "shipmentCreateDate": "出荷作成日",
+    "shipmentSearchExport": "出荷検索のエクスポート",
+    "chargeableWeight": "充電可能重量",
+    "createFinalShipment": "最終出荷の作成",
+    "unSelectAll": "すべて選択を解除する",
+    "shipmentSearchInformation": "出荷検索情報",
+    "draftOrderSearchInformation": "ドラフトオーダー検索情報",
+    "pleaseEnterLocationAddress": "所在地の住所を入力してください",
+    "pleaseSelectCountry": "国を選択してください。",
+    "pleaseChooseState": "州を選択してください",
+    "pleaseEnterLocationName": "場所の名前を入力してください",
+    "warehouseEmailAddress": "倉庫のメールアドレス",
+    "kindlyFillAllRequiredFields": "すべての必須フィールドに入力してください",
+    "approver": "承認者",
+    "pleaseEnterTheAir": "航空輸送の承認者を入力してください",
+    "shipmentConfirmationNumber": "出荷確認番号",
+    "kindlyEnterConfirmationNumber": "確認番号を入力してください",
+    "createShipmentExport": "出荷エクスポートの作成",
+    "noRoutingDataAvailable": "利用可能なルーティング データがありません",
+    "clickToContinueShipment": "クリックして出荷を続行",
+    "failedToGenerate": "パッキングリストファイルの生成に失敗しました。",
+    "pleaseChooseTheCustomer": "お客様をお選びください",
+    "addingPO": {
+      "description": "注文書の追加はドラフト出荷の場合にのみ許可されます",
+      "title": "アラート",
+      "okText": "わかりました"
+    },
+    "confirmationModal": {
+      "description": "同じ発送物にまとめるには、注文書には同じ国と郵便番号が含まれている必要があります。",
+      "okText": "わかりました"
+    },
+    "error": {
+      "emtyDate": "日付を入力してください",
+      "shipdateYear": "出荷予定日は 1 年を超えることはできません。",
+      "shipmentPastDate": "過去の日付で出荷を作成することはできません。",
+      "shippedQuantity": "出荷数量は残り数量より少なくなければなりません",
+      "similarConsigneelocationOrders": "同様の荷受人の所在地の注文を取得しています。"
+    },
+    "fields": {
+      "purchasePartNumber": {
+        "label": "購入部品番号"
+      },
+      "purchasePartDescription": {
+        "label": "購入部品の説明"
+      },
+      "date": {
+        "createdDate": "作成日",
+        "placeholder": "日付を選択してください",
+        "messageFromCreateOnDate": "作成日を選択してください",
+        "messageToCreateOnDate": "現在の日付に作成を選択してください",
+        "messageFromShipnDate": "発送日からお選びください",
+        "messageToShipDate": "発送日を選択してください"
+      },
+      "length": {
+        "message": "長さを入力してください"
+      },
+      "width": {
+        "message": "幅を入力してください"
+      },
+      "height": {
+        "message": "身長を入力してください"
+      },
+      "houseBillofLadingNumber": {
+        "label": "下院ビルディングビル番号"
+      },
+      "packageWeigh": {
+        "label": "荷物の重量",
+        "message": "パッケージの重量を入力してください"
+      },
+      "weightUnitOfMeasure": {
+        "label": "重量の測定単位"
+      },
+      "packagedId": {
+        "placeholder": "パッケージ化された ID を入力してください",
+        "message": "パッケージIDを入力してください"
+      },
+      "quantityShipped": {
+        "placeholder": "出荷数量を入力してください",
+        "error": "値は残りの数量より小さくなければなりません",
+        "errorOr": "値は残りの数量以下でなければなりません!",
+        "message": "出荷数量を入力してください"
+      },
+      "locationName": {
+        "label": "場所の名前"
+      },
+      "locationAddress": {
+        "label": "所在地住所"
+      },
+      "locationCountry": {
+        "label": "所在地 国"
+      },
+      "locationPostalCode": {
+        "label": "所在地の郵便番号"
+      },
+      "locationStateProvince": {
+        "label": "所在地 州/県"
+      },
+      "countryOfOrigin": {
+        "placeholder": "原産国を選択してください",
+        "message": "原産国を選択してください"
+      },
+      "class": {
+        "label": "クラス"
+      },
+      "containerNumber": {
+        "label": "コンテナ番号",
+        "placeholder": "コンテナ番号を入力してください"
+      },
+      "locationCity": {
+        "label": "所在地 都市"
+      }
+    }
+  },
+  "tms-settings": {
+    "title": "TMS 設定",
+    "companySettings": "会社の設定",
+    "shipmentSettings": "出荷設定",
+    "auctionSettings": "オークション設定",
+    "povSettings": "POV設定",
+    "generalSettings": "一般設定",
+    "defaultShipmentPageValues": "出荷ページのデフォルト値",
+    "shipmentApprovalProcess": "出荷承認プロセス",
+    "emailDistribution": "メール配信",
+    "additionalSettings": "追加の設定",
+    "autoRouteProcess": "自動ルート処理",
+    "shipmentEntryPageSettings": "出荷入力ページの設定",
+    "fields": {
+      "purchaseOrderNumber": {
+        "placeholder": "発注書番号を入力してください"
+      },
+      "emailMessage": "有効な電子メール形式を入力してください。",
+      "statusInTMS": {
+        "label": "TMS のステータス",
+        "placeholder": "ステータスを選択してください",
+        "message": "TMS のステータスは必須です。",
+        "optionActive": "アクティブ",
+        "optionInActive": "非活性",
+        "tooltip": "顧客が TMS にいる場合はアクティブ、それ以外の場合は非アクティブ。"
+      },
+      "brokerageCustomer": {
+        "label": "会社の種類",
+        "message": "会社タイプは必須です。",
+        "placeholder": "会社タイプを選択してください",
+        "optionTMS": "TMS",
+        "optionBrokerage": "仲介",
+        "tooltip": "この設定は、ユーザーが追加する顧客が通常の TMS 顧客であるか仲介顧客であるかを決定します。"
+      },
+      "shipmentNoCounter": {
+        "label": "出荷番号カウンター",
+        "message": "出荷番号カウンターを入力してください",
+        "error": "出荷番号カウンターは 8 桁である必要があります。",
+        "tooltip": "新しい出荷が作成されたときに出荷数のカウントが開始される番号"
+      },
+      "masterChildShipment": {
+        "label": "マスター/子出荷",
+        "placeholder": "マスター/子出荷を選択してください",
+        "tooltip": "顧客のマスター/子出荷プロセスをオンにします"
+      },
+      "pricingType": {
+        "optionCarrierRate": "キャリアレート",
+        "tooltip": "どの価格設定タイプに応じて評価を行う必要があるかを定義します。"
+      },
+      "displayPaidBY": {
+        "label": "「支払い方法」を表示",
+        "placeholder": "「支払い方法」を表示するを選択してください",
+        "tooltip": "出荷メンテナンスページの「支払者」フィールドを開きます"
+      },
+      "shipmentApprovalProcess": {
+        "label": "出荷承認プロセス",
+        "placeholder": "出荷承認プロセスを選択してください",
+        "tooltip": "顧客の出荷承認プロセスをオンにします"
+      },
+      "validateCategoryDetails": {
+        "label": "カテゴリの詳細を検証する",
+        "placeholder": "カテゴリの詳細を検証を選択してください",
+        "tooltip": "出荷メンテナンスページでユーザーがカテゴリを入力する必要がある場合、この設定が指定されていない場合に有効になります。"
+      },
+      "calculateChargeableWeight": {
+        "label": "充電可能な重量を計算する",
+        "placeholder": "請求可能重量を計算するを選択してください",
+        "tooltip": "この設定がオンになっている場合、出荷メンテナンス ページの製品詳細アコーディオンで、ユーザーが製品詳細を入力すると、請求可能重量が自動的に計算されます。"
+      },
+      "routingGuideMatch": {
+        "label": "ルーティングガイドの一致",
+        "placeholder": "ルーティングガイドの一致を選択してください",
+        "tooltip": "設定が「はい」に設定されている場合、配送評価はルーティング ガイド設定ページにある配送業者に対して行われます。"
+      },
+      "shipmentCategoryVisible": {
+        "label": "出荷カテゴリが表示されます",
+        "placeholder": "出荷カテゴリーを選択してください。",
+        "tooltip": "「出荷の追加」画面と「出荷の編集」画面でカテゴリセクションの表示をオンにします。"
+      },
+      "shipmentBillToVisible": {
+        "label": "出荷請求書が表示されるようになりました",
+        "placeholder": "出荷請求書を表示するを選択してください",
+        "tooltip": "「出荷の追加」画面と「出荷の編集」画面で「請求先」セクションの表示をオンにします。"
+      },
+      "shipmentVendorVisible": {
+        "label": "出荷ベンダーの表示",
+        "placeholder": "出荷ベンダーが表示されていることを選択してください",
+        "tooltip": "「出荷の追加」画面と「出荷の編集」画面で「ベンダー」セクションの表示をオンにします。"
+      },
+      "branch": {
+        "tooltip": "ブランチを定義できない場合、出荷時にデフォルトのブランチが設定されます。"
+      },
+      "defaultSpotBidEndStatus": {
+        "label": "デフォルトのスポット入札終了ステータス",
+        "placeholder": "デフォルトのスポット入札終了ステータスを選択してください",
+        "tooltip": "出荷のスポット入札時間が期限切れになると、出荷ステータスを新規またはスポット入札終了に戻すか、スポット入札ステータスのままにすることができます。"
+      },
+      "displayPOSOShipmentLevel": {
+        "label": "PO/SO出荷レベルの表示",
+        "placeholder": "PO/SO出荷レベルの表示を選択してください",
+        "tooltip": "設定が「はい」に設定されている場合、出荷メンテナンスページに「購入注文」と「販売注文」の 2 つのフィールドが表示されます。"
+      },
+      "shipmentTypes": {
+        "label": "出荷タイプ",
+        "tooltip": "この設定は、POV から手動で作成された出荷のデフォルトの出荷タイプを設定します。",
+        "option_i": "インバウンド",
+        "option_c": "会社間",
+        "option_o": "アウトバウンド",
+        "option_t": "第三者"
+      },
+      "displayRatingDetailsAccordion": {
+        "label": "評価の詳細を表示する アコーディオン",
+        "placeholder": "評価の詳細を表示するを選択してください アコーディオン",
+        "tooltip": "評価の詳細を表示する アコーディオン"
+      },
+      "hazmat": {
+        "label": "危険物",
+        "placeholder": "危険物を選択してください",
+        "tooltip": "出荷ページの製品詳細の危険物をデフォルトで「はい」または「いいえ」に設定します。"
+      },
+      "ratingPreference": {
+        "label": "評価の好み",
+        "placeholder": "評価設定を選択してください",
+        "tooltip": "出荷メンテナンスページのデフォルトの評価設定",
+        "option_a": "すべての通信事業者",
+        "option_l": "最小コスト",
+        "option_r": "必須"
+      },
+      "length": {
+        "tooltip": "製品詳細アコーディオンのデフォルトの長さを設定します"
+      },
+      "width": {
+        "tooltip": "製品詳細アコーディオンのデフォルトの幅を設定します"
+      },
+      "height": {
+        "tooltip": "製品詳細アコーディオンのデフォルトの高さを設定します"
+      },
+      "defaultInternalNotes": {
+        "label": "デフォルトの内部メモ",
+        "placeholder": "デフォルトの内部メモ..."
+      },
+      "shipmentApprovalCount": {
+        "label": "出荷承認数",
+        "tooltip": "この設定は、承認プロセスに必要な承認者の最大数を決定します。"
+      },
+      "requireApprovalNumber": {
+        "label": "承認番号が必要です",
+        "placeholder": "「承認番号が必要」を選択してください",
+        "tooltip": "この設定がオンになっている場合、出荷の作成時に承認番号が生成されます。"
+      },
+      "adminEmail": {
+        "label": "管理者のメールアドレス",
+        "messageRequired": "管理者のメールアドレスを入力してください",
+        "tooltip": "これにより、自動生成されたすべての電子メールの送信先となる電子メール アドレスが設定されます。"
+      },
+      "supportEmail": {
+        "label": "サポートメールアドレス",
+        "messageRequired": "サポートメールアドレスを入力してください",
+        "tooltip": "入札やスポット ビスなどの電子メール通知が通信事業者に送信されると、顧客側のサポート チームの電子メール アドレスが表示され、質問がある場合に通信事業者に問い合わせることができます。"
+      },
+      "fromEmail": {
+        "label": "電子メールの「差出人」電子メールアドレス",
+        "messageRequired": "電子メールの「差出人」電子メールアドレスを入力してください",
+        "tooltip": "電子メールの件名の「差出人」フィールドに配置される電子メール。"
+      },
+      "attachSupportingDoc": {
+        "label": "サポートドキュメントを電子メールに添付する",
+        "placeholder": "サポートドキュメントを電子メールに添付するを選択してください",
+        "tooltip": "サポートドキュメントを電子メールに添付する"
+      },
+      "childShipment": {
+        "label": "子出荷数量許容範囲 %",
+        "message": "子出荷数量許容範囲 % を入力してください",
+        "tooltip": "これにより、マスター/子出荷プロセスの数量フィールド検証が設定されます。"
+      },
+      "autoRateProcess": {
+        "label": "自動レートプロセス",
+        "placeholder": "自動レートプロセスを選択してください",
+        "tooltip": "自動評価プロセスを無効にします"
+      },
+      "autoTenderProcess": {
+        "label": "自動入札プロセス",
+        "placeholder": "入札プロセスを選択してください",
+        "tooltip": "顧客レベルでの自動入札プロセスを無効にする"
+      },
+      "maxAutoTenderAmount": {
+        "label": "自動入札の最大金額",
+        "placeholder": "最大自動入札金額を選択してください",
+        "tooltip": "自動的に支払われる最大許容量を設定します"
+      },
+      "recalculateFreightClass": {
+        "label": "貨物クラスの再計算",
+        "tooltip": "設定が「はい」に設定されている場合、荷物の貨物クラスは、荷物にすでに提供されているかどうかに関係なく、自動ルート プロセスによって再計算されます。"
+      },
+      "autoTenderSpecificCargoType": {
+        "label": "オートテンダー特有の貨物タイプ",
+        "tooltip": "オートテンダー特有の貨物の種類"
+      },
+      "defaultEquipmentType": {
+        "label": "デフォルトの機器タイプ",
+        "tooltip": "この設定により、ユーザーはすべての出荷についてオークションで運送業者に表示される機器タイプを提示できます。"
+      },
+      "defaultCargoType": {
+        "label": "デフォルトの貨物タイプ",
+        "placeholder": "デフォルトの貨物タイプ",
+        "tooltip": "輸送プロバイダーのオークション モジュールのデフォルトの貨物タイプ"
+      },
+      "populateBidExpiryDate": {
+        "label": "入札有効期限を入力します",
+        "placeholder": "入札有効期限を入力してください",
+        "tooltip": "設定が「はい」に設定されている場合、スポット入札に基づいてすでに有効期限が切れている配送業者によって提供されるスポット入札は、顧客ユーザーが配送料ショップ結果で選択することはできません。"
+      },
+      "addDaysBidExpiryDate": {
+        "label": "入札期限に日数を追加する",
+        "placeholder": "入札期限に日数を追加する",
+        "tooltip": "入札有効期限に日数を追加します"
+      },
+      "auctionType": {
+        "label": "オークションの種類",
+        "placeholder": "オークションの種類を選択してください",
+        "tooltip": "逆オークションを無効にします。これは、通信事業者が互いの入札額を下回る値で入札する必要があることを意味します。"
+      },
+      "maximumBidHours": {
+        "maximumBidHours": "最大入札時間",
+        "message": "最大入札時間を入力してください",
+        "error": "最大入札時間が許容最大入札時間を超えています。",
+        "tooltip": "出荷モジュールでは、ユーザーがスポット入札に出荷を送信するときに、スポット入札の時間を設定できます。"
+      },
+      "turnONPOVModule": {
+        "label": "POVモジュールをオンにする",
+        "placeholder": "POVモジュールをオンにするを選択してください",
+        "message": "「POVモジュールをオンにする」を選択してください。",
+        "tooltip": "「はい」の場合はPOV経由で出荷を作成できますが、「いいえ」の場合はPOV経由で出荷を作成できません。"
+      },
+      "shipmentStartingNumber": {
+        "label": "出荷開始番号",
+        "tooltip": "これにより、アルファ プレフィックスの後に続く出荷番号の開始整数値が設定されます。"
+      },
+      "shipmentNumberPrefix": {
+        "label": "出荷番号プレフィックス",
+        "tooltip": "これにより、出荷番号プレフィックスが設定されます。"
+      },
+      "noRoutingGuideCarriersReturned": {
+        "label": "返されたルーティング ガイド キャリアの数",
+        "tooltip": "「ルーティング方法」 = 「ルーティング ガイド」の場合、ルーティング ガイドから返されるキャリアの数は指定された数に制限されます。"
+      },
+      "shipmentTermsAllowed": {
+        "label": "許可される出荷条件",
+        "placeholder": "許可される出荷条件を選択してください",
+        "option_all": " - 全て - ",
+        "option_c": "集める",
+        "option_p": "プリペイド",
+        "option_t": "第三者",
+        "tooltip": "この設定は、出荷にどの出荷条件を使用できるかを決定します"
+      },
+      "povDestinationMethod": {
+        "label": "POV 宛先メソッド",
+        "placeholder": "POV 宛先メソッドの選択",
+        "message": "「POVモジュールをオンにする」を選択してください。",
+        "tooltip": "出荷入力ページの宛先アドレスは、ベンダー ユーザー用に事前に設定されます。"
+      },
+      "routingMethod": {
+        "label": "ルーティング方法",
+        "placeholder": "ルーティング方法の選択",
+        "tooltip": "ベンダー ユーザーが POV 経由で出荷を作成する場合、ベンダー ユーザーが出荷の配送業者を取得できる方法がいくつかあります。"
+      },
+      "allowDraftShipment": {
+        "label": "ドラフト出荷を許可する",
+        "placeholder": "ドラフト出荷を許可するを選択してください",
+        "tooltip": "設定が「はい」に設定されている場合、ベンダー ユーザーは POV モジュールでドラフト出荷を作成できます。"
+      },
+      "packageUnitMeasure": {
+        "label": "パッケージの測定単位",
+        "tooltip": "これにより、POV の出荷入力ページでデフォルトのパッケージ測定単位が設定されます"
+      },
+      "weightUnitMeasure": {
+        "label": "重量の測定単位",
+        "option_p": "ポンド",
+        "option_k": "キログラム",
+        "placeholder": "重量の測定単位を選択してください",
+        "tooltip": "これにより、POV モジュールの出荷入力ページでデフォルトの測定単位が設定されます"
+      },
+      "freeOnBoardCode": {
+        "label": "無料のオンボードコード",
+        "tooltip": "これにより、POV 経由で作成された出荷にデフォルトの無料オンボード コードが設定されます"
+      },
+      "frightClass": {
+        "label": "恐怖クラス",
+        "placeholder": "恐怖クラスを選択してください",
+        "tooltip": "これにより、POV 経由で作成された出荷にデフォルト クラスが割り当てられます。"
+      },
+      "minimumDays": {
+        "label": "最低日数",
+        "placeholder": "最低日数を入力してください",
+        "tooltip": "ベンダーがPOVでPOを選択する場合、「新しい出荷日」を提供する必要があります。"
+      },
+      "maximumDays": {
+        "label": "最大日数",
+        "placeholder": "最大日数を入力してください",
+        "tooltip": "ベンダーがPOVでPOを選択する場合、「新しい出荷日」を提供する必要があります。"
+      },
+      "minimumDaysError": {
+        "label": "最小日数のエラー メッセージ",
+        "placeholder": "最小日数を入力してくださいエラー メッセージ",
+        "tooltip": "「最小日数」ルールに違反すると、UI 上で「最小日数エラー メッセージ」がユーザーに表示されます。",
+        "message": "発送予定日の3日前からの発送はできません"
+      },
+      "maximumDaysError": {
+        "label": "最大日数のエラー メッセージ",
+        "placeholder": "最大日数を入力してくださいエラーメッセージ",
+        "tooltip": "「最大日数」ルールに違反すると、UI 上で「最大日数エラー メッセージ」がユーザーに表示されます。",
+        "message": "出荷予定日は 1 年を超えることはできません。"
+      }
+    },
+    "notificationSuccess": "TMS 設定が正常に保存されました。",
+    "notificationError": "TMS 設定の保存に失敗しました。"
+  },
+  "login": {
+    "authLeft": {
+      "title": "まだアカウントをお持ちでない場合は、",
+      "link": "今すぐサインアップしてください！"
+    },
+    "authRight": {
+      "title": "おかえり",
+      "desc": "続行するにはログインしてください"
+    },
+    "form": {
+      "email": {
+        "placeholder": "メールアドレス / ユーザー名",
+        "enter": "ユーザー名を入力してください。"
+      },
+      "password": {
+        "placeholder": "パスワード",
+        "enter": "パスワードを入力してください。"
+      },
+      "link": "パスワードをお忘れですか？",
+      "button": "ログイン"
+    }
+  },
+  "forgotPassword": {
+    "authLeft": {
+      "title": "まだアカウントをお持ちでない場合は、",
+      "link": "今すぐサインアップしてください！"
+    },
+    "authRight": {
+      "title": "パスワードをお忘れですか",
+      "desc": "ログイン情報を送信したいメールアドレスを入力してください"
+    },
+    "form": {
+      "email": {
+        "placeholder": "メールアドレス / ユーザー名",
+        "enter": "ユーザー名を入力してください。"
+      },
+      "warning": {
+        "okText": "ログイン",
+        "desc": "新しいパスワードがメールに送信されました。メールを確認し、新しいパスワードでログインしてください。"
+      },
+      "backToLogin": "ログインに戻る",
+      "button": "提出する"
+    }
+  },
+  "signUp": {
+    "authLeft": {
+      "title": "すでにアカウントをお持ちですか？",
+      "link": "今すぐサインインしてください！"
+    },
+    "authRight": {
+      "title": "新規ユーザー登録",
+      "desc": "続行するには今すぐ登録してください"
+    },
+    "form": {
+      "email": {
+        "enter": "ユーザー名を入力してください。"
+      },
+      "password": {
+        "label": "パスワード",
+        "enter": "パスワードを入力してください。"
+      },
+      "confirmPassword": {
+        "label": "パスワードを認証する",
+        "enter": "確認用パスワードを入力してください。"
+      },
+      "firstName": {
+        "label": "ファーストネーム",
+        "enter": "名を入力してください。"
+      },
+      "middleName": {
+        "label": "ミドルネーム"
+      },
+      "lastName": {
+        "label": "苗字",
+        "enter": "姓を入力してください。",
+        "invalid": "有効な姓を入力してください。"
+      },
+      "addressLineFirst": {
+        "label": "住所（1",
+        "enter": "住所1を入力してください。"
+      },
+      "addressLineSecond": {
+        "label": "アドレス2",
+        "enter": "住所2を入力してください。"
+      },
+      "jobType": {
+        "label": "職種"
+      },
+      "department": {
+        "label": "部門ネット"
+      },
+      "phoneWork": {
+        "label": "電話(職場)"
+      },
+      "phoneCell": {
+        "label": "電話(携帯電話)"
+      },
+      "reference": {
+        "label": "参照"
+      },
+      "comments": {
+        "label": "コメント"
+      },
+      "capcha": "リキャプチャを確認してください。",
+      "submit": "提出する",
+      "warning": {
+        "okText": "ログイン",
+        "desc": "ユーザー登録プロセスが完了しました。メールアドレスと適切なパスワードを使用してログインしてください。"
+      }
+    }
+  },
+  "verifyUser": {
+    "authLeft": {
+      "title": "まだアカウントをお持ちでない場合は、",
+      "link": "今すぐサインアップしてください！"
+    },
+    "authRight": {
+      "title": "二要素認証"
+    },
+    "notification": "認証トークンの送信に失敗しました!",
+    "pickMethod": "認証方法を選択してください",
+    "securityCode": "メールによるセキュリティコード ",
+    "link": "あなたではありませんか？",
+    "send": "認証コードを送信する"
+  },
+  "verifyToken": {
+    "authLeft": {
+      "title": "まだアカウントをお持ちでない場合は、",
+      "link": "今すぐサインアップしてください！"
+    },
+    "authRight": {
+      "title": "メールをチェックして下さい"
+    },
+    "notification": "認証トークンの検証に失敗しました。",
+    "enter": "に送信された6桁の認証コードを入力してください",
+    "verify": "認証コードの確認",
+    "receive": "コードを受け取っていませんか?"
+  },
+  "user": {
+    "userProfileManagement": "ユーザープロファイル管理",
+    "belowCurrentProfile": " 以下は、当社のシステムにある現在のプロファイルです。",
+    "imgAlt": "ユーザープロフィール",
+    "active": "アクティブ",
+    "userTabs": {
+      "personal": "個人的",
+      "password": "パスワードを変更する",
+      "themes": "テーマ"
+    },
+    "buttons": {
+      "updateProfile": "プロフィールを更新する",
+      "updatePassword": "パスワードを更新する",
+      "preview": "プレビュー",
+      "saveTheme": "テーマの保存",
+      "restoreToDefault": "デフォルトに戻す"
+    },
+    "notification": {
+      "imageInterrupted": "画像の選択が中断されました。後でもう一度お試しください。",
+      "userPreference": "ユーザー設定は一時的に正常に適用されました。"
+    },
+    "fields": {
+      "firstName": {
+        "label": "ファーストネーム",
+        "message": "名を入力してください。"
+      },
+      "lastName": {
+        "label": "苗字",
+        "message": "姓を入力してください。"
+      },
+      "address1": {
+        "label": "住所（1",
+        "message": "住所行を入力してください。"
+      },
+      "address2": {
+        "label": "アドレス2"
+      },
+      "mobileNumber": {
+        "label": "携帯電話番号",
+        "message": "携帯電話番号を入力してください"
+      },
+      "phoneHome": {
+        "label": "電話ホーム",
+        "placeholder": "電話番号"
+      },
+      "phoneOffice": {
+        "label": "電話局",
+        "placeholder": "オフィスの電話番号"
+      },
+      "currentPassword": {
+        "label": "現在のパスワード",
+        "message": "現在のパスワードを入力してください。"
+      },
+      "password": {
+        "label": "パスワード",
+        "messageString": "パスワードを文字列形式で入力してください。",
+        "messageTrue": "パスワードを入力してください。",
+        "messageSymbol": "パスワードには、少なくとも 1 つの数字、小文字、大文字、記号を含める必要があります。",
+        "messageMin": "パスワードは 12 文字以上である必要があります。",
+        "short": "短い",
+        "weak": "弱い",
+        "okay": "わかった",
+        "good": "良い",
+        "strong": "強い"
+      },
+      "confirmPassword": {
+        "label": "パスワードを認証する",
+        "message": "確認用パスワードを入力してください。",
+        "error": "パスワードの確認がパスワードと一致しません"
+      },
+      "color": {
+        "topMenuColor": "トップメニューの色",
+        "bottomMenuColor": "下部メニューの色",
+        "topMenuTextColor": "トップメニューの文字色",
+        "bottomMenuTextColor": "下部メニューの文字色",
+        "message": "色を選んでください"
+      },
+      "date": {
+        "label": "日付形式",
+        "placeholder": "日付形式を選択してください",
+        "message": "日付形式を選択してください"
+      },
+      "fontFamily": {
+        "label": "フォントファミリー",
+        "placeholder": "フォントファミリーの選択",
+        "message": "フォントファミリーを選択してください"
+      },
+      "language": {
+        "label": "言語を選択する",
+        "message": "言語を選択してください"
+      },
+      "fontSize": {
+        "label": "フォントサイズ"
+      }
+    }
+  },
+  "shipment": {
+    "title": "出荷",
+    "filter": {
+      "shipperFiltered": "配送業者は顧客名、ロケーション ID、または検索 ID でフィルタリングできます。",
+      "consigneeFiltered": "荷受人は顧客名、ロケーションID、または検索IDでフィルタリングできます",
+      "checkingApproval": "出荷承認プロセスを確認しています...",
+      "titles": {
+        "shipmentSearch": "出荷検索",
+        "additional": "追加の検索オプション"
+      },
+      "additionalSearchOptions": {
+        "salesOrderNo": {
+          "label": "販売注文番号"
+        },
+        "masterHouseBill": {
+          "label": "マスター/ハウスランディングビル番号",
+          "placeholder": "マスター/ハウスランディングビル番号"
+        },
+        "projectNo": {
+          "label": "プロジェクト番号",
+          "placeholder": "プロジェクト番号"
+        },
+        "quoteNo": {
+          "label": "見積書番号",
+          "placeholder": "見積書番号"
+        },
+        "createdBy": {
+          "label": "によって作成された",
+          "radioEmail": "電子メールID",
+          "placeholderEmail": "電子メールを選択"
+        }
+      }
+    },
+    "header": {
+      "title": "出荷の管理",
+      "addShipment": "出荷の作成",
+      "delete": "消去",
+      "consolidate": "統合する",
+      "audit": "監査ログ",
+      "updateShipmentStatus": "出荷ステータスの更新",
+      "confirmationModal": {
+        "title": "混載配送",
+        "description": "選択した出荷は 1 つの出荷にまとめられ、元の出荷ステータスがクローズに変更されます。確認してください。",
+        "okText": "確認する！"
+      },
+      "commonUpdateModal": {
+        "title": "出荷状況の更新"
+      },
+      "commonExportModal": {
+        "title": "出荷輸出"
+      }
+    },
+    "footer": {
+      "totalRecords": "総記録",
+      "latePickup": "遅いピックアップ",
+      "lateDelivery": "遅い配達",
+      "trackingFailure": "追跡失敗",
+      "missingDocuments": "紛失した書類",
+      "pickupFailed": "ピックアップに失敗しました"
+    },
+    "dashboard": {
+      "title": "ダッシュボード",
+      "topTransportation": "交通機関トップ 10",
+      "orderStatistics": "注文統計",
+      "total": "月別の総出荷数",
+      "shipmentByMode": "モード/貨物タイプ別の出荷",
+      "shipmentByBound": "バウンドによる発送"
+    },
+    "card": {
+      "totalMiles": "総マイル数",
+      "weight": "重量 (kg)",
+      "weightUtilization": "重みの利用率",
+      "printedBolFlag": "印刷された BOL フラグ",
+      "masterBol": "マスターボル",
+      "volumeUtilization": "ボリューム使用率",
+      "bidExpiry": "入札の有効期限",
+      "title": "コピー出荷",
+      "description": "国際トランスロード出荷のコピーを作成していますか?"
+    },
+    "drawer": {
+      "header": {
+        "mastShipment": "マスター出荷",
+        "childShipment": "子供の発送",
+        "approvalNumber": "承認番号",
+        "inconterm": "期限切れ",
+        "houseBillOfLading": "船荷証券",
+        "freightBillProNumber": "運賃請求書/プロ番号",
+        "createAsShipment": "出荷として作成",
+        "approve": "承認する",
+        "printView": "印刷/表示",
+        "commonModalLabel": "書類",
+        "commonModalApprovalTitle": "出荷の承認",
+        "saveAsShipment": "出荷として保存"
+      },
+      "tabs": {
+        "masterChildShipmentDetails": "マスター/子出荷の詳細",
+        "transportationDetails": "交通詳細",
+        "vendorDetails": "ベンダーの詳細",
+        "billTo": "請求先",
+        "categoryDetails": "カテゴリ詳細",
+        "auditLog": "監査ログ",
+        "accounting": "付属品と税金",
+        "trackingDetails": "追跡の詳細",
+        "iTrack": "iTrack",
+        "rateShopResults": "ショップの結果を評価する",
+        "addStop": "ストップの追加",
+        "deleteStop": "ストップの削除"
+      },
+      "details": {
+        "delivery": "配達",
+        "distanceKm": "距離 (KM)",
+        "distanceMiles": "距離 (マイル)",
+        "totalWeight": "総重量(ポンド)",
+        "freightBill": "運賃請求書/プロ番号",
+        "masterBillOfLandingNumber": "マスター船荷証券番号",
+        "freightAllowances": "運賃手当",
+        "customerAccountNumber": "顧客口座番号",
+        "freeOnBoard": "機内では無料",
+        "incotermNamedPlace": "インコタームの名前付き場所",
+        "createdBy": "によって作成された",
+        "cube": {
+          "label": "キューブ"
+        }
+      },
+      "product": {
+        "houseBillOfLandingNumber": "ハウスビルディングビルディング番号",
+        "unitOfMeasure": {
+          "placeholder": "測定単位の選択",
+          "message": "測定単位を選択してください"
+        },
+        "chargeableWeight": {
+          "label": "充電可能重量",
+          "placeholder": "充電可能な重量を入力してください",
+          "message": "充電可能な重量を入力してください",
+          "error": "チャージ可能な重量は数値である必要があります。"
+        },
+        "packageBilled": {
+          "placeholder": "パッケージ/請求数量を入力してください",
+          "message": "パッケージ/請求数量を入力してください",
+          "error": "パッケージ/請求数量は数値である必要があります。"
+        },
+        "length": {
+          "placeholder": "長さを入力してください",
+          "message": "長さを入力してください",
+          "error": "長さは最小 1 にする必要があります"
+        },
+        "width": {
+          "placeholder": "幅を入力してください",
+          "message": "幅を入力してください",
+          "error": "幅は最小 1 にする必要があります"
+        },
+        "height": {
+          "placeholder": "高さを入力してください",
+          "message": "身長を入力してください",
+          "error": "高さは最低 1 である必要があります"
+        },
+        "purchaseOrders": {
+          "label": "注文書",
+          "placeholder": "発注書の入力"
+        },
+        "lineItemNumber": {
+          "label": "品目番号",
+          "placeholder": "品目番号を入力してください"
+        },
+        "NMFCNumber": {
+          "label": "NMFC番号",
+          "placeholder": "NMFC番号を入力してください"
+        }
+      },
+      "notes": {
+        "shipmentNotes": {
+          "placeholder": "出荷メモを入力してください"
+        }
+      },
+      "vendorDetails": {
+        "addNewVendor": "新しいベンダーを追加"
+      },
+      "billTo": {
+        "VATNumber": {
+          "label": "VAT番号",
+          "placeholder": "VAT番号を入力してください"
+        }
+      },
+      "categoryDetails": {
+        "addNewCategory": "新しいカテゴリを追加",
+        "subCategory": {
+          "label": "サブカテゴリ",
+          "placeholder": "サブカテゴリを選択してください"
+        }
+      },
+      "auditLog": {
+        "database": "データベース",
+        "tableName": "テーブル名",
+        "tableSchema": "テーブルスキーマ",
+        "hostName": "ホスト名",
+        "applicationName": "アプリケーション名",
+        "columnName": "列名",
+        "oldValue": "古い値",
+        "newValue": "新しい価値"
+      },
+      "shipmentTransport": {
+        "stopType": {
+          "label": "停止タイプ",
+          "placeholder": "停止タイプの選択",
+          "message": "停止タイプを選択してください"
+        },
+        "stopNo": {
+          "label": "停留所番号",
+          "placeholder": "ストップ番号を選択してください",
+          "message": "停止場所を選択してください"
+        },
+        "requestedDateTime": {
+          "label": "依頼日",
+          "date_message": "日付を選択してください",
+          "time_message": "時間を選択してください"
+        },
+        "actual": "実際の",
+        "dateTime": "日付",
+        "contactPersonName": {
+          "label": "担当者名",
+          "placeholder": "名前を入力"
+        },
+        "emailId": {
+          "label": "電子メールID",
+          "placeholder": "メールIDを入力してください"
+        },
+        "contactNo": {
+          "label": "連絡先番号。",
+          "placeholder": "連絡先番号を入力してください",
+          "message": "連絡先番号は10桁である必要があります"
+        },
+        "ext": {
+          "label": "内線",
+          "placeholder": "内線を入力してください"
+        },
+        "dockConfirmationNumber": "ドック/確認番号",
+        "taxIdVat": "納税者番号/付加価値税",
+        "iTrackDetails": "iTrackの詳細",
+        "emptyRecords": "通信事業者からアップデートが届くまでしばらくお待ちください。"
+      }
+    },
+    "print": {
+      "plNo": "PL番号",
+      "seeSection2": "NMFC 項目 360 のセクション 2(e) を参照"
+    },
+    "hazmat": "危険物(X)",
+    "qty": "数量",
+    "saveAsPartial": "部分として保存",
+    "shipmentExportSFiled": "出荷のエクスポートに失敗しました。",
+    "consigneeAppointmentNumber": "荷受人の予約番号",
+    "shipperAppointmentNumber": "荷送人の予約番号",
+    "approverName": "承認者名",
+    "approverEmail": "承認者のメールアドレス",
+    "priority": {
+      "label": "優先度",
+      "placeholder": "優先度の選択",
+      "message": "優先順位を選択してください",
+      "error": "優先順位は一意である必要があります。"
+    },
+    "of": "の",
+    "pallet": "パレット(S)",
+    "proNo": "プロ番号",
+    "bolNo": "ボルノー",
+    "FOB": "FOB",
+    "SID": "シド",
+    "location": "位置",
+    "thirdParty": "第三者の運賃請求先:",
+    "billOfLadingNumber": "船荷証券番号",
+    "proNumber": "プロ番号:",
+    "serviceDescription": "サービスの説明:",
+    "freightChargeTerms": "運賃条件:",
+    "freightChargesArePrepaid": "(別途記載がない限り、送料は前払いとなります)",
+    "docNumberConfirmationNumber": "書類番号/確認番号:",
+    "masterBillOfLading": "マスター船荷証券: 基礎となる船荷証券が添付されています",
+    "countryCityStateZip": "国/都市/州/郵便番号:",
+    "freightCharges": "(別途記載がない限り、送料は前払いとなります)",
+    "masterBill": "マスター船荷証券: 基礎となる船荷証券が添付されています",
+    "customerCheck": "顧客小切手は受け入れ可能",
+    "feeTerms": "料金規約:",
+    "whereTheRate": "料金が価値に依存する場合、荷送人は次のように物件の合意または宣言された価値を書面で具体的に述べる必要があります。",
+    "theAgreed": "物件の合意または宣言された価格が、荷送人によって以下を超えないように明示されている",
+    "poNo": "注文番号",
+    "soNo": "だからいいえ",
+    "codAmount": "COD金額:",
+    "pleaseSelect": "選んでください",
+    "approvers": "承認者",
+    "searchEmail": "メールの検索",
+    "searchByEmail": "メールで検索",
+    "shipmentRequire": "この発送には承認は必要ありません",
+    "approversList": "承認者リスト",
+    "sendApprovalRequest": "承認リクエストの送信",
+    "savingAdditionalDetailsIs": "追加の詳細を保存するのは、",
+    "maxCharacter": "最大許容文字数 25",
+    "checkingPO": "PO と SO の可視性の確認",
+    "visitBack": "この出荷を変更した後、再度アクセスしてください。",
+    "savingBillingDetailsIs": "請求詳細の保存は、",
+    "addingNewCategoryIs": "新しいカテゴリーの追加は、",
+    "modifyingCategoryIs": "カテゴリの変更は",
+    "deletingCategoryIs": "カテゴリの削除は",
+    "createSomeData": "いくつかのデータを作成します。",
+    "masterChildShipment": "マスター/子出荷",
+    "childShipment": "子供の発送",
+    "convertingAs": "として変換",
+    "regularShipment": "定期発送",
+    "progressHas": "進歩はあります",
+    "masterChildShipmentDetails": "マスター/子出荷の詳細",
+    "masterQuantityLeft": "マスター残り数量",
+    "masterWeightLeft": "マスターウェイト左",
+    "childShipmentDetails": "子発送の詳細",
+    "addChildShipment": "子出荷の追加",
+    "noMasterChildshipments!": "マスター/子出荷はありません。",
+    "failedToUpdate": "更新に失敗しました",
+    "enter": "入力",
+    "copyingLastProductIs": "最後の製品をコピーするのは、",
+    "addingNewProductIs": "新しい商品を追加するのは、",
+    "modifyingProductIs": "製品を改造するということは、",
+    "deletingProductIs": "商品の削除は、",
+    "freightClassSuccessfully": "貨物クラスが正常に計算されました。",
+    "addNewProductDetails": "新しい製品の詳細を追加",
+    "copyLastProductDetailsEntry": "最後の製品詳細エントリをコピー",
+    "freightClassCalculator": "貨物クラス計算ツール",
+    "totalChargableWeight": "充電可能な総重量",
+    "weightUnitOfMeasure": "重量の測定単位",
+    "pleaseSelectUnitOfMeasure": "リース選択の測定単位",
+    "cooPdf": {
+      "certificationOfOrigin": "原産地証明",
+      "certificateType": "認証者のタイプ (「X」を指定)",
+      "importer": "輸入者",
+      "exporter": "輸出者",
+      "producer": "プロデューサー",
+      "blanketPeriod": "ブランケット期間 (YYY/MM/DD)",
+      "sectionDetails": "名前、住所、電話番号、メールアドレス",
+      "certifierSectionDetails": "認証者 $t(shipment.cooPdf.sectionDetails)",
+      "producerSectionDetails": "プロデューサー $t(shipment.cooPdf.sectionDetails)",
+      "exporterSectionDetails": "$t(shipment.cooPdf.exporter) $t(shipment.cooPdf.sectionDetails)",
+      "importerSectionDetails": "$t(shipment.cooPdf.importer) $t(shipment.cooPdf.sectionDetails)",
+      "taxIdentificationNumber": "税識別番号",
+      "descriptionOfGoods": "商品の説明",
+      "originCriterion": "原点基準",
+      "producerYesNo": "$t(shipment.cooPdf.producer) （はい・いいえ）",
+      "methodOfQualification": "資格の取得方法",
+      "cointryOfOrigin": "原産国",
+      "certificateAssuranceDescription": "私は、この文書に記載されている商品が原産地として適格であり、この文書に含まれる情報が真実かつ正確であることを保証します。",
+      "certificateAttachmentDescription": "この証明書は、すべての添付ファイルを含むページで構成されています。",
+      "dateWithFormat": "日付(YYYY/MM/DD)",
+      "documentCompliantDescription": "この文書は USMCA に準拠しています"
+    }
+  },
+  "claims": {
+    "spotBidSearch": "スポット入札検索",
+    "spotBidSearchOriginDestination": "出発地と目的地によるスポット入札検索",
+    "chooseColumns": "エクスポートする列を選択します。",
+    "selectMinOneField": "エクスポートするフィールドを少なくとも 1 つ選択してください。",
+    "emailToTransportationProvider": "交通機関へのメール",
+    "printOverchargeClaim": "過大請求の請求を印刷する",
+    "indemnificationClause": " 補償条項: 請求者は、元の運賃請求書の引き渡しなしの和解を理由に、この請求が提出された輸送プロバイダーを保護することに同意し、当社は払い戻しを明確に保証します。",
+    "dateSubmitted": "提出日",
+    "contractAuthority": "契約当局",
+    "claimTariff": "関税請求",
+    "reasonForOvercharge": "過充電の理由",
+    "correctAmount": "正しい量",
+    "totalPaid": "支払総額",
+    "correctCharges": "正しい料金",
+    "paidAmount": "支払金額",
+    "billedAmount": "請求金額",
+    "chargeableWeight": "充電可能重量",
+    "detailedOverchrgeClaimStatement": "超過料金請求の詳細な声明",
+    "freightBill": "運賃請求書",
+    "attachedDocumentation": "添付文書",
+    "yourClaimNumber": "あなたの請求番号",
+    "ourClaimNumber": "当社の請求番号",
+    "refer": "すべての通信については、上記の請求番号を参照してください。",
+    "forwardCorrespondence": "上記の住所に通信を転送し、小切手を次の宛先に支払うようにしてください。 ",
+    "presentation": "超過料金請求の提示",
+    "printResults": "結果の印刷",
+    "totalClaims": "総請求額",
+    "openClaims": "オープンクレーム",
+    "closedClaims": "クローズされたクレーム",
+    "onHoldClaims": "保留中の請求",
+    "totalAmountFiled": "申告総額",
+    "totalAmountPaid": "支払総額",
+    "byAge": "年齢別:",
+    "daysOld": "経過日数",
+    "pleaseEnterDaysOld": "経過日数を入力してください",
+    "claimsNumber": "クレーム番号",
+    "pleaseEnterClaimsNumber": "クレーム番号を入力してください",
+    "freightBillProNumber": "運賃請求書/プロ番号",
+    "pleaseEnterFreightBillProNumber": "運送状/プロ番号を入力してください",
+    "pleaseEnterInvoiceNumber": "請求書番号を入力してください",
+    "pleaseEnterPackageNumber": "パッケージ番号を入力してください",
+    "Details": "詳細",
+    "overchargeClaimItems": "過払い請求項目",
+    "overchargeClaimNotes": "過払い請求に関するメモ",
+    "overchargeUploadViewFiles": "ファイルのアップロード/表示の過剰請求",
+    "overchargeClaimSettlements": "過払い金請求の和解",
+    "addNewNote": "新しいメモを追加",
+    "selectCommentType": "コメントの種類を選択してください",
+    "commentType": "コメントの種類",
+    "comments": "コメント",
+    "enterComments": "コメントを入力してください",
+    "createdBy": "によって作成された",
+    "yourClaim": "あなたの主張",
+    "enterYourClaim": "請求を入力してください",
+    "noData": "データなし",
+    "houseBillOfLadingNumber": "下院船荷証券番号",
+    "others": "その他",
+    "othersPleaseMention": "その他、言及してください",
+    "recoverySum": "回収額",
+    "dateClosed": "休業日",
+    "dateRefundedToCustomer": "顧客への返金日",
+    "checkNumberFromTransportationProvider": "交通機関からの小切手番号",
+    "pleaseSelectCurrency": "通貨を選択してください",
+    "ourClaim": "私たちの主張",
+    "claimant": "原告",
+    "overchargeSum": "過充電額の合計",
+    "preClaims": "事前請求",
+    "reports": "レポート",
+    "overCharge": "過充電",
+    "lossAndDamage": "損失と損害",
+    "claimsSettings": "クレーム設定",
+    "overchargeClaims": "過大請求の請求",
+    "mailTo": "メールアドレス",
+    "checkNumberToCustomer": "お客様への小切手番号"
+  },
+  "routingGuide": {
+    "generalSearch": "一般的な検索",
+    "searchByOrigin": "産地から探す",
+    "searchByDestination": "目的地から探す",
+    "routingKey": "ルーティングキー",
+    "routingGuideID": "ルーティングガイドID",
+    "routingName": "ルーティング名",
+    "createdBy": "によって作成された",
+    "hazmat": {
+      "label": "危険物",
+      "placeholder": "危険物を選択してください"
+    },
+    "pieces": {
+      "label": "ピース"
+    },
+    "piecesUOM": {
+      "label": "ピース",
+      "placeholder": "個数単位を選択してください"
+    }
+  },
+  "auction": {
+    "title": "競売",
+    "card": "カード",
+    "noOfStops": "停車駅の数",
+    "locationId": "ロケーションID:",
+    "stopType": "停止タイプ:",
+    "stopNo": "停留所番号:",
+    "companyDetails": "会社概要",
+    "appointmentNumber": "予約番号",
+    "contactPersonName": "担当者名",
+    "pickup": "集荷依頼日",
+    "pickupAppointmentDateTime": "受け取り予約日",
+    "contactNo": "連絡先番号",
+    "actualPickupDateTime": "実際の受け取り日",
+    "dockConfirmationNumber": "ドック/確認番号",
+    "taxIdVAT": "納税者番号/付加価値税",
+    "approvalNumber": "承認番号",
+    "spotBIDTypes": "スポット BID タイプ",
+    "selectSpotBIDTypes": "BID タイプの選択",
+    "consigneeStateProvience": "荷受人の州/県",
+    "BIDExpiryDateTime": "入札の有効期限",
+    "BIDExpiry": "入札の有効期限",
+    "totalBIDS": "合計入札数",
+    "openBIDS": "オープン入札",
+    "expiredBIDS": "期限切れの入札",
+    "expiringSoonBIDS": "まもなく期限切れになる入札",
+    "grossWeight": "総重量",
+    "weightUnitOfMeasure": "重量の測定単位",
+    "viewAllStops": "すべての停留所を表示",
+    "viewProductDetails": "製品の詳細を見る",
+    "viewUploadFiles": "ファイルの表示/アップロード",
+    "shipmentDetails": "発送詳細",
+    "shipperDetails": "荷主の詳細",
+    "consigneeDetails": "荷受人の詳細",
+    "frightClass": "恐怖クラス",
+    "package": "パッケージ",
+    "delieryDateAndTime": "お届け日時",
+    "customerBIDExpiryDateTime": "顧客入札の有効期限",
+    "BIDDetails": "入札詳細",
+    "equipmentTypeDetails": "機器の種類の詳細",
+    "enterEquipmentType": "機器のタイプを入力してください",
+    "expiryDate": "有効期限",
+    "expiryDateIsRequired": "有効期限は必須です",
+    "expiryTime": "有効期限",
+    "expiryTimeIsRequired": "有効期限は必須です",
+    "spotQuoteNumber": "スポット見積番号",
+    "enterQuoteNumber": "見積番号を入力してください",
+    "BIDSubmittedBy": "入札者",
+    "BIDPriceAndCurrency": "BID価格と通貨",
+    "BIDPrice": "入札価格",
+    "enterPrice": "価格を入力してください",
+    "priceIsRequired": "価格は必須です",
+    "pleaseEnterTheNumber": "番号を入力してください",
+    "pleaseEnterLowerTheNumber": "現在の入札額よりも低い入札額を入力してください",
+    "BIDCurrency": "入札通貨",
+    "BIDComment": "入札コメント",
+    "enterComment": "コメントを入力してください",
+    "submitBID": "入札を送信する"
+  }
+}

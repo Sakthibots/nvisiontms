@@ -1,0 +1,3487 @@
+{
+  "default": {
+    "navMenu": {
+      "home": "家",
+      "dashboard": "儀表板",
+      "contractManagement": "合約管理",
+      "shipmentsModule": "出貨模組",
+      "shipmentTracking": "出貨追蹤",
+      "activities": "活動",
+      "reports": "報告",
+      "pricing": "價錢",
+      "procurement": "採購",
+      "purchaseOrderView": "採購訂單視圖",
+      "routingGuide": "路由指南",
+      "settings": "設定",
+      "companySettings": "公司設定",
+      "tmsSettings": "經顱磁刺激系統設置",
+      "clientNameGoesHere": "此處顯示客戶名稱",
+      "shipment": "運輸",
+      "visibility": "能見度",
+      "claims": "索賠",
+      "freightBill": "運費單",
+      "adminSettings": "管理設定"
+    },
+    "loading": "載入中...",
+    "date": "日期",
+    "captcha": {
+      "placeholder": "輸入驗證碼。",
+      "message": "請輸入驗證碼",
+      "invalid": "無效輸入。"
+    },
+    "buttons": {
+      "save": "節省",
+      "cancel": "取消",
+      "rateShop": "評價商店",
+      "delete": "刪除",
+      "export": "出口",
+      "clear": "清除",
+      "search": "搜尋",
+      "mileageCalculator": "里程計算器",
+      "addProduct": "添加產品",
+      "deleteProduct": "刪除產品",
+      "edit": "編輯",
+      "viewMoreStatus": "看更多狀態",
+      "track": "追蹤",
+      "add": "添加",
+      "update": "更新",
+      "sendEmail": "傳送郵件",
+      "restoreToDefault": "恢復預設值",
+      "clearSelection": "清空選項",
+      "newStatus": "新狀態",
+      "select": "選擇",
+      "close": "關閉",
+      "exportToExcel": "匯出到 Excel",
+      "addPO": "新增採購訂單",
+      "addShipper": "新增出貨人",
+      "copy": "複製",
+      "closed": "關閉",
+      "updateSelectedRecords": "更新選定的記錄",
+      "viewMoreDetails": "看更多詳情",
+      "viewStatus": "查看狀態",
+      "download": "下載",
+      "addNewLocation": "地址簿",
+      "addNewZone": "新增區域",
+      "sendRFI": "發送 RFI",
+      "sendRFQ": "發送詢價",
+      "sendRFIRFQ": "發送 RFI",
+      "stops": "停靠點",
+      "hide": "隱藏",
+      "view": "看法",
+      "viewOrderInformation": "查看訂單資訊"
+    },
+    "documentManager": {
+      "fileUpdatingIssuccess": "文件更新成功。",
+      "title": "文件管理器",
+      "noFoundText": "沒有找到記錄",
+      "addNewFile": "新增文件",
+      "addNewLane": "新增車道",
+      "addNewParameter": "新增參數",
+      "chooseFile": "選擇文件",
+      "fileName": "檔案名稱 ： ",
+      "chooseFileMessage": "請選擇一個文件",
+      "docDescMessage": " 已被使用。",
+      "supportingDocumentNumber": "支援文件編號",
+      "only": "僅有的",
+      "filesAreAllowed": "允許文件",
+      "documentTypeMessage": "請選擇文件類型",
+      "notificationUploadingFailed": "文件上傳失敗。",
+      "documentManager": {
+        "label": "文件類型",
+        "placeholder": "選擇文檔類型",
+        "message": "請選擇類型"
+      },
+      "docType": {
+        "label": "文件類型",
+        "placeholder": "選擇文檔類型",
+        "message": "請選擇類型"
+      },
+      "fileComments": {
+        "label": "文件評論",
+        "placeholder": "輸入文件註釋"
+      },
+      "referenceNo": {
+        "label": "支援文件參考號",
+        "placeholder": "輸入支援文件參考號",
+        "title": "參考編號"
+      },
+      "notificationUploadingError": "文件上傳成功。",
+      "notificationUploadingSuccess": "文件上傳成功",
+      "notificationUpdatingSuccess": "檔案更新成功",
+      "notificationDeleteSuccess": "文件刪除成功。",
+      "notificationDeleteError": "文件刪除失敗。"
+    },
+    "popConfirm": {
+      "title": "你確定嗎？"
+    },
+    "weekDays": {
+      "sun": "星期日",
+      "mon": "週一",
+      "tue": "週二",
+      "wed": "週三",
+      "thu": "週四",
+      "fri": "星期五",
+      "sat": "週六"
+    },
+    "options": {
+      "and": "和",
+      "all": "全部",
+      "enable": "使能夠",
+      "disable": "停用",
+      "yes": "是的",
+      "no": "不",
+      "cargo": "貨物",
+      "passenger": "乘客",
+      "new": "新的",
+      "spotBidEnd": "現貨投標結束",
+      "spotBid": "現貨投標",
+      "blind": "瞎的",
+      "reverseBlind": "反向盲注",
+      "purchaseOrder": "採購訂單",
+      "na": "不適用",
+      "routingGuide": "路線指南",
+      "draftShipment": "草稿出貨",
+      "finalShipment": "最終出貨",
+      "сurrent": "目前的",
+      "historical": "歷史（紅色）"
+    },
+    "language": {
+      "en": "英語",
+      "es": "西班牙語",
+      "es-cr": "西班牙語（卡斯提爾語）",
+      "es-mx": "西班牙語（墨西哥）",
+      "it": "義大利語",
+      "ch": "中國人",
+      "zh-tw": "中國人",
+      "fr": "法語",
+      "nl": "荷蘭語",
+      "pt": "葡萄牙語",
+      "pt-br": "葡萄牙語（巴西）",
+      "de": "德文",
+      "pl": "拋光",
+      "fi": "芬蘭",
+      "ko": "韓國人",
+      "ja": "日本人"
+    },
+    "fields": {
+      "shipmentAdditionalInformation": "貨件附加資訊",
+      "shipmentInformation": "出貨資訊",
+      "rateDetails": "費率詳情",
+      "selectState": {
+        "label": "選擇狀態",
+        "placeholder": "選擇狀態"
+      },
+      "productDetails": "產品詳情",
+      "distributor": "經銷商",
+      "costName": "費用名稱",
+      "tender": "標",
+      "pending": "待辦的",
+      "selectTime": "選擇時間",
+      "enter": "進入",
+      "profile": "輪廓",
+      "addressBook": "地址簿",
+      "productCode": {
+        "label": "產品代碼",
+        "message": "請輸入產品代碼",
+        "placeholder": "請輸入產品代碼",
+        "tooltip": "在產品詳細資訊手風琴上設定預設產品代碼"
+      },
+      "addNewProduct": " 新增產品",
+      "number": "數位",
+      "code": "程式碼",
+      "contactNumber": "聯絡電話",
+      "carrier": "載體",
+      "vendor": "小販",
+      "popconfirmFreightClass": "您想計算運費艙位嗎？",
+      "quoteNo": "報價編號",
+      "approvalNo": "核准文號",
+      "claimType": "索賠類型",
+      "closedDate": "截止日期",
+      "claimStatus": "索賠狀態",
+      "amendmentDate": "修訂日期",
+      "submittedDate": "提交日期",
+      "submittedBy": "由...所提交",
+      "preparedBy": "編制",
+      "auditedBy": "審核人",
+      "recoveryAmount": "回收金額",
+      "overchargeAmount": "超額收費金額",
+      "packageNumber": "包裹數量",
+      "claimNumber": "索賠號碼",
+      "updateDraft": "更新草稿",
+      "saveAsDraft": "儲存為草稿",
+      "deleteVendorSuccessfully": "刪除供應商成功",
+      "portSearch": "連接埠搜尋",
+      "transportationProviderSearch": "運輸提供者搜尋",
+      "viewCI": "查看 CI",
+      "viewPL": "查看PL",
+      "viewBOL": "查看玻爾",
+      "viewCOO": "查看營運長",
+      "viewShipping": "查看運輸",
+      "signature": "簽名",
+      "statusType": "狀態類型",
+      "updateReceivedEST": "美國東部時間 (EST) 收到更新",
+      "plannedDeliveryDate": "計劃交貨日期",
+      "plannedShipDate": "計劃出貨日期",
+      "shipperReqDeliveryDate": "寄件者要求的交貨日期",
+      "shipperReqShipDate": "寄件者請求出貨日期",
+      "conReferenceNo": "收貨人參考號",
+      "eventOccurrenceLocalTime": "事件發生當地時間",
+      "unitMeasure": "數量計量單位",
+      "displayAllTrackingStatus": "顯示所有追蹤狀態",
+      "itemQuantity": "商品數量",
+      "billQtyUOM": "包裝/計費數量計量單位",
+      "quantityUOM": "數量計量單位",
+      "orderQuantity": "訂單數量",
+      "mode": "模式",
+      "businessSegment": "業務板塊",
+      "poNumber": "訂單編號",
+      "lineNo": "行號",
+      "itnNumber": "ITN 號碼",
+      "distributorName": "經銷商名稱",
+      "rateStatus": "費率狀態",
+      "showAllSpotBidCarrier": "顯示所有 SpotBid 營運商",
+      "costCurrency": "成本貨幣",
+      "cost": "成本",
+      "rateSubmittedOn": "提交率",
+      "partNumberDescription": "零件編號 說明",
+      "salesOrderNumber": "銷售訂單編號",
+      "purchaseOrderNumber": "訂購單號",
+      "displayStopOffs": "顯示停止",
+      "freightBillNumber": "貨運單號",
+      "transportationProviderAppointmentNumber": "交通提供者預約號碼",
+      "masterShipmentNo": "主出貨編號",
+      "houseBOLNo": "房屋 BOL 否",
+      "masterBOLNo": "主 BOL 否",
+      "modifiedBy": "修改者",
+      "modifiedOn": "修改於",
+      "printedBillOfLading": "印刷提單",
+      "billOfLanding": "提貨單",
+      "billOfLandingContent": "提貨單",
+      "countryOdOrigin": "原產地",
+      "dataFetchingError": "數據獲取錯誤",
+      "shipFrom": "出貨地",
+      "shipTo": "運送到",
+      "totalMileage": "總里程",
+      "shipmentCost": "運費",
+      "shipmentCounts": "出貨數量",
+      "shipmentTransportationProvider": "貨運運輸供應商",
+      "shipmentCargoType": "快件貨物類型",
+      "packageBilledQuantityunitOfMeasure": "包裝/計費數量 計量單位",
+      "chargebleWeight": "充電重量",
+      "consigneePortType": "收貨人港口類型",
+      "shipmentStatus": "運輸狀態",
+      "shipmentNotes": "出貨單",
+      "shipmentDetails": "物流資訊",
+      "shipmentNo": "出貨編號",
+      "shipmentDate": "出貨日期",
+      "consignee": "收貨人",
+      "carrierName": "營運商名稱",
+      "billQ": "帳單數量",
+      "trailerNumber": "拖車編號：",
+      "sealNumber": "印章號碼：",
+      "shipperReferenceNo": "寄件者參考號",
+      "email": "電子郵件",
+      "phoneExt": "電話分機",
+      "phone": "電話",
+      "contact": "接觸",
+      "zip": "壓縮",
+      "name": "姓名",
+      "drop": "降低",
+      "terminal": "終端",
+      "pickUp": "撿起",
+      "fileName": "檔案名稱",
+      "specialInstructions": "特別說明",
+      "specialInstructionsSecondary": "特別說明：",
+      "customerOrderInformation": "客戶訂單資訊",
+      "customerOrderNumber": "客戶訂單編號",
+      "additionalShipperInfo": "其他托運人資訊",
+      "carrierInfo": "承運商資訊",
+      "additionalUnit": "額外單位",
+      "handlingUnit": "處理單元",
+      "commodityDescription": "商品描述",
+      "commodityText": "在處理或存放時需要特殊或額外小心或註意的商品必須進行標記和包裝，以確保在普通護理下安全運輸。",
+      "package": "包裹",
+      "weightTable": "重量",
+      "palletSlip": "托盤/滑移",
+      "grandTotal": "累計",
+      "commercialInvoice": "商業發票",
+      "commercialInvoiceContents": "商業發票",
+      "identificationNumber": "身分證號碼：",
+      "noteLiability": "注意 本批貨物的遺失或損壞的責任限制可能適用。",
+      "received": "已收到，但須遵守承運人和托運人之間書面商定的單獨確定的費率或合約（如果適用），否則應遵守承運人已製定並應托運人要求提供的費率、分類和規則，以及所有適用的州和聯邦法規。",
+      "carrierShall": "在未支付運費和所有其他合法費用的情況下，承運人不得交付該批貨物。",
+      "certify": "茲證明上述資料已根據 DOT 的適用規定進行了正確分類、包裝、標記和標籤，並且處於適合運輸的狀態。",
+      "classTable": "班級",
+      "type": "類型",
+      "shipperSignatureDate": "托運人簽名/日期",
+      "trailerLoaded": "拖車已裝載：",
+      "freightCounted": "運費計算：",
+      "freight": "貨運：",
+      "byShipper": "按托運人",
+      "byDriver": "由司機",
+      "byDriverPallets": "由司機/托盤據說包含",
+      "byDriverPieces": "按車手/件數",
+      "carrierPickupDate": "承運人簽名/提貨日期",
+      "carrierAcknowledges": "承運人確認收到包裹和所需的標語牌。",
+      "hazmat": "危險品",
+      "ltlOnly": "僅限零擔",
+      "invoiceNumber": "發票號碼",
+      "shipperSignature": "托運人簽名",
+      "houseBillOfLandingNumber": "房屋提單號碼",
+      "billQty": "包裝/計費數量",
+      "packageWeight": "包裹重量",
+      "unitOfMeasure": "測量單位",
+      "height": "高度",
+      "width": "寬度",
+      "length": "長度",
+      "currencyCode": "貨幣代碼",
+      "eccnNumber": "ECCN號碼",
+      "htcCode": "HTC 代碼",
+      "unitPrice": "單價",
+      "totalQuantity": "總數（量",
+      "consigneePortName": "收貨人港口名稱",
+      "consigneeHoursOfOperations": "收貨人營業時間",
+      "consigneeDaysTo": "收貨人一週中的天數至",
+      "consigneeDaysFrom": "收貨人一週中的天數從",
+      "consigneeAppointmentType": "收貨人預約類型",
+      "consigneeWarehouseEmail": "收貨人倉庫信箱",
+      "consigneeWarehouseTelephone": "收貨人倉庫電話",
+      "consigneeWarehouseContact": "收貨人倉庫聯絡方式",
+      "shipperPortName": "發貨人港口名稱",
+      "hoursOfOperations": "營業時間",
+      "warehouseEmail": "倉庫信箱",
+      "warehouseTelephone": "倉庫電話",
+      "warehouseContact": "倉庫聯絡方式",
+      "shipperPortType": "發貨人港口類型",
+      "countryOfOrigin": "原產地",
+      "hts": "高溫超導",
+      "eccn": "電子報網絡",
+      "coo": "營運長",
+      "ciNo": "CI 編號：",
+      "description": "描述",
+      "newShipDate": "新出貨日期",
+      "quantityLeft": "剩餘數量",
+      "consigneePostal": "收貨人郵政",
+      "shipperPostal": "托運人 郵政",
+      "percentageLeft": "剩餘百分比",
+      "weight": "重量",
+      "expectedDeliveryDate": "預計交貨日期",
+      "destination": "目的地",
+      "origin": "起源",
+      "bolNumber": "提單號碼",
+      "comparativeRate": "比較率",
+      "actualCarrierRate": "實際承載率",
+      "bidStatus": "出價狀態",
+      "spotBidHistory": "現貨投標歷史",
+      "allSpotBids": "所有現貨投標",
+      "openSpotBids": "公開現貨投標",
+      "paymentTerms": "付款條件",
+      "partNumber": "零件號",
+      "povStatus": "觀點狀態",
+      "orderDeliveryDate": "訂單交貨日期",
+      "orderShipDate": "訂單出貨日期",
+      "conStateState": "收貨人國家",
+      "consigneeZip": "收貨人郵遞區號",
+      "shipperState": "托運人國家",
+      "shipperZip": "托運人郵遞區號",
+      "orderNumber": "訂單編號",
+      "transitDays": "過境天數",
+      "transitDaysAreRequired": "需要過境天數",
+      "emailAddress": "電子郵件地址",
+      "currencyName": "貨幣名稱",
+      "price": "價格",
+      "packageQuantity": "包裝數量",
+      "packageUOMQuantity": "封裝計量單位數量",
+      "weightUOM": "重量單位",
+      "selectWeightUOM": "選擇重量計量單位",
+      "totalWeight": "總重量",
+      "totalItemQty": "商品總數",
+      "packageDimensions": "包裝尺寸",
+      "consigneeAddress": "收貨人地址",
+      "shipperAddress": "發貨人地址",
+      "shipperPostalCode": "發貨人郵遞區號",
+      "pickupDate": "挑個日子",
+      "effectiveDueDate": "有效截止日期",
+      "totalCube": "總立方體",
+      "total": "全部的",
+      "bid": "出價",
+      "open": "打開",
+      "multiStop": "多站",
+      "notes": "筆記",
+      "shipmentCount": "出貨數量",
+      "quantityShipped": "出貨數量",
+      "daysOfWeek": "一周中的幾天",
+      "tenderEmailAddress": "投標郵箱地址",
+      "selectAll": "全選",
+      "spotBid": "現貨投標",
+      "mapView": "地圖視圖",
+      "changesWillBeLost": "更改將會遺失。",
+      "quoteNumber": "報價編號",
+      "failedToExportShipmentDetails": "無法匯出貨件詳細資料。",
+      "createdByFullName": "創作者（全名）",
+      "createByEmailAddress": "創建者（電子郵件地址）",
+      "purchaseOrderNo": "訂單編號。",
+      "milageCalculator": "里程計算器",
+      "create": "創造",
+      "reset": "重置",
+      "shipper": "托運人",
+      "totalDistance": "總距離",
+      "attachedDocuments": "附加文件",
+      "print": "列印",
+      "unsavedChanges": "未儲存的變更將會遺失。",
+      "alert": "警報",
+      "logout": "登出",
+      "approvalRejectionMessage": "批准/拒絕訊息",
+      "validatingPleaseWait": "正在驗證，請稍候...",
+      "redirectURL": "重定向的 URL 目前無效，請檢查 URL。",
+      "filter": "篩選",
+      "manageCompany": "管理公司",
+      "thePageYouVisitedDoesNotExist": "抱歉，您造訪的頁面不存在。",
+      "backHome": "回家",
+      "page": "頁",
+      "kindlyTryAgain": "請再試一次",
+      "hasBeenCreated": " 已經被創造了。",
+      "toCopyError": "複製項目錯誤",
+      "shipmentConsolidationFailed": "裝運合併失敗。",
+      "failedToCopyShipmentNo": "無法複製貨件編號",
+      "shipmentDeletedSuccessfully": "貨件刪除成功。",
+      "shipmentCreatedSuccessfully": "貨件創建成功。",
+      "shipmentCreationSuccessfully": "貨件創建失敗。",
+      "shipmentSend": "現貨投標出貨成功。",
+      "shipmentSendFailed": "現貨投標出貨失敗。",
+      "bidderAddedSuccessfully": "投標者添加成功。",
+      "failedToAddBidder": "添加投標人失敗",
+      "failedToLoadRate": "無法載入商店列表。",
+      "yourSpotBidHasEnded": "成功！",
+      "failedYourSpotBid": "失敗的！",
+      "failedToDeleteShipments": "刪除出貨失敗。",
+      "shipmentTenderProcessSuccess": "裝運招標流程成功。",
+      "shipmentTenderProcessError": "裝運招標流程錯誤。",
+      "successfullyCalculated": "成功計算新里程",
+      "failedToCalculateTheMileage": "無法計算里程。",
+      "successfullySavedRateShopResults": "已成功儲存評價商店結果。",
+      "failedToSaveRateShopResults": "無法儲存評價商店結果！",
+      "failedToGetAuditLogs": "取得審核日誌失敗！",
+      "tmsSettingsSuccessfullySaved": "TMS 設定已成功儲存。",
+      "copyProjectSuccessfully": "複製專案成功",
+      "failedToSave": "無法儲存 TMS 設定。",
+      "currentlyRatingResults": "目前評級結果還是不可用。",
+      "failedToGetShipment": "取得貨件詳細資料失敗，請稍後重試。",
+      "successfullySavedAddressBook": "成功儲存地址簿！",
+      "failedToSaveAddressBook": "儲存地址簿失敗！",
+      "successfullyDeletedAddressBook": "通訊錄刪除成功！",
+      "failedToDeleteAddressBook": "刪除通訊錄失敗！",
+      "successfullySavedProduct": "成功保存產品！",
+      "failedToSaveProduct": "保存產品失敗！",
+      "failedToGetTracking": "獲取追蹤失敗",
+      "failedToGetExcelData": "取得excel資料失敗",
+      "failedToGetExcelDataDetails": "取得excel資料失敗詳細信息",
+      "documentEmailsSuccessfullySent": "文檔電子郵件已成功傳送。",
+      "failedToSendDocumentEmail": "發送文檔郵件失敗！",
+      "documentDownloadedSuccessfully": "文件下載成功",
+      "failedDocumentRequest": "文件請求失敗",
+      "updateTheReferenceAndDockNumberSuccess": "更新參考號碼和碼頭編號成功",
+      "failedToUpdateTheReferenceAndDockNumber": "無法更新參考號碼和碼頭編號！",
+      "successfullySavedITrackDetails": "已成功儲存 iTrack 詳細資訊。",
+      "failedToSaveITrackDetails": "無法保存 iTrack 詳細資訊！",
+      "updateShipmentNoteSuccess": "更新出貨單成功",
+      "failedToUpdateShipmentNote": "更新出貨單失敗！",
+      "failedToUpdateShipmentDetails": "無法更新發貨詳細資訊！",
+      "updatedShipmentDetailsSuccessfully": "已成功更新貨件詳細信息",
+      "successfullyDeletedDistributorDetails": "已成功刪除經銷商詳細資料。",
+      "failedToDeleteDistributorDetails": "無法刪除經銷商詳細資料。",
+      "successfullyDeletedRoutingDetails": "已成功刪除路由詳細資訊。",
+      "failedToDeleteRoutingDetails": "刪除路由詳細資料失敗。",
+      "currentlyNotAbleToGet": "目前無法取得通訊錄數據，請稍後重試。",
+      "successfullySavedTheQuoted": "已成功保存報價的貨件詳細資料以及貨件編號：",
+      "failedSaveTheQuoteShipmentDetails": "保存報價發貨詳細資訊失敗！",
+      "theUpdatingDataAreInvalid": "更新資料無效",
+      "successfullyUpdatedTheAccounting": "已成功更新會計",
+      "successfullyUpdatedTheAccountingDetails": "已成功更新會計詳細信息",
+      "failedToSaveAccounting": "儲存會計失敗",
+      "failedToSaveAccountingDetails": "無法保存會計詳細信息",
+      "shipmentHasBeenCreatedSuccessfullyWith": "貨件已成功創建，貨件編號：",
+      "failedCreateShipment": "創建貨件失敗。",
+      "failedToGetMilageDetails": "取得里程詳情失敗！",
+      "failedToGetRatesData": "取得費率數據失敗！",
+      "failedToValidateApproval": "無法驗證批准。",
+      "failedToGetApproversList": "無法取得批准者清單。",
+      "somethingWentWrong": "出了點問題！",
+      "shippingLabelHasBeenCreatedSuccessfully": "出貨標籤已成功創建，出貨編號為：",
+      "failedToCreateShippingLabel": "建立運輸標籤失敗！，請驗證您的資訊並重試！",
+      "newChildShipmentIsCreated": "建立新的子貨件，批准號：",
+      "successfullySentTheApprovalRequestToTheCustomers": "已成功向客戶發送批准請求。",
+      "failedToSendTheApprovalRequest": "無法發送批准請求！",
+      "successfullyAssignedTheTransportationProvider": "已成功分配運輸提供者。",
+      "failedToAssignTheTransportationProvider": "無法分配運輸提供者。",
+      "successfullyAddedRateEntry": "已成功新增費率條目。",
+      "failedToAddRateEntry": "新增費率條目失敗。",
+      "failedToValidateRateEntry": "無法驗證匯率條目。",
+      "successfullyDeletedRateEntry": "已成功刪除費率條目。",
+      "failedToRemoveRateEntry": "無法刪除費率條目。",
+      "failedToGetMasterChilde": "無法取得主/子貨件詳細資料！",
+      "successfullyUpdatedRateEntry": "已成功更新費率條目。",
+      "failedToUpdateRateEntry": "無法更新費率條目。",
+      "successfullySavedAsShipment": "已成功儲存為出貨",
+      "failedToSaveAsShipment": "保存為發貨失敗！",
+      "failedToGetBranchAddress": "取得分行地址失敗。",
+      "failedToGetShipmentsStopsDetails": "無法取得出貨站點詳細資訊！",
+      "packingList": "包裝清單",
+      "packingListContents": "包裝清單",
+      "billTo": "記帳到",
+      "vendorAdress": "供應商地址",
+      "supplierAddress": "供應商地址",
+      "packageQty": "包裝數量",
+      "customRelease": "海關放行參考：",
+      "referenceDate": "參考日期：",
+      "releaseDate": "發布日期：",
+      "soldTo": "賣給",
+      "legalText": "法律文本。",
+      "totalInvoice": "發票總金額：",
+      "insurance": "保險：",
+      "invoiceLine": "發票行總計：",
+      "totalAmount": "總金額",
+      "license": "執照",
+      "htsCode": "高溫超導代碼",
+      "totals": "總計",
+      "generatedPackingList": "成功產生裝箱單檔案。",
+      "generateAllSupporting": "產生所有支援文件",
+      "sendCopyTo": "將副本發送至：",
+      "myEmailAddress": "我的電子郵件信箱",
+      "otherEmailAddress": "其他電子郵件地址",
+      "typeEmailComma": "輸入電子郵件地址，以逗號分隔",
+      "successfullyLadingPDF": "成功產生提單 PDF 檔案。",
+      "failedBillLadingPDFFile": "無法產生提單 PDF 檔案。",
+      "commoditiesRequiring": "在處理或存放時需要特殊或額外護理或註意的商品必須標記和包裝，以確保在普通護理下安全運輸",
+      "whereTheRate": "如果費率取決於價值，托運人必須以書面形式具體說明財產的約定或聲明價值，如下：",
+      "agreedOrDeclared": "托運人明確規定財產的約定或申報價值不超過",
+      "cid": "來電顯示",
+      "emailID": "電子郵件ID",
+      "modal": {
+        "label": "改變就會失去！",
+        "labelTwo": "確定刪除嗎？",
+        "okText": "好的"
+      },
+      "shipmentsByServiceType": "按服務類型劃分的出貨量",
+      "startDateAndTime": "開始日期和時間",
+      "updateShipmentSummary": "更新出貨摘要",
+      "pleaseSelectAnyItem": "請選擇任意項目。",
+      "pleaseEnterPackageWeight": "請輸入包裹重量",
+      "location": {
+        "label": "地點",
+        "message": "請輸入位置",
+        "messageMax": "位置不應超過 13 個字元。"
+      },
+      "contactEmailAddress": {
+        "label": "聯絡郵件地址"
+      },
+      "portCode": {
+        "label": "港口代碼",
+        "placeholderSelect": "選擇連接埠代碼",
+        "placeholderEnter": "輸入連接埠代碼"
+      },
+      "customer": {
+        "label": "顧客",
+        "message": "請選擇一位客戶"
+      },
+      "scac": {
+        "label": "SCAC",
+        "placeholder": "進入SCAC"
+      },
+      "shipDate": {
+        "label": "出貨日期",
+        "message": "請選擇出貨日期"
+      },
+      "deleteConfirm": {
+        "title": "您確定要刪除嗎？"
+      },
+      "internalNotes": {
+        "label": "內註釋",
+        "placeholder": "輸入內部註釋"
+      },
+      "pickUpReference": {
+        "label": "拾取參考",
+        "message": "請輸入提貨參考號"
+      },
+      "dimUnitOfMeasure": {
+        "label": "DIM 測量單位",
+        "message": "請選擇計量單位"
+      },
+      "packageType": {
+        "label": "包裝類型",
+        "message": "請選擇套餐類型"
+      },
+      "packageID": {
+        "label": "封裝ID",
+        "placeholder": "輸入包裹 ID"
+      },
+      "quantity": {
+        "label": "數量",
+        "placeholder": "輸入數量",
+        "message": "請輸入數量",
+        "error": "數量至少應為 1",
+        "number": "數量必須是數字。"
+      },
+      "receiptNumber": {
+        "label": "選擇收據號碼",
+        "placeholder": "收據號"
+      },
+      "cube": {
+        "label": "立方體",
+        "placeholder": "進入立方體",
+        "message": "請輸入立方體",
+        "errorNegative": "立方體不能有負值"
+      },
+      "expectedShipDate": {
+        "label": "預計出貨日期"
+      },
+      "productDesc": {
+        "label": "產品描述",
+        "placeholder": "選擇產品代碼",
+        "message": "請選擇產品代碼",
+        "enter": "請輸入產品描述",
+        "tooltip": "在產品詳細資訊手風琴上設定預設產品描述"
+      },
+      "lineNumber": {
+        "label": "電話號碼"
+      },
+      "incoTerm": {
+        "label": "國際貿易術語",
+        "placeholder": "選擇國際貿易術語解釋通則",
+        "tooltip": "在裝運模組中預設 IncoTerm。"
+      },
+      "consigneeCity": {
+        "label": "收貨人城市",
+        "placeholder": "選擇收貨人城市"
+      },
+      "consigneeState": {
+        "label": "收貨人所在州/省",
+        "placeholder": "選擇收貨人州/省"
+      },
+      "consigneePostalCode": {
+        "label": "收貨人郵遞區號"
+      },
+      "consigneeCountry": {
+        "label": "收貨人國家",
+        "placeholder": "選擇收貨人國家/地區"
+      },
+      "consigneeName": {
+        "label": "收貨人姓名",
+        "placeholder": "選擇收貨人姓名",
+        "message": "請選擇收貨人姓名"
+      },
+      "shipperCity": {
+        "label": "出貨城市",
+        "placeholder": "選擇出貨城市",
+        "message": "請輸入出貨城市"
+      },
+      "shipperStateProvince": {
+        "label": "發貨人所在州/省",
+        "placeholder": "選擇寄件州/省"
+      },
+      "shipperCountry": {
+        "label": "發貨人國家/地區",
+        "placeholder": "選擇寄件者國家/地區",
+        "message": "請選擇寄件者國家/地區"
+      },
+      "deliveryDate": {
+        "label": "交貨日期",
+        "message": "請選擇交貨日期"
+      },
+      "freightClass": {
+        "label": "貨運艙位",
+        "placeholder": "請選擇貨運艙位",
+        "tooltip": "在產品詳細資訊手風琴上設定預設貨運等級"
+      },
+      "shipmentNumber": {
+        "label": "物流編號",
+        "placeholder": "輸入出貨單號"
+      },
+      "shipmentTerms": {
+        "label": "裝運條款",
+        "message": "請選擇運送條款",
+        "option_c": "收集",
+        "option_p": "預付費",
+        "option_t": "第三者",
+        "placeholder": "選擇運輸條款",
+        "tooltip": "設定貨件的預設貨件條款"
+      },
+      "transportationProvider": {
+        "label": "運輸供應商",
+        "selectPlaceholder": "選擇交通提供者",
+        "message": "需要運輸提供者",
+        "select": "請選擇交通提供者",
+        "email": "電子郵件已成功發送給運輸提供者",
+        "emailError": "向運送提供者發送電子郵件失敗"
+      },
+      "vendorName": {
+        "label": "供應商名稱",
+        "placeholder": "選擇供應商名稱",
+        "message": "請選擇供應商"
+      },
+      "companyName": {
+        "label": "公司名稱",
+        "placeholder": "輸入公司名稱",
+        "selectPlaceholder": "選擇公司名稱",
+        "message": "請輸入公司名稱"
+      },
+      "companyAddress": {
+        "label": "公司地址",
+        "placeholder": "輸入公司地址",
+        "message": "請輸入公司地址"
+      },
+      "country": {
+        "label": "國家",
+        "placeholder": "選擇國家",
+        "message": "請選擇國家"
+      },
+      "address": {
+        "label": "地址",
+        "message": "請輸入地址"
+      },
+      "postalCode": {
+        "label": "郵遞區號",
+        "placeholder": "輸入郵遞區號",
+        "selectPlaceholder": "選擇郵遞區號",
+        "message": "請輸入郵遞區號",
+        "selectMessage": "請選擇郵遞區號",
+        "error": "輸入的郵政地址無效或無法在所選國家/地區找到！",
+        "invalid": "郵遞區號無效！",
+        "zip": "請輸入郵編",
+        "zipPostal": "郵遞區號/郵遞區號",
+        "enter": "請輸入郵遞區號。"
+      },
+      "stateProvince": {
+        "label": "州/省",
+        "placeholder": "選擇州/省",
+        "message": "請選擇州/省"
+      },
+      "from": {
+        "label": "從",
+        "placeholder": "選擇日期"
+      },
+      "to": {
+        "label": "到",
+        "placeholder": "選擇日期"
+      },
+      "city": {
+        "label": "城市",
+        "placeholder": "選擇城市",
+        "message": "請輸入城市",
+        "enter": "輸入城市",
+        "select": "請選擇城市"
+      },
+      "state": {
+        "label": "狀態",
+        "message": "請選擇一個州",
+        "placeholder": "選擇一個州",
+        "city": "城市"
+      },
+      "contactName": {
+        "label": "聯絡人姓名",
+        "message": "請輸入聯絡人姓名"
+      },
+      "contactEmail": {
+        "label": "聯絡電子郵件",
+        "required": "請輸入聯絡信箱",
+        "message": "輸入的值不是電子郵件格式！"
+      },
+      "containerNumber": {
+        "label": "貨櫃號"
+      },
+      "trackingNumber": {
+        "label": "追蹤號碼",
+        "placeholder": "輸入追蹤號碼"
+      },
+      "createdOn": {
+        "title": "創建於",
+        "placeholder": "選擇日期",
+        "shipmentCreatedOn": "貨件創建於"
+      },
+      "branch": {
+        "label": "分支",
+        "message": "請選擇分行",
+        "placeholder": "選擇分行"
+      },
+      "sortBy": {
+        "label": "排序方式",
+        "select": "選擇排序方式"
+      },
+      "reason": {
+        "label": "原因",
+        "placeholder": "選擇原因",
+        "message": "請選擇一個原因"
+      },
+      "shipmentType": {
+        "placeholder": "選擇貨件類型",
+        "label": "出貨類型",
+        "message": "請選擇貨件類型"
+      },
+      "accessorial": {
+        "label": "配件",
+        "placeholder": "選擇配件"
+      },
+      "product": {
+        "label": "產品",
+        "placeholder": "選擇產品"
+      },
+      "locationID": {
+        "label": "位置ID",
+        "placeholder": "選擇位置 ID"
+      },
+      "serviceLevel": {
+        "label": "服務水準",
+        "placeholder": "選擇服務級別"
+      },
+      "appointmentType": {
+        "label": "預約類型",
+        "placeholder": "選擇預約類型",
+        "message": "請輸入預約類型",
+        "choose": "請選擇預約類型。"
+      },
+      "cargoType": {
+        "label": "貨物類型",
+        "placeholder": "選擇貨物類型",
+        "message": "請選擇貨物類型",
+        "required": "貨物種類為必填項"
+      },
+      "accountNumber": {
+        "label": "帳號",
+        "placeholder": "選擇帳號",
+        "message": "請輸入帳號",
+        "select": "請選擇帳號"
+      },
+      "shipmentBranch": {
+        "label": "出貨分公司",
+        "placeholder": "選擇出貨分公司",
+        "message": "請選擇貨運分公司"
+      },
+      "portName": {
+        "label": "連接埠名稱",
+        "placeholder": "搜尋連接埠名稱",
+        "select": "選擇連接埠名稱",
+        "message": "請選擇連接埠名稱",
+        "enter": "輸入連接埠名稱"
+      },
+      "currency": {
+        "label": "貨幣",
+        "placeholder": "選擇貨幣",
+        "message": "貨幣為必填項"
+      },
+      "customerName": {
+        "label": "顧客姓名",
+        "placeholder": "選擇客戶名稱",
+        "placeholderEnter": "請選擇客戶名稱"
+      },
+      "equipmentType": {
+        "label": "設備類型",
+        "placeholder": "選擇設備類型",
+        "message": "設備類型為必填項"
+      },
+      "linerType": {
+        "label": "內襯類型",
+        "placeholder": "選擇襯管類型"
+      },
+      "measurementUit": {
+        "label": "測量單位",
+        "placeholder": "選擇測量單位"
+      },
+      "packageLoadType": {
+        "label": "包裹裝載類型",
+        "placeholder": "選擇包裹裝載類型",
+        "message": "請選擇包裹裝載類型"
+      },
+      "palletLoadType": {
+        "label": "托盤裝載類型",
+        "placeholder": "選擇托盤裝載類型",
+        "option": "可堆疊",
+        "optionNon": "不可堆疊"
+      },
+      "paymentType": {
+        "label": "付款方式",
+        "placeholder": "選擇付款方式"
+      },
+      "portType": {
+        "label": "連接埠類型",
+        "placeholder": "選擇連接埠類型",
+        "search": "搜尋連接埠類型",
+        "message": "請選擇連接埠類型"
+      },
+      "pricingBasis": {
+        "label": "定價依據",
+        "placeholder": "選擇定價基礎"
+      },
+      "pricingType": {
+        "label": "定價類型",
+        "placeholder": "選擇定價類型",
+        "message": "請選擇定價類型"
+      },
+      "unitOfMeasurement": {
+        "label": "測量單位",
+        "placeholder": "選擇測量單位"
+      },
+      "projectName": {
+        "label": "專案名",
+        "placeholder": "選擇項目名稱",
+        "messageError": "請輸入項目名稱",
+        "messageExist": "項目名稱已存在！"
+      },
+      "poStatus": {
+        "label": "採購訂單狀態",
+        "placeholder": "選擇採購訂單狀態",
+        "option_o": "打開",
+        "option_c": "完全的",
+        "option_d": "已刪除"
+      },
+      "ratingPreferences": {
+        "label": "評級偏好",
+        "placeholder": "選擇評級首選項"
+      },
+      "category": {
+        "label": "類別",
+        "placeholder": "選擇類別"
+      },
+      "categoryType": {
+        "label": "類別類型",
+        "placeholder": "選擇類別類型",
+        "message": "請選擇類別類型"
+      },
+      "userName": {
+        "label": "使用者名稱",
+        "placeholder": "選擇使用者名稱",
+        "message": "請選擇使用者名稱"
+      },
+      "shipmentCreatedBy": {
+        "email": "選擇電子郵件"
+      },
+      "shipperName": {
+        "label": "發貨人名稱",
+        "placeholder": "選擇寄件者名稱",
+        "message": "請選擇寄件者名稱"
+      },
+      "exceptionType": {
+        "label": "異常類型",
+        "placeholder": "選擇異常類型"
+      },
+      "status": {
+        "label": "地位",
+        "placeholder": "選擇狀態",
+        "message": "請選擇狀態"
+      },
+      "locationType": {
+        "label": "位置類型",
+        "placeholder": "選擇位置類型"
+      },
+      "class": {
+        "label": "班級",
+        "placeholder": "選擇班級"
+      },
+      "hazmatClass": {
+        "label": "危險品等級",
+        "placeholder": "選擇危險物品類別"
+      },
+      "routingType": {
+        "label": "路由類型",
+        "placeholder": "選擇路由類型"
+      },
+      "hours": {
+        "label": "小時",
+        "placeholder": "選擇時間",
+        "message": "選擇時間"
+      },
+      "supplier": {
+        "label": "供應商",
+        "placeholder": "選擇供應商"
+      },
+      "taxType": {
+        "label": "稅種",
+        "placeholder": "選擇稅種"
+      },
+      "tenderName": {
+        "label": "招標名稱",
+        "placeholder": "選擇投標名稱"
+      },
+      "timeZone": {
+        "label": "時區",
+        "placeholder": "選擇時區",
+        "message": "請選擇營業時間"
+      },
+      "userType": {
+        "label": "使用者類型",
+        "placeholder": "選擇使用者類型",
+        "enter": "請輸入使用者類型。"
+      },
+      "weightMeasurement": {
+        "label": "重量測量",
+        "placeholder": "選擇體重測量"
+      },
+      "authorisedSignature": "授權簽名",
+      "company": "公司",
+      "title": "標題",
+      "telephoneNumber": "電話號碼"
+    },
+    "notification": {
+      "messages": "留言",
+      "recentActivities": "最近的活動",
+      "errorMessages": "錯誤訊息",
+      "failedUpdateClaimsDetails": "無法更新索賠詳細信息",
+      "sessionExpired": "會話已過期！，請重新登入。",
+      "failedTrackingDetails": "無法取得追蹤詳細信息",
+      "failedCarrierDetails": "無法取得營運商詳細資訊。",
+      "shipmentCancelled": "出貨已成功取消",
+      "timeoutIssue": "超時問題",
+      "parcelExpressSaga": "包裹快遞傳奇",
+      "failedToGetData": "取得數據失敗！",
+      "routingDetails": "路線詳情",
+      "failedTo": "失敗",
+      "distributorDetails": "經銷商詳情",
+      "updated": "更新",
+      "created": "已創建",
+      "successfully": "成功地",
+      "successfullyUpdated": "成功更新",
+      "errorWithCode0": "代碼錯誤 0",
+      "shipmentsFollowing": "出貨與以下出貨編號合併：",
+      "successfullyCopied": "已成功複製",
+      "failed": "失敗的",
+      "success": "成功",
+      "copyTender": "複製投標成功",
+      "copyTenderError": "複製投標錯誤",
+      "purchaseOrderCreated": "確認採購訂單已成功創建",
+      "claimsDetailsFailed": "無法取得理賠詳情",
+      "claimsDeletedFailed": "無法刪除聲明。",
+      "claimsDeleted": "聲明已成功刪除。",
+      "failedShippingLabelPDF": "無法產生運輸標籤 PDF 檔案。",
+      "failedGgeneratePDF": "產生 PDF 失敗",
+      "shippingLabelPDF": "成功產生運輸標籤 PDF 檔案。",
+      "carrierDataFailed": "數據承載失敗。",
+      "portDataFailed": "無法移植數據。",
+      "postalDataFailed": "無法發送資料。",
+      "userProfileImage": "使用者個人資料圖片已更新",
+      "shipmentStatusFailed": "無法查詢出貨狀態！",
+      "userPreferenceFailed": "無法取得用戶偏好",
+      "preferenceUpdatedFailed": "無法更新偏好設定",
+      "preferenceUpdated": "偏好設定已成功更新",
+      "passwordUpdatedFailed": "更新密碼失敗",
+      "passwordUpdated": "密碼已成功更新",
+      "userProfileUpdated": "用戶個人資料已更新",
+      "bidSubmitted": "投標已成功提交。",
+      "bidNotSubmitted.": "投標尚未提交。",
+      "email": "輸入有效的郵箱。",
+      "numeric": "請僅輸入數字",
+      "problemWithDownloading": "下載有問題！",
+      "emptyList": "空列表",
+      "leastOneItem": "請至少輸入一項才能繼續。",
+      "emptySelect": "搜尋某些內容以取得資料...",
+      "noRecondfound": "沒有找到記錄。",
+      "itSeems": "它似乎",
+      "trackingNumber": " 不是有效的追蹤號碼",
+      "successfulyGeneratedCommercial": "成功產生商業發票文件。",
+      "failedToGenerateCommercialInvoiceFile.": "無法產生商業發票文件。",
+      "COOPDF": "成功產生 COO PDF 檔案。",
+      "failedCOOPDF": "無法產生 COO PDF 檔案。"
+    },
+    "emptyRecords": {
+      "title": "請嘗試調整過濾器。",
+      "descriptionOne": "沒有基於您輸入的詳細資訊的資料。",
+      "descriptionTwo": "請嘗試調整過濾器。"
+    }
+  },
+  "parcelExpress": {
+    "serviceType": "服務類型",
+    "transitTime": "運輸時間（天）",
+    "billingWeight": "計費重量",
+    "charges": "收費",
+    "action": "行動",
+    "baseCharges": "基本費用",
+    "totalSurcharges": "附加費總計",
+    "totalDiscount": "總折扣",
+    "netCharges": "淨費用",
+    "savePrintLabel": "節省",
+    "note": "筆記",
+    "severity": "嚴重性",
+    "alertMessage": "警報訊息",
+    "triggerNotification": {
+      "default": "請選擇運營商以獲取費率。",
+      "packages": "包裹已空，請購買至少 1 個包裹重試！",
+      "reject": "未選擇營運商",
+      "packagesReject": "包裹是空的！"
+    },
+    "titles": {
+      "parcelExpress": "包裹快遞",
+      "shipmentInformation": "出貨資訊",
+      "shipmentsByService": "按服務類型劃分的出貨量",
+      "originDestinationInformation": "出發地/目的地訊息",
+      "packageDetails": "套餐詳情",
+      "additionalServices": "額外服務",
+      "total": "今年總支出",
+      "service": "服務失敗"
+    },
+    "buttons": {
+      "addPackage": "新增套餐",
+      "deletePackage": "刪除包"
+    },
+    "locationForm": {
+      "datePickerMessage": "請選擇出貨日期",
+      "countryCallingCode": {
+        "label": "國家/地區電話代碼"
+      },
+      "number": {
+        "required": "請輸入聯絡電話",
+        "number_error": "聯絡電話只能是數字！",
+        "digits_error": "聯絡電話只能是10位數！"
+      },
+      "ext": "分機"
+    },
+    "packageForm": {
+      "itemNo": "編號",
+      "noOfPackages": {
+        "label": "包裝數量",
+        "message": "請輸入包裹數量"
+      },
+      "chargeableWeight": {
+        "label": "計費重量",
+        "message": "請輸入計費重量"
+      },
+      "unit": {
+        "label": "單元",
+        "message": "請選擇單位UOM",
+        "dimension_message": "請選擇尺寸計量單位"
+      },
+      "length": {
+        "message": "請輸入長度"
+      },
+      "width": {
+        "message": "請輸入寬度"
+      },
+      "height": {
+        "message": "請輸入高度"
+      }
+    },
+    "additionalForm": {
+      "residentialDelivery": "住宅配送",
+      "insurance": "保險",
+      "declaredValue": {
+        "label": "申報價值",
+        "placeholder": "輸入申報價值"
+      }
+    },
+    "serviceBarChart": "服務",
+    "totalSpend": " 今年交通提供者的總支出"
+  },
+  "visibility": {
+    "filters": {
+      "titles": {
+        "shipmentSearch": "快件查詢",
+        "byOrigin": "依起運地和目的地搜尋貨件",
+        "byOrder": "按訂單詳細資料搜尋貨件"
+      },
+      "shipmentSearch": {
+        "shipmentType": {
+          "label": "出貨類型",
+          "optionOpen": "打開",
+          "optionClosed": "關閉"
+        },
+        "pickupDate": {
+          "title": "挑個日子",
+          "placeholder": "選擇日期"
+        },
+        "itnNumber": {
+          "label": "ITN/ISF/AES 號碼"
+        }
+      }
+    },
+    "header": {
+      "title": "能見度",
+      "errorNotification": "發送文檔電子郵件失敗！",
+      "downloadLabel": "下載PDF",
+      "printLabel": "列印 PDF",
+      "emailLabel": "電子郵件 PDF",
+      "sendEmailTitle": "發送電子郵件給運輸提供者",
+      "sendEmailSubtitle": "跟踪詳細信息 ",
+      "documents": "文件",
+      "sendEmailSubject": {
+        "label": "主題"
+      },
+      "sendEmailAddress": {
+        "placeholder": "電子郵件地址*",
+        "errorMessage": "請輸入電子郵件地址。"
+      },
+      "sendEmailComments": {
+        "label": "評論",
+        "placeholder": "評論"
+      },
+      "notificationSendEmailError": "發送文檔電子郵件失敗！",
+      "exportForm": {
+        "title": "能見度資訊",
+        "createOn": "創建於",
+        "exportExcel": "可見性匯出 Excel"
+      },
+      "exportPDF": {
+        "shipment": {
+          "title": "物流資訊",
+          "transitServiceStandard": "轉機服務標準： ",
+          "actualTransitDays": " 實際運輸天數： ",
+          "shipmentIdentifier": "貨件識別碼： ",
+          "billOfLadingNumber": "提單號碼： ",
+          "flightVoyageNumber": "航班/航次： ",
+          "expShipDate": "到期出貨日期： ",
+          "vessel": "血管： ",
+          "xpDeliveryDate": "到期交貨日期： ",
+          "sealNumber": "封條碼： ",
+          "vendorName": "供應商名稱： ",
+          "itNisFaeSNo": "ITN/ISF/AES 編號： ",
+          "carrierName": "營運商名稱： ",
+          "shipmentNote": "出貨備註： ",
+          "po": "採購訂單 "
+        },
+        "product": {
+          "title": "產品資訊",
+          "productDescription": " 產品描述",
+          "billedQty": "計費數量",
+          "l": "L",
+          "w": "瓦",
+          "h": "H",
+          "dimUOM": "暗淡計量單位",
+          "soNumber": "SO 編號"
+        },
+        "shipper": {
+          "title": "發貨人資訊",
+          "address1": "地址1",
+          "address2": "地址2",
+          "postal": "郵政",
+          "contact": "聯絡人姓名/電話",
+          "appointmentNumber": "預約號碼",
+          "dockNumber": "碼頭號碼"
+        },
+        "consignee": {
+          "title": "收貨人資訊",
+          "address1": "地址1",
+          "address2": "地址2",
+          "postal": "郵政",
+          "contact": " 聯絡人姓名/電話",
+          "appointmentNumber": " 預約號碼",
+          "dockNumber": "碼頭號碼",
+          "totalPalletCount": "托盤總數"
+        },
+        "tracking": {
+          "title": "追蹤狀態詳細資訊",
+          "date": "狀態日期/時間",
+          "location": "地點",
+          "etaDate": "預計日期"
+        }
+      },
+      "visibilityExport": "可見性導出"
+    },
+    "minCard": {
+      "trackingStatusType": "追蹤狀態類型",
+      "shipDate": "寄件者要求的出貨日期"
+    },
+    "detailCard": {
+      "tabs": {
+        "general": "一般的",
+        "tracking": "追蹤狀態詳細資訊",
+        "details": "細節",
+        "productInfo": "產品資訊"
+      },
+      "generalTab": {
+        "title": "一般的",
+        "shipmentDetail": "出貨詳情",
+        "shipmentMode": "出貨方式",
+        "multiShop": "多店",
+        "shipperDetails": "托運人詳細信息",
+        "shipperContact": "托運人聯絡方式",
+        "appointmentNo": "預約號碼",
+        "dockNo": "碼頭號碼/確認號碼",
+        "consigneeDetails": "收貨人詳情",
+        "consigneeContact": "收貨人聯絡方式",
+        "shipmentLocation": "出貨地點",
+        "trackingDetails": "追蹤詳情",
+        "trackingStatus": "追蹤狀態",
+        "trackingStatusType": "追蹤狀態類型",
+        "transporterPlannedShipDate": "運輸商計劃出貨日期",
+        "transporterPlannedDeliveryDate": "運輸商計劃交貨日期",
+        "eventOccurrence": "事件發生日期和時間",
+        "shipperRequestedShipDate": "寄件者要求的出貨日期",
+        "shipmentDetails": "物流資訊",
+        "shipperRequstedShipDate": "寄件者要求的出貨日期",
+        "shipperRequstedDeliveryDate": "寄件者要求的交貨日期",
+        "eventOccurrenceDate": " 事件發生日期和時間"
+      },
+      "notesTab": {
+        "createdBy": "由...製作 ：",
+        "createdOn": "創建於 ：",
+        "editedBy": "編輯者：",
+        "editedOn": "編輯於："
+      },
+      "detailsTab": {
+        "title": "細節",
+        "portOfOrigin": "始發港",
+        "portOfDischarge": "卸貨港",
+        "houseBill": "房屋提單號碼",
+        "actualTransitDays": "實際運輸天數",
+        "interlineRoutingSequence": "聯運路由順序",
+        "interlineSCAC": "聯運SCAC",
+        "vessel": "血管",
+        "flightVoyageNumber": "航班/航次",
+        "sealNumber": "封條碼",
+        "itNisFaeSNumber": "ITN/ISF/AES 號碼"
+      },
+      "productInfoTab": {
+        "title": "產品資訊",
+        "productCode": "產品代碼 ：",
+        "productDescription": "產品描述",
+        "grossWeight": "總重量"
+      },
+      "fileDetailsTab": {
+        "fileComments": {
+          "label": "文件評論",
+          "placeholder": "文件評論"
+        },
+        "referenceNo": {
+          "label": "支援文件參考號",
+          "placeholder": "支援文件參考號"
+        }
+      }
+    },
+    "footer": {
+      "totalShipments": "總出貨量",
+      "openShipments": "開放出貨",
+      "closedShipments": "已關閉的發貨",
+      "exceptions": "例外情況"
+    },
+    "trackingStatusInfo": {
+      "trackingStatus": {
+        "label": "追蹤狀態",
+        "placeholder": "選擇追蹤狀態",
+        "message": "請選擇追蹤狀態"
+      },
+      "trackingStatusType": {
+        "label": "追蹤狀態類型",
+        "placeholder": "選擇追蹤狀態類型"
+      }
+    },
+    "containerNumbershouldbe": " 不是貨櫃號，應該是XXXU1234567",
+    "youOnlyhave": "你只有",
+    "charactersRequired": " 但至少需要 5 個字符",
+    "invalidProvider": "無效的提供者"
+  },
+  "shipmentAdd": {
+    "totalPieces": "總件",
+    "consolidate": "鞏固",
+    "shipmentToDisplayOnMap": "地圖上顯示的貨件",
+    "productRepository": {
+      "title": "新增至產品儲存庫",
+      "description": "您希望將此產品儲存在產品儲存庫中嗎？"
+    },
+    "titles": {
+      "details": "物流資訊",
+      "transportation": "交通詳情",
+      "vendor": "供應商詳情",
+      "bill": "記帳到",
+      "category": "類別詳情",
+      "accounting": "附屬品和稅收"
+    },
+    "notifications": {
+      "barcodeElementNotfound": "未找到條碼元素",
+      "generatedBarcodeOnly": "僅產生條碼",
+      "costIsRequired": "需要費用",
+      "standardTransitDaysIsRequired": "需要標準運輸天數",
+      "pickupDeliveryLocations": "貨件運送應至少有一個取貨和送貨地點。",
+      "pickupLocation": "貨件運送應至少有一個提貨地點。",
+      "minimumDeliveryLocation": "貨物運輸應至少有一個交貨地點。",
+      "productRequired": "產品詳細資訊至少需要一件產品。",
+      "fixAccountingSection": "請修復會計部分的驗證問題。"
+    },
+    "shipmentScreen": {
+      "checkingApproval": "檢查出貨審批流程...",
+      "approvalNumber": "核准文號",
+      "masterShipment": "主出貨"
+    },
+    "shipmentDetails": {
+      "rateShopResults": "評價商店結果",
+      "iTrack": "iTrack",
+      "trackingDetails": "追蹤詳情",
+      "warningModalInternalTracking": "目前此記錄不存在追蹤數據。",
+      "emptyRecords": "請耐心等待運營商的更新。",
+      "checking": "檢查 PO、SO 和 PaidBy 可見性...",
+      "freightBillProNumber": {
+        "label": "貨運單/專業編號"
+      },
+      "masterBillOfLandingNumber": {
+        "label": "主提單號碼"
+      },
+      "purchaseOrders": {
+        "label": "訂單",
+        "message": "請輸入採購訂單！"
+      },
+      "salesOrders": {
+        "label": "銷售訂單"
+      },
+      "paidBy": {
+        "label": "由...支付",
+        "placeholder": "選擇 A 付款人"
+      },
+      "amount": {
+        "label": "數量",
+        "placeholder": "數量"
+      },
+      "paidPercentage": {
+        "label": "付費百分比：",
+        "placeholder": "百分比"
+      },
+      "of": {
+        "placeholder": "％ 的"
+      },
+      "freeOnBoard": {
+        "label": "免費董事會",
+        "placeholder": "選擇船上免費"
+      },
+      "customerAccountNumber": {
+        "label": "客戶帳號"
+      },
+      "incotermNamedPlace": {
+        "label": "國際貿易術語命名地點"
+      }
+    },
+    "transportationDetails": {
+      "addingNewStopIs": "新增網站是",
+      "modifyingStopIs": "修改停止是",
+      "deletingStopIs": "刪除停靠站是",
+      "trackContainer": "軌道貨櫃",
+      "shipmentCity": "出貨城市",
+      "shipmentStateProvince": "出貨州/省",
+      "shipmentCountry": "出貨國家",
+      "receivedDateEST": "收到的日期",
+      "selectDate": "選擇日期",
+      "eventOccurrenceDateLocal": "當地事件發生日期和時間",
+      "transporterRequestedDeliveryDate": "運輸商要求的交貨日期",
+      "transporterRequestedShipDate": "運輸商要求的出貨日期",
+      "shipperRequestedDeliveryDate": "寄件者要求的交貨日期",
+      "shipperRequestedShipDate": "寄件者要求的出貨日期",
+      "transportationProviderReferenceNo": "運輸提供者參考號",
+      "actual": "實際的",
+      "dateTime": "日期",
+      "requestedDateTime": "申請日期",
+      "appointmentDateTime": "約會日期",
+      "delivery": "送貨",
+      "totalMiles": "總里程",
+      "addStops": "新增停靠點",
+      "addressBookDescription": "您希望將此地址儲存在地址簿中嗎？",
+      "addToAddressBook": "加至地址簿",
+      "number": {
+        "placeholder": "數位"
+      },
+      "ext": {
+        "placeholder": "分機"
+      },
+      "stopType": {
+        "label": "停止類型",
+        "placeholder": "選擇停止類型",
+        "message": "請選擇停止類型"
+      },
+      "stopNo": {
+        "label": "停靠站號",
+        "placeholder": "選擇停靠站號",
+        "message": "請選擇A站地點"
+      },
+      "appointmentNumber": {
+        "label": "預約號碼",
+        "placeholder": "輸入預約號碼"
+      },
+      "dockConfirmationNumber": {
+        "label": "碼頭/確認號碼"
+      },
+      "taxIdVat": {
+        "label": "稅號/增值稅"
+      }
+    },
+    "productDetails": {
+      "freightClassCalculator": "貨運艙位計算器",
+      "copyLastProduct": "複製最後的產品詳細資料條目",
+      "createNewProduct": "創造新產品",
+      "chargeableWeight": {
+        "label": "計費重量",
+        "message": "請輸入計費重量",
+        "error": "計費重量必須是數字。",
+        "minError": "計費重量至少應為 1"
+      },
+      "packageBilledQuantity": {
+        "message": "請輸入包裹/計費數量",
+        "error": "包裹/計費數量必須是數字。",
+        "minError": "包裹/計費數量應至少為 1"
+      },
+      "length": {
+        "message": "請輸入長度",
+        "error": "長度必須是數字。",
+        "minError": "長度應至少為 1"
+      },
+      "width": {
+        "message": "請輸入寬度",
+        "error": "寬度必須是數字。",
+        "minError": "寬度應至少為 1"
+      },
+      "height": {
+        "message": "請輸入身高",
+        "error": "高度必須是數字。",
+        "minError": "高度應至少為 1"
+      },
+      "hazmatUnNumber": {
+        "label": "危險物品聯合國編號"
+      },
+      "saidToContain": {
+        "label": "據說包含"
+      },
+      "purchaseOrders": {
+        "label": "訂單",
+        "message": "請輸入採購訂單！"
+      },
+      "salesOrders": {
+        "label": "銷售訂單"
+      },
+      "lineItemNumber": {
+        "label": "行項目編號"
+      },
+      "htsCode": {
+        "label": "高溫超導代碼"
+      },
+      "nmfcNumber": {
+        "label": "NMFC編號"
+      }
+    },
+    "rateShopDetails": {
+      "assignTransportationProvider": "指定交通提供商",
+      "preferredTransportationProvider": {
+        "label": "首選交通提供者",
+        "placeholder": "選擇首選交通提供者",
+        "message": "請選擇首選交通提供者"
+      },
+      "warningModalFilter": "產品數量、計費數量、計費重量不能為空或0",
+      "standrardTransitDays": "標準過境天數",
+      "rateEntry": "率輸入",
+      "rateShopResults": "評價商店結果",
+      "tenderEmail": "請至少選擇一封投標電子郵件以繼續。",
+      "adminEmail": "管理員電子郵件地址",
+      "doNotSendTenderEmail": "不要發送投標電子郵件",
+      "doNotSendBillOfLading": "不發送提單",
+      "tenderList": "招標清單",
+      "shipperInformation": "發貨人資訊",
+      "shipperEmailAddress": "寄件者電子郵件地址",
+      "sendEmailToShipper": "發送電子郵件給發貨人",
+      "assignTansportationProvider": "投標前請指定運輸提供者",
+      "ratesCantBe": "價格不能早於",
+      "rateShipment": "投標日。",
+      "failedRateShopResults": "無法取得商店的價格結果。",
+      "filedTosaveRatingDetails": "無法儲存評級詳細資料。",
+      "selectTransportationProvider": "請先選擇運送提供者",
+      "failedAssignTransportationProvider": "無法分配運輸提供者。",
+      "warningModal": "裝運已經招標。",
+      "tenderInformation": "招標資訊",
+      "rateShopSearch": "評價商店搜尋",
+      "rateShopDetails": "評價商店詳情",
+      "emptyRecords": {
+        "title": "目前無法提供評級詳細信息，請稍後再試。"
+      },
+      "standardTransitDays": "標準運輸天數",
+      "bidExpiryDate": "投標截止日期",
+      "days": "天",
+      "convertedCost": "換算成本",
+      "serviceDescription": {
+        "label": "服務說明"
+      },
+      "equipmentTypeDetail": {
+        "label": "設備類型詳細信息"
+      },
+      "userSubmitted": {
+        "label": "用戶已提交"
+      },
+      "bidComment": {
+        "label": "投標評論"
+      },
+      "spotQuoteNumber": {
+        "label": "現貨報價編號"
+      }
+    },
+    "vendorDetails": {
+      "title": "供應商詳情",
+      "addNewVendor": "新增供應商",
+      "confirmationModal": {
+        "okText": "好的",
+        "updateToDelivered": "您想將貨件追蹤狀態更新為「已送達」嗎？",
+        "deliveredConfirmation": "已交付確認",
+        "acknowledgedConfirmation": "確認確認",
+        "updateToShipmentAcknowledged": "您想將貨件追蹤狀態更新為「貨件已確認」嗎？"
+      },
+      "updateToShipmentAcknowledged": {
+        "acknowledgedConfirmation": "確認確認",
+        "description": "您想將貨件追蹤狀態更新為「貨件已確認」嗎？",
+        "okText": "好的"
+      },
+      "alertModalDescription": {
+        "notStatus": "不處於投標或自動投標狀態",
+        "unableToUpdateShipmentNew": "無法更新狀態為「在途」或「取消保留」的貨件。",
+        "shipmentNoUpdatedNew": "如果貨件處於「自動投標」、「投標」、「已確認」、「在途」狀態，則無法將其更新為「新」。",
+        "shipmentNoUpdatedPlanning": "如果貨件處於「自動投標」、「投標」、「已確認」、「在途」狀態，則無法將其更新為「計畫」。",
+        "unableToUpdateShipmentAutoRoute": "若貨件狀態為“投標”、“自動投標”、“在途”、“已確認”、“已關閉”，則無法將貨件更新為“自動路由”狀態。",
+        "unableToUpdateShipmentRateError": "如果貨件不處於 New、Spot Bid 或 SpotBidEnd 狀態，則無法將貨件更新為費率錯誤。",
+        "shipmentStatusAutoTendered": "貨件必須處於「自動投標」、「已投標」、「已確認」、「保留」、「在途」或「計劃取消」狀態。"
+      },
+      "statusMessage": "狀態訊息",
+      "addingNewVendorIs": "新增供應商是",
+      "modifyingVendorIs": "修改供應商是",
+      "deletingVendorIs": "刪除供應商是"
+    },
+    "billingDetails": {
+      "vatNumber": {
+        "label": "增值稅號",
+        "placeholder": "輸入增值稅號"
+      }
+    },
+    "categoryDetails": {
+      "addNewCategory": "新增類別",
+      "subCategory": {
+        "label": "子類別",
+        "placeholder": "選擇子類別"
+      }
+    },
+    "accountingDetails": {
+      "showItem": "顯示具有以下價值的物品",
+      "startWith": "從...開始",
+      "isEqualto": "等於",
+      "taxDetails": "稅務詳情",
+      "addNewTax": "新增稅",
+      "addNewAccessorial": "新增的附加費用",
+      "accessorialDetails": "配件細節",
+      "taxAmount": {
+        "label": "稅額"
+      }
+    },
+    "documentDetails": {
+      "fileName": "檔案名稱 ：",
+      "supportingDocument": {
+        "label": "支援文件參考號",
+        "placeholder": "輸入支援文件參考號"
+      }
+    },
+    "spotBid": {
+      "selectDate": "請選擇日期",
+      "doNotSendEmail": "不要發送電子郵件",
+      "resetSpotBid": "重置現貨出價",
+      "routingSpotBidList": "路由點投標列表",
+      "addBidder": "添加投標人",
+      "submitSpotBidTocarriers": "請嘗試向業者提交現貨投標",
+      "expirationTime": {
+        "label": "到期時間",
+        "message": "請選擇到期時間"
+      },
+      "dateHours": "日期",
+      "submitSpotBid": "提交現貨投標",
+      "distributors": "經銷商",
+      "shipmentForSpotBid": "您的貨物已發送進行現貨投標",
+      "endSpotBid": "結束現貨投標"
+    }
+  },
+  "getQuote": {
+    "notesHere": "此處註釋",
+    "characters": "剩 2000 個字符",
+    "triggerNotification": "停靠點應至少有一個起點！",
+    "destionationTriggerNotification": "停靠站應至少有一個目的地！",
+    "productTriggerNotification": "請添加至少一種產品。",
+    "emptyRecords": {
+      "title": "目前無法取得評級詳細資訊。",
+      "desc": "請稍後再試！"
+    },
+    "titles": {
+      "getQuote": "獲得報價",
+      "quoteDetails": "報價詳情",
+      "transportationDetails": "交通詳情",
+      "quoteNotes": "報價備註",
+      "additionalServices": "額外服務",
+      "rateShopResults": "評價商店結果"
+    },
+    "quoteDetails": {
+      "projectNo": {
+        "label": "項目編號",
+        "placeholder": "輸入項目編號"
+      },
+      "quoteCost": {
+        "label": "報價成本"
+      },
+      "quoteTransportationProvider": {
+        "label": "報價運輸提供者"
+      },
+      "createdBy": {
+        "label": "由...製作"
+      }
+    },
+    "transportationDetails": {
+      "delivery": "送貨",
+      "totalDistanceMiles": "總距離（英里）",
+      "totalDistanceKm": "總距離（公里）",
+      "buttons": {
+        "addStop": "新增停靠點",
+        "deleteStop": "刪除停靠站"
+      },
+      "stopType": {
+        "label": "停止類型",
+        "message": "請選擇停止類型"
+      },
+      "stopNo": {
+        "label": "停靠站號",
+        "message": "請輸入停靠站號",
+        "error_integer": "停止號碼應該是整數！",
+        "error_max": "最大允許停靠站數量 1 至"
+      }
+    },
+    "productDetails": {
+      "productInformation": "產品資訊",
+      "itemNo": "編號",
+      "numberOfPackages": {
+        "label": "包裹數量",
+        "message": "請輸入包裹數量"
+      },
+      "chargeableWeight": {
+        "label": "計費重量",
+        "message": "請輸入產品重量"
+      },
+      "unit": {
+        "label": "單元"
+      }
+    },
+    "transportationProviderSearch": {
+      "shipmentType": {
+        "label": "出貨類型"
+      },
+      "rateDetails": {
+        "title": "目前無法取得評級詳細資訊。",
+        "description_other": "請稍後再試！"
+      }
+    },
+    "rateShopDetails": {
+      "convertedCost": "換算成本",
+      "convertedCurrencyCode": "轉換後的貨幣代碼",
+      "standardTransitDays": "標準運輸天數"
+    },
+    "additionalDetails": {
+      "addNewAccessorialCharges": "新增的附加費用",
+      "error": "請選擇配件",
+      "accessorialName": {
+        "label": "配件名稱"
+      }
+    }
+  },
+  "notificationSettings": {
+    "title": "通知設定",
+    "distributorContainer": {
+      "title": "分佈詳情",
+      "button": "新增記錄",
+      "recordNo": "記錄編號：",
+      "distributionName": {
+        "label": "發行版名稱",
+        "message": "請輸入發行版名稱"
+      }
+    },
+    "routingContainer": {
+      "title": "通知路由詳細信息",
+      "addNewNotificationRouting": "新增的通知路由",
+      "customerName": "顧客姓名 ：",
+      "selected": "已選擇",
+      "emailList": {
+        "label": "電子郵件清單",
+        "message": "電子郵件可以用逗號分隔列出。"
+      },
+      "distributionName": {
+        "label": "發行版名稱",
+        "message": "請選擇發行版名稱"
+      },
+      "chargeableWeight": {
+        "label": "計費重量",
+        "placeholder": "輸入計費重量"
+      }
+    }
+  },
+  "rateShop": {
+    "tabs": {
+      "rateShopResults": "評價商店結果"
+    },
+    "buttons": {
+      "viewRateShopResults": "查看費率商店結果",
+      "stops": "停靠點"
+    },
+    "rateShop": {
+      "general": "一般的",
+      "optional": "選修的",
+      "laneDetails": "車道詳情",
+      "addLane": "增加車道",
+      "deleteLane": "刪除車道",
+      "actualCarrierRateShopping": "（實際承運人）費率購物",
+      "stopsDetails": "停靠點詳情",
+      "Add Stop": "新增停靠點",
+      "deleteStop": "刪除停靠站",
+      "itemDetails": "項目詳情",
+      "addItem": "新增項目",
+      "deleteItem": "刪除項目",
+      "addStop": "新增停靠點",
+      "legDistance": "腿距",
+      "tripDistance": "旅行距離",
+      "totalPieces": "總件",
+      "totalPiecesEqual": "停靠站數量必須等於總件數",
+      "inDetails": "詳細地",
+      "port": "港口",
+      "location": "地點",
+      "pieces": {
+        "label": "件",
+        "message": "請輸入件數"
+      },
+      "numberOfPieces": {
+        "label": "件數",
+        "message": "件數不能為負值"
+      },
+      "currencyCode": {
+        "message": "請選擇貨幣"
+      },
+      "pricingType": {
+        "message": "請選擇定價類型"
+      },
+      "pricingBasis": {
+        "message": "請選擇定價基礎"
+      },
+      "rateSelection": {
+        "label": "費率選擇",
+        "message": "請選擇費率選擇"
+      },
+      "measurementUit": {
+        "label": "測量單位",
+        "message": "請選擇測量單位"
+      },
+      "shipmentDate": {
+        "message": "請選擇出貨日期"
+      },
+      "account": {
+        "label": "帳戶",
+        "placeholder": "輸入帳戶"
+      },
+      "declaredValue": {
+        "label": "申報價值"
+      },
+      "codValue": {
+        "label": "化學需氧量值"
+      },
+      "ldmValue": {
+        "label": "LDM值"
+      },
+      "length": {
+        "errorLength": "長度不能為負值"
+      },
+      "width": {
+        "errorLength": "寬度不能為負值"
+      },
+      "weight": {
+        "message": "請輸入重量",
+        "errorWeight": "權重不能為負值",
+        "errorZero": "權重應大於零"
+      },
+      "height": {
+        "errorNegative": "高度不能為負值"
+      },
+      "billedQuantity": {
+        "label": "計費數量",
+        "errorNegative": "計費數量不能為負值"
+      },
+      "ratingClass": {
+        "label": "評級等級",
+        "message": "請選擇評級等級"
+      }
+    },
+    "rateShopResult": {
+      "shippingDate": "出貨日期",
+      "measurementType": "測量類型",
+      "imperial": "帝國",
+      "metric": "公制",
+      "emptyRecords": "目前無法提供評級詳細信息，請稍後再試。",
+      "noRatesFound": "沒有找到價格！",
+      "code": "程式碼",
+      "calculationType": "計算類型",
+      "effectiveFrom": "生效日期",
+      "charge": "收費",
+      "accessorialDiscount": "配件折扣",
+      "fuel": "燃料",
+      "note": "筆記",
+      "accessorialBasis": "配件基礎",
+      "effectiveTo": "有效至",
+      "deficitWeight": "赤字權重",
+      "deficitRate": "赤字率",
+      "itemsTotalCharge": "項目 總費用",
+      "deficitCharge": "赤字費用",
+      "grossCharge": "總費用",
+      "totalDiscount": "總折扣",
+      "baseCharge": "基本費用",
+      "itemNo": "編號",
+      "piece": "片",
+      "absMin": "ABS 最小值",
+      "rateCostPer": "每人的費率/費用",
+      "discount": "折扣",
+      "uom": "墨爾本大學",
+      "actualClass": "實際班級",
+      "absMax": "最大ABS",
+      "amount": "數量",
+      "totalTaxCharge": "總稅費",
+      "taxBasis": "計稅基礎",
+      "discountAmount": "折扣金額",
+      "discountPercentage": "折扣比例",
+      "mileage": "里程（英里）",
+      "totalAcc": "總積分",
+      "totalTax": "總稅額",
+      "totalCost": "總成本",
+      "bureauMC": "主席團司儀",
+      "directPoint": "直接點",
+      "totalShipmentCost": "總運輸成本",
+      "service": "服務",
+      "equipment": "裝置",
+      "distance": "距離（英里/公里）",
+      "miles": "英哩",
+      "kms": "公里數",
+      "tariffName": "資費名稱",
+      "pricingEffectiveDate": "定價生效日期",
+      "to": "到",
+      "tariffEffectiveDate": "關稅生效日期",
+      "pricingKey": "定價要點",
+      "tariffKey": "資費表",
+      "liner": "襯墊",
+      "laneCode": "車道代碼",
+      "laneAlias": "巷別名",
+      "rateShopResult": "評價商店結果",
+      "accessorials": "配件",
+      "taxes": "稅收"
+    },
+    "globalRateShope": "全球價格商店",
+    "taxDetails": "稅務詳情",
+    "totalAccessorialCharge": "輔助費用總額",
+    "addNew": "沒有停止，請嘗試添加新的！",
+    "stop": "停止"
+  },
+  "procurement": {
+    "createProject": "創建專案",
+    "createTender": "創建標書",
+    "download": "下載",
+    "projectName": {
+      "label": "專案名",
+      "placeholder": "專案名"
+    },
+    "tenderName": {
+      "label": "招標名稱",
+      "placeholder": "招標名稱"
+    },
+    "subMenu": {
+      "project": "專案",
+      "tender": "標",
+      "bidAnalysis": "投標分析",
+      "routeConfiguration": "路由設定"
+    },
+    "routeConfigurationTabs": {
+      "location": "地點",
+      "lane": "車道",
+      "zone": "區"
+    },
+    "filters": {
+      "projectSearch": "專案搜尋",
+      "tenderSearch": "招標搜尋",
+      "searchCriteria": "搜尋條件",
+      "tender": "標",
+      "admin": "行政",
+      "generalDetails": "一般詳情",
+      "rank": "秩",
+      "summarizeCritria": "總結標準",
+      "includeHistorical": "包括歷史",
+      "laneSearch": "車道搜索",
+      "zoneSearch": "區域搜尋"
+    },
+    "projectTabs": {
+      "projectDetails": "項目詳情",
+      "tenderDetails": "招標詳情"
+    },
+    "tenderTabs": {
+      "tenderInformation": "招標資訊",
+      "documentation": "文件",
+      "laneInformation": "車道資訊",
+      "bidParameters": "出價參數"
+    },
+    "fields": {
+      "service": "服務",
+      "addDestination": "新增目的地",
+      "destinationDetails": "目的地詳情",
+      "region": "地區",
+      "addOrigin": "添加原點",
+      "originDetails": "產地詳情",
+      "destinationStucuture": "目的地結構（部分）",
+      "originStucuture": "起源結構（頭部）",
+      "bidTransportationProvider": "BID 運輸提供者",
+      "baseBIDPrice": "基本出價",
+      "bidRankBidTransportationProvider": "BID 排名 BID 運輸供應商",
+      "currentBIDPrice": "目前出價",
+      "bidRankBaseTransportationProvider": "BID 排名基礎 交通供應商",
+      "lanesNotCovered": "車道未覆蓋",
+      "lanesCovered": "覆蓋車道",
+      "numberOfLanes": "車道數",
+      "currentBIDTransportationProvider": "目前 BID 運輸提供者",
+      "baseTransportationProvider": "基地運輸提供者",
+      "parameterType": {
+        "label": "參數類型"
+      },
+      "projectStatus": {
+        "label": "項目狀況",
+        "placeholder": "選擇專案狀態",
+        "message": "請選擇專案狀態",
+        "true": "積極的",
+        "false": "不活躍"
+      },
+      "tenderStatus": {
+        "label": "招標狀態：",
+        "true": "積極的",
+        "false": "不活躍"
+      },
+      "projectApproved": {
+        "label": "項目審批狀況",
+        "message": "請選擇項目審批狀態"
+      },
+      "projectApprovedBy": {
+        "label": "專案批准人"
+      },
+      "projectLead": {
+        "label": "專案負責人",
+        "message": "請選擇專案負責人"
+      },
+      "tecSupport": {
+        "label": "技術支援",
+        "message": "請選擇技術支援"
+      },
+      "tecLead": {
+        "label": "技術負責人",
+        "message": "請選擇技術支援"
+      },
+      "projectSupport": {
+        "label": "專案支援",
+        "message": "請選擇專案支援"
+      },
+      "groupBy": {
+        "label": "透過...分組"
+      },
+      "formulaName": {
+        "label": "配方名稱",
+        "placeholder": "總成本"
+      },
+      "parameters": {
+        "label": "參數",
+        "placeholder": "輸入參數"
+      },
+      "formula": {
+        "label": "公式",
+        "placeholder": "運輸基本成本"
+      },
+      "summarizeCritria": {
+        "label": "總結標準"
+      },
+      "actualName": {
+        "label": "實際項目名稱"
+      },
+      "description": {
+        "placeholderDesc": "招標說明",
+        "message": "請新增描述"
+      },
+      "modeOfTender": {
+        "label": "招標方式"
+      },
+      "tecSupServicePort": {
+        "label": "技術支援服務類別端口"
+      },
+      "reference": {
+        "label1": "參考文獻1",
+        "label2": "參考2",
+        "placeholder": "參考"
+      },
+      "transportationMode": {
+        "label": "運輸方式"
+      },
+      "prameterDisplayName": {
+        "label": "參數顯示名稱："
+      },
+      "locationName": {
+        "title": "地點名稱",
+        "label": "地點名稱：",
+        "placeholder": "輸入位置名稱"
+      },
+      "originType": {
+        "label": "原產地類型",
+        "placeholder": "選擇來源類型"
+      },
+      "originName": {
+        "label": "產地名稱",
+        "placeholder": "輸入來源名稱"
+      },
+      "destinationType": {
+        "label": "目的地類型",
+        "placeholder": "選擇目的地類型"
+      },
+      "destinationName": {
+        "label": "目的地名稱",
+        "placeholder": "輸入目的地名稱"
+      },
+      "zoneName": {
+        "label": "區域名稱",
+        "placeholder": "區域名稱"
+      },
+      "date": {
+        "startDate": "開始日期",
+        "endDate": "結束日期",
+        "projectStartDate": "專案開始日期",
+        "projectEndDate": "專案結束日期",
+        "tenderStartDate": "招標開始日期",
+        "tenderEndDate": "投標結束日期",
+        "startDateTime": "開始日期和時間",
+        "placeholder": "選擇日期",
+        "endDateAndTime": "結束日期和時間"
+      }
+    },
+    "projectCard": {
+      "details": "項目詳情",
+      "information": "專案資訊",
+      "projectDescription": "項目介紹",
+      "projectStartDate": "專案開始日期",
+      "projectEndDate": "專案結束日期",
+      "mileStones": "里程碑",
+      "startDate": "開始日期",
+      "endDate": "結束日期",
+      "actualName": "實際項目名稱",
+      "preparationFiles": "準備文件",
+      "bidCollectionPhase": "投標收集階段",
+      "selectionPhase": "選擇階段",
+      "currentRound": "本輪：",
+      "modeOfTender": "招標方式",
+      "transportationMode": "運輸方式",
+      "serviceCategory": "服務類別",
+      "notificationSuccess": "創建專案成功",
+      "notificationError": "建立專案錯誤"
+    },
+    "tenderCard": {
+      "trackingStatus": "追蹤狀態",
+      "modeOfTender": "招標方式",
+      "tenderStartDate": "招標開始日期",
+      "laneCovered": "車道覆蓋",
+      "tenderEndDate": "投標結束日期",
+      "currentRound": "本輪",
+      "bidCollectionStartDateTime": "投標收集開始日期和時間",
+      "bidCollectionEndDateTime": "投標收集結束日期和時間",
+      "laneName": "車道名稱：",
+      "dellasLocation": "德拉斯位置",
+      "prameterDisplayName": "參數顯示名稱：",
+      "prameterType": "參數類型",
+      "required": "必需/不必需",
+      "parameterDataType": "參數資料型",
+      "value": "價值",
+      "repeated": "重複",
+      "historicalOnly": "僅歷史",
+      "rflStatus": "RFL 狀態",
+      "rfqStatus": "詢價狀態",
+      "rfiRequestDate": "RFI 請求日期",
+      "rfqRequestDate": "詢價請求日期",
+      "rfiRespondDate": "RFI 回覆日期",
+      "rfqRespondDate": "詢價回覆日期"
+    },
+    "modalTransportationProvider": {
+      "title": "搜尋/新增運輸提供者",
+      "shortName": "簡稱",
+      "countryCallingCode": "國家/地區電話代碼",
+      "number": "數位",
+      "ext": "分機",
+      "fax": "傳真",
+      "modeType": "模式類型"
+    },
+    "bigAnalysisCard": {
+      "rankAndCost": "排名和成本",
+      "laneCoverage": "車道覆蓋率",
+      "details": "細節",
+      "laneCoverageAnalysis": "車道覆蓋分析",
+      "combinationAnalysis": "組合分析",
+      "bidRank": "出價排名",
+      "winningLanes": "獲勝車道",
+      "chart": "圖表",
+      "bidLane": "投標通道",
+      "totalLanes": "總車道數",
+      "percentageCoverage": "覆蓋率百分比",
+      "includeHistorical": "包括歷史",
+      "orgin": "起源",
+      "shipment": "運輸",
+      "bidedUnitPrice": "投標單價",
+      "baseCost": "基本成本",
+      "rank": "秩",
+      "savingPercentage": "節省百分比",
+      "liftGate": "提升門",
+      "savingAmount": "儲蓄金額",
+      "trackingStatus": "追蹤狀態",
+      "trackingStatusType": "追蹤狀態類型",
+      "shipperShipDate": "寄件者要求的出貨日期"
+    },
+    "routeConfigurationCard": {
+      "lane": "車道",
+      "zoneName": "區域名稱"
+    },
+    "footer": {
+      "totalActive": "活躍項目總數",
+      "totalApproved": "核准項目總數",
+      "total": "項目總計",
+      "totalShipments": "總出貨量",
+      "openShipments": "開放出貨",
+      "closedShipments": "已關閉的發貨",
+      "exceptions": "例外情況"
+    }
+  },
+  "purchase-order-view": {
+    "shipmentLandingList": "快件卸貨清單",
+    "filterTitle": "採購訂單搜尋",
+    "pageTitle": "採購訂單資訊",
+    "draftOrderSearch": "草稿訂單搜尋",
+    "shipmentSearch": "快件查詢",
+    "vendorAddressSearch": "供應商地址搜尋",
+    "regularOrders": "常規訂單",
+    "releaseOrders": "發布訂單",
+    "originDetails": "產地詳情",
+    "shipperDetails": "托運人詳細信息",
+    "destinationDetails": "目的地詳情",
+    "consigneeDetails": "收貨人詳情",
+    "wareHouseContactDetails": "倉庫聯絡方式",
+    "wareHouseDetails": "倉庫詳情",
+    "suzhouDousonDrillingProdu": "蘇州道森鑽探",
+    "contactPerson": "聯絡人",
+    "telephoneNo": "電話號碼。",
+    "extension": "擴大",
+    "otherDetails": "其他詳情",
+    "htsCode": "高溫超導代碼",
+    "sureToReset": "確定要重置嗎？",
+    "quanityLeft": "剩餘數量",
+    "quantityShippeError": "價值必須小於剩餘數量！",
+    "originDestinationDetails": "出發地及目的地詳情",
+    "warehouseContactInfoDetails": "倉庫聯絡資訊和詳細信息",
+    "appointmentIsRequired": "需預約",
+    "warehouseContactMsg": "請輸入倉庫聯絡方式",
+    "shipperAddressMsg": "請輸入出貨人地址",
+    "warehouseTelephoneMsg": "請輸入倉庫電話",
+    "emailMsg": "請輸入電子郵件地址",
+    "checkboxMsg": "選擇此複選框，您將獲得選定的收貨人郵遞區號位置結果",
+    "NoOfItems": "物品數量",
+    "itemShipDate": "商品出貨日期",
+    "addPackageID": "新增包 ID",
+    "newShipDateError": "新出貨日期不能超過一年。",
+    "newShipPastDateError": "新出貨日期不能是過去的日期。",
+    "totalNoOfProducts": "產品總數",
+    "releaseQuantity": "發布數量",
+    "createShipment": "建立貨件",
+    "updateShipment": "更新出貨",
+    "locationDetails": "地點詳情",
+    "locationCity": "地點城市",
+    "warehouseDetails": "倉庫詳情",
+    "enterQuantityLeft": "輸入剩餘數量",
+    "action": "行動",
+    "sureToDelete": "確定要刪除嗎？",
+    "copyLastPackageId": "複製最後一個包 ID",
+    "resetPurchaseOrder": "重置採購訂單",
+    "percentageLeftItems": "剩餘百分比（剩餘物品）",
+    "orderStatus": "訂單狀態",
+    "topVendors": "頂級供應商",
+    "topCustomers": "頂級客戶",
+    "shipmentsStatus": "出貨狀態",
+    "topLocationsOrderWise": "熱門地點（依序排列）",
+    "topProducts": "熱門商品",
+    "shipmentInformation": "出貨資訊",
+    "shipperStateProvience": "發貨人所在州/省",
+    "consigneeStateProvience": "收貨人所在州/省",
+    "totalOrders": "訂單總數",
+    "openOrders": "未結訂單",
+    "dueinNext7Days": "未來 7 天內到期",
+    "delayedOrders": "延遲訂單",
+    "closedOrders": "已關閉訂單",
+    "lastCreatedShipmentNumber": "最後建立的貨件編號",
+    "vendorsInformation": "供應商資訊",
+    "date": "日期",
+    "addNewRecord": "新增記錄",
+    "confirmPurchaseOrder": "確認採購訂單",
+    "resetReleaseOrder": "重置發布順序",
+    "purchaseItemInformation": "購買商品資訊",
+    "vendorAddressSearchExport": "供應商地址搜尋導出",
+    "purchaseOrderExport": "採購訂單匯出",
+    "addNewPackageId": "新增包 ID",
+    "applyCountryButton": "將原產地應用於所有線路",
+    "shipmentEntry": "裝運錄入",
+    "shipmentItemDetails": "貨件詳情",
+    "shipmentSummary": "出貨摘要",
+    "totalMiles": "總里程",
+    "chargableWeight": "收費重量",
+    "shipmentCreatedDate": "貨件建立日期",
+    "shipmentNumbers": "出貨數量",
+    "draftOrderSearchExport": "草稿訂單搜尋匯出",
+    "shipmentCreateDate": "貨件建立日期",
+    "shipmentSearchExport": "貨件搜尋 出口",
+    "chargeableWeight": "計費重量",
+    "createFinalShipment": "建立最終發貨",
+    "unSelectAll": "全部取消選擇",
+    "shipmentSearchInformation": "快件查詢訊息",
+    "draftOrderSearchInformation": "草稿訂單搜尋資訊",
+    "pleaseEnterLocationAddress": "請輸入地點地址",
+    "pleaseSelectCountry": "請選擇國家。",
+    "pleaseChooseState": "請選擇州",
+    "pleaseEnterLocationName": "請輸入地點名稱",
+    "warehouseEmailAddress": "倉庫郵箱地址",
+    "kindlyFillAllRequiredFields": "請填寫所有必填字段",
+    "approver": "審核人",
+    "pleaseEnterTheAir": "請輸入空運審核人",
+    "shipmentConfirmationNumber": "出貨確認號",
+    "kindlyEnterConfirmationNumber": "請輸入確認號碼",
+    "createShipmentExport": "創建裝運出口",
+    "noRoutingDataAvailable": "無可用路由數據",
+    "clickToContinueShipment": "點擊繼續出貨",
+    "failedToGenerate": "無法產生裝箱單檔案。",
+    "pleaseChooseTheCustomer": "請選擇客戶",
+    "addingPO": {
+      "description": "僅允許草稿出貨添加 PO",
+      "title": "警報",
+      "okText": "好的"
+    },
+    "confirmationModal": {
+      "description": "採購訂單必須具有相同的國家和郵遞區號才能合併到同一貨件中。",
+      "okText": "好的"
+    },
+    "error": {
+      "emtyDate": "請輸入日期",
+      "shipdateYear": "預計出貨日期不能超過一年。",
+      "shipmentPastDate": "您無法在過去的日期之前建立貨件。",
+      "shippedQuantity": "出貨數量應小於剩餘數量",
+      "similarConsigneelocationOrders": "我們正在獲取類似的收貨人地點訂單！"
+    },
+    "fields": {
+      "purchasePartNumber": {
+        "label": "購買零件號"
+      },
+      "purchasePartDescription": {
+        "label": "採購零件說明"
+      },
+      "date": {
+        "createdDate": "建立日期",
+        "placeholder": "選擇日期",
+        "messageFromCreateOnDate": "請選擇建立日期",
+        "messageToCreateOnDate": "請選擇建立日期",
+        "messageFromShipnDate": "請選擇出貨日期",
+        "messageToShipDate": "請選擇出貨日期"
+      },
+      "length": {
+        "message": "請輸入長度"
+      },
+      "width": {
+        "message": "請輸入寬度"
+      },
+      "height": {
+        "message": "請輸入身高"
+      },
+      "houseBillofLadingNumber": {
+        "label": "房屋提單號碼"
+      },
+      "packageWeigh": {
+        "label": "包裹重量",
+        "message": "請輸入包裹重量"
+      },
+      "weightUnitOfMeasure": {
+        "label": "重量計量單位"
+      },
+      "packagedId": {
+        "placeholder": "輸入打包 ID",
+        "message": "請輸入包ID"
+      },
+      "quantityShipped": {
+        "placeholder": "輸入出貨數量",
+        "error": "價值必須小於剩餘數量",
+        "errorOr": "價值必須小於或等於剩餘數量！",
+        "message": "請輸入出貨數量"
+      },
+      "locationName": {
+        "label": "地點名稱"
+      },
+      "locationAddress": {
+        "label": "地點地址"
+      },
+      "locationCountry": {
+        "label": "地點國家"
+      },
+      "locationPostalCode": {
+        "label": "位置 郵遞區號"
+      },
+      "locationStateProvince": {
+        "label": "地點 州/省"
+      },
+      "countryOfOrigin": {
+        "placeholder": "選擇原產國",
+        "message": "請選擇原產國"
+      },
+      "class": {
+        "label": "班級"
+      },
+      "containerNumber": {
+        "label": "貨櫃號",
+        "placeholder": "輸入貨櫃號"
+      },
+      "locationCity": {
+        "label": "地點城市"
+      }
+    }
+  },
+  "tms-settings": {
+    "title": "經顱磁刺激系統設置",
+    "companySettings": "公司設定",
+    "shipmentSettings": "出貨設定",
+    "auctionSettings": "拍賣設定",
+    "povSettings": "視角設定",
+    "generalSettings": "常規設定",
+    "defaultShipmentPageValues": "預設貨件頁面值",
+    "shipmentApprovalProcess": "出貨審批流程",
+    "emailDistribution": "電子郵件散佈",
+    "additionalSettings": "其他設定",
+    "autoRouteProcess": "自動佈線流程",
+    "shipmentEntryPageSettings": "貨件錄入頁面設置",
+    "fields": {
+      "purchaseOrderNumber": {
+        "placeholder": "輸入採購訂單編號"
+      },
+      "emailMessage": "請輸入有效的電子郵件格式。",
+      "statusInTMS": {
+        "label": "TMS 中的狀態",
+        "placeholder": "請選擇狀態",
+        "message": "需要 TMS 中的狀態。",
+        "optionActive": "積極的",
+        "optionInActive": "不活躍",
+        "tooltip": "如果客戶在 TMS 中，則處於活動狀態，否則處於非活動狀態。"
+      },
+      "brokerageCustomer": {
+        "label": "公司類型",
+        "message": "公司類型為必填項。",
+        "placeholder": "請選擇公司類型",
+        "optionTMS": "經顱磁刺激系統",
+        "optionBrokerage": "經紀業務",
+        "tooltip": "此設定將決定用戶新增的客戶是常規 TMS 客戶還是經紀客戶"
+      },
+      "shipmentNoCounter": {
+        "label": "貨件編號櫃檯",
+        "message": "請輸入貨件編號 櫃檯",
+        "error": "貨件編號計數器必須為 8 位數字。",
+        "tooltip": "建立新貨件時將從該貨件編號開始計數"
+      },
+      "masterChildShipment": {
+        "label": "主/子托運",
+        "placeholder": "請選擇主/子托運",
+        "tooltip": "為客戶開啟主/子出貨流程"
+      },
+      "pricingType": {
+        "optionCarrierRate": "承載率",
+        "tooltip": "定義需要根據哪種定價類型進行評級。"
+      },
+      "displayPaidBY": {
+        "label": "顯示“付款方式”",
+        "placeholder": "請選擇顯示“付款方式”",
+        "tooltip": "開啟貨件維護頁面上的「付款人」字段"
+      },
+      "shipmentApprovalProcess": {
+        "label": "出貨審批流程",
+        "placeholder": "請選擇出貨審批流程",
+        "tooltip": "為客戶開立啟發貨核准流程"
+      },
+      "validateCategoryDetails": {
+        "label": "驗證類別詳細信息",
+        "placeholder": "請選擇驗證類別詳細信息",
+        "tooltip": "如果使用者必須在貨件維護頁面上填寫類別，則如果未提供此設置，則該設定將生效。"
+      },
+      "calculateChargeableWeight": {
+        "label": "計算計費重量",
+        "placeholder": "請選擇計算計費重量",
+        "tooltip": "在「貨件維護」頁面的「產品詳細資料」手風琴中，當使用者輸入產品詳細資料時，如果打開此設置，則會自動計算計費重量。"
+      },
+      "routingGuideMatch": {
+        "label": "路由引導匹配",
+        "placeholder": "請選擇路由引導匹配",
+        "tooltip": "如果設定為“是”，則將對“路線指南”設定頁面中的承運商進行出貨評級。"
+      },
+      "shipmentCategoryVisible": {
+        "label": "貨件類別可見",
+        "placeholder": "請選擇可見的貨件類別",
+        "tooltip": "開啟「新增貨件」和「編輯貨件」畫面中類別部分的可見性。"
+      },
+      "shipmentBillToVisible": {
+        "label": "出貨單可見",
+        "placeholder": "請選擇「出貨單」可見",
+        "tooltip": "開啟「新增貨件」和「編輯貨件」畫面中「收單方」部分的可見性。"
+      },
+      "shipmentVendorVisible": {
+        "label": "出貨供應商可見",
+        "placeholder": "請選擇可見的出貨供應商",
+        "tooltip": "開啟新增出貨和編輯出貨畫面中供應商部分的可見性。"
+      },
+      "branch": {
+        "tooltip": "如果無法定義分支，這將在發貨時設定預設分支"
+      },
+      "defaultSpotBidEndStatus": {
+        "label": "預設現貨投標結束狀態",
+        "placeholder": "請選擇預設現貨投標結束狀態",
+        "tooltip": "當貨件的現貨出價時間到期時，貨件狀態可以變更回「新」或「SpotBIdEnd」或保持「現貨出價」狀態。"
+      },
+      "displayPOSOShipmentLevel": {
+        "label": "顯示 PO/SO 裝運水平",
+        "placeholder": "請選擇顯示 PO/SO 出貨級別",
+        "tooltip": "如果設定為“是”，則出貨維護頁面上將顯示 2 個欄位“採購訂單”和“銷售訂單”。"
+      },
+      "shipmentTypes": {
+        "label": "出貨類型",
+        "tooltip": "此設定將為從 POV 手動建立的貨件設定預設貨件類型。",
+        "option_i": "入境",
+        "option_c": "公司間",
+        "option_o": "出境",
+        "option_t": "第三者"
+      },
+      "displayRatingDetailsAccordion": {
+        "label": "顯示評級詳細資訊 手風琴",
+        "placeholder": "請選擇顯示評級詳細資料手風琴",
+        "tooltip": "顯示評級詳細資訊 手風琴"
+      },
+      "hazmat": {
+        "label": "危險品",
+        "placeholder": "選擇危險品",
+        "tooltip": "將發貨頁面上的產品詳細資訊中的危險物質預設為是或否"
+      },
+      "ratingPreference": {
+        "label": "評級偏好",
+        "placeholder": "請選擇評級偏好",
+        "tooltip": "貨件維護頁面上的預設評級偏好",
+        "option_a": "所有營運商",
+        "option_l": "最低成本",
+        "option_r": "必需的"
+      },
+      "length": {
+        "tooltip": "在產品詳細資訊手風琴上設定預設長度"
+      },
+      "width": {
+        "tooltip": "設定產品詳細資訊手風琴的預設寬度"
+      },
+      "height": {
+        "tooltip": "設定產品詳細資訊手風琴的預設高度"
+      },
+      "defaultInternalNotes": {
+        "label": "預設內部註釋",
+        "placeholder": "預設內部註釋..."
+      },
+      "shipmentApprovalCount": {
+        "label": "發貨批准計數",
+        "tooltip": "此設定規定審批流程所需的最大審核人數量"
+      },
+      "requireApprovalNumber": {
+        "label": "需要批准文號",
+        "placeholder": "請選擇需要批准號",
+        "tooltip": "如果啟用此設置，則在建立貨件時將產生批准號。"
+      },
+      "adminEmail": {
+        "label": "管理員電子郵件地址",
+        "messageRequired": "請輸入管理員電子郵件地址",
+        "tooltip": "這將設定一個電子郵件地址，所有自動產生的電子郵件都將發送到該地址。"
+      },
+      "supportEmail": {
+        "label": "支援電子郵件地址",
+        "messageRequired": "請輸入支援電子郵件地址",
+        "tooltip": "當 Tender 或 Spot bis 等電子郵件通知發送給承運人時，會有客戶方支援團隊的電子郵件地址，承運人如有任何問題可以聯絡該地址。"
+      },
+      "fromEmail": {
+        "label": "電子郵件「寄件者」電子郵件地址",
+        "messageRequired": "請輸入電子郵件「寄件者」電子郵件地址",
+        "tooltip": "將放置在電子郵件主題的「寄件者」欄位中的電子郵件。"
+      },
+      "attachSupportingDoc": {
+        "label": "將支援文件附加到電子郵件中",
+        "placeholder": "請選擇將支援文件附加到電子郵件",
+        "tooltip": "將支援文件附加到電子郵件中"
+      },
+      "childShipment": {
+        "label": "兒童出貨數量容差%",
+        "message": "請輸入兒童裝運數量公差%",
+        "tooltip": "這將為主/子發貨流程設定數量欄位驗證。 "
+      },
+      "autoRateProcess": {
+        "label": "自動定價過程",
+        "placeholder": "請選擇自動評分流程",
+        "tooltip": "無法自動評級流程"
+      },
+      "autoTenderProcess": {
+        "label": "自動招標流程",
+        "placeholder": "請選擇招標流程",
+        "tooltip": "無法在客戶層級進行自動招標流程"
+      },
+      "maxAutoTenderAmount": {
+        "label": "最大自動投標金額",
+        "placeholder": "請選擇最大自動投標金額",
+        "tooltip": "設定允許的最大自動處理量"
+      },
+      "recalculateFreightClass": {
+        "label": "重新計算貨運艙位",
+        "tooltip": "如果設定為“是”，則自動路線流程將重新計算貨件上的貨運類別，無論貨件上是否已提供貨運類別。"
+      },
+      "autoTenderSpecificCargoType": {
+        "label": "自動招標特定貨物類型",
+        "tooltip": "自動投標特定貨物類型"
+      },
+      "defaultEquipmentType": {
+        "label": "預設設備類型",
+        "tooltip": "此設定允許使用者呈現將在所有運輸的拍賣中向承運人顯示的設備類型。"
+      },
+      "defaultCargoType": {
+        "label": "預設貨物類型",
+        "placeholder": "預設貨物類型",
+        "tooltip": "運輸提供者拍賣模組中的預設貨物類型"
+      },
+      "populateBidExpiryDate": {
+        "label": "填寫出價到期日",
+        "placeholder": "請選擇填寫出價到期日",
+        "tooltip": "如果設定設為“是”，則客戶使用者將無法在“發貨費率”商店結果中選擇承運商提供的已過期的即期出價（根據“即期出價”到期日期）。"
+      },
+      "addDaysBidExpiryDate": {
+        "label": "新增出價到期日天數",
+        "placeholder": "新增出價到期日天數",
+        "tooltip": "新增出價到期日天數"
+      },
+      "auctionType": {
+        "label": "拍賣類型",
+        "placeholder": "請選擇拍賣類型",
+        "tooltip": "無法進行反向拍賣，這意味著營運商需要低於彼此的出價。"
+      },
+      "maximumBidHours": {
+        "maximumBidHours": "最大投標時間",
+        "message": "請輸入最長出價時間",
+        "error": "最大投標時間超出了允許的最大投標時間。",
+        "tooltip": "在出貨模組中，當用戶將出貨寄至現貨競價時，他可以設定現貨競價的時間。"
+      },
+      "turnONPOVModule": {
+        "label": "打開 POV 模組",
+        "placeholder": "請選擇開啟 POV 模組",
+        "message": "請選擇開啟 POV 模組。",
+        "tooltip": "如果“是”，則可以透過 POV 建立貨件，如果“否”，則不能透過 POV 建立貨件。"
+      },
+      "shipmentStartingNumber": {
+        "label": "出貨起始編號",
+        "tooltip": "這將設定出貨編號，起始整數將位於 Alpha 前綴之後。"
+      },
+      "shipmentNumberPrefix": {
+        "label": "貨件號碼前綴",
+        "tooltip": "這將設定貨運號碼前綴。"
+      },
+      "noRoutingGuideCarriersReturned": {
+        "label": "傳回的路由指南營運商數量",
+        "tooltip": "如果“路由方法”=“路由指南”，則從路由指南返回的承運商數量將限制為提供的數量。"
+      },
+      "shipmentTermsAllowed": {
+        "label": "允許的裝運條款",
+        "placeholder": "請選擇允許的運送條款",
+        "option_all": "- 全部 -",
+        "option_c": "收集",
+        "option_p": "預付費",
+        "option_t": "第三者",
+        "tooltip": "此設定規定允許將哪些裝運條款用於裝運"
+      },
+      "povDestinationMethod": {
+        "label": "POV 目標方法",
+        "placeholder": "選擇 POV 目的地方法",
+        "message": "請選擇開啟 POV 模組。",
+        "tooltip": "在出貨輸入頁面上，為供應商使用者預設了目的地地址。"
+      },
+      "routingMethod": {
+        "label": "路由方式",
+        "placeholder": "選擇路由方法",
+        "tooltip": "當供應商使用者透過 POV 建立貨件時，供應商使用者可以透過多種方式取得貨件的承運商。"
+      },
+      "allowDraftShipment": {
+        "label": "允許匯票裝運",
+        "placeholder": "請選擇允許匯票裝運",
+        "tooltip": "如果設定為“是”，則供應商使用者將被允許在 POV 模組中建立草稿貨件。"
+      },
+      "packageUnitMeasure": {
+        "label": "包裝計量單位",
+        "tooltip": "這將在 POV 的貨件輸入頁面上設定預設包裹計量單位"
+      },
+      "weightUnitMeasure": {
+        "label": "重量計量單位",
+        "option_p": "磅",
+        "option_k": "公斤",
+        "placeholder": "請選擇重量計量單位",
+        "tooltip": "這將在 POV 模組的「貨件輸入」頁面上設定預設測量單位"
+      },
+      "freeOnBoardCode": {
+        "label": "免費機上代碼",
+        "tooltip": "這將為透過 POV 創建的貨件設定預設船上免費代碼"
+      },
+      "frightClass": {
+        "label": "驚嚇級",
+        "placeholder": "請選擇驚嚇等級",
+        "tooltip": "這將為透過 POV 建立的貨件分配預設等級。"
+      },
+      "minimumDays": {
+        "label": "最短天數",
+        "placeholder": "請輸入最短天數",
+        "tooltip": "當供應商在 POV 中選擇 PO 時，他們需要提供「新出貨日期」。"
+      },
+      "maximumDays": {
+        "label": "最長天數",
+        "placeholder": "請輸入最長天數",
+        "tooltip": "當供應商在 POV 中選擇 PO 時，他們需要提供「新出貨日期」。"
+      },
+      "minimumDaysError": {
+        "label": "最短天數錯誤訊息",
+        "placeholder": "請輸入最短天數 錯誤訊息",
+        "tooltip": "如果違反“最短天數”規則，則會在 UI 上向使用者顯示“最短天數錯誤訊息”",
+        "message": "預計出貨日期前 3 天不允許出貨"
+      },
+      "maximumDaysError": {
+        "label": "最大天數錯誤訊息",
+        "placeholder": "請輸入最大天數錯誤訊息",
+        "tooltip": "如果違反“最大天數”規則，則將在 UI 上向使用者顯示“最大天數錯誤訊息”",
+        "message": "預計出貨日期不能超過一年。"
+      }
+    },
+    "notificationSuccess": "TMS 設定已成功儲存。",
+    "notificationError": "無法儲存 TMS 設定。"
+  },
+  "login": {
+    "authLeft": {
+      "title": "還沒有帳戶？",
+      "link": "立即註冊！"
+    },
+    "authRight": {
+      "title": "歡迎回來",
+      "desc": "登入以繼續"
+    },
+    "form": {
+      "email": {
+        "placeholder": "電子郵件/使用者名稱",
+        "enter": "請輸入使用者名稱。"
+      },
+      "password": {
+        "placeholder": "密碼",
+        "enter": "請輸入密碼。"
+      },
+      "link": "忘記密碼？",
+      "button": "登入"
+    }
+  },
+  "forgotPassword": {
+    "authLeft": {
+      "title": "還沒有帳戶？",
+      "link": "立即註冊！"
+    },
+    "authRight": {
+      "title": "忘記密碼",
+      "desc": "請輸入您希望將登入資訊傳送到的電子郵件地址"
+    },
+    "form": {
+      "email": {
+        "placeholder": "電子郵件/使用者名稱",
+        "enter": "請輸入使用者名稱。"
+      },
+      "warning": {
+        "okText": "登入",
+        "desc": "新密碼已發送至您的郵箱，請檢查您的郵箱並使用新密碼登入。"
+      },
+      "backToLogin": "回到登入",
+      "button": "提交"
+    }
+  },
+  "signUp": {
+    "authLeft": {
+      "title": "已經有帳戶？",
+      "link": "立即登入！"
+    },
+    "authRight": {
+      "title": "新用戶註冊",
+      "desc": "立即註冊以繼續"
+    },
+    "form": {
+      "email": {
+        "enter": "請輸入使用者名稱。"
+      },
+      "password": {
+        "label": "密碼",
+        "enter": "請輸入密碼。"
+      },
+      "confirmPassword": {
+        "label": "確認密碼",
+        "enter": "請輸入確認密碼。"
+      },
+      "firstName": {
+        "label": "名",
+        "enter": "請輸入名字。"
+      },
+      "middleName": {
+        "label": "中間名字"
+      },
+      "lastName": {
+        "label": "姓",
+        "enter": "請輸入姓氏。",
+        "invalid": "輸入有效的姓氏。"
+      },
+      "addressLineFirst": {
+        "label": "地址1",
+        "enter": "請輸入地址1。"
+      },
+      "addressLineSecond": {
+        "label": "地址2",
+        "enter": "請輸入地址2。"
+      },
+      "jobType": {
+        "label": "工作類型"
+      },
+      "department": {
+        "label": "部門網"
+      },
+      "phoneWork": {
+        "label": "電話（工作）"
+      },
+      "phoneCell": {
+        "label": "電話（手機）"
+      },
+      "reference": {
+        "label": "參考"
+      },
+      "comments": {
+        "label": "評論"
+      },
+      "capcha": "請檢查重述。",
+      "submit": "提交",
+      "warning": {
+        "okText": "登入",
+        "desc": "使用者註冊程序已完成，請使用您的電子郵件和適當的密碼登入。"
+      }
+    }
+  },
+  "verifyUser": {
+    "authLeft": {
+      "title": "還沒有帳戶？",
+      "link": "立即註冊！"
+    },
+    "authRight": {
+      "title": "雙重身份驗證"
+    },
+    "notification": "發送身份驗證令牌失敗！",
+    "pickMethod": "選擇您的身份驗證方法",
+    "securityCode": "透過電子郵件發送安全碼 ",
+    "link": "不是你？",
+    "send": "發送驗證碼"
+  },
+  "verifyToken": {
+    "authLeft": {
+      "title": "還沒有帳戶？",
+      "link": "立即註冊！"
+    },
+    "authRight": {
+      "title": "請查收你的郵件"
+    },
+    "notification": "驗證令牌失敗！",
+    "enter": "輸入發送至的 6 位驗證碼",
+    "verify": "驗證驗證碼",
+    "receive": "沒有收到代碼？"
+  },
+  "user": {
+    "userProfileManagement": "使用者檔案管理",
+    "belowCurrentProfile": " 以下是我們系統中為您提供的當前個人資料。",
+    "imgAlt": "使用者資料",
+    "active": "積極的",
+    "userTabs": {
+      "personal": "個人的",
+      "password": "更改密碼",
+      "themes": "主題"
+    },
+    "buttons": {
+      "updateProfile": "更新個人訊息",
+      "updatePassword": "更新密碼",
+      "preview": "預覽",
+      "saveTheme": "儲存主題",
+      "restoreToDefault": "恢復預設值"
+    },
+    "notification": {
+      "imageInterrupted": "影像選取已中斷，請稍後重試。",
+      "userPreference": "用戶偏好已成功申請臨時。"
+    },
+    "fields": {
+      "firstName": {
+        "label": "名",
+        "message": "請輸入名字。"
+      },
+      "lastName": {
+        "label": "姓",
+        "message": "請輸入姓氏。"
+      },
+      "address1": {
+        "label": "地址1",
+        "message": "請輸入地址行。"
+      },
+      "address2": {
+        "label": "地址2"
+      },
+      "mobileNumber": {
+        "label": "手機號碼",
+        "message": "請輸入手機號碼"
+      },
+      "phoneHome": {
+        "label": "電話之家",
+        "placeholder": "家用電話號碼"
+      },
+      "phoneOffice": {
+        "label": "電話辦公室",
+        "placeholder": "辦公室電話號碼"
+      },
+      "currentPassword": {
+        "label": "目前密碼",
+        "message": "請輸入目前密碼。"
+      },
+      "password": {
+        "label": "密碼",
+        "messageString": "請以字串格式輸入密碼。",
+        "messageTrue": "請輸入密碼。",
+        "messageSymbol": "密碼應至少包含一個數字、小寫字母、大寫字母和符號。",
+        "messageMin": "密碼必須至少包含 12 個字元。",
+        "short": "短的",
+        "weak": "虛弱的",
+        "okay": "好的",
+        "good": "好的",
+        "strong": "強的"
+      },
+      "confirmPassword": {
+        "label": "確認密碼",
+        "message": "請輸入確認密碼。",
+        "error": "確認密碼與密碼不匹配"
+      },
+      "color": {
+        "topMenuColor": "頂部選單顏色",
+        "bottomMenuColor": "底部選單顏色",
+        "topMenuTextColor": "頂部選單文字顏色",
+        "bottomMenuTextColor": "底部選單文字顏色",
+        "message": "請選擇顏色"
+      },
+      "date": {
+        "label": "日期格式",
+        "placeholder": "選擇日期格式",
+        "message": "請選擇日期格式"
+      },
+      "fontFamily": {
+        "label": "字體系列",
+        "placeholder": "選擇字體系列",
+        "message": "請選擇字體系列"
+      },
+      "language": {
+        "label": "選擇語言",
+        "message": "請選擇語言"
+      },
+      "fontSize": {
+        "label": "字體大小"
+      }
+    }
+  },
+  "shipment": {
+    "title": "運輸",
+    "filter": {
+      "shipperFiltered": "可依客戶名稱、位置 ID 或搜尋 ID 過濾寄件人",
+      "consigneeFiltered": "可依客戶名稱、位置 ID 或搜尋 ID 篩選收貨人",
+      "checkingApproval": "檢查出貨審批流程...",
+      "titles": {
+        "shipmentSearch": "快件查詢",
+        "additional": "附加搜尋選項"
+      },
+      "additionalSearchOptions": {
+        "salesOrderNo": {
+          "label": "銷售訂單編號"
+        },
+        "masterHouseBill": {
+          "label": "主/房屋提單號",
+          "placeholder": "主/房屋提單號"
+        },
+        "projectNo": {
+          "label": "項目編號",
+          "placeholder": "項目編號"
+        },
+        "quoteNo": {
+          "label": "報價編號",
+          "placeholder": "報價編號"
+        },
+        "createdBy": {
+          "label": "由...製作",
+          "radioEmail": "電子郵件ID",
+          "placeholderEmail": "選擇電子郵件"
+        }
+      }
+    },
+    "header": {
+      "title": "管理出貨",
+      "addShipment": "建立貨件",
+      "delete": "刪除",
+      "consolidate": "鞏固",
+      "audit": "審核日誌",
+      "updateShipmentStatus": "更新出貨狀態",
+      "confirmationModal": {
+        "title": "貨運集運",
+        "description": "選定的貨件將合併為一個貨件，原貨件狀態將變更為已關閉，確認！",
+        "okText": "確認！"
+      },
+      "commonUpdateModal": {
+        "title": "出貨狀態更新"
+      },
+      "commonExportModal": {
+        "title": "出貨出口"
+      }
+    },
+    "footer": {
+      "totalRecords": "總記錄數",
+      "latePickup": "延遲接載",
+      "lateDelivery": "逾期送達",
+      "trackingFailure": "追蹤失敗",
+      "missingDocuments": "遺失文件",
+      "pickupFailed": "取件失敗"
+    },
+    "dashboard": {
+      "title": "儀表板",
+      "topTransportation": "十大交通提供者",
+      "orderStatistics": "訂單統計",
+      "total": "每月出貨總數",
+      "shipmentByMode": "依運輸方式/貨物類型分類",
+      "shipmentByBound": "綁定運輸"
+    },
+    "card": {
+      "totalMiles": "總里程",
+      "weight": "重量（公斤）",
+      "weightUtilization": "體重利用率",
+      "printedBolFlag": "列印 BOL 旗幟",
+      "masterBol": "波爾大師",
+      "volumeUtilization": "體積利用率",
+      "bidExpiry": "出價到期",
+      "title": "複製出貨",
+      "description": "您正在建立國際轉運貨件的副本嗎？"
+    },
+    "drawer": {
+      "header": {
+        "mastShipment": "主出貨",
+        "childShipment": "兒童托運",
+        "approvalNumber": "核准文號",
+        "inconterm": "不符合術語",
+        "houseBillOfLading": "提貨單",
+        "freightBillProNumber": "運費單/專業編號",
+        "createAsShipment": "創建為貨件",
+        "approve": "核准",
+        "printView": "列印/檢視",
+        "commonModalLabel": "文件",
+        "commonModalApprovalTitle": "出貨批准",
+        "saveAsShipment": "另存為貨件"
+      },
+      "tabs": {
+        "masterChildShipmentDetails": "主/子貨運詳細信息",
+        "transportationDetails": "交通詳情",
+        "vendorDetails": "供應商詳情",
+        "billTo": "記帳到",
+        "categoryDetails": "類別詳情",
+        "auditLog": "審核日誌",
+        "accounting": "附屬品和稅收",
+        "trackingDetails": "追蹤詳情",
+        "iTrack": "iTrack",
+        "rateShopResults": "評價商店結果",
+        "addStop": "新增停靠點",
+        "deleteStop": "刪除停靠站"
+      },
+      "details": {
+        "delivery": "送貨",
+        "distanceKm": "距離（公里）",
+        "distanceMiles": "距離（英里）",
+        "totalWeight": "總重量(磅)",
+        "freightBill": "運費單/專業編號",
+        "masterBillOfLandingNumber": "主提單號碼",
+        "freightAllowances": "運費補貼",
+        "customerAccountNumber": "客戶帳號",
+        "freeOnBoard": "免費董事會",
+        "incotermNamedPlace": "國際貿易術語命名地點",
+        "createdBy": "由...製作",
+        "cube": {
+          "label": "立方體"
+        }
+      },
+      "product": {
+        "houseBillOfLandingNumber": "房屋提單號碼",
+        "unitOfMeasure": {
+          "placeholder": "選擇測量單位",
+          "message": "請選擇計量單位"
+        },
+        "chargeableWeight": {
+          "label": "計費重量",
+          "placeholder": "輸入計費重量",
+          "message": "請輸入計費重量",
+          "error": "計費重量必須是數字。"
+        },
+        "packageBilled": {
+          "placeholder": "輸入包裹/計費數量",
+          "message": "請輸入包裹/計費數量",
+          "error": "包裹/計費數量必須是數字。"
+        },
+        "length": {
+          "placeholder": "輸入長度",
+          "message": "請輸入長度",
+          "error": "長度應至少為 1"
+        },
+        "width": {
+          "placeholder": "輸入寬度",
+          "message": "請輸入寬度",
+          "error": "寬度應至少為 1"
+        },
+        "height": {
+          "placeholder": "輸入高度",
+          "message": "請輸入身高",
+          "error": "高度應至少為 1"
+        },
+        "purchaseOrders": {
+          "label": "訂單",
+          "placeholder": "輸入採購訂單"
+        },
+        "lineItemNumber": {
+          "label": "行項目編號",
+          "placeholder": "輸入行項目編號"
+        },
+        "NMFCNumber": {
+          "label": "NMFC編號",
+          "placeholder": "輸入 NMFC 編號"
+        }
+      },
+      "notes": {
+        "shipmentNotes": {
+          "placeholder": "輸入出貨單"
+        }
+      },
+      "vendorDetails": {
+        "addNewVendor": "新增供應商"
+      },
+      "billTo": {
+        "VATNumber": {
+          "label": "增值稅號",
+          "placeholder": "輸入增值稅號"
+        }
+      },
+      "categoryDetails": {
+        "addNewCategory": "新增類別",
+        "subCategory": {
+          "label": "子類別",
+          "placeholder": "選擇子類別"
+        }
+      },
+      "auditLog": {
+        "database": "資料庫",
+        "tableName": "表名",
+        "tableSchema": "表架構",
+        "hostName": "主機名稱",
+        "applicationName": "應用程式名稱",
+        "columnName": "列名",
+        "oldValue": "舊值",
+        "newValue": "新價值"
+      },
+      "shipmentTransport": {
+        "stopType": {
+          "label": "停止類型",
+          "placeholder": "選擇停止類型",
+          "message": "請選擇停止類型"
+        },
+        "stopNo": {
+          "label": "停靠站號",
+          "placeholder": "選擇停靠站號",
+          "message": "請選擇A站地點"
+        },
+        "requestedDateTime": {
+          "label": "申請日期",
+          "date_message": "請選擇日期",
+          "time_message": "請選擇時間"
+        },
+        "actual": "實際的",
+        "dateTime": "日期",
+        "contactPersonName": {
+          "label": "聯絡人姓名",
+          "placeholder": "輸入名字"
+        },
+        "emailId": {
+          "label": "電子郵件ID",
+          "placeholder": "輸入電子郵件 ID"
+        },
+        "contactNo": {
+          "label": "聯絡方式。",
+          "placeholder": "輸入聯絡電話",
+          "message": "聯絡號碼應為 10 位數字"
+        },
+        "ext": {
+          "label": "分機",
+          "placeholder": "輸入分機號"
+        },
+        "dockConfirmationNumber": "碼頭/確認號碼",
+        "taxIdVat": "稅號/增值稅",
+        "iTrackDetails": "iTrack詳情",
+        "emptyRecords": "請耐心等待運營商的更新。"
+      }
+    },
+    "print": {
+      "plNo": "PL 號",
+      "seeSection2": "參見 NMFC 第 360 條第 2(e) 節"
+    },
+    "hazmat": "危險品(X)",
+    "qty": "數量",
+    "saveAsPartial": "另存為部分",
+    "shipmentExportSFiled": "貨件匯出失敗。",
+    "consigneeAppointmentNumber": "收貨人預約號碼",
+    "shipperAppointmentNumber": "托運人預約號碼",
+    "approverName": "審批人姓名",
+    "approverEmail": "審核者電子郵件",
+    "priority": {
+      "label": "優先事項",
+      "placeholder": "選擇優先級",
+      "message": "請選擇優先級",
+      "error": "優先順序應該是唯一的。"
+    },
+    "of": "的",
+    "pallet": "托盤(小)",
+    "proNo": "專業編號",
+    "bolNo": "波爾號",
+    "FOB": "離岸價",
+    "SID": "安全識別碼",
+    "location": "地點",
+    "thirdParty": "第三方運費帳單寄至：",
+    "billOfLadingNumber": "提單號碼",
+    "proNumber": "親號：",
+    "serviceDescription": "服務說明：",
+    "freightChargeTerms": "運費條款：",
+    "freightChargesArePrepaid": "（除非另有註明，運費均為預付）",
+    "docNumberConfirmationNumber": "文件編號/確認編號：",
+    "masterBillOfLading": "主提單：附有基礎提單",
+    "countryCityStateZip": "國家/城市/州/郵遞區號：",
+    "freightCharges": "（除非另有註明，運費均為預付）",
+    "masterBill": "主提單：附有基礎提單",
+    "customerCheck": "客戶檢查可接受",
+    "feeTerms": "費用條款：",
+    "whereTheRate": "如果費率取決於價值，托運人必須以書面形式具體說明財產的約定或聲明價值，如下：",
+    "theAgreed": "托運人明確規定財產的約定或申報價值不超過",
+    "poNo": "採購訂單編號",
+    "soNo": "所以沒有",
+    "codAmount": "貨到付款金額：",
+    "pleaseSelect": "請選擇",
+    "approvers": "核准人",
+    "searchEmail": "搜尋電子郵件",
+    "searchByEmail": "透過電子郵件搜尋",
+    "shipmentRequire": "此貨件不需要批准",
+    "approversList": "核准者名單",
+    "sendApprovalRequest": "發送批准請求",
+    "savingAdditionalDetailsIs": "保存額外的詳細資訊是",
+    "maxCharacter": "允許的最大字元 25",
+    "checkingPO": "檢查 PO 和 SO 可見性",
+    "visitBack": "請修改此貨件後再回來訪問。",
+    "savingBillingDetailsIs": "儲存帳單詳細資料是",
+    "addingNewCategoryIs": "新增類別是",
+    "modifyingCategoryIs": "修改類別為",
+    "deletingCategoryIs": "刪除類別是",
+    "createSomeData": "創建一些數據。",
+    "masterChildShipment": "主/子托運",
+    "childShipment": "兒童托運",
+    "convertingAs": "轉換為",
+    "regularShipment": "定期出貨",
+    "progressHas": "進展有",
+    "masterChildShipmentDetails": "主/子貨運詳細信息",
+    "masterQuantityLeft": "剩餘主數量",
+    "masterWeightLeft": "左主重量",
+    "childShipmentDetails": "兒童托運詳細信息",
+    "addChildShipment": "新增子貨件",
+    "noMasterChildshipments!": "沒有主/子出貨！",
+    "failedToUpdate": "更新失敗",
+    "enter": "進入",
+    "copyingLastProductIs": "複製最後一個產品是",
+    "addingNewProductIs": "新增產品是",
+    "modifyingProductIs": "修改產品是",
+    "deletingProductIs": "刪除產品是",
+    "freightClassSuccessfully": "貨運艙位計算成功。",
+    "addNewProductDetails": "新增產品詳細信息",
+    "copyLastProductDetailsEntry": "複製最後的產品詳細資料條目",
+    "freightClassCalculator": "貨運艙位計算器",
+    "totalChargableWeight": "收費總重量",
+    "weightUnitOfMeasure": "重量計量單位",
+    "pleaseSelectUnitOfMeasure": "租賃選擇計量單位",
+    "cooPdf": {
+      "certificationOfOrigin": "原產地證明",
+      "certificateType": "認證者類型（指示“X”）",
+      "importer": "進口商",
+      "exporter": "出口商",
+      "producer": "製片人",
+      "blanketPeriod": "總體期限（月/日/年）",
+      "sectionDetails": "姓名、地址、電話和電子郵件",
+      "certifierSectionDetails": "認證者 $t(shipment.cooPdf.sectionDetails)",
+      "producerSectionDetails": "製片人 $t(shipment.cooPdf.sectionDetails)",
+      "exporterSectionDetails": "$t(shipment.cooPdf.exporter) $t(shipment.cooPdf.sectionDetails)",
+      "importerSectionDetails": "$t(shipment.cooPdf.importer) $t(shipment.cooPdf.sectionDetails)",
+      "taxIdentificationNumber": "稅務識別號",
+      "descriptionOfGoods": "商品說明",
+      "originCriterion": "原產地標準",
+      "producerYesNo": "$t(shipment.cooPdf.producer) （是/否）",
+      "methodOfQualification": "資格認定方法",
+      "cointryOfOrigin": "原產國",
+      "certificateAssuranceDescription": "我保證本文件中描述的商品符合原產地條件，並且本文件中包含的資訊真實準確。",
+      "certificateAttachmentDescription": "本證書由包含所有附件的頁面組成。",
+      "dateWithFormat": "日期（月/日/年）",
+      "documentCompliantDescription": "本文件符合 USMCA 標準"
+    }
+  },
+  "claims": {
+    "spotBidSearch": "現貨競價搜尋",
+    "spotBidSearchOriginDestination": "依出發地點和目的地進行 SpotBid 搜索",
+    "chooseColumns": "選擇用於匯出的列。",
+    "selectMinOneField": "請至少選擇一個要匯出的欄位。",
+    "emailToTransportationProvider": "發送電子郵件至運輸提供者",
+    "printOverchargeClaim": "列印超額收費索賠",
+    "indemnificationClause": " 賠償條款：索賠人同意保護因不交出原始運費單而達成和解而提出索賠的運輸提供者，並且我們明確保證賠償。",
+    "dateSubmitted": "提交日期",
+    "contractAuthority": "合約授權",
+    "claimTariff": "索賠關稅",
+    "reasonForOvercharge": "超額收費原因",
+    "correctAmount": "正確的金額",
+    "totalPaid": "總支付",
+    "correctCharges": "正確收費",
+    "paidAmount": "已付金額",
+    "billedAmount": "計費金額",
+    "chargeableWeight": "計費重量",
+    "detailedOverchrgeClaimStatement": "詳細的超額收費索賠聲明",
+    "freightBill": "運費單",
+    "attachedDocumentation": "隨附文件",
+    "yourClaimNumber": "您的索賠號碼",
+    "ourClaimNumber": "我們的索賠號碼",
+    "refer": "請參閱上述所有信件的索賠編號",
+    "forwardCorrespondence": "將信件轉寄至上述地址並以支票抬頭： ",
+    "presentation": "多收費索賠的介紹",
+    "printResults": "列印結果",
+    "totalClaims": "索賠總額",
+    "openClaims": "公開索賠",
+    "closedClaims": "已結案的索賠",
+    "onHoldClaims": "擱置索賠",
+    "totalAmountFiled": "提交的總金額",
+    "totalAmountPaid": "支付總額",
+    "byAge": "按年齡：",
+    "daysOld": "歲月如梭",
+    "pleaseEnterDaysOld": "請輸入舊日",
+    "claimsNumber": "索賠號碼",
+    "pleaseEnterClaimsNumber": "請輸入索賠編號",
+    "freightBillProNumber": "運費單/專業編號",
+    "pleaseEnterFreightBillProNumber": "請輸入運費單/專業編號",
+    "pleaseEnterInvoiceNumber": "請輸入發票號碼",
+    "pleaseEnterPackageNumber": "請輸入包裹號碼",
+    "Details": "細節",
+    "overchargeClaimItems": "多收費索賠項目",
+    "overchargeClaimNotes": "超額收費索賠說明",
+    "overchargeUploadViewFiles": "上傳/查看文件過多",
+    "overchargeClaimSettlements": "多收費索賠和解",
+    "addNewNote": "新增註釋",
+    "selectCommentType": "選擇評論類型",
+    "commentType": "評論類型",
+    "comments": "評論",
+    "enterComments": "輸入評論",
+    "createdBy": "由...製作",
+    "yourClaim": "您的索賠",
+    "enterYourClaim": "輸入您的索賠",
+    "noData": "沒有數據",
+    "houseBillOfLadingNumber": "房屋提單號碼",
+    "others": "其他的",
+    "othersPleaseMention": "其他請提及",
+    "recoverySum": "回收金額",
+    "dateClosed": "關閉日期",
+    "dateRefundedToCustomer": "退款給客戶的日期",
+    "checkNumberFromTransportationProvider": "運送提供者提供的支票號碼",
+    "pleaseSelectCurrency": "請選擇A幣種",
+    "ourClaim": "我們的主張",
+    "claimant": "索賠",
+    "overchargeSum": "超額儲值金額",
+    "preClaims": "預索賠",
+    "reports": "報告",
+    "overCharge": "過度充電",
+    "lossAndDamage": "損失和損壞",
+    "claimsSettings": "理賠設定",
+    "overchargeClaims": "多收費索賠",
+    "mailTo": "郵寄至",
+    "checkNumberToCustomer": "檢查號碼給客戶"
+  },
+  "routingGuide": {
+    "generalSearch": "一般搜尋",
+    "searchByOrigin": "按來源搜尋",
+    "searchByDestination": "按目的地搜尋",
+    "routingKey": "路由鍵",
+    "routingGuideID": "路由指南 ID",
+    "routingName": "路由名稱",
+    "createdBy": "由...製作",
+    "hazmat": {
+      "label": "危險品",
+      "placeholder": "選擇危險品"
+    },
+    "pieces": {
+      "label": "件"
+    },
+    "piecesUOM": {
+      "label": "件",
+      "placeholder": "選擇件數計量單位"
+    }
+  },
+  "auction": {
+    "title": "拍賣",
+    "card": "卡片",
+    "noOfStops": "經停次數",
+    "locationId": "地點編號：",
+    "stopType": "停止類型：",
+    "stopNo": "停靠站號：",
+    "companyDetails": "公司詳情",
+    "appointmentNumber": "預約號碼",
+    "contactPersonName": "聯絡人姓名",
+    "pickup": "取件請求日期",
+    "pickupAppointmentDateTime": "預約取件日期",
+    "contactNo": "聯絡方式",
+    "actualPickupDateTime": "實際提貨日期",
+    "dockConfirmationNumber": "碼頭/確認號碼",
+    "taxIdVAT": "稅號/增值稅",
+    "approvalNumber": "核准文號",
+    "spotBIDTypes": "現貨投標類型",
+    "selectSpotBIDTypes": "選擇出價類型",
+    "consigneeStateProvience": "收貨人所在州/省",
+    "BIDExpiryDateTime": "出價到期日",
+    "BIDExpiry": "出價到期",
+    "totalBIDS": "總出價",
+    "openBIDS": "公開投標",
+    "expiredBIDS": "過期的出價",
+    "expiringSoonBIDS": "即將到期的出價",
+    "grossWeight": "總重量",
+    "weightUnitOfMeasure": "重量計量單位",
+    "viewAllStops": "查看所有站點",
+    "viewProductDetails": "查看產品詳情",
+    "viewUploadFiles": "查看/上傳文件",
+    "shipmentDetails": "物流資訊",
+    "shipperDetails": "托運人詳細信息",
+    "consigneeDetails": "收貨人詳情",
+    "frightClass": "驚嚇級",
+    "package": "包裹",
+    "delieryDateAndTime": "交貨日期和時間",
+    "customerBIDExpiryDateTime": "客戶 BID 到期日期",
+    "BIDDetails": "出價詳情",
+    "equipmentTypeDetails": "設備類型詳細信息",
+    "enterEquipmentType": "輸入設備類型",
+    "expiryDate": "到期日",
+    "expiryDateIsRequired": "有效期限為必填項",
+    "expiryTime": "到期時間",
+    "expiryTimeIsRequired": "需要過期時間",
+    "spotQuoteNumber": "現貨報價編號",
+    "enterQuoteNumber": "輸入報價單編號",
+    "BIDSubmittedBy": "投標人提交者",
+    "BIDPriceAndCurrency": "投標價格和貨幣",
+    "BIDPrice": "競價",
+    "enterPrice": "輸入價格",
+    "priceIsRequired": "價格為必填項",
+    "pleaseEnterTheNumber": "請輸入號碼",
+    "pleaseEnterLowerTheNumber": "請輸入低於當前出價的出價",
+    "BIDCurrency": "出價貨幣",
+    "BIDComment": "出價評論",
+    "enterComment": "輸入評論",
+    "submitBID": "提交投標書"
+  }
+}
